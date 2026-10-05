@@ -3,6 +3,1637 @@
   "entries": [
     {
       "date": "2026-10-05",
+      "id": "african-union-commission-internship-programme-2026",
+      "title": "African Union Commission Internship Programme (2026 posting)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unon-oif-young-african-interpreters-fellowship-2026",
+      "title": "UNON/OIF Fellowship Programme for Young African Interpreters (2026 cohort)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "d-prize-challenge-2026-2027",
+      "title": "D-Prize Challenge 2026/2027",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unearthodox-exploration-co-lab-2027",
+      "title": "Unearthodox Exploration Co-Lab 2027: Edges of Possibility",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "earth-prize-2027",
+      "title": "The Earth Prize 2027",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "i-am-nala-fellowship-2027",
+      "title": "I AM NALA Fellowship 2027",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "tutu-leading-for-humanity-2027",
+      "title": "Desmond & Leah Tutu Legacy Foundation: Leading for Humanity 2027",
+      "field": "deadline_text",
+      "old": "14 October 2026 (secondary source).",
+      "new": "14 October 2026 (read on the Foundation's call for nominations, 5 October 2026)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "tutu-leading-for-humanity-2027",
+      "title": "Desmond & Leah Tutu Legacy Foundation: Leading for Humanity 2027",
+      "field": "program_dates",
+      "old": "April 2027 (8-day residential)",
+      "new": "April 2027 (residential programme in Cape Town and Hermanus; full attendance is mandatory)"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "tutu-leading-for-humanity-2027",
+      "title": "Desmond & Leah Tutu Legacy Foundation: Leading for Humanity 2027",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Partially Funded"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "tutu-leading-for-humanity-2027",
+      "title": "Desmond & Leah Tutu Legacy Foundation: Leading for Humanity 2027",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not covered",
+        "accommodation": "Covered",
+        "meals": "Covered",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Not covered",
+        "accommodation": "Covered",
+        "meals": "Covered",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "id": "tutu-leading-for-humanity-2027",
+      "title": "Desmond & Leah Tutu Legacy Foundation: Leading for Humanity 2027",
+      "field": "nationality_requirements",
+      "old": [
+        "South African or international applicants welcome"
+      ],
+      "new": [
+        "South African or international applicants; nominees must be able to travel to Cape Town and Hermanus"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "tutu-leading-for-humanity-2027",
+      "title": "Desmond & Leah Tutu Legacy Foundation: Leading for Humanity 2027",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-logistics-administrative-support-intern",
+      "title": "UNFPA internship: Logistics Administrative Support (Kinshasa)",
+      "field": "deadline_utc",
+      "old": "",
+      "new": "2026-10-07T22:59:00Z"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-logistics-administrative-support-intern",
+      "title": "UNFPA internship: Logistics Administrative Support (Kinshasa)",
+      "field": "deadline_text",
+      "old": "Closes in 2 days: closes 7 Oct 2026 (listing read on 5 October 2026).",
+      "new": "Posted 23 September 2026; closes 7 October 2026 at 22:59 UTC (23:59 Kinshasa time), as read on UNFPA's own posting data on 5 October 2026."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-logistics-administrative-support-intern",
+      "title": "UNFPA internship: Logistics Administrative Support (Kinshasa)",
+      "field": "eligibility",
+      "old": [
+        "Enrolled in a first-cycle university programme (licence or equivalent) and has completed at least one academic year",
+        "Or enrolled in a graduate programme (master's or higher)",
+        "Or recently graduated, and starting the internship within one year of graduating",
+        "Or enrolled in a postgraduate professional training programme",
+        "Microsoft Office (Excel, Word, Outlook), data organisation and verification, written communication"
+      ],
+      "new": [
+        "Enrolled in a first university degree (licence or equivalent) with at least one year completed, or enrolled in a master's programme, or starting within one year of graduating",
+        "Fluent French; English is an asset",
+        "No nationality condition stated on the posting"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-logistics-administrative-support-intern",
+      "title": "UNFPA internship: Logistics Administrative Support (Kinshasa)",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37091"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-logistics-administrative-support-intern",
+      "title": "UNFPA internship: Logistics Administrative Support (Kinshasa)",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "field": "deadline_utc",
+      "old": "",
+      "new": "2026-10-07T22:59:00Z"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "field": "deadline_text",
+      "old": "Closes in 2 days: closes 7 Oct 2026 (listing read on 5 October 2026).",
+      "new": "Posted 23 September 2026; closes 7 October 2026 at 22:59 UTC (23:59 Kinshasa time), as read on UNFPA's own posting data on 5 October 2026."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Unpaid"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Not specified",
+        "stipend": "Partially covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "field": "eligibility",
+      "old": [
+        "The eligibility rules were read on the sister posting from the same agency and deadline: enrolled in a bachelor's or graduate programme, or graduated within the last year. They have not been confirmed on this posting."
+      ],
+      "new": [
+        "Enrolled in a first university degree (licence or equivalent) with at least one year completed, or enrolled in a master's programme, or starting within one year of graduating",
+        "Fluent French; English is an asset",
+        "No nationality condition stated on the posting"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "field": "official_application_url",
+      "old": "",
+      "new": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37095"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37095"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "application_deadline",
+      "old": "2026-10-30",
+      "new": ""
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "deadline_text",
+      "old": "30 Oct 2026 (secondary source).",
+      "new": "No deadline on the organiser's page or its pre-registration form (read 5 October 2026). Afri-Carrières reports 30 October 2026."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "program_dates",
+      "old": "5 to 7 November 2026",
+      "new": "5 to 7 November 2026, Hotel Sarakawa, Lomé (arrivals 4 November)"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Free"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "participation_fee",
+      "old": "Unknown / Not specified",
+      "new": "Free participation, subject to registration being confirmed"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "application_fee",
+      "old": "Unknown",
+      "new": "No fee stated"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "eligibility",
+      "old": [],
+      "new": [
+        "Aimed at entrepreneurship support organisations (fablabs, startup studios, incubators, accelerators), investors and funders, support experts, institutions and other actors of the African entrepreneurship ecosystem",
+        "No age or nationality condition stated"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "official_application_url",
+      "old": "",
+      "new": "https://tally.so/r/9qjAGG"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://africinnov.org/summit-2026"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "afric-innov-summit-2026",
+      "title": "Afric'innov Summit 2026 (Lomé)",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "anzisha-fellowship-2027",
+      "title": "Anzisha Fellowship 2027",
+      "field": "deadline_text",
+      "old": "10 November 2026 (secondary source).",
+      "new": "Applications open 29 September 2026 and close 10 November 2026 (read on anzisha.org, 5 October 2026); fellows announced May 2027."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "anzisha-fellowship-2027",
+      "title": "Anzisha Fellowship 2027",
+      "field": "opens_on",
+      "old": "",
+      "new": "2026-09-29"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "anzisha-fellowship-2027",
+      "title": "Anzisha Fellowship 2027",
+      "field": "application_fee",
+      "old": "Unknown",
+      "new": "No fee stated"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "anzisha-fellowship-2027",
+      "title": "Anzisha Fellowship 2027",
+      "field": "eligibility",
+      "old": [
+        "Aged 15 to 22",
+        "African citizen",
+        "Has already launched a business or project and is its founder",
+        "At least 20 hours a week on the venture",
+        "Valid national ID or passport"
+      ],
+      "new": [
+        "Aged 15 to 22",
+        "Citizen of an African country",
+        "Runs a business in Africa that can show customers, revenue or beneficiaries",
+        "The application is free of charge"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "anzisha-fellowship-2027",
+      "title": "Anzisha Fellowship 2027",
+      "field": "nationality_requirements",
+      "old": [
+        "Citizen of an African country"
+      ],
+      "new": [
+        "Citizens of an African country; the business must operate in Africa"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "anzisha-fellowship-2027",
+      "title": "Anzisha Fellowship 2027",
+      "field": "official_application_url",
+      "old": "https://anzisha.org/apply/",
+      "new": "https://join.anzisha.org/apply"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "anzisha-fellowship-2027",
+      "title": "Anzisha Fellowship 2027",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://anzisha.org/apply/"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "anzisha-fellowship-2027",
+      "title": "Anzisha Fellowship 2027",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "deadline_text",
+      "old": "15 November 2026 (secondary source).",
+      "new": "\"Applications close on November 15, 2026\" (Melton Foundation page, read 5 October 2026; no time zone given)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "program_dates",
+      "old": "Unknown / Not specified",
+      "new": "Online 1 April to 30 November 2027; in-person Co-Lab 3 to 10 July 2027 in Germany"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Partially Funded"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "participation_fee",
+      "old": "Programme fees apply; scholarships cover 20%, 50% or 80%",
+      "new": "USD 900 programme fee if selected; scholarships cover 20%, 50% or 80%"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "eligibility",
+      "old": [],
+      "new": [
+        "Aged 20 to 35",
+        "Actively involved in an ongoing project, with influence over its decisions",
+        "English"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "age_min",
+      "old": null,
+      "new": 20
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "age_max",
+      "old": null,
+      "new": 35
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "nationality_requirements",
+      "old": [],
+      "new": [
+        "No nationality condition stated"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "official_application_url",
+      "old": "",
+      "new": "https://meltonfoundation.typeform.com/GSA2027-appform"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://meltonfoundation.org/global-solvers-accelerator/"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "global-solvers-accelerator-2027",
+      "title": "Global Solvers Accelerator 2027",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "deadline_text",
+      "old": "15 November 2026 (secondary source).",
+      "new": "\"Applications close | 15 November 2026\" (ITU page, read 5 October 2026); champions announced 8 March 2027."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "opens_on",
+      "old": "",
+      "new": "2026-09-21"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "program_dates",
+      "old": "Unknown / Not specified",
+      "new": "AI for Good Summit, Geneva, 21 to 25 June 2027"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Travel Funded"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Covered",
+        "accommodation": "Covered",
+        "meals": "Partially covered",
+        "visa": "Not covered",
+        "insurance": "Not covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "application_fee",
+      "old": "Unknown",
+      "new": "No fee stated"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "eligibility",
+      "old": [
+        "Young women (from the title of the aggregator page)"
+      ],
+      "new": [
+        "Young women aged 18 to 25",
+        "Up to four champions are selected",
+        "Applications in English"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "age_min",
+      "old": null,
+      "new": 18
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "age_max",
+      "old": null,
+      "new": 25
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "nationality_requirements",
+      "old": [],
+      "new": [
+        "No nationality condition stated on the ITU page or terms"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "official_application_url",
+      "old": "",
+      "new": "https://forms.cloud.microsoft/e/N6J1QihUx6?origin=lprLink"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://www.itu.int/initiatives/gender-equality/gender-champions/"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "itu-gender-champions-programme-2027",
+      "title": "ITU Gender Champions Programme 2027",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "youth-global-forum-2027-paris",
+      "title": "Youth Global Forum 2027 (Paris)",
+      "field": "deadline_text",
+      "old": "18 November 2026 (secondary source).",
+      "new": "\"Deadline for funded applications | 18 NOVember 2026\" (organiser's page, read 5 October 2026)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "youth-global-forum-2027-paris",
+      "title": "Youth Global Forum 2027 (Paris)",
+      "field": "program_dates",
+      "old": "20 to 23 January 2027",
+      "new": "20 to 23 January 2027, Paris"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "youth-global-forum-2027-paris",
+      "title": "Youth Global Forum 2027 (Paris)",
+      "field": "participation_fee",
+      "old": "USD 16.99 application fee for the funded categories; USD 499 or USD 799 for the paid categories",
+      "new": "USD 540 (Forum Admission) or USD 699 (Self Funded) for guaranteed seats"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "youth-global-forum-2027-paris",
+      "title": "Youth Global Forum 2027 (Paris)",
+      "field": "nationality_requirements",
+      "old": [
+        "No nationality restriction stated"
+      ],
+      "new": [
+        "Open to young leaders from all countries"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "youth-global-forum-2027-paris",
+      "title": "Youth Global Forum 2027 (Paris)",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "youth-global-forum-2027-paris",
+      "title": "Youth Global Forum 2027 (Paris)",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://thecgdl.org/ygf2027/"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "youth-global-forum-2027-paris",
+      "title": "Youth Global Forum 2027 (Paris)",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "application_deadline",
+      "old": "",
+      "new": "2026-10-20"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "deadline_text",
+      "old": "Two secondary sources disagree: 20 October 2026 (Afri-Carrières) and 20 January 2027 (Opportunities for Africans).",
+      "new": "Two pools: Early Action closes 11:59 PM ET on 20 October 2026 (decisions by 18 December 2026); Regular Decision closes 20 January 2027 (decisions by 20 March 2027). Read on the YYAS site, 5 October 2026."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "program_dates",
+      "old": "Unknown / Not specified",
+      "new": "2027: an online college prep workshop or a residential leadership summit in Rwanda (the site gives 15 July and 7 to 15 August 2027 in different places)"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Partially Funded"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "application_fee",
+      "old": "Unknown",
+      "new": "No fee stated"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "eligibility",
+      "old": [
+        "African secondary school students"
+      ],
+      "new": [
+        "Aged 14 to 18 on 15 July 2027",
+        "In 10th or 11th grade or equivalent",
+        "Citizen or permanent resident of an African country, or a refugee in Africa, attending school in Africa"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "age_min",
+      "old": null,
+      "new": 14
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "age_max",
+      "old": null,
+      "new": 18
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "nationality_requirements",
+      "old": [],
+      "new": [
+        "Citizen or permanent resident of an African country, or a refugee living in Africa; must attend school in Africa"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://africanscholars.yale.edu/"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "deadline_text",
+      "old": "December 31st, 2026 (secondary source).",
+      "new": "Posted 21 September 2026; closes 31 December 2026, 11:59 PM (FAO careers, job 2601980, read 5 October 2026)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "opens_on",
+      "old": "",
+      "new": "2026-09-21"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Partially Funded"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Not specified",
+        "stipend": "Partially covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "application_fee",
+      "old": "Unknown",
+      "new": "No fee stated"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "eligibility",
+      "old": [
+        "Aged between 21 and 30",
+        "Enrolled in an undergraduate or graduate programme at a bona fide institution, or a recent graduate",
+        "National of an FAO member country",
+        "Field of study relevant to FAO's mission"
+      ],
+      "new": [
+        "Aged 21 to 30",
+        "Enrolled in an undergraduate or graduate programme, or a recent graduate, in a field relevant to FAO",
+        "Working knowledge of one FAO language",
+        "National of an FAO Member",
+        "No previous FAO internship and no family members working at FAO",
+        "Appropriate residence or immigration status in the country of assignment"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "nationality_requirements",
+      "old": [
+        "Nationals of FAO member countries"
+      ],
+      "new": [
+        "Nationals of FAO Members (the page links to the list of members)"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "official_application_url",
+      "old": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601980",
+      "new": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "deadline_text",
+      "old": "Posted 21 September 2026; closes 31 December 2026, 11:59 PM (FAO careers, job 2601980, read 5 October 2026).",
+      "new": "Posted 21 September 2026; closes 31 December 2026, 11:59 PM (FAO careers, job 2601986, read 5 October 2026)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "funding_type",
+      "old": "Partially Funded",
+      "new": "Unpaid"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "eligibility",
+      "old": [
+        "Aged 21 to 30",
+        "Enrolled in an undergraduate or graduate programme, or a recent graduate, in a field relevant to FAO",
+        "Working knowledge of one FAO language",
+        "National of an FAO Member",
+        "No previous FAO internship and no family members working at FAO",
+        "Appropriate residence or immigration status in the country of assignment"
+      ],
+      "new": [
+        "Aged 18 or older",
+        "Completed secondary school",
+        "Relevant working or research experience in one of FAO's fields",
+        "One FAO language",
+        "National of an FAO Member",
+        "Appropriate residence or immigration status in the country of assignment"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "nationality_requirements",
+      "old": [
+        "Nationals of FAO Members (the page links to the list of members)"
+      ],
+      "new": [
+        "Nationals of FAO Members"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "official_application_url",
+      "old": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en",
+      "new": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601986&lang=en"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Regional Office for Africa internship 2027",
+      "field": "official_information_url",
+      "old": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en",
+      "new": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601986&lang=en"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "who-internship-programme",
+      "title": "WHO internship programme (headquarters and country offices)",
+      "field": "deadline_text",
+      "old": "No single deadline: each internship vacancy has its own application deadline.",
+      "new": "\"Positions posted continuously with varying requirements and deadlines\" (WHO page, read 5 October 2026)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "who-internship-programme",
+      "title": "WHO internship programme (headquarters and country offices)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Not specified",
+        "stipend": "Partially covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "id": "who-internship-programme",
+      "title": "WHO internship programme (headquarters and country offices)",
+      "field": "eligibility",
+      "old": [
+        "At least 20 years old",
+        "Enrolled in an undergraduate, graduate or postgraduate programme, or completed it within 18 months",
+        "At least three years of full-time university-level study before the internship starts",
+        "Not closely related to a WHO staff member; not a previous WHO intern"
+      ],
+      "new": [
+        "At least 20 years old",
+        "Enrolled in or recently finished (18 months) university studies, with three full-time years completed",
+        "Passport of a WHO Member State",
+        "Fluent in a working language of the office",
+        "No previous WHO internship and not related to WHO staff"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "who-internship-programme",
+      "title": "WHO internship programme (headquarters and country offices)",
+      "field": "nationality_requirements",
+      "old": [
+        "A valid passport from a WHO Member State"
+      ],
+      "new": [
+        "Valid passport of a WHO Member State"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "who-internship-programme",
+      "title": "WHO internship programme (headquarters and country offices)",
+      "field": "official_application_url",
+      "old": "",
+      "new": "https://careers.who.int/careersection/intern/jobsearch.ftl?lang=en"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "who-internship-programme",
+      "title": "WHO internship programme (headquarters and country offices)",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://www.who.int/careers/internship-programme"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "who-internship-programme",
+      "title": "WHO internship programme (headquarters and country offices)",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "google-engineering-technical-internships-2027",
+      "title": "Google engineering and technical internships 2027",
+      "field": "deadline_text",
+      "old": "Varies by location and position, with rolling applications depending on the office.",
+      "new": "Software engineering internships have \"rolling application dates (depending on location)\"; mechanical and hardware engineering applications open in January (Google page, read 5 October 2026)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "google-engineering-technical-internships-2027",
+      "title": "Google engineering and technical internships 2027",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "hp-life-free-online-courses",
+      "title": "HP LIFE: free online courses with certificates",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Free"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "hp-life-free-online-courses",
+      "title": "HP LIFE: free online courses with certificates",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "id": "hp-life-free-online-courses",
+      "title": "HP LIFE: free online courses with certificates",
+      "field": "participation_fee",
+      "old": "Unknown / Not specified",
+      "new": "Free"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "hp-life-free-online-courses",
+      "title": "HP LIFE: free online courses with certificates",
+      "field": "application_fee",
+      "old": "Unknown",
+      "new": "No fee stated"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "hp-life-free-online-courses",
+      "title": "HP LIFE: free online courses with certificates",
+      "field": "nationality_requirements",
+      "old": [],
+      "new": [
+        "Open worldwide"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "hp-life-free-online-courses",
+      "title": "HP LIFE: free online courses with certificates",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "hp-life-free-online-courses",
+      "title": "HP LIFE: free online courses with certificates",
+      "field": "official_application_url",
+      "old": "",
+      "new": "https://auth.life-global.org/en/signup"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "hp-life-free-online-courses",
+      "title": "HP LIFE: free online courses with certificates",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://www.life-global.org/"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "hp-life-free-online-courses",
+      "title": "HP LIFE: free online courses with certificates",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "un-women-training-centre-free-courses",
+      "title": "UN Women Training Centre: online courses (most free)",
+      "field": "participation_fee",
+      "old": "Unknown / Not specified",
+      "new": "Most courses free; three courses cost USD 60"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "un-women-training-centre-free-courses",
+      "title": "UN Women Training Centre: online courses (most free)",
+      "field": "application_fee",
+      "old": "Unknown",
+      "new": "No fee stated"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "un-women-training-centre-free-courses",
+      "title": "UN Women Training Centre: online courses (most free)",
+      "field": "nationality_requirements",
+      "old": [],
+      "new": [
+        "\"open to everybody interested\""
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "un-women-training-centre-free-courses",
+      "title": "UN Women Training Centre: online courses (most free)",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "un-women-training-centre-free-courses",
+      "title": "UN Women Training Centre: online courses (most free)",
+      "field": "official_application_url",
+      "old": "",
+      "new": "https://trainingcentre.unwomen.org/local/unwcoursecatalogue/index.php"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "un-women-training-centre-free-courses",
+      "title": "UN Women Training Centre: online courses (most free)",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://trainingcentre.unwomen.org/local/unwcoursecatalogue/index.php"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "un-women-training-centre-free-courses",
+      "title": "UN Women Training Centre: online courses (most free)",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mastercard-foundation-associates-programme",
+      "title": "Mastercard Foundation Associates programme",
+      "field": "deadline_text",
+      "old": "Dates not found on the sources read.",
+      "new": "\"Roles will be posted on an ongoing basis\" (Mastercard Foundation page, read 5 October 2026). Aggregators report a Jobberman window to 21 October 2026, but the official page lists Jobberman as closed."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mastercard-foundation-associates-programme",
+      "title": "Mastercard Foundation Associates programme",
+      "field": "eligibility",
+      "old": [],
+      "new": [
+        "Mastercard Foundation alumni and young people across Africa",
+        "Apply only for roles in your country of residence or for remote roles"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mastercard-foundation-associates-programme",
+      "title": "Mastercard Foundation Associates programme",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mastercard-foundation-associates-programme",
+      "title": "Mastercard Foundation Associates programme",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "deadline_text",
+      "old": "Applications ran from 1 July to 15 August 2026.",
+      "new": "2026 call closed on 25 July 2026 at 23:59 (Université Senghor application page, read 5 October 2026: \"La campagne est clôturée\")."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "program_dates",
+      "old": "Unknown / Not specified",
+      "new": "2026 edition: online 5 to 28 October 2026, then in person in Addis Ababa 2 to 6 November 2026"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Substantially Funded"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Covered",
+        "accommodation": "Covered",
+        "meals": "Partially covered",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "application_fee",
+      "old": "Unknown",
+      "new": "No fee stated"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "eligibility",
+      "old": [
+        "Young Francophone graduate or professional"
+      ],
+      "new": [
+        "National of an African OIF member state",
+        "35 or younger",
+        "Bac+3 in a relevant field",
+        "At least one year of experience in a multilateral environment"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "age_max",
+      "old": null,
+      "new": 35
+    },
+    {
+      "date": "2026-10-05",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "nationality_requirements",
+      "old": [],
+      "new": [
+        "Nationals of an African member state of the OIF"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://candidature.usenghor.org/certificat-leadership-des-jeunes-en-environnement-multilateral---2026"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "africa-europe-youth-spaces-grant",
+      "title": "Africa-Europe Youth Spaces Grant Programme",
+      "field": "deadline_text",
+      "old": "A search summary gave an October 2026 deadline; the page itself could not be read.",
+      "new": "\"Applications must be submitted by 7 August 2026 at 11:59 PM GMT+3\" (The Youth Café, implementing partner, read 5 October 2026). Closed."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "africa-europe-youth-spaces-grant",
+      "title": "Africa-Europe Youth Spaces Grant Programme",
+      "field": "eligibility",
+      "old": [
+        "Youth-led or youth-focused organisations"
+      ],
+      "new": [
+        "Youth organisations, not individuals",
+        "Target group: young people aged 18 to 30",
+        "The DRC is one of the 11 countries covered by The Youth Café",
+        "Proposals in English or French"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "africa-europe-youth-spaces-grant",
+      "title": "Africa-Europe Youth Spaces Grant Programme",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://www.theyouthcafe.com/about-aeya-spaces-for-youth-grants"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "africa-europe-youth-spaces-grant",
+      "title": "Africa-Europe Youth Spaces Grant Programme",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "changement7-journalism-intern-kinshasa",
+      "title": "Changement7.net: Stagiaire en journalisme (Kinshasa)",
+      "field": "deadline_text",
+      "old": "Not read.",
+      "new": "Posted on LinkedIn on 1 October 2026; no deadline stated (read 5 October 2026)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "changement7-journalism-intern-kinshasa",
+      "title": "Changement7.net: Stagiaire en journalisme (Kinshasa)",
+      "field": "eligibility",
+      "old": [],
+      "new": [
+        "Studying journalism, communication, letters or similar, or some first writing experience",
+        "Writing, research and fact-checking skills",
+        "Knowledge of Congolese news"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "changement7-journalism-intern-kinshasa",
+      "title": "Changement7.net: Stagiaire en journalisme (Kinshasa)",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "youthconnekt-africa-summit-2026",
+      "title": "YouthConnekt Africa Summit 2026 (Kigali)",
+      "field": "program_dates",
+      "old": "25 to 27 November 2026",
+      "new": "25 to 27 November 2026, Kigali (eighth edition, theme 'Shape the Generational Mission')"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "engen-drc-jeunes-talents",
+      "title": "Jeunes Talents Engen DRC (Kinshasa and Grand Katanga)",
+      "field": "deadline_text",
+      "old": "The 2026 call closed on 30 September 2026.",
+      "new": "The 2026 call ran from 1 August to 30 September 2026 (Engen DRC page, read 5 October 2026)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "engen-drc-jeunes-talents",
+      "title": "Jeunes Talents Engen DRC (Kinshasa and Grand Katanga)",
+      "field": "program_dates",
+      "old": "Unknown / Not specified",
+      "new": "Selection October 2026, tests and interviews November 2026, start January 2027"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "engen-drc-jeunes-talents",
+      "title": "Jeunes Talents Engen DRC (Kinshasa and Grand Katanga)",
+      "field": "eligibility",
+      "old": [
+        "Recent graduates",
+        "Bac+5 required",
+        "Degree obtained less than two years ago"
+      ],
+      "new": [
+        "At most 28 years old",
+        "Bac+5 or equivalent with at least 65%, obtained within the last two years",
+        "Bilingual English and French",
+        "Based in Kinshasa or Grand Katanga"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "engen-drc-jeunes-talents",
+      "title": "Jeunes Talents Engen DRC (Kinshasa and Grand Katanga)",
+      "field": "age_max",
+      "old": null,
+      "new": 28
+    },
+    {
+      "date": "2026-10-05",
+      "id": "engen-drc-jeunes-talents",
+      "title": "Jeunes Talents Engen DRC (Kinshasa and Grand Katanga)",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://www.engendrc.cd/actualites-et-blogs/programme-des-jeunes-talents-engen-drc/"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "engen-drc-jeunes-talents",
+      "title": "Jeunes Talents Engen DRC (Kinshasa and Grand Katanga)",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "world-bank-wbg-pioneers-internships",
+      "title": "World Bank Group Pioneers internship programme",
+      "field": "deadline_text",
+      "old": "2026 applications ran 19 January to 17 February 2026.",
+      "new": "Two application windows a year: \"Applications January – February\" and \"Applications July – August\" (World Bank page, read 5 October 2026). Secondary sources report the latest window as 13 July to 12 August 2026."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "world-bank-wbg-pioneers-internships",
+      "title": "World Bank Group Pioneers internship programme",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Paid"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "world-bank-wbg-pioneers-internships",
+      "title": "World Bank Group Pioneers internship programme",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://www.worldbank.org/en/about/careers/programs-and-internships/internship"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "world-bank-wbg-pioneers-internships",
+      "title": "World Bank Group Pioneers internship programme",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
       "id": "koica-youth-leaders-programme-2026-2027",
       "title": "KOICA Youth Leaders Program 2026 to 2027",
       "field": "(archived)",

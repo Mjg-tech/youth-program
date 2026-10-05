@@ -1,0 +1,512 @@
+[
+ {
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "recurring": false,
+  "rolling": false,
+  "deadline_utc": "",
+  "deadline_timezone": "Unknown / Not specified",
+  "id": "african-union-commission-internship-programme-2026",
+  "title": "African Union Commission Internship Programme (2026 posting)",
+  "organization": "African Union Commission",
+  "overview": "Full-time, on-site internships of at least three months at the African Union headquarters in Addis Ababa for final-year students, postgraduate students and graduates from AU member states.",
+  "category": [
+   "Internship"
+  ],
+  "audience": [
+   "university-student",
+   "postgraduate-student",
+   "recent-graduate",
+   "graduate"
+  ],
+  "country": "Ethiopia",
+  "city": "Addis Ababa",
+  "location_type": "Abroad in Africa",
+  "delivery_mode": "In-person",
+  "duration": "At least 3 months, possibly extended by another 3 months",
+  "program_dates": "Unknown / Not specified",
+  "application_deadline": "2026-12-31",
+  "opens_on": "2026-02-16",
+  "deadline_text": "Posting runs from 16 February to 31 December 2026 (AU careers posting, read 5 October 2026). The au.int internship page itself states no deadline.",
+  "funding_type": "Unpaid",
+  "funding_details": [
+   "AU: \"AU does not provide any financial support or cover any costs for living expenses during the assignment for interns.\"",
+   "Travel, visas, accommodation, living expenses and medical insurance are the responsibility of interns or their sponsoring institutions."
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Not covered",
+   "flight": "Not covered",
+   "accommodation": "Not covered",
+   "meals": "Not specified",
+   "visa": "Not covered",
+   "insurance": "Not covered",
+   "local_transport": "Not specified"
+  },
+  "application_fee": "No fee stated",
+  "participation_fee": "Unknown / Not specified",
+  "stipend": "None",
+  "age_min": 22,
+  "age_max": 32,
+  "age_requirement": "Between 22 and 32 at the time of application",
+  "experience_level": "None required",
+  "experience_requirement": "No work experience stated",
+  "education_requirement": "Full-time undergraduate student in the final year, postgraduate student, or graduate",
+  "nationality_requirements": [
+   "Nationals of African Union member states"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "Fluent in one AU working language (Arabic, English, French, Portuguese or Kiswahili)",
+  "eligibility": [
+   "Aged 22 to 32",
+   "Final-year undergraduate, postgraduate student or graduate",
+   "National of an AU member state",
+   "Fluent in one AU working language"
+  ],
+  "documents_required": [
+   "CV on the mandatory AU CV template",
+   "Motivation letter",
+   "Passport or ID copy",
+   "Certified academic certificates",
+   "Recommendation letter from the institution"
+  ],
+  "application_process": [
+   "Apply through the AU careers portal with the AU CV template"
+  ],
+  "official_application_url": "https://jobs.au.int/job/Internship-Program/1506-en_US",
+  "official_information_url": "https://au.int/en/internships",
+  "source_url": "https://au.int/en/internships",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "African Union: internships",
+    "url": "https://au.int/en/internships",
+    "type": "Official"
+   },
+   {
+    "label": "AU internship entitlements",
+    "url": "https://au.int/en/internship/entitlements",
+    "type": "Official"
+   },
+   {
+    "label": "AU careers posting 1506",
+    "url": "https://jobs.au.int/job/Internship-Program/1506-en_US",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Unpaid: interns pay their own travel, visa, housing and insurance in Addis Ababa",
+   "The AU CV template is mandatory"
+  ],
+  "action": "Apply on the AU careers portal before 31 December 2026 using the AU CV template, if you can cover your own costs in Addis Ababa."
+ },
+ {
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "recurring": false,
+  "rolling": false,
+  "deadline_utc": "",
+  "deadline_timezone": "Africa/Nairobi",
+  "id": "unon-oif-young-african-interpreters-fellowship-2026",
+  "title": "UNON/OIF Fellowship Programme for Young African Interpreters (2026 cohort)",
+  "organization": "United Nations Office at Nairobi (UNON) with the Organisation internationale de la Francophonie (OIF)",
+  "overview": "A six-week paid training fellowship in Nairobi for young African conference interpreters with French as their A or retour language who recently graduated from a PAMCIT member university.",
+  "category": [
+   "Fellowship",
+   "Training"
+  ],
+  "audience": [
+   "recent-graduate",
+   "young-professional"
+  ],
+  "country": "Kenya",
+  "city": "Nairobi",
+  "location_type": "Abroad in Africa",
+  "delivery_mode": "In-person",
+  "program_dates": "6 November to 18 December 2026",
+  "duration": "6 weeks",
+  "application_deadline": "2026-10-08",
+  "deadline_text": "\"Applications must be received no later than 11:59 p.m. Nairobi time on 8 October 2026\" (UNON call for applications, read 5 October 2026). An online assessment is tentatively planned for 10 October 2026.",
+  "funding_type": "Paid",
+  "funding_details": [
+   "UNON call: \"a monthly stipend of USD 3,000; a one-time settling-in grant of USD 1,300; return air travel ...; medical insurance coverage arrangements.\""
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Covered",
+   "flight": "Covered",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Covered",
+   "local_transport": "Not specified"
+  },
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "USD 3,000 a month plus a USD 1,300 settling-in grant",
+  "age_min": null,
+  "age_max": 34,
+  "age_requirement": "Under 35 at the time of application",
+  "experience_level": "None required",
+  "experience_requirement": "No work experience stated",
+  "education_requirement": "Master's degree in conference interpreting from a PAMCIT member university (Nairobi, Buea, Ghana, Gaston Berger, Maputo Pedagogical), obtained within the last three years",
+  "nationality_requirements": [
+   "Young African professionals; open only to graduates of PAMCIT member universities"
+  ],
+  "drc_eligible": "Unclear",
+  "language_requirement": "French as A or retour language; English as B or C",
+  "eligibility": [
+   "Under 35",
+   "Master's in conference interpreting from a PAMCIT member university within the last three years",
+   "French A or retour, English B or C"
+  ],
+  "application_process": [
+   "Send one PDF (motivation letter and CV in French, degree and transcripts, passport page) by email as described in the UNON call"
+  ],
+  "official_application_url": "",
+  "official_information_url": "https://www.unon.org/sites/default/files/2026-09/UNONOIF%20Fellowship%20Programme%20for%20Young%20African%20Interpreters%20Call%20for%20Applications%20%E2%80%93%202026%20Cohort%20EN.pdf",
+  "source_url": "https://www.unon.org/sites/default/files/2026-09/UNONOIF%20Fellowship%20Programme%20for%20Young%20African%20Interpreters%20Call%20for%20Applications%20%E2%80%93%202026%20Cohort%20EN.pdf",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "UNON call for applications (PDF)",
+    "url": "https://www.unon.org/sites/default/files/2026-09/UNONOIF%20Fellowship%20Programme%20for%20Young%20African%20Interpreters%20Call%20for%20Applications%20%E2%80%93%202026%20Cohort%20EN.pdf",
+    "type": "Official"
+   },
+   {
+    "label": "OIF announcement",
+    "url": "https://www.francophonie.org/programme-de-bourses-de-perfectionnement-destine-aux-jeunes-interpretes-africaines-8690",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Closes 8 October 2026",
+   "Only for graduates of five PAMCIT universities, none of them in the DRC"
+  ],
+  "action": "Read the UNON call and apply by email before 23:59 Nairobi time on 8 October 2026 if you hold a PAMCIT interpreting master's."
+ },
+ {
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "recurring": false,
+  "rolling": false,
+  "deadline_utc": "",
+  "deadline_timezone": "America/Los_Angeles",
+  "id": "d-prize-challenge-2026-2027",
+  "title": "D-Prize Challenge 2026/2027",
+  "organization": "D-Prize",
+  "overview": "Grants of up to USD 20,000 for new social entrepreneurs to run a three-month pilot of a proven poverty intervention in a developing country, applied for with a two-page concept note.",
+  "category": [
+   "Entrepreneurship",
+   "Competition or Award"
+  ],
+  "audience": [
+   "university-student",
+   "recent-graduate",
+   "entrepreneur",
+   "young-professional"
+  ],
+  "country": "Any developing country",
+  "city": "Unknown / Not specified",
+  "location_type": "Multiple locations",
+  "delivery_mode": "Online",
+  "program_dates": "Three-month pilot after selection",
+  "duration": "3-month pilot",
+  "application_deadline": "2026-10-25",
+  "deadline_text": "Midnight Pacific time: early submission 25 October 2026, regular submission 15 November 2026, extension deadline 6 December 2026 (D-Prize site, read 5 October 2026).",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "D-Prize: \"up to $20,000 USD to support a three-month pilot\" for selected winners."
+  ],
+  "application_fee": "No fee stated",
+  "participation_fee": "Unknown / Not specified",
+  "age_min": 18,
+  "age_max": null,
+  "age_requirement": "18 or older",
+  "experience_level": "None required",
+  "experience_requirement": "Open to students, recent graduates, entrepreneurs and professionals; new organisations only",
+  "education_requirement": "Unknown / Not specified",
+  "nationality_requirements": [
+   "Winners can be from anywhere and operate in any developing country with extreme poverty"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "English",
+  "eligibility": [
+   "18 or older",
+   "New organisations only (usually under 18 months of operation and under USD 30,000 raised)",
+   "A clear plan to live and work in the country of the pilot",
+   "Must address one of D-Prize's published challenges"
+  ],
+  "application_process": [
+   "Choose one of the published challenges and submit a two-page concept note and résumé(s)"
+  ],
+  "official_application_url": "",
+  "official_information_url": "https://www.d-prize.org/",
+  "source_url": "https://www.d-prize.org/",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "D-Prize",
+    "url": "https://www.d-prize.org/",
+    "type": "Official"
+   },
+   {
+    "label": "D-Prize FAQs",
+    "url": "https://www.d-prize.org/faqs",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunities for Africans",
+    "url": "https://www.opportunitiesforafricans.com/d-prize-challenge-2026-2027-for-social-entrepreneurs-to-fight-poverty/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "A competitive grant, not a job",
+   "You must plan to live and work where the pilot runs"
+  ],
+  "action": "Read the D-Prize challenges and submit a concept note by 25 October (early) or 15 November 2026."
+ },
+ {
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "recurring": false,
+  "rolling": false,
+  "deadline_utc": "",
+  "deadline_timezone": "Unknown / Not specified",
+  "id": "unearthodox-exploration-co-lab-2027",
+  "title": "Unearthodox Exploration Co-Lab 2027: Edges of Possibility",
+  "organization": "Unearthodox",
+  "overview": "A ten-month online incubation for early-stage initiatives working on environmental and societal change, with CHF 10,000 of funding and tailored non-financial support.",
+  "category": [
+   "Entrepreneurship",
+   "Training"
+  ],
+  "audience": [
+   "entrepreneur",
+   "young-professional",
+   "any-adult"
+  ],
+  "country": "Online",
+  "city": "Online",
+  "location_type": "Remote",
+  "delivery_mode": "Online",
+  "program_dates": "1 March to 31 December 2027",
+  "duration": "10 months",
+  "application_deadline": "2026-11-16",
+  "opens_on": "2026-09-15",
+  "deadline_text": "\"Nov 16, 2026, 11:59 PM GMT+1\" (official application portal, read 5 October 2026).",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "Unearthodox: \"CHF 10,000 to help move your initiative forward\" plus about \"CHF 60,000 in value of non-financial, tailored support\" for selected initiatives."
+  ],
+  "application_fee": "No fee stated",
+  "participation_fee": "Unknown / Not specified",
+  "age_min": null,
+  "age_max": null,
+  "age_requirement": "Unknown / Not specified",
+  "experience_level": "Some experience needed",
+  "experience_requirement": "An early-stage initiative already beyond the idea stage",
+  "education_requirement": "Unknown / Not specified",
+  "nationality_requirements": [
+   "No nationality condition stated"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "English",
+  "eligibility": [
+   "Early-stage initiative at the intersection of environmental and societal change, beyond the idea stage",
+   "All activities in English",
+   "Group calls scheduled within UTC-6 to UTC+6"
+  ],
+  "official_application_url": "https://apply.younoodle.com/showcase/competition/edges_of_possibility_2027",
+  "official_information_url": "https://unearthodox.org/2026/09/open-call-edges-of-possibility-exploration-co-lab-2027/",
+  "source_url": "https://unearthodox.org/2026/09/open-call-edges-of-possibility-exploration-co-lab-2027/",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "Unearthodox: open call",
+    "url": "https://unearthodox.org/2026/09/open-call-edges-of-possibility-exploration-co-lab-2027/",
+    "type": "Official"
+   },
+   {
+    "label": "Application portal linked by Unearthodox",
+    "url": "https://apply.younoodle.com/showcase/competition/edges_of_possibility_2027",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Requires an existing initiative",
+   "Selective"
+  ],
+  "action": "Read the open call and apply on the linked portal before 16 November 2026."
+ },
+ {
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "recurring": false,
+  "rolling": false,
+  "deadline_utc": "",
+  "deadline_timezone": "Unknown / Not specified",
+  "id": "earth-prize-2027",
+  "title": "The Earth Prize 2027",
+  "organization": "The Earth Prize (Earth Foundation)",
+  "overview": "A free environmental sustainability competition for secondary-school students worldwide, individually or in teams of up to five, with USD 10,000 for each of seven regional winners.",
+  "category": [
+   "Competition or Award"
+  ],
+  "audience": [
+   "secondary-school"
+  ],
+  "country": "Online",
+  "city": "Online",
+  "location_type": "Remote",
+  "delivery_mode": "Online",
+  "program_dates": "Winners announced 3 to 9 May 2027; ceremony 28 May 2027",
+  "duration": "Unknown / Not specified",
+  "application_deadline": "2027-01-10",
+  "deadline_text": "Registration until 10 January 2027; submissions close 31 January 2027 at 12:00 PM CET (The Earth Prize site, read 5 October 2026).",
+  "funding_type": "Free",
+  "funding_details": [
+   "The Earth Prize rules: \"Registration for The Earth Prize is free of charge. No purchase is necessary to enter or to win.\"",
+   "Seven regional winners receive USD 10,000 each."
+  ],
+  "coverage": {
+   "tuition": "Covered",
+   "stipend": "Not specified",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "application_fee": "No fee stated",
+  "participation_fee": "Free",
+  "age_min": null,
+  "age_max": null,
+  "age_requirement": "Students born between 2007 and 2014",
+  "experience_level": "None required",
+  "experience_requirement": "No experience needed",
+  "education_requirement": "Currently in school, homeschool or another educational programme",
+  "nationality_requirements": [
+   "Open to teenage students worldwide"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "Unknown / Not specified",
+  "eligibility": [
+   "Born between 2007 and 2014",
+   "Currently a student",
+   "Individuals or teams of up to 5; a mentor is optional"
+  ],
+  "official_application_url": "",
+  "official_information_url": "https://www.theearthprize.org/competition",
+  "source_url": "https://www.theearthprize.org/competition",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "The Earth Prize: competition",
+    "url": "https://www.theearthprize.org/competition",
+    "type": "Official"
+   },
+   {
+    "label": "The Earth Prize: rules",
+    "url": "https://www.theearthprize.org/rules",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Registration closes 10 January 2027, before the submission deadline"
+  ],
+  "action": "Register on theearthprize.org before 10 January 2027 and submit by 31 January 2027."
+ },
+ {
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "recurring": false,
+  "rolling": false,
+  "deadline_utc": "",
+  "deadline_timezone": "Unknown / Not specified",
+  "id": "i-am-nala-fellowship-2027",
+  "title": "I AM NALA Fellowship 2027",
+  "organization": "Nalafem Collective",
+  "overview": "A six-month online leadership fellowship for displaced African women (refugees, internally displaced or stateless) active in politics, campaigning, peacebuilding or advocacy.",
+  "category": [
+   "Fellowship",
+   "Leadership"
+  ],
+  "audience": [
+   "young-professional",
+   "any-adult"
+  ],
+  "country": "Online",
+  "city": "Online",
+  "location_type": "Remote",
+  "delivery_mode": "Online",
+  "program_dates": "January to July 2027 (bi-monthly online sessions, possible in-person engagements)",
+  "duration": "About 6 months",
+  "application_deadline": "2026-10-31",
+  "deadline_text": "31 October 2026, on the organiser's Google Form (read 5 October 2026); shortlisted candidates notified by 6 November 2026. The call is not listed on nalafem.org.",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "No amount on the application form. Reported by secondary sources: \"capacity and technical support, mentorship, solidarity, access and resourcing\"."
+  ],
+  "application_fee": "No fee stated",
+  "participation_fee": "Unknown / Not specified",
+  "age_min": 18,
+  "age_max": 40,
+  "age_requirement": "Women aged 18 to 40",
+  "experience_level": "Some experience needed",
+  "experience_requirement": "Leadership in politics, campaigns, peacebuilding or advocacy",
+  "education_requirement": "Unknown / Not specified",
+  "nationality_requirements": [
+   "African women who are refugees, internally displaced or stateless, including in the diaspora"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "Unknown / Not specified",
+  "eligibility": [
+   "Woman aged 18 to 40",
+   "Refugee, internally displaced person or stateless",
+   "African, including displaced Africans in the diaspora",
+   "Leadership in politics, campaigns, peacebuilding or advocacy"
+  ],
+  "official_application_url": "",
+  "official_information_url": "https://nalafem.org/",
+  "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSe7cdN9YiLa9HpHQ5eGkh6HgpVexDvWGELZB59i4PfmaOMwMw/viewform",
+  "source_type": "Official",
+  "source_confidence": "MEDIUM",
+  "verification": "NEEDS VERIFICATION",
+  "sources": [
+   {
+    "label": "I AM NALA Fellowship 2027 application form (Google Form)",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7cdN9YiLa9HpHQ5eGkh6HgpVexDvWGELZB59i4PfmaOMwMw/viewform",
+    "type": "Official"
+   },
+   {
+    "label": "Nalafem Collective",
+    "url": "https://nalafem.org/",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunity Desk",
+    "url": "https://opportunitydesk.org/2026/09/14/i-am-nala-fellowship-2027/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "The call is only on a Google Form and is not listed on nalafem.org",
+   "The support offered is not described on the form",
+   "Only for displaced women"
+  ],
+  "action": "Check nalafem.org or the organiser's official channels to confirm the call before filling in the form by 31 October 2026."
+ }
+]

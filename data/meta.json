@@ -1,42 +1,44 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-05T11:06:16Z",
+  "last_refresh": "2026-10-05T11:41:43Z",
   "counts": {
-    "total": 59,
+    "total": 65,
     "archived": 1,
     "by_status": {
-      "OPEN": 20,
-      "CLOSING SOON": 8,
+      "OPEN": 24,
+      "CLOSING SOON": 9,
       "UPCOMING": 20,
       "DEADLINE PASSED": 0,
-      "ROLLING": 2,
+      "ROLLING": 3,
       "DATE UNKNOWN": 9
     },
     "by_funding": {
-      "Paid": 1,
+      "Paid": 3,
       "Fully Funded": 3,
-      "Substantially Funded": 2,
-      "Partially Funded": 0,
-      "Travel Funded": 2,
+      "Substantially Funded": 3,
+      "Partially Funded": 3,
+      "Travel Funded": 3,
       "Participation Funded": 3,
-      "Free": 3,
-      "Unpaid": 2,
+      "Free": 6,
+      "Unpaid": 5,
       "Self Funded": 1,
-      "Funding Unclear": 42
+      "Funding Unclear": 35
     },
     "by_verification": {
-      "VERIFIED": 12,
-      "PARTIALLY VERIFIED": 12,
-      "NEEDS VERIFICATION": 35
+      "VERIFIED": 27,
+      "PARTIALLY VERIFIED": 21,
+      "NEEDS VERIFICATION": 17
     },
     "in_kinshasa": 18,
-    "remote": 10,
+    "remote": 13,
     "fee_required": 4
   },
   "deadline_buckets": {
     "30": [
-      "afric-innov-summit-2026",
-      "one-young-world-leading-scholarship-2026"
+      "d-prize-challenge-2026-2027",
+      "i-am-nala-fellowship-2027",
+      "one-young-world-leading-scholarship-2026",
+      "yale-young-african-scholars-2027"
     ],
     "14": [
       "aspire-leaders-program-2026-cohort-4",
@@ -49,7 +51,8 @@
     ],
     "3": [
       "unfpa-kinshasa-logistics-administrative-support-intern",
-      "unfpa-kinshasa-warehouse-inventory-support-intern"
+      "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "unon-oif-young-african-interpreters-fellowship-2026"
     ],
     "1": [
       "mckinsey-forward-fall-2026"

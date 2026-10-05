@@ -1,0 +1,84 @@
+[
+ {
+  "id": "engen-drc-jeunes-talents",
+  "verification": "PARTIALLY VERIFIED",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "source_url": "https://www.engendrc.cd/actualites-et-blogs/programme-des-jeunes-talents-engen-drc/",
+  "official_information_url": "https://www.engendrc.cd/actualites-et-blogs/programme-des-jeunes-talents-engen-drc/",
+  "deadline_text": "The 2026 call ran from 1 August to 30 September 2026 (Engen DRC page, read 5 October 2026).",
+  "last_cycle_deadline": "2026-09-30",
+  "program_dates": "Selection October 2026, tests and interviews November 2026, start January 2027",
+  "age_max": 28,
+  "age_requirement": "28 years old at most",
+  "education_requirement": "Bac+5 or equivalent with at least 65%, obtained within the last two years",
+  "language_requirement": "English and French",
+  "eligibility": [
+   "At most 28 years old",
+   "Bac+5 or equivalent with at least 65%, obtained within the last two years",
+   "Bilingual English and French",
+   "Based in Kinshasa or Grand Katanga"
+  ],
+  "potential_issues": [
+   "Closed on 30 September 2026",
+   "Pay is not stated on the Engen page"
+  ],
+  "expected_next_cycle": "The 2026 call closed on 30 September 2026; the next call has not been announced.",
+  "sources": [
+   {
+    "label": "Engen DRC: Programme des Jeunes Talents",
+    "url": "https://www.engendrc.cd/actualites-et-blogs/programme-des-jeunes-talents-engen-drc/",
+    "type": "Official"
+   },
+   {
+    "label": "Congo Quotidien",
+    "url": "https://www.congoquotidien.com/2026/07/30/programme-jeunes-talents-engen-drc/",
+    "type": "News"
+   }
+  ],
+  "action": "Watch the Engen DRC news page for the next call.",
+  "last_verified": "2026-10-05"
+ },
+ {
+  "id": "african-union-youth-volunteer-corps",
+  "expected_next_cycle": "No 14th call yet: the AU page (read 5 October 2026) asks readers to watch the AU Careers page and AU social media; the 13th call ran 26 March to 26 April 2026.",
+  "last_verified": "2026-10-05"
+ },
+ {
+  "id": "obama-foundation-leaders",
+  "expected_next_cycle": "The official page (read 5 October 2026) says applicants from Africa, Asia-Pacific, Europe and the United States may apply in November of the year before the programme; no 2026 dates are posted yet.",
+  "last_verified": "2026-10-05"
+ },
+ {
+  "id": "world-bank-wbg-pioneers-internships",
+  "verification": "PARTIALLY VERIFIED",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "source_url": "https://www.worldbank.org/en/about/careers/programs-and-internships/internship",
+  "official_information_url": "https://www.worldbank.org/en/about/careers/programs-and-internships/internship",
+  "funding_type": "Paid",
+  "funding_details": [
+   "World Bank page: \"Paid Internship\"."
+  ],
+  "deadline_text": "Two application windows a year: \"Applications January – February\" and \"Applications July – August\" (World Bank page, read 5 October 2026). Secondary sources report the latest window as 13 July to 12 August 2026.",
+  "expected_next_cycle": "Next window expected January to February 2027, by the yearly pattern on the World Bank page.",
+  "potential_issues": [
+   "Closed until the next window",
+   "Eligibility was not re-read on the World Bank page"
+  ],
+  "sources": [
+   {
+    "label": "World Bank Group internships",
+    "url": "https://www.worldbank.org/en/about/careers/programs-and-internships/internship",
+    "type": "Official"
+   },
+   {
+    "label": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/la-banque-mondiale-ouvre-les-candidatures-de-son-programme-de-stages-2026_59252",
+    "type": "Aggregator"
+   }
+  ],
+  "action": "Check the World Bank internship page in January 2027.",
+  "last_verified": "2026-10-05"
+ }
+]
