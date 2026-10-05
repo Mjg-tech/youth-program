@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-05T11:03:51Z",
+  "last_refresh": "2026-10-05T11:06:16Z",
   "counts": {
     "total": 59,
     "archived": 1,
@@ -54,5 +54,12 @@
     "1": [
       "mckinsey-forward-fall-2026"
     ]
-  }
+  },
+  "watch": {
+    "checked": 27,
+    "ok": 24,
+    "blocked_or_unreachable": 3,
+    "dead": 0
+  },
+  "flags": []
 }
