@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-05",
+  "programs": [
+    {
+      "id": "koica-youth-leaders-programme-2026-2027",
+      "title": "KOICA Youth Leaders Program 2026 to 2027",
+      "organization": "KOICA with Hallym University",
+      "overview": "Leadership and digital innovation training for African youth in three phases: online, in Ghana, then South Korea. The call targeted five West African countries and did not include the DRC.",
+      "category": [
+        "Youth Programme",
+        "Leadership"
+      ],
+      "audience": [
+        "university-student",
+        "young-professional"
+      ],
+      "country": "Ghana and South Korea",
+      "city": "Not stated",
+      "location_type": "Abroad outside Africa",
+      "delivery_mode": "Hybrid",
+      "program_dates": "Online 20 to 31 July 2026; Ghana 2 to 29 August 2026; South Korea June 2027",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-06-26",
+      "deadline_utc": "",
+      "deadline_text": "26 June 2026 at 23:59 (local time).",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "Accommodation and meals during the local and Korean phases were reported as covered."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "Unknown",
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "age_min": 19,
+      "age_max": 34,
+      "age_requirement": "19 to 34 years old",
+      "experience_level": "Not stated",
+      "experience_requirement": "Unknown / Not specified",
+      "education_requirement": "Unknown / Not specified",
+      "nationality_requirements": [
+        "Ghana, Cameroon, Côte d'Ivoire, Nigeria and Senegal"
+      ],
+      "drc_eligible": "No",
+      "language_requirement": "English",
+      "eligibility": [
+        "Aged 19 to 34",
+        "Active in the public, private or academic sector",
+        "From one of the five target countries"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [],
+      "official_application_url": "",
+      "official_information_url": "",
+      "source_url": "https://afri-carrieres.com/2026/06/koica-youth-leaders-program.html",
+      "source_type": "Aggregator",
+      "source_confidence": "MEDIUM",
+      "verification": "NEEDS VERIFICATION",
+      "sources": [
+        {
+          "label": "Afri-Carrières",
+          "url": "https://afri-carrieres.com/2026/06/koica-youth-leaders-program.html",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "Closed",
+        "Not open to DRC nationals in this edition"
+      ],
+      "benefits": [],
+      "action": "No action: the DRC was not a target country.",
+      "last_verified": "2026-10-05",
+      "date_discovered": "2026-10-05",
+      "notes": "",
+      "archive_id": "koica-youth-leaders-programme-2026-2027@2026-06-26",
+      "archived_on": "2026-10-05"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Programs - Youth Program</title>
+  <meta name="description" content="Search and filter every tracked internship, volunteering post, fellowship and youth programme.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">YP</span>Youth Program</a>
+      <nav class="site-nav" aria-label="Main">
+        <a href="index.html">Dashboard</a>
+        <a href="programs.html" aria-current="page">Programs</a>
+      </nav>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch theme"></button>
+    </div>
+  </header>
+
+  <main>
+    <h1 class="page-title">All programmes</h1>
+    <p class="page-lede">Search and filter every record. Type your age to hide programmes whose age limit rules you out. Programmes with no stated age limit stay visible.</p>
+
+    <div class="toolbar">
+      <label class="search">
+        <span class="sr-only">Search programmes</span>
+        <svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M9 4a5 5 0 100 10A5 5 0 009 4zM13 13l3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <input type="search" id="search" placeholder="Search by title, organiser, place or requirement" autocomplete="off">
+      </label>
+      <label class="field"><span>Sort by</span><select id="sort"></select></label>
+      <label class="check"><input type="checkbox" id="archive"> Include archive</label>
+    </div>
+
+    <div class="me-row">
+      <label class="field me-age"><span>My age</span><input type="number" id="age" min="10" max="60" inputmode="numeric" placeholder="e.g. 24"></label>
+      <label class="check"><input type="checkbox" id="hideage" checked> Hide programmes whose age limit excludes me</label>
+      <span class="muted small">Used only in your browser to compare with each limit.</span>
+    </div>
+
+    <details class="filters" id="filter-box" open>
+      <summary>Filters</summary>
+      <div class="filter-grid" id="filters"></div>
+    </details>
+
+    <div class="results-bar" aria-live="polite">
+      <span id="count"></span>
+      <span id="active" class="card-badges"></span>
+    </div>
+    <div class="grid" id="grid"><p class="muted">Loading the database.</p></div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Information is checked against official sources where possible but can change without notice. Always confirm on the organiser's website before applying. Never pay an application fee without confirming who the organiser is.</p>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/explorer.js"></script>
+</body>
+</html>

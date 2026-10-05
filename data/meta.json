@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "last_refresh": "2026-10-05T11:03:51Z",
+  "counts": {
+    "total": 59,
+    "archived": 1,
+    "by_status": {
+      "OPEN": 20,
+      "CLOSING SOON": 8,
+      "UPCOMING": 20,
+      "DEADLINE PASSED": 0,
+      "ROLLING": 2,
+      "DATE UNKNOWN": 9
+    },
+    "by_funding": {
+      "Paid": 1,
+      "Fully Funded": 3,
+      "Substantially Funded": 2,
+      "Partially Funded": 0,
+      "Travel Funded": 2,
+      "Participation Funded": 3,
+      "Free": 3,
+      "Unpaid": 2,
+      "Self Funded": 1,
+      "Funding Unclear": 42
+    },
+    "by_verification": {
+      "VERIFIED": 12,
+      "PARTIALLY VERIFIED": 12,
+      "NEEDS VERIFICATION": 35
+    },
+    "in_kinshasa": 18,
+    "remote": 10,
+    "fee_required": 4
+  },
+  "deadline_buckets": {
+    "30": [
+      "afric-innov-summit-2026",
+      "one-young-world-leading-scholarship-2026"
+    ],
+    "14": [
+      "aspire-leaders-program-2026-cohort-4",
+      "mandela-washington-fellowship-2027",
+      "tutu-leading-for-humanity-2027"
+    ],
+    "7": [
+      "afdb-internship-2027-session-1",
+      "un-volunteers-drc-open-assignments"
+    ],
+    "3": [
+      "unfpa-kinshasa-logistics-administrative-support-intern",
+      "unfpa-kinshasa-warehouse-inventory-support-intern"
+    ],
+    "1": [
+      "mckinsey-forward-fall-2026"
+    ]
+  }
+}

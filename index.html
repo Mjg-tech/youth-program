@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Youth Program</title>
+  <meta name="description" content="Internships, volunteering, fellowships and youth programmes for people with little or no experience, with a focus on Kinshasa and the DRC. Each entry says how well it was checked.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">YP</span>Youth Program</a>
+      <nav class="site-nav" aria-label="Main">
+        <a href="index.html" aria-current="page">Dashboard</a>
+        <a href="programs.html">Programs</a>
+      </nav>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch theme"></button>
+    </div>
+  </header>
+
+  <main>
+    <h1 class="page-title">Youth programmes and internships</h1>
+    <p class="page-lede">Internships, volunteering, fellowships, leadership programmes and training for young people with little or no experience, with a focus on Kinshasa and the DRC. Each entry shows its age limits, what it pays, whether a fee is involved, and how well it was checked.</p>
+
+    <div class="filter-row" id="scope"></div>
+    <section class="hero" id="hero" aria-live="polite"><p class="muted">Loading the database.</p></section>
+    <section class="tiles" id="tiles" aria-label="Key numbers"></section>
+    <div id="flags" style="margin-top:20px"></div>
+
+    <div style="margin-top:20px" id="finder"></div>
+
+    <div class="columns">
+      <section class="panel" aria-labelledby="queue-title">
+        <div class="panel-head">
+          <h2 id="queue-title">Open now</h2>
+          <a href="programs.html?deadline=open">All open programmes</a>
+        </div>
+        <p class="panel-sub">Soonest deadline first. Entries with a weak source are left out here and stay in the full list.</p>
+        <div id="queue"></div>
+      </section>
+      <div class="stack">
+        <section class="panel" aria-labelledby="monitor-title">
+          <h2 id="monitor-title">Deadline monitor</h2>
+          <p class="panel-sub">Deadlines falling inside each window.</p>
+          <div id="monitor"></div>
+        </section>
+        <section class="panel" aria-labelledby="watch-title">
+          <h2 id="watch-title">Closed now, watch the next edition</h2>
+          <p class="panel-sub">Recurring programmes whose last call has closed.</p>
+          <div id="watch"></div>
+        </section>
+      </div>
+    </div>
+
+    <h2 class="section-title">What is in the database</h2>
+    <div class="charts" id="charts"></div>
+
+    <details class="method panel">
+      <summary>How to read the labels</summary>
+      <div class="method-body">
+        <div>
+          <h3>Verification</h3>
+          <ul>
+            <li><strong>Verified</strong> The deadline, eligibility and funding were read on the organiser's own page on the date shown as last verified.</li>
+            <li><strong>Partially verified</strong> Some facts were read on the official page. The rest come from secondary sources and are marked as such.</li>
+            <li><strong>Needs verification</strong> The official page could not be read. Everything comes from secondary sources. Open the official page before acting.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Open to DRC nationals</h3>
+          <ul>
+            <li><strong>Open to DRC nationals</strong> The organiser's rules include Congolese applicants, or no nationality condition is stated.</li>
+            <li><strong>DRC eligibility unclear</strong> The sources read do not say.</li>
+            <li><strong>Not open</strong> The call is limited to other countries.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Pay or funding</h3>
+          <ul>
+            <li><strong>Paid, fully funded, free</strong> Used only when the organiser's own page supports it.</li>
+            <li><strong>Not stated</strong> The page read does not say what is paid. Any claim from a secondary site is quoted in the detail view, not used as a label.</li>
+            <li><strong>Fee involved</strong> An application or participation fee exists. Never pay before confirming who the organiser is.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Deadline status</h3>
+          <ul>
+            <li><strong>Closing soon</strong> 14 days or fewer remain.</li>
+            <li><strong>Next edition expected</strong> The last call closed; the programme repeats, but no new call is announced.</li>
+            <li><strong>Open all year</strong> Applications are rolling or have no single deadline.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Your age and situation</h3>
+          <ul>
+            <li>The "Find what fits you" form and the age box on the Programs page only compare your age with each programme's limits, inside your browser.</li>
+            <li>Nothing about you is stored on this site or in this repository.</li>
+          </ul>
+        </div>
+      </div>
+    </details>
+  </main>
+
+  <footer class="site-footer">
+    <p id="health"></p>
+    <p>Information is checked against official sources where possible but can change without notice. Always confirm on the organiser's website before applying. Never pay an application fee without confirming who the organiser is.</p>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+_site/
+.DS_Store
+Thumbs.db
+# Anything personal stays out of this public repository.
+private/
+*.private.json

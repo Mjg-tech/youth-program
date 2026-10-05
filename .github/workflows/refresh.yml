@@ -1,0 +1,67 @@
+name: Refresh and publish
+
+# Keeps the site alive without anyone's computer being on.
+#   - every day:   statuses, archive, official-page checks, then publish
+#   - on push:     validate and publish whatever was pushed (a research cycle, a code change)
+#   - on demand:   Actions tab > "Refresh and publish" > Run workflow
+on:
+  schedule:
+    - cron: "37 5 * * *"   # 05:37 UTC, daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write    # commit the refreshed data
+  pages: write       # publish the site
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      # No AI and no secrets: this step never edits a deadline, an age limit or an eligibility rule.
+      - name: Daily maintenance (statuses, archive, official-page checks)
+        if: github.event_name != 'push'
+        run: python scripts/refresh.py
+
+      - name: Validate the database
+        run: python scripts/validate.py
+
+      - name: Commit refreshed data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data archive reports
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Daily refresh: statuses and official-page checks"
+            git push
+          fi
+
+      - name: Assemble the site
+        run: |
+          mkdir _site
+          cp -r index.html programs.html assets data archive _site/
+
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v5
