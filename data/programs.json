@@ -3362,7 +3362,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Free",
       "funding_details": [
         "'Forward is a free multi-week learning program'",
@@ -6432,7 +6432,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Partially Funded",
       "funding_details": [
         "YYAS: \"There are no tuition costs for participation in either program.\"",
@@ -6725,5 +6725,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-05"
+  "status_computed_on": "2026-10-06"
 }
