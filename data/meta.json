@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-06T12:12:55Z",
+  "last_refresh": "2026-10-07T11:59:16Z",
   "counts": {
     "total": 65,
     "archived": 1,
@@ -42,26 +42,25 @@
     ],
     "14": [
       "aspire-leaders-program-2026-cohort-4",
-      "tutu-leading-for-humanity-2027",
       "yale-young-african-scholars-2027"
     ],
     "7": [
       "afdb-internship-2027-session-1",
       "mandela-washington-fellowship-2027",
+      "tutu-leading-for-humanity-2027",
       "un-volunteers-drc-open-assignments"
     ],
-    "3": [
-      "unon-oif-young-african-interpreters-fellowship-2026"
-    ],
+    "3": [],
     "1": [
       "unfpa-kinshasa-logistics-administrative-support-intern",
-      "unfpa-kinshasa-warehouse-inventory-support-intern"
+      "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "unon-oif-young-african-interpreters-fellowship-2026"
     ]
   },
   "watch": {
     "checked": 50,
-    "ok": 45,
-    "blocked_or_unreachable": 5,
+    "ok": 46,
+    "blocked_or_unreachable": 4,
     "dead": 0
   },
   "flags": []
