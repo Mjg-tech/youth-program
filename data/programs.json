@@ -5199,7 +5199,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Unpaid",
       "funding_details": [
         "UNFPA posting: \"Les stagiaires ne perçoivent pas de salaire\"; interns receive an allowance towards basic daily expenses if they do not already have financial support.",
@@ -5307,7 +5307,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Unpaid",
       "funding_details": [
         "UNFPA posting: \"Les stagiaires ne perçoivent pas de salaire\"; interns receive an allowance towards basic daily expenses if they do not already have financial support.",
@@ -6725,5 +6725,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-07"
+  "status_computed_on": "2026-10-08"
 }

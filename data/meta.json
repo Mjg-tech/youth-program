@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-07T11:59:16Z",
+  "last_refresh": "2026-10-08T12:13:45Z",
   "counts": {
     "total": 65,
     "archived": 1,
     "by_status": {
       "OPEN": 23,
-      "CLOSING SOON": 9,
+      "CLOSING SOON": 7,
       "UPCOMING": 20,
-      "DEADLINE PASSED": 1,
+      "DEADLINE PASSED": 3,
       "ROLLING": 3,
       "DATE UNKNOWN": 9
     },
@@ -47,20 +47,19 @@
     "7": [
       "afdb-internship-2027-session-1",
       "mandela-washington-fellowship-2027",
-      "tutu-leading-for-humanity-2027",
+      "tutu-leading-for-humanity-2027"
+    ],
+    "3": [
       "un-volunteers-drc-open-assignments"
     ],
-    "3": [],
     "1": [
-      "unfpa-kinshasa-logistics-administrative-support-intern",
-      "unfpa-kinshasa-warehouse-inventory-support-intern",
       "unon-oif-young-african-interpreters-fellowship-2026"
     ]
   },
   "watch": {
     "checked": 50,
-    "ok": 46,
-    "blocked_or_unreachable": 4,
+    "ok": 47,
+    "blocked_or_unreachable": 3,
     "dead": 0
   },
   "flags": []
