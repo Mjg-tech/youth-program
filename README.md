@@ -30,14 +30,17 @@ assets/css/style.css          one stylesheet, light and dark
 assets/js/app.js              shared: data loading, status rules, badges, cards, detail dialog
 assets/js/dashboard.js        dashboard page
 assets/js/explorer.js         explorer page
+assets/js/i18n.js             language layer: device language, EN | FR switch, translates what is displayed
+assets/js/i18n-ui-fr.js       French wording of the interface
 data/programs.json            the database (live records)
+data/fr.json                  French wording of the records (English text -> French text)
 data/meta.json                counts, deadline buckets, flags (written by the refresh)
 data/changelog.json           every change to a tracked field, newest first
 data/watch-state.json         HTTP status and date-line fingerprint of each official page
 archive/archive.json          closed programmes that do not repeat (never deleted)
 research/YYYY-MM-DD/          the raw batch files of each research cycle
 reports/                      latest.md (generated daily) and one report per research cycle
-scripts/                      oplib.py, upsert.py, validate.py, refresh.py (standard library only)
+scripts/                      oplib.py, upsert.py, validate.py, refresh.py, i18n_check.py (standard library only)
 AGENTS.md                     runbook for the research cycle
 ```
 
@@ -122,3 +125,16 @@ Pages carry `noindex` so search engines are asked not to list them.
   verification label; open the page in a browser.
 - Most records were first found on aggregator sites. Treat NEEDS VERIFICATION as "go and check".
 - Rules change. The `last_verified` date on each record says how old the check is.
+
+## English and French
+
+The data and the code are English. The site opens in the visitor's language: French on a French device,
+English otherwise, with an EN | FR switch in the header (`?lang=fr` or `?lang=en` forces one). French is an
+overlay: `assets/js/i18n.js` translates what is displayed, using `assets/js/i18n-ui-fr.js` (interface) and
+`data/fr.json` (the records), plus patterns for sentences the scripts assemble ("12 days left"). Values,
+filters and links stay English, so nothing in the database or the URLs changes with the language. A text with no
+French entry stays in English, and a record whose English text changes loses its old French until it is
+re-translated (it can never show a stale translation).
+
+`python scripts/i18n_check.py` shows how many record texts are translated; the research cycle in `AGENTS.md`
+keeps `data/fr.json` complete. Only the choice "en" or "fr" is saved, in the visitor's own browser.

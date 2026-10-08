@@ -247,6 +247,9 @@
         }))));
   }
 
+  /* switching language rebuilds the page, so dates and counts are produced in the new language */
+  window.addEventListener("yp-language", () => { if (data) render(); });
+
   document.addEventListener("DOMContentLoaded", async () => {
     initTheme();
     try {

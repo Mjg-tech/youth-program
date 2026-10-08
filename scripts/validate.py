@@ -123,6 +123,14 @@ def main() -> int:
         if not rec.get("archive_id"):
             errors.append(f"archive: {rec.get('id')} has no archive_id")
 
+    try:
+        import i18n_check
+        untranslated = i18n_check.missing_strings()
+        if untranslated:
+            warnings.append(f"french: {len(untranslated)} record texts have no French version "
+                            f"(python scripts/i18n_check.py --missing)")
+    except Exception as exc:                      # the French layer must never stop validation
+        warnings.append(f"french: could not check the translations ({exc})")
     for line in warnings:
         print("warning:", line)
     for line in errors:

@@ -112,6 +112,7 @@ button, input, select { font: inherit; color: inherit; }
   display: grid; place-items: center; cursor: pointer;
 }
 .theme-toggle:hover { background: var(--surface-2); }
+.lang-switch button { padding: 6px 10px; font-size: 13px; }
 main { max-width: 1240px; margin: 0 auto; padding: 28px 24px 64px; }
 .page-title { font-size: 26px; line-height: 1.2; font-weight: 680; letter-spacing: -0.01em; }
 .page-lede { color: var(--ink-2); max-width: 70ch; margin-top: 6px; }
@@ -352,6 +353,8 @@ details.filters[open] summary { margin-bottom: 12px; }
 @media (max-width: 600px) {
   .site-header .inner { padding: 10px 16px; gap: 10px; }
   .site-nav { margin-left: 0; order: 3; width: 100%; }
+  .lang-switch { margin-left: auto; }
+  .lang-switch + .theme-toggle { margin-left: 0; }
   .theme-toggle { margin-left: auto; }
   main { padding: 20px 16px 48px; }
   .hero-value { font-size: 52px; }
@@ -369,7 +372,7 @@ details.filters[open] summary { margin-bottom: 12px; }
   .card, .tile, .btn { transition: border-color 0.15s, box-shadow 0.15s, background 0.15s; }
 }
 @media print {
-  .site-header, .toolbar, details.filters, .card-foot, .theme-toggle { display: none; }
+  .site-header, .toolbar, details.filters, .card-foot, .theme-toggle, .lang-switch { display: none; }
   body { background: #fff; }
 }
 

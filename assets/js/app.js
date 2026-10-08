@@ -213,7 +213,7 @@
   function fmtDateTime(iso) {
     const date = new Date(iso);
     if (isNaN(date)) return "";
-    return date.toLocaleString(undefined, { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" });
+    return date.toLocaleString(window.YP_I18N ? window.YP_I18N.locale : undefined, { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" });
   }
 
   function deadlineSummary(rec) {
@@ -519,6 +519,7 @@
   }
 
   async function loadAll() {
+    if (window.YP_I18N) await window.YP_I18N.ready;          // French wording of the programmes must be there before the first render
     const [db, archive, meta] = await Promise.all([
       loadJSON("data/programs.json"),
       loadJSON("archive/archive.json", { programs: [] }),

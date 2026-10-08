@@ -60,6 +60,18 @@ cycle. Follow it in order.
    `python scripts/upsert.py research/YYYY-MM-DD/*.json`
    `python scripts/validate.py` must end with `0 errors`.
    `python scripts/refresh.py --no-network` refreshes statuses and `reports/latest.md`.
+   **French.** The site also exists in French (visitors on a French device get it automatically). The
+   French wording of the records lives in `data/fr.json` as `{"English text": "Texte français"}`; a text
+   with no entry is shown in English, so nothing breaks, but the French site should be complete.
+   `python scripts/i18n_check.py --missing` lists the English texts that have no French yet. Translate
+   them faithfully into a JSON file `{English: French}` and merge it:
+   `python scripts/i18n_check.py --add research/YYYY-MM-DD/fr.json`. Rules: translate only what the
+   English says (never add, drop or soften a condition, a fee, a date, an amount or a warning); keep numbers,
+   dates, currencies, URLs and proper names (organisations, programmes, places) as they are, using the
+   official French name of an organisation only when there is a standard one (Union africaine, UNICEF,
+   Banque mondiale); keep quoted wording quoted. Then `python scripts/i18n_check.py --prune` removes entries
+   for texts that no longer exist. The fixed interface wording is in `assets/js/i18n-ui-fr.js` and
+   changes only when the interface changes.
 8. **Report.** Write `reports/YYYY-MM-DD-research.md`: new records, updated records, closing
    soon, what is open in Kinshasa, warnings, programmes that closed, and what could not be read.
 9. **Publish.** `git add -A`, commit as `Research cycle YYYY-MM-DD`, `git pull --rebase`,

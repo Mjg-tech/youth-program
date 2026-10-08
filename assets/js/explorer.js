@@ -89,10 +89,19 @@
     return value > 0 && value < 100 ? value : 0;
   }
 
+  /* In French, visitors type French words: also search the French wording that is displayed. */
+  function frenchText(rec) {
+    if (!window.YP_I18N || window.YP_I18N.lang !== "fr") return "";
+    const t = window.YP_I18N.t;
+    return " " + [rec.title, rec.organization, rec.overview, rec.country, rec.city, rec.location_type, rec.funding_type]
+      .concat(rec.category || [], (rec.audience || []).map((a) => AUDIENCE_LABELS[a]), rec.eligibility || [])
+      .map((x) => t(x || "")).join(" ").toLowerCase();
+  }
+
   function searchable(rec) {
     return [rec.title, rec.organization, rec.overview, rec.country, rec.city, rec.location_type,
       (rec.category || []).join(" "), (rec.audience || []).map((a) => AUDIENCE_LABELS[a]).join(" "),
-      (rec.eligibility || []).join(" "), rec.funding_type].join(" ").toLowerCase();
+      (rec.eligibility || []).join(" "), rec.funding_type].join(" ").toLowerCase() + frenchText(rec);
   }
 
   function apply() {
@@ -183,6 +192,8 @@
     const archive = document.getElementById("archive");
     archive.addEventListener("change", () => { state.archive = archive.checked; writeState(); render(); });
   }
+
+  window.addEventListener("yp-language", () => { if (data) render(); });
 
   document.addEventListener("DOMContentLoaded", async () => {
     initTheme();
