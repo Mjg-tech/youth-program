@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-08T12:13:45Z",
+  "last_refresh": "2026-10-09T12:05:11Z",
   "counts": {
     "total": 65,
     "archived": 1,
     "by_status": {
       "OPEN": 23,
-      "CLOSING SOON": 7,
+      "CLOSING SOON": 6,
       "UPCOMING": 20,
-      "DEADLINE PASSED": 3,
+      "DEADLINE PASSED": 4,
       "ROLLING": 3,
       "DATE UNKNOWN": 9
     },
@@ -38,23 +38,22 @@
       "d-prize-challenge-2026-2027",
       "global-leadership-challenge-2026",
       "i-am-nala-fellowship-2027",
-      "one-young-world-leading-scholarship-2026"
+      "one-young-world-leading-scholarship-2026",
+      "ustc-international-winter-camp-2027"
     ],
     "14": [
-      "aspire-leaders-program-2026-cohort-4",
       "yale-young-african-scholars-2027"
     ],
     "7": [
-      "afdb-internship-2027-session-1",
+      "aspire-leaders-program-2026-cohort-4",
       "mandela-washington-fellowship-2027",
       "tutu-leading-for-humanity-2027"
     ],
     "3": [
+      "afdb-internship-2027-session-1",
       "un-volunteers-drc-open-assignments"
     ],
-    "1": [
-      "unon-oif-young-african-interpreters-fellowship-2026"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 50,
@@ -62,5 +61,12 @@
     "blocked_or_unreachable": 3,
     "dead": 0
   },
-  "flags": []
+  "flags": [
+    {
+      "id": "eu-delegation-drc-subsidised-traineeship",
+      "type": "source_changed",
+      "since": "2026-10-09",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    }
+  ]
 }

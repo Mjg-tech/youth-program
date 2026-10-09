@@ -5510,7 +5510,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Paid",
       "funding_details": [
         "UNON call: \"a monthly stipend of USD 3,000; a one-time settling-in grant of USD 1,300; return air travel ...; medical insurance coverage arrangements.\""
@@ -6725,5 +6725,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-08"
+  "status_computed_on": "2026-10-09"
 }
