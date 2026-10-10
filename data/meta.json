@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-09T12:05:11Z",
+  "last_refresh": "2026-10-10T11:21:35Z",
   "counts": {
     "total": 65,
     "archived": 1,
@@ -46,19 +46,20 @@
     ],
     "7": [
       "aspire-leaders-program-2026-cohort-4",
-      "mandela-washington-fellowship-2027",
       "tutu-leading-for-humanity-2027"
     ],
     "3": [
       "afdb-internship-2027-session-1",
-      "un-volunteers-drc-open-assignments"
+      "mandela-washington-fellowship-2027"
     ],
-    "1": []
+    "1": [
+      "un-volunteers-drc-open-assignments"
+    ]
   },
   "watch": {
     "checked": 50,
-    "ok": 47,
-    "blocked_or_unreachable": 3,
+    "ok": 46,
+    "blocked_or_unreachable": 4,
     "dead": 0
   },
   "flags": [
