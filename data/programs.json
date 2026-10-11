@@ -1090,7 +1090,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "D-Prize: \"up to $20,000 USD to support a three-month pilot\" for selected winners."
@@ -6725,5 +6725,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-10"
+  "status_computed_on": "2026-10-11"
 }
