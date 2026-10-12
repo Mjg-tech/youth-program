@@ -1,0 +1,216 @@
+[
+  {
+    "id": "vodacom-elite-graduate-officer-programme",
+    "deadline_text": "2026 edition: 18 June 2026. On 12 October 2026 the Vodacom RDC careers page (vodacom.cd/fr/carrieres) listed 'Programme Elite' in its menu with no linked call or dates.",
+    "expected_next_cycle": "The next edition has not been announced (Vodacom RDC careers page checked 12 October 2026).",
+    "sources": [
+      {
+        "label": "Youth portal DRC: Vodacom Elite 2026",
+        "url": "https://www.youth.cd/Opportunites/OffreEmploiEntreprise/programme-vodacom-elite-2026",
+        "type": "Aggregator"
+      },
+      {
+        "label": "Vodafone careers portal (0 DRC jobs on 5 October 2026)",
+        "url": "https://jobs.vodafone.com/careers",
+        "type": "Official"
+      },
+      {
+        "label": "Vodacom RDC careers page (menu lists 'Programme Elite', no open call, 12 October 2026)",
+        "url": "https://www.vodacom.cd/fr/carrieres",
+        "type": "Official"
+      }
+    ],
+    "potential_issues": [
+      "Closed",
+      "Criteria come from a secondary source about the 2026 edition",
+      "No 2027 Elite call found on 12 October 2026; the Vodacom 'Discover Graduate' 2027 listings seen on aggregators are a different, South Africa-based programme"
+    ],
+    "action": "Watch the Vodacom RDC careers page for the next Elite edition."
+  },
+  {
+    "id": "rawbank-rawtalent-jeunes-universitaires",
+    "deadline_text": "6th edition: 07 June 2025 at 16:00, Kinshasa time. No 7th edition was found on 12 October 2026: the Rawbank recruitment site listed only 11 offers dated 22/12/2022 and no RawTalent call.",
+    "expected_next_cycle": "A 7th edition has not been announced (Rawbank recruitment site checked 12 October 2026).",
+    "potential_issues": [
+      "Closed",
+      "Requires a Bac+5 level in the 6th edition",
+      "The Rawbank recruitment site appears not to be kept up to date (newest offers dated December 2022)",
+      "Rawbank recruitment site: 'La Rawbank n'exige aucun frais pour le dépôt des candidatures'; any request for a fee is a scam"
+    ],
+    "action": "Watch the Rawbank recruitment site and Rawbank news for a 7th RawTalents edition."
+  },
+  {
+    "id": "engen-drc-jeunes-talents",
+    "last_verified": "2026-10-12",
+    "verification": "PARTIALLY VERIFIED",
+    "deadline_text": "'Les candidatures sont ouvertes du 1er août au 30 Septembre 2026' (Engen DRC page, read 12 October 2026). Selection October 2026, tests and interviews November 2026, start January 2027.",
+    "expected_next_cycle": "The 2026 call closed on 30 September 2026; the next call has not been announced (Engen DRC page, read 12 October 2026).",
+    "last_cycle_deadline": "2026-09-30",
+    "action": "Watch the Engen DRC news page for the next call."
+  },
+  {
+    "id": "orange-digital-center-drc",
+    "potential_issues": [
+      "No current calendar found online",
+      "The Orange Digital Center country site has a certificate error and could not be read",
+      "12 October 2026: the Orange Digital Center country site (orangedigitalcenters.com/country/cd) still fails with a certificate error and was not read; no current training calendar found"
+    ]
+  },
+  {
+    "id": "oif-d-clic-digital-training",
+    "last_verified": "2026-10-12",
+    "verification": "PARTIALLY VERIFIED",
+    "deadline_text": "No open call. The latest OIF online D-CLIC session (web development, mobile development, digital marketing): 'La préinscription est ouverte jusqu'au 30 juin 2026 à 23h59 heure de Paris'; courses began 13 July 2026 (OIF page, read 12 October 2026). The OIF youth portal listed no new D-CLIC call on 12 October 2026.",
+    "expected_next_cycle": "No new D-CLIC call has been announced (OIF youth portal, read 12 October 2026).",
+    "last_cycle_deadline": "2026-06-30",
+    "sources": [
+      {
+        "label": "OIF: 300 young Congolese to be trained in digital professions",
+        "url": "https://www.francophonie.org/rdc-300-jeunes-congolais-vont-etre-formes-aux-metiers-du-numerique-8406",
+        "type": "Official"
+      },
+      {
+        "label": "OIF youth portal: opportunities",
+        "url": "https://jeunesse.francophonie.org/component/content/category/11-appels-d-offres-et-concours?Itemid=101",
+        "type": "Official"
+      },
+      {
+        "label": "OIF: 3 formations en ligne aux métiers du numérique, session 2026",
+        "url": "https://www.francophonie.org/3-formations-en-ligne-aux-metiers-du-numerique-session-2026-8561",
+        "type": "Official"
+      }
+    ],
+    "action": "Watch the OIF youth portal for the next D-CLIC call."
+  },
+  {
+    "id": "oif-senghor-youth-leadership-certificate",
+    "last_verified": "2026-10-12",
+    "verification": "VERIFIED",
+    "deadline_text": "2026 call: 01/07/2026 00h00 to 25/07/2026 23h59, Africa/Cairo time (Université Senghor application page, read 12 October 2026: 'La campagne est clôturée'). No 2027 edition mentioned.",
+    "expected_next_cycle": "The 2026 call closed on 25 July 2026; the next call has not been announced (checked 12 October 2026).",
+    "action": "Watch candidature.usenghor.org for the 2027 call."
+  },
+  {
+    "id": "obama-foundation-leaders",
+    "last_verified": "2026-10-12",
+    "verification": "PARTIALLY VERIFIED",
+    "deadline_text": "'The application for the 2026-2027 Leaders program is now closed. Please check back here for updates on our 2027-2028 Obama Leaders application.' (Leaders Africa page, read 12 October 2026). The general Leaders page says applicants 'may apply in November of the preceding year'. No 2027-2028 dates posted.",
+    "expected_next_cycle": "2027-2028 Leaders application: by the official pattern, applications in November of the preceding year (November 2026), but no dates were posted on 12 October 2026.",
+    "sources": [
+      {
+        "label": "Obama Foundation Leaders",
+        "url": "https://www.obama.org/programs/leaders/",
+        "type": "Official"
+      },
+      {
+        "label": "Obama Foundation Leaders Africa",
+        "url": "https://www.obama.org/programs/leaders/africa",
+        "type": "Official"
+      }
+    ],
+    "potential_issues": [
+      "Minimum age of 24",
+      "Format (online or in person) and costs not stated on the page read",
+      "Expects an established record of community leadership",
+      "The two official pages differ on the Africa format: 'six-month, virtual' (Leaders page) versus 'eight-month, hybrid' for 35 leaders (Leaders Africa page)",
+      "Reported by secondary sources: the last Africa deadline was 12 December 2025, with at least 3 years of experience in the issue area"
+    ],
+    "action": "Check the Leaders Africa page in November 2026 for the 2027-2028 application."
+  },
+  {
+    "id": "mastercard-foundation-associates-programme",
+    "last_verified": "2026-10-12",
+    "verification": "PARTIALLY VERIFIED",
+    "deadline_text": "\"Roles will be posted on an ongoing basis\" (Mastercard Foundation page, read 12 October 2026). Only Yes Youth Employment Service ('Apply for South and Southern African roles') is shown open; Talent 2 Africa, Jobberman, Shortlist Futures and Talenteum are shown 'Closed for Applications'.",
+    "expected_next_cycle": "Roles are posted on an ongoing basis by partner platforms; on 12 October 2026 only the South and Southern Africa platform was open and no platform named the DRC.",
+    "action": "Check the Mastercard Foundation Associates page for remote roles or a partner covering the DRC."
+  },
+  {
+    "id": "world-bank-wbg-pioneers-internships",
+    "last_verified": "2026-10-12",
+    "verification": "PARTIALLY VERIFIED",
+    "overview": "Paid internship programme (WBG Pioneers) for final-year undergraduates and master's or PhD students, with two application windows a year: January to February and July to August.",
+    "deadline_text": "Two windows a year: Spring/Summer 'Applications January – February'; Winter/Fall 'Applications July – August', selection in October (World Bank page, read 12 October 2026). Reported by secondary sources: the 2026 Winter/Fall window ran 13 July to 12 August 2026.",
+    "expected_next_cycle": "Next window expected January to February 2027 (Spring/Summer cycle), by the pattern on the World Bank page; exact dates not posted on 12 October 2026.",
+    "last_cycle_deadline": "2026-08-12",
+    "eligibility": [
+      "Final-year undergraduate students, or students currently pursuing a master's degree or PhD",
+      "Citizen of a WBG member country",
+      "Fluency in English",
+      "Between 0 and 6 years of professional working experience"
+    ],
+    "experience_requirement": "Between 0 and 6 years of professional working experience",
+    "education_requirement": "Final-year undergraduate, or currently pursuing a master's degree or PhD",
+    "language_requirement": "Fluency in English",
+    "nationality_requirements": [
+      "Must be a citizen of a WBG member country"
+    ],
+    "funding_details": [
+      "World Bank page: \"Earn a competitive hourly salary during the program.\" No amount stated.",
+      "Travel allowance not mentioned on the page read."
+    ],
+    "sources": [
+      {
+        "label": "World Bank Group internships",
+        "url": "https://www.worldbank.org/en/about/careers/programs-and-internships/internship",
+        "type": "Official"
+      },
+      {
+        "label": "Sika Finance",
+        "url": "https://www.sikafinance.com/marches/la-banque-mondiale-ouvre-les-candidatures-de-son-programme-de-stages-2026_59252",
+        "type": "Aggregator"
+      },
+      {
+        "label": "After School Africa (2026 Winter/Fall window, secondary)",
+        "url": "https://www.afterschoolafrica.com/107745/world-bank-group-wbg-pioneers-internship-program/",
+        "type": "Aggregator"
+      }
+    ],
+    "potential_issues": [
+      "Closed until the next window (January to February 2027)",
+      "Exact window dates come from secondary sources",
+      "Listed tracks are based in Washington, DC and Seoul"
+    ],
+    "action": "Check the World Bank internship page in January 2027 for the Spring/Summer window."
+  },
+  {
+    "id": "european-forum-alpbach-scholarships",
+    "last_verified": "2026-10-12",
+    "verification": "VERIFIED",
+    "deadline_text": "No 2027 call yet (FAQ page, read 12 October 2026). For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'",
+    "expected_next_cycle": "Applications for the 2027 Forum expected around March 2027, by analogy with 2026. Not announced on 12 October 2026.",
+    "action": "Check the Alpbach scholarship FAQ in early 2027 for the 2027 call."
+  },
+  {
+    "id": "tony-elumelu-entrepreneurship-programme-2027",
+    "last_verified": "2026-10-12",
+    "verification": "VERIFIED",
+    "deadline_text": "'Every year, the application portal opens on the 1st of January till midnight on the 1st of March' (TEF programme page, read 12 October 2026). No 2027-specific dates on the page.",
+    "age_min": 18,
+    "age_requirement": "Africans who are 18 years and above",
+    "eligibility": [
+      "Africans who are 18 years and above",
+      "Reside in Africa and plan to establish the business in Africa",
+      "Have a business idea or a business no older than 5 years",
+      "A minimum score in the application's business assessment test",
+      "Personal and business details are verified by independent third parties"
+    ],
+    "potential_issues": [
+      "Requires a business idea or a business no older than 5 years",
+      "The page gives a yearly pattern, not dates specific to 2027"
+    ],
+    "action": "Read the official page, then apply between 2027-01-01 and 2027-03-01."
+  },
+  {
+    "id": "mckinsey-forward-fall-2026",
+    "last_verified": "2026-10-12",
+    "verification": "VERIFIED",
+    "deadline_text": "Fall 2026 call closed on 5 October 2026. FAQ on 12 October 2026: 'Applications are not open at the moment. However, you can still register your interest ... to be the first to receive email notifications when a new application cycle opens in your country.'",
+    "expected_next_cycle": "Next cohort not announced; the FAQ (read 12 October 2026) invites people to register interest to be told when a new cycle opens.",
+    "last_cycle_deadline": "2026-10-05",
+    "potential_issues": [
+      "Closed on 5 October 2026; next cohort not announced"
+    ],
+    "action": "Register interest on the McKinsey.org Forward page to be told when the next cycle opens."
+  }
+]

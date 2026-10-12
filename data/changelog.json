@@ -2,6 +2,954 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-10-12",
+      "id": "un-agencies-kinshasa-internships",
+      "title": "UN agencies' internships in Kinshasa (UNDP, UNOPS, UN-Habitat, UNCDF, OHCHR, MONUSCO, WHO, UNRC)",
+      "field": "deadline_text",
+      "old": "No UN internship in Kinshasa was open for applications on 5 October 2026 apart from the two UNFPA postings.",
+      "new": "No open UN internship in Kinshasa was found on 12 October 2026 on the UNFPA, UNDP, UNICEF, WFP, UNHCR and UN Careers (Secretariat/MONUSCO) portals; untalent.org and unjobs.org blocked automated reading, and the UNOPS and WHO internship portals could not be read."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "un-agencies-kinshasa-internships",
+      "title": "UN agencies' internships in Kinshasa (UNDP, UNOPS, UN-Habitat, UNCDF, OHCHR, MONUSCO, WHO, UNRC)",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unicef-drc-internships",
+      "title": "UNICEF DRC internships (Kinshasa, Goma, Bunia)",
+      "field": "deadline_text",
+      "old": "The 2026 round closed on 25 May 2026.",
+      "new": "The 2026 round closed on 25 May 2026. A search of jobs.unicef.org on 12 October 2026 (Kinshasa, Congo, RDC, intern, stage) showed no internship in the DRC."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unfpa-kinshasa-logistics-administrative-support-intern",
+      "title": "UNFPA internship: Logistics Administrative Support (Kinshasa)",
+      "field": "deadline_text",
+      "old": "Posted 23 September 2026; closes 7 October 2026 at 22:59 UTC (23:59 Kinshasa time), as read on UNFPA's own posting data on 5 October 2026.",
+      "new": "Posted 23 September 2026; closes 7 October 2026 at 22:59 UTC (23:59 Kinshasa time), as read on UNFPA's own posting data on 5 October 2026. Closed: on 12 October 2026 the posting no longer appears in UNFPA's careers data and UNFPA lists no position in Kinshasa."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "field": "deadline_text",
+      "old": "Posted 23 September 2026; closes 7 October 2026 at 22:59 UTC (23:59 Kinshasa time), as read on UNFPA's own posting data on 5 October 2026.",
+      "new": "Posted 23 September 2026; closes 7 October 2026 at 22:59 UTC (23:59 Kinshasa time), as read on UNFPA's own posting data on 5 October 2026. Closed: on 12 October 2026 the posting no longer appears in UNFPA's careers data and UNFPA lists no position in Kinshasa."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "who-internship-programme",
+      "title": "WHO internship programme (headquarters and country offices)",
+      "field": "deadline_text",
+      "old": "\"Positions posted continuously with varying requirements and deadlines\" (WHO page, read 5 October 2026).",
+      "new": "\"As internship opportunities are posted on a continuous basis, with each containing different requirements and application deadlines, we encourage you to check the internship page regularly\" (WHO page, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "who-internship-programme",
+      "title": "WHO internship programme (headquarters and country offices)",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unesco-internship-programme",
+      "title": "UNESCO internship programme (headquarters and field offices)",
+      "field": "deadline_text",
+      "old": "31/12/2026 on the portal for the sector postings; one Paris posting (Internal Oversight Services) closed 30/06/2026.",
+      "new": "\"Application deadline: 31 December 2026 (Midnight)\" (UNESCO posting 'INTERNSHIP: All Sectors/Bureaus', read 12 October 2026). Thirteen of the 14 internship postings on the portal close 31/12/2026."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unesco-internship-programme",
+      "title": "UNESCO internship programme (headquarters and field offices)",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Unpaid"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unesco-internship-programme",
+      "title": "UNESCO internship programme (headquarters and field offices)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Not specified",
+        "stipend": "Not covered",
+        "flight": "Not covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not covered",
+        "insurance": "Partially covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unesco-internship-programme",
+      "title": "UNESCO internship programme (headquarters and field offices)",
+      "field": "eligibility",
+      "old": [
+        "Recent graduates or final-year university students (aggregator)",
+        "A 2023 UNESCO Kinshasa posting required a master's/doctorate or current enrolment in graduate studies"
+      ],
+      "new": [
+        "At least 20 years old",
+        "Third/final-year bachelor's student, master's or PhD student, or graduate of the last 12 months",
+        "Excellent English or French",
+        "Good computer skills"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unesco-internship-programme",
+      "title": "UNESCO internship programme (headquarters and field offices)",
+      "field": "nationality_requirements",
+      "old": [
+        "Open to national and international candidates (2023 Kinshasa posting)"
+      ],
+      "new": [
+        "No nationality condition stated on the posting"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unesco-internship-programme",
+      "title": "UNESCO internship programme (headquarters and field offices)",
+      "field": "official_application_url",
+      "old": "https://careers.unesco.org/go/Internships-and-volunteers/783902/",
+      "new": "https://careers.unesco.org/job/Multiple-INTERNSHIP-All-SectorsBureaus/1331682557/"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unesco-internship-programme",
+      "title": "UNESCO internship programme (headquarters and field offices)",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "african-union-youth-volunteer-corps",
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "field": "deadline_text",
+      "old": "13th cohort: applications from 26 March to 26 April 2026 (11:59 pm EAT) on jobs.au.int. No 14th call was found on 5 October 2026.",
+      "new": "13th cohort: applications from 26 March to 26 April 2026 (11:59 pm EAT) on jobs.au.int. No 14th call was found on 12 October 2026 on au.int or jobs.au.int."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "african-union-commission-internship-programme-2026",
+      "title": "African Union Commission Internship Programme (2026 posting)",
+      "field": "deadline_text",
+      "old": "Posting runs from 16 February to 31 December 2026 (AU careers posting, read 5 October 2026). The au.int internship page itself states no deadline.",
+      "new": "Posting runs from 16 February to 31 December 2026 (AU careers posting 1506, read 12 October 2026). The au.int internship page itself states no deadline."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Internship Programme for Africa (RAF), call open until 31 December 2026",
+      "field": "deadline_text",
+      "old": "Posted 21 September 2026; closes 31 December 2026, 11:59 PM (FAO careers, job 2601986, read 5 October 2026).",
+      "new": "Posted 21 September 2026; closes 31 December 2026, 11:59 PM (FAO careers, job 2601980, read 12 October 2026). FAO notes that the time shown depends on the reader's device settings."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Internship Programme for Africa (RAF), call open until 31 December 2026",
+      "field": "funding_type",
+      "old": "Unpaid",
+      "new": "Funding Unclear"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Internship Programme for Africa (RAF), call open until 31 December 2026",
+      "field": "eligibility",
+      "old": [
+        "Aged 18 or older",
+        "Completed secondary school",
+        "Relevant working or research experience in one of FAO's fields",
+        "One FAO language",
+        "National of an FAO Member",
+        "Appropriate residence or immigration status in the country of assignment"
+      ],
+      "new": [
+        "Aged 21 to 30",
+        "Student or recent graduate of a WHED-listed institution in a field relevant to FAO",
+        "Working knowledge of one FAO language",
+        "National of an FAO Member",
+        "Appropriate residence or immigration status in the country of assignment",
+        "No previous FAO internship; no parent or sibling employed by FAO"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Internship Programme for Africa (RAF), call open until 31 December 2026",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Internship Programme for Africa (RAF), call open until 31 December 2026",
+      "field": "official_application_url",
+      "old": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601986&lang=en",
+      "new": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Internship Programme for Africa (RAF), call open until 31 December 2026",
+      "field": "official_information_url",
+      "old": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601986&lang=en",
+      "new": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "unfpa-global-internship-roster-2026",
+      "title": "UNFPA Global Internship Roster 2026",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "afdb-internship-2027-session-1",
+      "title": "African Development Bank (AfDB) Internship Programme 2027, session 1",
+      "field": "deadline_text",
+      "old": "Applications open from 28 September to 12 October 2026 (secondary sources; the AfDB page returned HTTP 403 to the reader).",
+      "new": "Applications open from 28 September to 12 October 2026; no closing time stated (secondary sources, re-read 12 October 2026; the AfDB page again returned HTTP 403, a Cloudflare bot check, to both readers)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "afdb-internship-2027-session-1",
+      "title": "African Development Bank (AfDB) Internship Programme 2027, session 1",
+      "field": "eligibility",
+      "old": [
+        "Between the age of majority and 30 years old",
+        "Enrolled in a master's programme or having completed one within the last year",
+        "National of an AfDB member country (the DRC is an AfDB member, but this is not stated on the pages read)"
+      ],
+      "new": [
+        "Reported by secondary sources: of legal age and no older than 30 (sources differ on the reference date)",
+        "Reported by secondary sources: enrolled in a master's programme or having obtained the degree within the past year",
+        "Reported by secondary sources: national of an AfDB member country (a single nationality is declared); the DRC is an AfDB member, but this was not read on an AfDB page"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "field": "deadline_text",
+      "old": "APPLICATION DEADLINE: 16:00/4:00 PM GMT on Tuesday, October 13, 2026 (application instructions). Apply page: 'September 22, 2026 | Application opens'; 'October 13, 2026 | Application deadline'.",
+      "new": "APPLICATION DEADLINE: 16:00/4:00 PM GMT on Tuesday, October 13, 2026 (application instructions PDF, read 12 October 2026). Apply page: application opens September 22, 2026; application deadline October 13, 2026."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "tutu-leading-for-humanity-2027",
+      "title": "Desmond & Leah Tutu Legacy Foundation: Leading for Humanity 2027",
+      "field": "deadline_text",
+      "old": "14 October 2026 (read on the Foundation's call for nominations, 5 October 2026).",
+      "new": "\"Deadline: 14 October 2026.\" Nominations opened 11 September 2026 (Foundation's call for nominations, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "tutu-leading-for-humanity-2027",
+      "title": "Desmond & Leah Tutu Legacy Foundation: Leading for Humanity 2027",
+      "field": "opens_on",
+      "old": "",
+      "new": "2026-09-11"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "aspire-leaders-program-2026-cohort-4",
+      "title": "Aspire Leaders Program (2026 Cohort 4)",
+      "field": "deadline_text",
+      "old": "Applications for Cohort 4 of the 2026 Aspire Leaders Program are OPEN! Apply before the October 16 deadline. (No time or time zone stated.)",
+      "new": "Applications for Cohort 4 of the 2026 Aspire Leaders Program are open, with a deadline of October 16 (Aspire Institute home page, read 12 October 2026). No time or time zone stated. Programme page: Cohort 4 runs October 21 - November 30."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "yale-young-african-scholars-2027",
+      "title": "Yale Young African Scholars Program 2027",
+      "field": "deadline_text",
+      "old": "Two pools: Early Action closes 11:59 PM ET on 20 October 2026 (decisions by 18 December 2026); Regular Decision closes 20 January 2027 (decisions by 20 March 2027). Read on the YYAS site, 5 October 2026.",
+      "new": "All times Eastern Time (US). Early Action (Pool #1): 11:59 PM ET on 20 October 2026, decisions by 18 December 2026. Regular Decision (Pool #2): 11:59 PM ET on 20 January 2027, decisions by 20 March 2027 (YYAS timeline page, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "d-prize-challenge-2026-2027",
+      "title": "D-Prize Challenge 2026/2027",
+      "field": "deadline_text",
+      "old": "Midnight Pacific time: early submission 25 October 2026, regular submission 15 November 2026, extension deadline 6 December 2026 (D-Prize site, read 5 October 2026).",
+      "new": "Midnight PT (Pacific Time): early submission 25 October 2026, regular submission 15 November 2026, extension 6 December 2026 (D-Prize site, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "i-am-nala-fellowship-2027",
+      "title": "I AM NALA Fellowship 2027",
+      "field": "deadline_text",
+      "old": "31 October 2026, on the organiser's Google Form (read 5 October 2026); shortlisted candidates notified by 6 November 2026. The call is not listed on nalafem.org.",
+      "new": "\"Deadline: 31 October 2026\", on the organiser's Google Form (read 12 October 2026); only shortlisted candidates notified by 6 November 2026. nalafem.org could not be reached on 12 October 2026."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "i-am-nala-fellowship-2027",
+      "title": "I AM NALA Fellowship 2027",
+      "field": "eligibility",
+      "old": [
+        "Woman aged 18 to 40",
+        "Refugee, internally displaced person or stateless",
+        "African, including displaced Africans in the diaspora",
+        "Leadership in politics, campaigns, peacebuilding or advocacy"
+      ],
+      "new": [
+        "Woman aged 18 to 40",
+        "Refugee, internally displaced person or stateless (the form says other applications will not be considered)",
+        "African, including displaced Africans in the diaspora",
+        "Leadership in politics, campaigns, peacebuilding or advocacy"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "one-young-world-leading-scholarship-2026",
+      "title": "One Young World Leading Scholarship 2026",
+      "field": "deadline_text",
+      "old": "Application deadline: 31 October 2026. Opening date: 11 June 2026. Scholars are selected on a rolling basis and notified between June and October 2026.",
+      "new": "Application deadline: 31 October 2026. Opening date: 11 June 2026. Scholars are selected on a rolling basis and notified between June and October 2026. The same page also shows a heading \"Application Deadline: Rolling\" (read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "global-leadership-challenge-2026",
+      "title": "Global Leadership Challenge 2026",
+      "field": "deadline_text",
+      "old": "Application Closes: 5 November 2026. Applications are reviewed on a rolling basis, so don't wait until the deadline.",
+      "new": "Application Opens: 29 September 2026. Application Closes: 5 November 2026. Applications are reviewed on a rolling basis, so don't wait until the deadline (read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "global-leadership-challenge-2026",
+      "title": "Global Leadership Challenge 2026",
+      "field": "application_fee",
+      "old": "Unknown",
+      "new": "No fee stated"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "global-leadership-challenge-2026",
+      "title": "Global Leadership Challenge 2026",
+      "field": "eligibility",
+      "old": [
+        "A student currently enrolled in a Master's or PhD programme, or a young professional aged between 21 and 30",
+        "Demonstrated commitment to responsible leadership through extra-curricular activities and/or work experience",
+        "Available for around five half-days from 10 to 14 December 2026"
+      ],
+      "new": [
+        "A student currently enrolled in a Master's or PhD programme, or a young professional aged between 21 and 30",
+        "Has finished undergraduate studies",
+        "Demonstrated commitment to responsible leadership through extra-curricular activities and/or work experience",
+        "Available for around five half-days from 10 to 14 December 2026; GLC Members can participate virtually from around the world"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "ustc-international-winter-camp-2027",
+      "title": "USTC International Winter Camp 2027",
+      "field": "deadline_text",
+      "old": "Submit the application online with completed and required materials by November 8, 2026 (UTC/GMT+8)",
+      "new": "Submit the application online with completed and required materials by November 8, 2026 (UTC/GMT+8) (USTC International College page, read 12 October 2026)"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "anzisha-fellowship-2027",
+      "title": "Anzisha Fellowship 2027",
+      "field": "deadline_text",
+      "old": "Applications open 29 September 2026 and close 10 November 2026 (read on anzisha.org, 5 October 2026); fellows announced May 2027.",
+      "new": "Applications for the 2027 intake open on 29 September 2026; \"10 November 2026 Applications Closed\"; evaluation November 2026 to March 2027; fellows announced May 2027 (anzisha.org, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "eu-delegation-drc-subsidised-traineeship",
+      "title": "EU Delegation to the DRC: subsidised traineeship for young graduates",
+      "field": "deadline_text",
+      "old": "The 2026 round closed in early 2026 (a search result gave 8 February 2026; an earlier note gave 25 January).",
+      "new": "\"Délai pour l'envoi des candidatures : 25 janvier 2026.\" The page (published 15.01.2026) is marked Expired (EEAS page, read 12 October 2026). No 2027 call was found."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "eu-delegation-drc-subsidised-traineeship",
+      "title": "EU Delegation to the DRC: subsidised traineeship for young graduates",
+      "field": "program_dates",
+      "old": "Provisional start 1 October 2026 for the 2026 round",
+      "new": "2026 round: two traineeships of up to 6 months in the Political, Press and Information Section, with provisional starts in March and October 2026"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "eu-delegation-drc-subsidised-traineeship",
+      "title": "EU Delegation to the DRC: subsidised traineeship for young graduates",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Paid"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "eu-delegation-drc-subsidised-traineeship",
+      "title": "EU Delegation to the DRC: subsidised traineeship for young graduates",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Not applicable",
+        "stipend": "Covered",
+        "flight": "Not covered",
+        "accommodation": "Not covered",
+        "meals": "Not specified",
+        "visa": "Not covered",
+        "insurance": "Not covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "id": "eu-delegation-drc-subsidised-traineeship",
+      "title": "EU Delegation to the DRC: subsidised traineeship for young graduates",
+      "field": "eligibility",
+      "old": [],
+      "new": [
+        "Only candidates currently resident in the DRC or near Kinshasa are considered",
+        "University degree, preferably in political science, international relations, humanities, or information and communication sciences",
+        "No more than one year of professional experience after graduation when the traineeship agreement is signed",
+        "Excellent French, good English, strong writing skills",
+        "Skills in social media, digital content production and photo/video software; basic knowledge of the EU and its work in the DRC",
+        "General eligibility for a subsidised traineeship: Article 8 of Decision ADMIN(2017)28"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "eu-delegation-drc-subsidised-traineeship",
+      "title": "EU Delegation to the DRC: subsidised traineeship for young graduates",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "youth-global-forum-2027-paris",
+      "title": "Youth Global Forum 2027 (Paris)",
+      "field": "application_deadline",
+      "old": "2026-11-18",
+      "new": "2026-11-20"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "youth-global-forum-2027-paris",
+      "title": "Youth Global Forum 2027 (Paris)",
+      "field": "deadline_text",
+      "old": "\"Deadline for funded applications | 18 NOVember 2026\" (organiser's page, read 5 October 2026).",
+      "new": "\"Deadline for funded applications | 20 NOVember 2026\" (organiser's page, read 12 October 2026; the same page showed 18 November 2026 on 5 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "youth-global-forum-2027-paris",
+      "title": "Youth Global Forum 2027 (Paris)",
+      "field": "participation_fee",
+      "old": "USD 540 (Forum Admission) or USD 699 (Self Funded) for guaranteed seats",
+      "new": "USD 399.00 (Forum Admission) or USD 699.0 (Self-Funded) for guaranteed seats, as listed on 12 October 2026"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "cermet-congo-junior-graphic-designer-kinshasa",
+      "title": "CERMET-CONGO: Infographe Junior (job or internship, Kinshasa)",
+      "field": "deadline_text",
+      "old": "No deadline shown on the listing; the listing carries the date 2 October 2026.",
+      "new": "No deadline shown on the listing; the listing is dated 'Publiée le 09.10.2026' (emploi.cd, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "cermet-congo-junior-graphic-designer-kinshasa",
+      "title": "CERMET-CONGO: Infographe Junior (job or internship, Kinshasa)",
+      "field": "eligibility",
+      "old": [
+        "Contract types listed: fixed-term (CDD) and internship",
+        "Level of study: pre-baccalaureate or baccalaureate",
+        "Skills listed: Illustrator, InDesign, Photoshop, graphic design"
+      ],
+      "new": [
+        "Contract types listed: CDD and internship ('CDD - Stage')",
+        "Experience level: student, young graduate or beginner under 2 years",
+        "At least a 'diplôme d'état'; a certificate or diploma in graphic design is an asset",
+        "French at a good level and at least one local language",
+        "Photoshop, Illustrator, InDesign, Canva"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "transsion-infinix-intern-admin-assistant-kinshasa",
+      "title": "Transsion / Infinix: Stagiaire Assistant Administratif (Kinshasa)",
+      "field": "deadline_text",
+      "old": "No deadline shown on the listing; the listing carries the date 2 October 2026.",
+      "new": "No deadline shown on the listing; the listing is dated 'Publiée le 09.10.2026' (emploi.cd, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "transsion-infinix-intern-admin-assistant-kinshasa",
+      "title": "Transsion / Infinix: Stagiaire Assistant Administratif (Kinshasa)",
+      "field": "eligibility",
+      "old": [
+        "Bac+3 to Bac+5 and above",
+        "Experience level: student or young graduate",
+        "Key skills listed: administration, archiving, assistance, PowerPoint, reporting, secretarial work, Word"
+      ],
+      "new": [
+        "University degree, or final year of studies, in management, business administration, economics, commerce or a related field",
+        "Recent graduates are strongly encouraged to apply",
+        "Fluent English is mandatory",
+        "Microsoft Office (Excel, Word, PowerPoint)",
+        "Level of study listed: Bac+3 to Bac+5 and above"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "transsion-infinix-intern-communication-content-kinshasa",
+      "title": "Transsion / Infinix: Stagiaire en Communication et Création de Contenu (Kinshasa)",
+      "field": "deadline_text",
+      "old": "No deadline shown on the listing; the listing carries the date 2 October 2026.",
+      "new": "No deadline shown on the listing; the listing is dated 'Publiée le 09.10.2026' (emploi.cd, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "transsion-infinix-intern-communication-content-kinshasa",
+      "title": "Transsion / Infinix: Stagiaire en Communication et Création de Contenu (Kinshasa)",
+      "field": "eligibility",
+      "old": [
+        "Bac+3 to Bac+5 and above",
+        "Experience level: student or young graduate",
+        "Key skills listed: communication, digital communication, design, graphics, multimedia"
+      ],
+      "new": [
+        "Final year of studies or recent graduate in communication, marketing, multimedia, audiovisual production, graphic design, graphic arts, digital communication or a related field",
+        "English is mandatory",
+        "Prior professional experience is not required ('n'est pas obligatoire')",
+        "Useful skills: photography, video, editing, photo retouching, graphic design, social media content"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "world-vision-administration-intern-kinshasa",
+      "title": "World Vision: Stagiaire en Administration (Kinshasa)",
+      "field": "deadline_text",
+      "old": "No publication date or deadline on the page read.",
+      "new": "No publication date or deadline in the text of the listing; the page metadata dates it 29 April 2025 (lesopportunites.com, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "world-vision-administration-intern-kinshasa",
+      "title": "World Vision: Stagiaire en Administration (Kinshasa)",
+      "field": "funding_type",
+      "old": "Unpaid",
+      "new": "Funding Unclear"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "debout-bilenge-2",
+      "title": "Debout Bilenge 2: capacity building for young leaders (Kinshasa)",
+      "field": "deadline_text",
+      "old": "Applications ran from 13 March to 5 April 2026.",
+      "new": "Applications ran from 13 March to 5 April 2026 (ACP, read 12 October 2026). The EU Delegation in the DRC published the list of 21 young people selected for cohort 2 on 28 May 2026 (EEAS, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "debout-bilenge-2",
+      "title": "Debout Bilenge 2: capacity building for young leaders (Kinshasa)",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fijec-congolese-young-entrepreneurs-forum",
+      "title": "FIJEC: Forum d'Innovation des Jeunes Entrepreneurs Congolais",
+      "field": "deadline_text",
+      "old": "5th edition: registrations 5 to 29 July 2026.",
+      "new": "5th edition: 'Date limite : du 05 au 29 juillet 2026' (Opportunité pour tous, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "nrc-nashiriki-internship-programme-drc",
+      "title": "NRC Nashiriki internship programme for young graduates (DRC)",
+      "field": "deadline_text",
+      "old": "Closed when checked on 28 September 2026.",
+      "new": "No deadline in the listing (dated 6 October 2025); the NRC job it linked to (no. 19202) is no longer on NRC's careers portal (read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "nrc-nashiriki-internship-programme-drc",
+      "title": "NRC Nashiriki internship programme for young graduates (DRC)",
+      "field": "eligibility",
+      "old": [],
+      "new": [
+        "Reported by secondary sources: young graduates aged 18 to 25",
+        "Reported: degree in social sciences, project management, rural development, law, economics, education sciences or a related field",
+        "Reported: French; MS Office",
+        "Reported: must live in the duty station"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "nrc-nashiriki-internship-programme-drc",
+      "title": "NRC Nashiriki internship programme for young graduates (DRC)",
+      "field": "age_max",
+      "old": null,
+      "new": 25
+    },
+    {
+      "date": "2026-10-12",
+      "id": "youthconnekt-africa-summit-2026",
+      "title": "YouthConnekt Africa Summit 2026 (Kigali)",
+      "field": "deadline_text",
+      "old": "Registration is open; no closing date was found.",
+      "new": "The official site shows a 'Register YCA 2026' link; no closing date or 2026 dates are given on youthconnektafrica.org (read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "youthconnekt-africa-summit-2026",
+      "title": "YouthConnekt Africa Summit 2026 (Kigali)",
+      "field": "program_dates",
+      "old": "25 to 27 November 2026, Kigali (eighth edition, theme 'Shape the Generational Mission')",
+      "new": "25 to 27 November 2026, Kigali (eighth edition, theme 'Shape the Generational Mission'): reported by The New Times, 11 June 2026; not stated on the official site"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "youthconnekt-africa-summit-2026",
+      "title": "YouthConnekt Africa Summit 2026 (Kigali)",
+      "field": "official_application_url",
+      "old": "",
+      "new": "https://qtems.qtsoftwareltd.com/p/EMS-EVT-ORG-youth-connekt-africa-yca-summit-26-registration-other-d7cfb850931648d58d2af9c7bf595136-20364"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "youthconnekt-africa-summit-2026",
+      "title": "YouthConnekt Africa Summit 2026 (Kigali)",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "deadline_text",
+      "old": "December 31st, 2026 (secondary source).",
+      "new": "Closure date '31/Dec/2026, 11:59:00 PM'; the page notes the time shown follows the settings of the viewer's device (FAO Jobs, job 2601986, read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "opens_on",
+      "old": "",
+      "new": "2026-09-21"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Unpaid"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Not applicable",
+        "stipend": "Not covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "application_fee",
+      "old": "Unknown",
+      "new": "No fee stated"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "eligibility",
+      "old": [
+        "Aged 18 or older",
+        "Completed secondary school",
+        "National of an FAO member country"
+      ],
+      "new": [
+        "Completed secondary school",
+        "Aged 18 or older",
+        "National of an FAO Member",
+        "Working knowledge of at least one FAO language",
+        "Appropriate residence or immigration status in the country of assignment before joining",
+        "Not eligible if a parent, sibling or child works for FAO"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "nationality_requirements",
+      "old": [
+        "Nationals of FAO member countries"
+      ],
+      "new": [
+        "Nationals of FAO Members"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "official_application_url",
+      "old": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl",
+      "new": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601986&lang=en"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601986&lang=en"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "verification",
+      "old": "NEEDS VERIFICATION",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "changement7-journalism-intern-kinshasa",
+      "title": "Changement7.net: Stagiaire en journalisme (Kinshasa)",
+      "field": "deadline_text",
+      "old": "Posted on LinkedIn on 1 October 2026; no deadline stated (read 5 October 2026).",
+      "new": "LinkedIn shows the posting as '2 weeks ago' and still accepting applications; no deadline stated (read 12 October 2026)."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "vodacom-elite-graduate-officer-programme",
+      "title": "Vodacom Elite: Graduate Officer programme (Kinshasa)",
+      "field": "deadline_text",
+      "old": "2026 edition: 18 June 2026. On 5 October 2026 the Vodafone careers portal showed 0 jobs for the DRC.",
+      "new": "2026 edition: 18 June 2026. On 12 October 2026 the Vodacom RDC careers page (vodacom.cd/fr/carrieres) listed 'Programme Elite' in its menu with no linked call or dates."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "rawbank-rawtalent-jeunes-universitaires",
+      "title": "Rawbank RawTalent: Jeunes Universitaires",
+      "field": "deadline_text",
+      "old": "6th edition: 07 June 2025 at 16:00, Kinshasa time. No 7th edition was found on 5 October 2026.",
+      "new": "6th edition: 07 June 2025 at 16:00, Kinshasa time. No 7th edition was found on 12 October 2026: the Rawbank recruitment site listed only 11 offers dated 22/12/2022 and no RawTalent call."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "engen-drc-jeunes-talents",
+      "title": "Jeunes Talents Engen DRC (Kinshasa and Grand Katanga)",
+      "field": "deadline_text",
+      "old": "The 2026 call ran from 1 August to 30 September 2026 (Engen DRC page, read 5 October 2026).",
+      "new": "'Les candidatures sont ouvertes du 1er août au 30 Septembre 2026' (Engen DRC page, read 12 October 2026). Selection October 2026, tests and interviews November 2026, start January 2027."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "oif-d-clic-digital-training",
+      "title": "D-CLIC: digital training with the OIF (Kinshasa and Matadi)",
+      "field": "deadline_text",
+      "old": "No open call. An OIF online D-CLIC call (web development, mobile development, digital marketing) closed on 29 November 2025.",
+      "new": "No open call. The latest OIF online D-CLIC session (web development, mobile development, digital marketing): 'La préinscription est ouverte jusqu'au 30 juin 2026 à 23h59 heure de Paris'; courses began 13 July 2026 (OIF page, read 12 October 2026). The OIF youth portal listed no new D-CLIC call on 12 October 2026."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "oif-senghor-youth-leadership-certificate",
+      "title": "OIF and Université Senghor: certificate 'Leadership des jeunes en environnement multilatéral'",
+      "field": "deadline_text",
+      "old": "2026 call closed on 25 July 2026 at 23:59 (Université Senghor application page, read 5 October 2026: \"La campagne est clôturée\").",
+      "new": "2026 call: 01/07/2026 00h00 to 25/07/2026 23h59, Africa/Cairo time (Université Senghor application page, read 12 October 2026: 'La campagne est clôturée'). No 2027 edition mentioned."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "deadline_text",
+      "old": "'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply in November of the preceding year to join the program.' Exact dates not announced.",
+      "new": "'The application for the 2026-2027 Leaders program is now closed. Please check back here for updates on our 2027-2028 Obama Leaders application.' (Leaders Africa page, read 12 October 2026). The general Leaders page says applicants 'may apply in November of the preceding year'. No 2027-2028 dates posted."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "mastercard-foundation-associates-programme",
+      "title": "Mastercard Foundation Associates programme",
+      "field": "deadline_text",
+      "old": "\"Roles will be posted on an ongoing basis\" (Mastercard Foundation page, read 5 October 2026). Aggregators report a Jobberman window to 21 October 2026, but the official page lists Jobberman as closed.",
+      "new": "\"Roles will be posted on an ongoing basis\" (Mastercard Foundation page, read 12 October 2026). Only Yes Youth Employment Service ('Apply for South and Southern African roles') is shown open; Talent 2 Africa, Jobberman, Shortlist Futures and Talenteum are shown 'Closed for Applications'."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "world-bank-wbg-pioneers-internships",
+      "title": "World Bank Group Pioneers internship programme",
+      "field": "deadline_text",
+      "old": "Two application windows a year: \"Applications January – February\" and \"Applications July – August\" (World Bank page, read 5 October 2026). Secondary sources report the latest window as 13 July to 12 August 2026.",
+      "new": "Two windows a year: Spring/Summer 'Applications January – February'; Winter/Fall 'Applications July – August', selection in October (World Bank page, read 12 October 2026). Reported by secondary sources: the 2026 Winter/Fall window ran 13 July to 12 August 2026."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "world-bank-wbg-pioneers-internships",
+      "title": "World Bank Group Pioneers internship programme",
+      "field": "eligibility",
+      "old": [],
+      "new": [
+        "Final-year undergraduate students, or students currently pursuing a master's degree or PhD",
+        "Citizen of a WBG member country",
+        "Fluency in English",
+        "Between 0 and 6 years of professional working experience"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "world-bank-wbg-pioneers-internships",
+      "title": "World Bank Group Pioneers internship programme",
+      "field": "nationality_requirements",
+      "old": [],
+      "new": [
+        "Must be a citizen of a WBG member country"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "european-forum-alpbach-scholarships",
+      "title": "European Forum Alpbach scholarship programme",
+      "field": "deadline_text",
+      "old": "No 2027 call yet. For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'",
+      "new": "No 2027 call yet (FAQ page, read 12 October 2026). For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "tony-elumelu-entrepreneurship-programme-2027",
+      "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
+      "field": "deadline_text",
+      "old": "Every year, the application portal opens on the 1st of January till midnight on the 1st of March, on www.TEFConnect.com.",
+      "new": "'Every year, the application portal opens on the 1st of January till midnight on the 1st of March' (TEF programme page, read 12 October 2026). No 2027-specific dates on the page."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "tony-elumelu-entrepreneurship-programme-2027",
+      "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
+      "field": "eligibility",
+      "old": [
+        "Entrepreneurs with business ideas, in all 54 African countries",
+        "A minimum score in the application's business assessment test",
+        "Personal and business details are verified by independent third parties"
+      ],
+      "new": [
+        "Africans who are 18 years and above",
+        "Reside in Africa and plan to establish the business in Africa",
+        "Have a business idea or a business no older than 5 years",
+        "A minimum score in the application's business assessment test",
+        "Personal and business details are verified by independent third parties"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "tony-elumelu-entrepreneurship-programme-2027",
+      "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
+      "field": "age_min",
+      "old": null,
+      "new": 18
+    },
+    {
+      "date": "2026-10-12",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "deadline_text",
+      "old": "Applications are open until October 5 (overview page). FAQ: 'Applications for the McKinsey.org Forward program are now open until October 5, 2026. ... in some cases, applications may close earlier than the deadline mentioned above in certain countries.' No time or time zone stated.",
+      "new": "Fall 2026 call closed on 5 October 2026. FAQ on 12 October 2026: 'Applications are not open at the moment. However, you can still register your interest ... to be the first to receive email notifications when a new application cycle opens in your country.'"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "african-leadership-academy-class-of-2027",
+      "title": "African Leadership Academy: admission to the Class of 2027 (two-year diploma)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "au-theme-of-the-year-2027-logo-competition",
+      "title": "AU Theme of the Year 2027: logo and visual identity competition for young African creatives",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "safetech-africa-hacklab-2026",
+      "title": "SafeTech Africa HackLab 2026: youth social innovation challenge",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "yoma-youth-agency-marketplace",
+      "title": "Yoma (Youth Agency Marketplace): free online courses, tasks and opportunities",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
       "date": "2026-10-05",
       "id": "african-union-commission-internship-programme-2026",
       "title": "African Union Commission Internship Programme (2026 posting)",

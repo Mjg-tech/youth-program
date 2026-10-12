@@ -1,0 +1,413 @@
+[
+ {
+  "id": "un-agencies-kinshasa-internships",
+  "overview": "A watch entry for UN internships in Kinshasa. On 12 October 2026 no UN internship based in Kinshasa was open on the agencies' own portals that could be read (UNFPA, UNDP, UNICEF, WFP, UNHCR, UN Secretariat/MONUSCO); the two UNFPA Kinshasa internships closed on 7 October 2026.",
+  "deadline_text": "No open UN internship in Kinshasa was found on 12 October 2026 on the UNFPA, UNDP, UNICEF, WFP, UNHCR and UN Careers (Secretariat/MONUSCO) portals; untalent.org and unjobs.org blocked automated reading, and the UNOPS and WHO internship portals could not be read.",
+  "expected_next_cycle": "Agencies post internship calls at different times of the year; none was open in Kinshasa on 12 October 2026. Set an alert for Kinshasa on untalent.org and unjobs.org.",
+  "sources": [
+   {
+    "label": "UN Talent: internships in Kinshasa",
+    "url": "https://untalent.org/jobs/in-anything/contract-internship/kinshasa",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UNjobs: Kinshasa vacancies",
+    "url": "https://unjobs.org/duty_stations/fih",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UN Careers (Secretariat, MONUSCO) job openings",
+    "url": "https://careers.un.org/jobopening?language=en",
+    "type": "Official"
+   },
+   {
+    "label": "UNICEF careers: search",
+    "url": "https://jobs.unicef.org/en-us/search/?search-keyword=kinshasa",
+    "type": "Official"
+   },
+   {
+    "label": "WFP careers (Workday)",
+    "url": "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
+    "type": "Official"
+   },
+   {
+    "label": "UNVacancies: Kinshasa",
+    "url": "https://unvacancies.org/jobs/location/kinshasa",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "A watch entry, not an open call",
+   "untalent.org and unjobs.org refused automated readers on 12 October 2026; the UNOPS portal returned an error"
+  ],
+  "verification": "PARTIALLY VERIFIED",
+  "last_verified": "2026-10-12",
+  "action": "Create e-mail alerts on untalent.org and unjobs.org for Kinshasa and check the agencies' career portals."
+ },
+ {
+  "id": "unicef-drc-internships",
+  "deadline_text": "The 2026 round closed on 25 May 2026. A search of jobs.unicef.org on 12 October 2026 (Kinshasa, Congo, RDC, intern, stage) showed no internship in the DRC.",
+  "expected_next_cycle": "No new UNICEF DRC internship call on jobs.unicef.org on 12 October 2026. UNICEF posts internship calls there.",
+  "sources": [
+   {
+    "label": "Opportunités du Monde: UNICEF DRC internships",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/administration/unicef-en-rdc-lance-un-recrutement-de-stagiaires-etudiants-et-jeunes-diplomes-dans-plusieurs-villes-dont-kinshasa-goma-et-bunia/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Goma PSEA internship post",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/droit/unicef-recrute-une-stagiaire-associee-au-programme-de-protection-contre-lexploitation-et-les-abus-sexuels-en-rdc-stage-de-6-mois-remunere/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UN Talent: internships in Kinshasa (all expired on 5 October 2026)",
+    "url": "https://untalent.org/jobs/in-anything/contract-internship/kinshasa",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UNICEF careers: search for Kinshasa",
+    "url": "https://jobs.unicef.org/en-us/search/?search-keyword=kinshasa",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "No round is open on 12 October 2026",
+   "Age and enrolment rules come from one of the posts"
+  ]
+ },
+ {
+  "id": "wfp-drc-internships-kinshasa",
+  "expected_next_cycle": "No WFP internship in the DRC was listed on WFP's careers portal (Workday) on 12 October 2026.",
+  "sources": [
+   {
+    "label": "Opportunités du Monde: graphic design intern",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/communication/pam-recrute-une-stagiaire-en-conception-graphique-et-communication-pour-son-unite-des-ressources-humaines-a-kinshasa-en-rdc/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Opportunités du Monde: content management intern",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/communication/pam-recrute-une-stagiaire-en-gestion-du-contenu-site-internet-application-dediee-au-bien-etre-du-personnel-republique-democratique-du-congo/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "WFP careers (Workday)",
+    "url": "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "unfpa-kinshasa-logistics-administrative-support-intern",
+  "deadline_text": "Posted 23 September 2026; closes 7 October 2026 at 22:59 UTC (23:59 Kinshasa time), as read on UNFPA's own posting data on 5 October 2026. Closed: on 12 October 2026 the posting no longer appears in UNFPA's careers data and UNFPA lists no position in Kinshasa.",
+  "potential_issues": [
+   "Closed on 7 October 2026",
+   "Unpaid apart from an allowance for daily expenses; interns arrange their own medical insurance",
+   "UNChannel still lists this internship with the date 2 November 2026; that appears to be the aggregator's own listing date, not UNFPA's deadline"
+  ],
+  "action": "This call has closed; watch UNFPA's careers site for the next internship in Kinshasa."
+ },
+ {
+  "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+  "deadline_text": "Posted 23 September 2026; closes 7 October 2026 at 22:59 UTC (23:59 Kinshasa time), as read on UNFPA's own posting data on 5 October 2026. Closed: on 12 October 2026 the posting no longer appears in UNFPA's careers data and UNFPA lists no position in Kinshasa.",
+  "potential_issues": [
+   "Closed on 7 October 2026",
+   "Unpaid apart from an allowance for daily expenses; interns arrange their own medical insurance",
+   "Based at the WFP warehouse in Limete",
+   "UNChannel still lists this internship with the date 2 November 2026; that appears to be the aggregator's own listing date, not UNFPA's deadline"
+  ],
+  "action": "This call has closed; watch UNFPA's careers site for the next internship in Kinshasa."
+ },
+ {
+  "id": "who-internship-programme",
+  "deadline_text": "\"As internship opportunities are posted on a continuous basis, with each containing different requirements and application deadlines, we encourage you to check the internship page regularly\" (WHO page, read 12 October 2026).",
+  "application_process": [
+   "Apply only through an internship vacancy notice on the WHO Careers site, using WHO's online recruitment system (Stellis)"
+  ],
+  "drc_eligible": "Yes",
+  "potential_issues": [
+   "Whether the DRC country office has an internship posting was not checked: the WHO vacancy list could not be read by an automated reader on 12 October 2026",
+   "Each posting has its own requirements and deadline"
+  ],
+  "last_verified": "2026-10-12",
+  "verification": "PARTIALLY VERIFIED",
+  "action": "Search the WHO Careers site for current internship notices and read each one's duty station and deadline."
+ },
+ {
+  "id": "unesco-internship-programme",
+  "overview": "UNESCO takes applications for a pool of intern candidates for Headquarters, field offices and institutes, for 1 to 6 months. You apply to the pool, not to a specific internship; managers worldwide pick candidates from it.",
+  "deadline_text": "\"Application deadline: 31 December 2026 (Midnight)\" (UNESCO posting 'INTERNSHIP: All Sectors/Bureaus', read 12 October 2026). Thirteen of the 14 internship postings on the portal close 31/12/2026.",
+  "open_now": true,
+  "audience": [
+   "university-student",
+   "postgraduate-student",
+   "recent-graduate"
+  ],
+  "duration": "1 to 6 months",
+  "funding_type": "Unpaid",
+  "funding_details": [
+   "UNESCO: \"UNESCO does not remunerate interns. There is no compensation, financial or otherwise for internship assignments.\"",
+   "Interns arrange and pay for their own travel and visa and must show comprehensive health insurance; UNESCO gives only limited workplace insurance."
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Not covered",
+   "flight": "Not covered",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not covered",
+   "insurance": "Partially covered",
+   "local_transport": "Not specified"
+  },
+  "stipend": "None",
+  "age_requirement": "At least 20 years old to apply",
+  "education_requirement": "Third or final year of a bachelor's degree, enrolled in a master's or PhD, or graduated no more than 12 months before the internship agreement",
+  "nationality_requirements": [
+   "No nationality condition stated on the posting"
+  ],
+  "language_requirement": "Excellent English or French",
+  "eligibility": [
+   "At least 20 years old",
+   "Third/final-year bachelor's student, master's or PhD student, or graduate of the last 12 months",
+   "Excellent English or French",
+   "Good computer skills"
+  ],
+  "documents_required": [
+   "ID or passport",
+   "Certificate of enrolment, transcript or diploma (before the internship starts)"
+  ],
+  "application_process": [
+   "Apply online to one of the internship postings to join the pool; the application stays valid for 6 months",
+   "Only selected candidates are contacted"
+  ],
+  "official_application_url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-All-SectorsBureaus/1331682557/",
+  "sources": [
+   {
+    "label": "UNESCO careers: internships and volunteers",
+    "url": "https://careers.unesco.org/go/Internships-and-volunteers/783902/",
+    "type": "Official"
+   },
+   {
+    "label": "Afri-Carrières: UNESCO internships 2026",
+    "url": "https://afri-carrieres.com/opportunites/opportunites-de-stages-unesco/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UNESCO Kinshasa internship posting (closed May 2023)",
+    "url": "https://www.impactpool.org/jobs/934470",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UNESCO posting: INTERNSHIP: All Sectors/Bureaus",
+    "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-All-SectorsBureaus/1331682557/",
+    "type": "Official"
+   }
+  ],
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "potential_issues": [
+   "Unpaid: interns pay their own travel, visa and health insurance",
+   "You join a candidate pool; there is no guarantee of placement and no reply if not selected",
+   "Kinshasa placement not confirmed"
+  ],
+  "last_verified": "2026-10-12",
+  "action": "Apply to the UNESCO internship pool before 31 December 2026 if you can cover your own costs."
+ },
+ {
+  "id": "african-union-youth-volunteer-corps",
+  "deadline_text": "13th cohort: applications from 26 March to 26 April 2026 (11:59 pm EAT) on jobs.au.int. No 14th call was found on 12 October 2026 on au.int or jobs.au.int.",
+  "expected_next_cycle": "No 14th call yet: the AU page (read 12 October 2026) still asks readers to \"be on the lookout for an advertised Call for Applications on the AU Careers page and official social media platforms\"; the 13th call ran 26 March to 26 April 2026.",
+  "potential_issues": [
+   "No open call on 12 October 2026",
+   "Requires one year of volunteering and one year of work experience",
+   "auyvc.africa-union.org did not respond on 12 October 2026"
+  ],
+  "last_verified": "2026-10-12",
+  "action": "Watch jobs.au.int and au.int for the 14th call."
+ },
+ {
+  "id": "unon-oif-young-african-interpreters-fellowship-2026",
+  "potential_issues": [
+   "Closed on 8 October 2026",
+   "Only for graduates of five PAMCIT universities, none of them in the DRC"
+  ],
+  "last_verified": "2026-10-12",
+  "action": "This call has closed; watch unon.org and francophonie.org for a future cohort."
+ },
+ {
+  "id": "african-union-commission-internship-programme-2026",
+  "deadline_text": "Posting runs from 16 February to 31 December 2026 (AU careers posting 1506, read 12 October 2026). The au.int internship page itself states no deadline.",
+  "open_now": true,
+  "experience_requirement": "\"Prior work experience is not required for the internship positions\" (AU posting)",
+  "potential_issues": [
+   "Unpaid: interns pay their own travel, visa, housing and insurance in Addis Ababa",
+   "The AU CV template is mandatory",
+   "The au.int page says aged 22 to 32 at application; the posting says no more than 32 at the time of selection"
+  ],
+  "last_verified": "2026-10-12"
+ },
+ {
+  "id": "fao-regional-office-africa-internship-2027",
+  "title": "FAO Internship Programme for Africa (RAF), call open until 31 December 2026",
+  "overview": "FAO's call for expressions of interest for internships of 3 to 11 months in its offices in Africa, for students and recent graduates aged 21 to 30 in a field related to FAO's work. Candidates join a pool and are contacted by hiring offices.",
+  "audience": [
+   "university-student",
+   "postgraduate-student",
+   "recent-graduate"
+  ],
+  "country": "Various FAO offices in Africa",
+  "duration": "3 to 11 months",
+  "deadline_text": "Posted 21 September 2026; closes 31 December 2026, 11:59 PM (FAO careers, job 2601980, read 12 October 2026). FAO notes that the time shown depends on the reader's device settings.",
+  "open_now": true,
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "FAO: \"FAO provides a monthly stipend to interns if they are not sponsored by sending universities or other entities.\" No amount is stated.",
+   "FAO: \"FAO does not charge any fee at any stage of the recruitment process\"."
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Partially covered",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "stipend": "Monthly stipend if not sponsored by a university or other body (amount not stated)",
+  "age_min": 21,
+  "age_max": 30,
+  "age_requirement": "\"Candidates should be aged between 21 and 30\"",
+  "experience_level": "None required",
+  "experience_requirement": "Relevant academic studies in one of FAO's fields; no work experience stated",
+  "education_requirement": "Enrolled in an undergraduate or graduate degree at a recognised (WHED-listed) institution, or a recent graduate, in a field relevant to FAO",
+  "nationality_requirements": [
+   "Nationals of FAO Members"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "Working knowledge of one FAO language (Arabic, Chinese, English, French, Russian or Spanish)",
+  "eligibility": [
+   "Aged 21 to 30",
+   "Student or recent graduate of a WHED-listed institution in a field relevant to FAO",
+   "Working knowledge of one FAO language",
+   "National of an FAO Member",
+   "Appropriate residence or immigration status in the country of assignment",
+   "No previous FAO internship; no parent or sibling employed by FAO"
+  ],
+  "documents_required": [
+   "Letter of motivation",
+   "Proof of enrolment at a recognised university or copy of academic qualifications"
+  ],
+  "application_process": [
+   "Complete an online profile on the FAO jobs site and apply to job 2601980"
+  ],
+  "official_application_url": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en",
+  "official_information_url": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en",
+  "source_url": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "FAO careers: Internship Programme for Africa (RAF), job 2601980",
+    "url": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Corrected on 12 October 2026: this record previously cited job 2601986, which is FAO's Regular Volunteer Programme for Africa (covered by the record fao-regional-volunteer-programme-2027)",
+   "You need residence or immigration status in the country of assignment",
+   "Stipend amount not stated",
+   "A pool call: only qualified applicants are contacted"
+  ],
+  "action": "Apply to FAO job 2601980 on the FAO careers site before 31 December 2026.",
+  "last_verified": "2026-10-12"
+ },
+ {
+  "last_verified": "2026-10-12",
+  "date_discovered": "2026-10-12",
+  "recurring": false,
+  "rolling": false,
+  "deadline_utc": "2027-01-01T04:59:00Z",
+  "deadline_timezone": "America/New_York",
+  "id": "unfpa-global-internship-roster-2026",
+  "title": "UNFPA Global Internship Roster 2026",
+  "organization": "United Nations Population Fund (UNFPA)",
+  "overview": "UNFPA's roster for internships in its offices in 2026. Students and recent graduates apply once to the roster; offices pick interns from it. The posting does not name the offices.",
+  "category": [
+   "Internship"
+  ],
+  "audience": [
+   "university-student",
+   "postgraduate-student",
+   "recent-graduate"
+  ],
+  "country": "Multiple countries",
+  "city": "Unknown / Not specified",
+  "location_type": "Multiple locations",
+  "delivery_mode": "In-person",
+  "program_dates": "Unknown / Not specified",
+  "duration": "Unknown / Not specified",
+  "application_deadline": "2026-12-31",
+  "opens_on": "2026-01-16",
+  "open_now": true,
+  "deadline_text": "Posted 16 January 2026; the posting ends 1 January 2027 04:59 UTC, i.e. 31 December 2026 at 23:59 New York time (UNFPA careers posting 31319, read 12 October 2026).",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "UNFPA: \"Interns who do not receive financial support from an outside party (such as an academic institution, university, government) are eligible to receive a stipend as a contribution towards living expenses.\" No amount is stated; it depends on the place of work.",
+   "UNFPA: \"UNFPA does not charge any application, processing, training, interviewing, testing or other fee\"."
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Partially covered",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "Stipend towards living expenses for interns without outside funding (amount not stated)",
+  "age_min": null,
+  "age_max": null,
+  "age_requirement": "Unknown / Not specified",
+  "experience_level": "None required",
+  "experience_requirement": "No work experience stated; must show interest in development",
+  "education_requirement": "Enrolled in a first degree with one full academic year completed, or in a postgraduate programme, or graduated within the last year, or in a postgraduate professional trainee programme",
+  "nationality_requirements": [
+   "No nationality condition stated"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "English or French, plus fluency in the official language of the UNFPA office",
+  "eligibility": [
+   "First-degree student with one academic year completed, postgraduate student, or graduate starting within one year of graduation",
+   "Interest in development",
+   "English or French, and the official language of the office",
+   "No parent, child or sibling on UNFPA staff"
+  ],
+  "application_process": [
+   "Apply to posting 31319 on UNFPA's careers site"
+  ],
+  "official_application_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/31319",
+  "official_information_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/31319",
+  "source_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/31319",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "UNFPA careers: Global Internship Roster 2026 (posting 31319)",
+    "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/31319",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "A roster: applying does not guarantee an internship, and the offices are not named",
+   "Whether the DRC office will take interns from this roster is not stated",
+   "Stipend amount not stated"
+  ],
+  "action": "Apply to the UNFPA Global Internship Roster on UNFPA's careers site before 31 December 2026.",
+  "documents_required": []
+ }
+]

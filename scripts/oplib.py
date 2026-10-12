@@ -241,9 +241,12 @@ def find_duplicate(records: list[dict], rec: dict) -> dict | None:
     """Same id, same official page, or same title + organiser => same programme."""
     key = dedupe_key(rec)
     info = norm_url(rec.get("official_information_url", ""))
+    # An exact id wins over a URL or title match on another record (several
+    # portals differ only by query string, e.g. jobdetail.ftl?job=...).
     for other in records:
-        if other.get("id") == rec.get("id"):
+        if rec.get("id") and other.get("id") == rec.get("id"):
             return other
+    for other in records:
         if key and dedupe_key(other) == key:
             return other
         if info and norm_url(other.get("official_information_url", "")) == info:

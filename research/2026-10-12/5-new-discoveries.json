@@ -1,0 +1,419 @@
+[
+ {
+  "last_verified": "2026-10-12",
+  "date_discovered": "2026-10-12",
+  "recurring": true,
+  "rolling": false,
+  "deadline_utc": "",
+  "deadline_timezone": "Unknown / Not specified",
+  "id": "african-leadership-academy-class-of-2027",
+  "title": "African Leadership Academy: admission to the Class of 2027 (two-year diploma)",
+  "organization": "African Leadership Academy (ALA)",
+  "overview": "A two-year residential pre-university diploma programme near Johannesburg for young leaders from across Africa and the world; admitted students can receive need-based financial assistance.",
+  "category": [
+   "Leadership",
+   "Youth Programme"
+  ],
+  "audience": [
+   "secondary-school"
+  ],
+  "country": "South Africa",
+  "city": "Honeydew (ALA campus)",
+  "location_type": "Abroad in Africa",
+  "delivery_mode": "In-person",
+  "duration": "2 years",
+  "program_dates": "Admitted students arrive on campus in August 2027 (ALA 2027 application guide)",
+  "application_deadline": "2027-01-15",
+  "opens_on": "2026-07-15",
+  "deadline_text": "Early Decision deadline \"October 15, 2026\"; Regular Decision deadline \"January 15, 2027\". Early Decision results in January 2027, Regular Decision results in April 2027 (ALA apply page and 2027 application guide, read 12 October 2026).",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "ALA: tuition is USD 30,900 per year and \"African Leadership Academy fees are all-inclusive, including tuition, accommodation, meals, and uniforms.\"",
+   "ALA: \"97% of ALA students receive financial assistance\"; admitted applicants are \"eligible to receive significant financial assistance in the form of scholarships\", decided after admission according to family financial means.",
+   "The 2027 application guide says all finalists can apply for financial aid."
+  ],
+  "coverage": {
+   "tuition": "Partially covered",
+   "stipend": "Not specified",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "application_fee": "No fee stated",
+  "participation_fee": "USD 30,900 a year (all-inclusive), reduced by need-based financial aid for most students",
+  "stipend": "None stated",
+  "age_min": null,
+  "age_max": null,
+  "age_requirement": "\"For admission in 2027, applicants must have been born on or after September 1, 2007.\"",
+  "experience_level": "None required",
+  "experience_requirement": "No work experience; essays ask about a time you identified a need in your community and took action",
+  "education_requirement": "Secondary-school students (pre-university programme)",
+  "nationality_requirements": [
+   "Admits students from across Africa and around the world; ALA states it does not discriminate on the basis of nationality"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "Applications accepted in English, French and Portuguese",
+  "eligibility": [
+   "Born on or after 1 September 2007",
+   "Secondary-school student",
+   "Any nationality"
+  ],
+  "documents_required": [
+   "Online application with essays",
+   "A piece of work completed in the past year and a half (not a certificate or transcript)",
+   "Letters of recommendation and financial aid documents at the finalist stage"
+  ],
+  "application_process": [
+   "Register and apply online on the ALA apply page",
+   "Finalists are interviewed and can apply for financial aid",
+   "Final admissions decision by email"
+  ],
+  "official_application_url": "https://www.africanleadershipacademy.org/apply",
+  "official_information_url": "https://www.africanleadershipacademy.org/apply",
+  "source_url": "https://www.africanleadershipacademy.org/apply",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "African Leadership Academy: apply",
+    "url": "https://www.africanleadershipacademy.org/apply",
+    "type": "Official"
+   },
+   {
+    "label": "ALA 2027 application guide (PDF)",
+    "url": "https://www.africanleadershipacademy.org/wp-content/uploads/2026/07/2026-Application-Guide.pdf",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunities for Africans",
+    "url": "https://www.opportunitiesforafricans.com/african-leadership-academy-ala-2027-for-young-leaders-across-africa-two-year-pre-university-program/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "Full fees are USD 30,900 a year; how much aid a student receives is decided only after admission",
+   "Early Decision closes 15 October 2026",
+   "Very selective: ALA reports a 4% acceptance rate",
+   "The apply page labels the 15 July 2026 opening as \"for the class of 2026\" while the deadlines are for the Class of 2027",
+   "The page does not say whether there is an application fee"
+  ],
+  "action": "Read the ALA apply page and application guide, then apply online before 15 January 2027 (Early Decision closes 15 October 2026)."
+ },
+ {
+  "last_verified": "2026-10-12",
+  "date_discovered": "2026-10-12",
+  "recurring": false,
+  "rolling": false,
+  "deadline_utc": "2026-10-23T20:59:00Z",
+  "deadline_timezone": "Africa/Addis_Ababa",
+  "id": "au-theme-of-the-year-2027-logo-competition",
+  "title": "AU Theme of the Year 2027: logo and visual identity competition for young African creatives",
+  "organization": "African Union Commission (Infrastructure and Energy Department), with AUDA-NEPAD",
+  "overview": "An online design competition for individual young Africans aged 18 to 24 to create the official logo and visual identity of the African Union's Theme of the Year 2027, with cash prizes for the top three entries.",
+  "category": [
+   "Competition or Award"
+  ],
+  "audience": [
+   "secondary-school",
+   "university-student",
+   "recent-graduate",
+   "young-professional",
+   "any-adult"
+  ],
+  "country": "Online",
+  "city": "Online",
+  "location_type": "Remote",
+  "delivery_mode": "Online",
+  "duration": "Unknown / Not specified",
+  "program_dates": "Call open 24 September to 23 October 2026; the winning logo is unveiled at the AU Summit",
+  "application_deadline": "2026-10-23",
+  "opens_on": "2026-09-24",
+  "deadline_text": "\"Submission deadline / Friday, 23 October 2026 at 23:59 East Africa Time (UTC+3)\" (AU terms of reference, read 12 October 2026). The au.int event page shows the call ending \"Oct 23, 2026 - 15:00\".",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "AU: \"USD 5,000 First place\", \"USD 2,000 Second place\", \"USD 1,000 Third place\", plus a certificate, recognition on AU platforms and training opportunities.",
+   "AU: \"The winner will also have the opportunity to participate in the AU Summit\"; travel arrangements are not described."
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Not specified",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "None",
+  "age_min": 18,
+  "age_max": 24,
+  "age_requirement": "\"aged 18–24 on the submission deadline\"",
+  "experience_level": "None required",
+  "experience_requirement": "\"Students, designers, artists, digital creatives, innovators welcome — formal qualifications not required\"",
+  "education_requirement": "None required",
+  "nationality_requirements": [
+   "Citizens of all African Union member states"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "Unknown / Not specified (terms of reference published in English and French)",
+  "eligibility": [
+   "Citizen of an AU member state",
+   "Aged 18 to 24 on 23 October 2026",
+   "Individual entries only, one entry per person",
+   "Original, human-made work: generative AI is not permitted",
+   "AU personnel, contractors, evaluators and their immediate family are not eligible"
+  ],
+  "documents_required": [
+   "Completed application form",
+   "Proof of nationality and age",
+   "Presentation PDF with the primary logo, colour, black-and-white and reversed versions and three mock-ups",
+   "Preview PNG/JPEG at least 3000 px wide",
+   "Concept note of up to 500 words",
+   "Signed originality, intellectual-property and AI declaration"
+  ],
+  "application_process": [
+   "Download the terms of reference and declaration form from the AU competition page",
+   "Submit the package through the official competition entry form reached from that page",
+   "Shortlisted applicants must send editable vector files within 3 working days"
+  ],
+  "official_application_url": "",
+  "official_information_url": "https://au.int/en/newsevents/20260829/call-entries-calling-young-african-creatives-logo-competition-au-theme-year",
+  "source_url": "https://au.int/en/newsevents/20260829/call-entries-calling-young-african-creatives-logo-competition-au-theme-year",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "African Union: call for entries",
+    "url": "https://au.int/en/newsevents/20260829/call-entries-calling-young-african-creatives-logo-competition-au-theme-year",
+    "type": "Official"
+   },
+   {
+    "label": "AU terms of reference (PDF, English)",
+    "url": "https://au.int/sites/default/files/AU%20Theme%202027%20Logo%20Competition%20Terms%20of%20Reference%20EN.pdf",
+    "type": "Official"
+   },
+   {
+    "label": "AU terms of reference (PDF, French)",
+    "url": "https://au.int/sites/default/files/AU%20Theme%202027%20Logo%20Competition%20Terms%20of%20Reference%20FR.pdf",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunities for Africans",
+    "url": "https://www.opportunitiesforafricans.com/the-au-theme-of-the-year-2027-official-logo-and-visual-identity-competition-for-young-african-creatives/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "Only for ages 18 to 24",
+   "The winner assigns copyright and IP rights in the design to the AU Commission",
+   "Generative AI tools are banned and entries are checked",
+   "The event page shows 15:00 on 23 October while the terms of reference say 23:59 EAT: submit early",
+   "The entry form link was not found on the page as read; use the link the AU page provides"
+  ],
+  "action": "Read the AU terms of reference and submit your logo package through the AU entry form before 23 October 2026."
+ },
+ {
+  "last_verified": "2026-10-12",
+  "date_discovered": "2026-10-12",
+  "recurring": false,
+  "rolling": false,
+  "deadline_utc": "2026-10-18T21:59:00Z",
+  "deadline_timezone": "Africa/Maputo",
+  "id": "safetech-africa-hacklab-2026",
+  "title": "SafeTech Africa HackLab 2026: youth social innovation challenge",
+  "organization": "UNFPA (East and Southern Africa and West and Central Africa regions) with the Spotlight Initiative, the African Union and other UN partners",
+  "overview": "A youth innovation challenge for young Africans aged 18 to 35 with digital or community solutions against technology-facilitated violence, child marriage and FGM; finalists get virtual mentorship and pitch at the YouthConnekt Africa Summit.",
+  "category": [
+   "Competition or Award",
+   "Entrepreneurship"
+  ],
+  "audience": [
+   "university-student",
+   "recent-graduate",
+   "young-professional",
+   "entrepreneur"
+  ],
+  "country": "Online",
+  "city": "Online",
+  "location_type": "Remote",
+  "delivery_mode": "Online",
+  "duration": "Unknown / Not specified",
+  "program_dates": "Applications 29 September to 18 October 2026; virtual showcase for shortlisted teams; final pitch at the YouthConnekt Africa Summit in November 2026",
+  "application_deadline": "2026-10-18",
+  "opens_on": "2026-09-29",
+  "deadline_text": "\"Closing Date: 18 October 2026 (23:59 CAT)\" (Spotlight Initiative call page, read 12 October 2026).",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "Call: \"Four winners will receive seed grants ranging between USD 5,000 to USD 10,000.\"",
+   "Shortlisted finalists receive pitch coaching and present live at the YouthConnekt Africa Summit; travel for the pitch is not described."
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Not specified",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "None",
+  "age_min": 18,
+  "age_max": 35,
+  "age_requirement": "\"Young African Innovators (Ages 18–35)\"",
+  "experience_level": "None required",
+  "experience_requirement": "An original, practical innovative idea or solution; no prior experience is stated",
+  "education_requirement": "Unknown / Not specified",
+  "nationality_requirements": [
+   "Young African innovators; the residency criterion links to the UNFPA East and Southern Africa list of countries, while the call names both the East and Southern and the West and Central Africa regions"
+  ],
+  "drc_eligible": "Unclear",
+  "language_requirement": "Unknown / Not specified (call published in English)",
+  "eligibility": [
+   "Aged 18 to 35",
+   "Young African innovators, social entrepreneurs or digital rights advocates, individually or in teams",
+   "Solution under one of three themes: safe physical and community spaces, safe information spaces, safe digital spaces"
+  ],
+  "documents_required": [
+   "Team lead and member details",
+   "Problem statement (max 200 words)",
+   "Innovation description (max 700 words)",
+   "12-month implementation roadmap",
+   "Digital safety and inclusion note"
+  ],
+  "application_process": [
+   "Read the call on the Spotlight Initiative page",
+   "Submit through the online form linked from that page before 18 October 2026"
+  ],
+  "official_application_url": "https://forms.gle/ygJb48Kpk6KLwbGQA",
+  "official_information_url": "https://www.spotlightinitiative.org/latest/events/safetech-africa-hacklab-innovating-safe-spaces-call-applications",
+  "source_url": "https://www.spotlightinitiative.org/latest/events/safetech-africa-hacklab-innovating-safe-spaces-call-applications",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "PARTIALLY VERIFIED",
+  "sources": [
+   {
+    "label": "Spotlight Initiative: SafeTech Africa HackLab call",
+    "url": "https://www.spotlightinitiative.org/latest/events/safetech-africa-hacklab-innovating-safe-spaces-call-applications",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunities for Africans",
+    "url": "https://www.opportunitiesforafricans.com/spotlight-initiative-safetech-africa-hacklab-2026-for-young-african-innovators/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "Closes 18 October 2026",
+   "Whether DRC residents qualify is not clear: the residency rule links only to the UNFPA East and Southern Africa country list",
+   "Only four winners receive grants",
+   "Applications go through a Google Form linked from the official page"
+  ],
+  "action": "Read the call on the Spotlight Initiative page, check the residency rule for your country, and apply through the linked form before 23:59 CAT on 18 October 2026."
+ },
+ {
+  "last_verified": "2026-10-12",
+  "date_discovered": "2026-10-12",
+  "recurring": false,
+  "rolling": true,
+  "deadline_utc": "",
+  "deadline_timezone": "Unknown / Not specified",
+  "id": "yoma-youth-agency-marketplace",
+  "title": "Yoma (Youth Agency Marketplace): free online courses, tasks and opportunities",
+  "organization": "Yoma, developed by UNICEF with partners and young Africans",
+  "overview": "A free digital platform where young people take self-paced online courses and impact tasks, earn verified digital credentials and tokens, and find jobs and other opportunities from partner organisations.",
+  "category": [
+   "Training",
+   "Youth Programme"
+  ],
+  "audience": [
+   "secondary-school",
+   "university-student",
+   "recent-graduate",
+   "young-professional",
+   "any-adult"
+  ],
+  "country": "Online",
+  "city": "Online",
+  "location_type": "Remote",
+  "delivery_mode": "Online",
+  "duration": "Self-paced; each opportunity lists its own effort (for example 1 to 15 hours)",
+  "program_dates": "Ongoing",
+  "application_deadline": "",
+  "deadline_text": "No deadline: registration is open and most learning opportunities are listed as \"Ongoing\" (yoma.world, read 12 October 2026). Some individual opportunities have their own end dates.",
+  "funding_type": "Free",
+  "funding_details": [
+   "Yoma: \"Boost Your Employability - 100% for free\" and \"Yoma is completely free\".",
+   "Yoma: learners can \"earn digital tokens that can be cashed out or redeemed in the Yoma marketplace\", for example airtime, data and grocery vouchers."
+  ],
+  "coverage": {
+   "tuition": "Covered",
+   "stipend": "Not specified",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "application_fee": "No fee stated",
+  "participation_fee": "Free",
+  "stipend": "None (digital tokens can be earned on some opportunities)",
+  "age_min": null,
+  "age_max": null,
+  "age_requirement": "Unknown / Not specified (aimed at young people)",
+  "experience_level": "None required",
+  "experience_requirement": "No experience needed for learning opportunities",
+  "education_requirement": "Unknown / Not specified",
+  "nationality_requirements": [
+   "No nationality condition stated: \"No matter who you are or where you're from, Yoma is built to open doors for every young person.\""
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "Yoma says the platform \"is available in five languages\"; the languages are not listed on the pages read",
+  "eligibility": [
+   "Young people anywhere; create a free account (YoID)"
+  ],
+  "application_process": [
+   "Register on yoma.world",
+   "Choose opportunities (courses, tasks, events, jobs) and complete them to earn verified credentials"
+  ],
+  "official_application_url": "https://yoma.world/opportunities",
+  "official_information_url": "https://yoma.world/about",
+  "source_url": "https://yoma.world/",
+  "source_type": "Official",
+  "source_confidence": "MEDIUM",
+  "verification": "PARTIALLY VERIFIED",
+  "sources": [
+   {
+    "label": "Yoma: home",
+    "url": "https://yoma.world/",
+    "type": "Official"
+   },
+   {
+    "label": "Yoma: about us",
+    "url": "https://yoma.world/about",
+    "type": "Official"
+   },
+   {
+    "label": "Yoma: opportunities",
+    "url": "https://yoma.world/opportunities",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Many listed jobs and some courses are only for Nigeria or South Africa; filter by country",
+   "Courses are offered by third-party partners whose quality varies",
+   "Not a job or internship by itself"
+  ],
+  "action": "Create a free account on yoma.world and filter opportunities by your country and language to find courses you can take now."
+ }
+]

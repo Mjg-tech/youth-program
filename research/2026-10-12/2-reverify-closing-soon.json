@@ -1,0 +1,260 @@
+[
+ {
+  "id": "afdb-internship-2027-session-1",
+  "verification": "NEEDS VERIFICATION",
+  "deadline_text": "Applications open from 28 September to 12 October 2026; no closing time stated (secondary sources, re-read 12 October 2026; the AfDB page again returned HTTP 403, a Cloudflare bot check, to both readers).",
+  "funding_details": [
+   "Reported by secondary sources: \"Medical insurance paid by the Bank and a monthly stipend for eligible interns\" (amount not stated); on-site interns cover their own travel to and from the duty station and their living expenses. The AfDB page could not be read."
+  ],
+  "age_requirement": "Reported by secondary sources: of legal age and \"no older than 30 when the internship begins\"; another secondary source says 30 or under by 31 December 2026",
+  "eligibility": [
+   "Reported by secondary sources: of legal age and no older than 30 (sources differ on the reference date)",
+   "Reported by secondary sources: enrolled in a master's programme or having obtained the degree within the past year",
+   "Reported by secondary sources: national of an AfDB member country (a single nationality is declared); the DRC is an AfDB member, but this was not read on an AfDB page"
+  ],
+  "sources": [
+   {
+    "label": "AfDB vacancy page (blocked to the reader: HTTP 403 bot check, 12 October 2026)",
+    "url": "https://www.afdb.org/en/vacancy/2027-internship-program-session-1-97099",
+    "type": "Official"
+   },
+   {
+    "label": "Impactpool news item",
+    "url": "https://www.impactpool.org/news/african-development-bank-2027-internship-programme-session-1",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Opportunity Desk",
+    "url": "https://opportunitydesk.org/2026/09/30/afdb-internship-program-2027/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Opportunities for Africans",
+    "url": "https://www.opportunitiesforafricans.com/the-african-development-bank-group-internship-program-2027-session-1/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Afri-Carrières",
+    "url": "https://afri-carrieres.com/opportunites/programme-de-stage-bad-session/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "Closes 12 October 2026 (today at the time of this check); closing time not stated",
+   "A master's degree in progress or completed within one year is required",
+   "Everything comes from secondary sources: the AfDB page blocks automated readers (HTTP 403 bot check on 5 and 12 October 2026)",
+   "Secondary sources disagree on the date at which the age limit of 30 applies",
+   "On-site interns pay their own travel and living costs (secondary sources)"
+  ],
+  "action": "Open the official AfDB vacancy page in a browser today, 12 October 2026, to confirm the closing time and eligibility before applying."
+ },
+ {
+  "id": "mandela-washington-fellowship-2027",
+  "last_verified": "2026-10-12",
+  "verification": "VERIFIED",
+  "deadline_text": "APPLICATION DEADLINE: 16:00/4:00 PM GMT on Tuesday, October 13, 2026 (application instructions PDF, read 12 October 2026). Apply page: application opens September 22, 2026; application deadline October 13, 2026.",
+  "action": "Read the official page, then apply before 16:00 GMT on 13 October 2026."
+ },
+ {
+  "id": "tutu-leading-for-humanity-2027",
+  "last_verified": "2026-10-12",
+  "verification": "VERIFIED",
+  "opens_on": "2026-09-11",
+  "deadline_text": "\"Deadline: 14 October 2026.\" Nominations opened 11 September 2026 (Foundation's call for nominations, read 12 October 2026).",
+  "potential_issues": [
+   "Travel to South Africa is not covered",
+   "Closes 14 October 2026",
+   "Nominations go by email, not through a form",
+   "The page's opening paragraph mentions the \"2026 Leading for Humanity cohort\" while the title and instructions say 2027",
+   "The page calls the programme fully funded, but participants or sponsors pay travel to and from South Africa"
+  ]
+ },
+ {
+  "id": "aspire-leaders-program-2026-cohort-4",
+  "last_verified": "2026-10-12",
+  "verification": "VERIFIED",
+  "duration": "6 weeks (about 3 to 5 hours a week)",
+  "deadline_text": "Applications for Cohort 4 of the 2026 Aspire Leaders Program are open, with a deadline of October 16 (Aspire Institute home page, read 12 October 2026). No time or time zone stated. Programme page: Cohort 4 runs October 21 - November 30.",
+  "potential_issues": [
+   "Deadline is 16 October 2026 (no time zone stated)",
+   "Online and self-paced (about 3 to 5 hours a week): needs a reliable internet connection"
+  ]
+ },
+ {
+  "id": "yale-young-african-scholars-2027",
+  "last_verified": "2026-10-12",
+  "verification": "VERIFIED",
+  "deadline_text": "All times Eastern Time (US). Early Action (Pool #1): 11:59 PM ET on 20 October 2026, decisions by 18 December 2026. Regular Decision (Pool #2): 11:59 PM ET on 20 January 2027, decisions by 20 March 2027 (YYAS timeline page, read 12 October 2026)."
+ },
+ {
+  "id": "d-prize-challenge-2026-2027",
+  "last_verified": "2026-10-12",
+  "verification": "VERIFIED",
+  "deadline_text": "Midnight PT (Pacific Time): early submission 25 October 2026, regular submission 15 November 2026, extension 6 December 2026 (D-Prize site, read 12 October 2026)."
+ },
+ {
+  "id": "i-am-nala-fellowship-2027",
+  "last_verified": "2026-10-12",
+  "verification": "NEEDS VERIFICATION",
+  "deadline_text": "\"Deadline: 31 October 2026\", on the organiser's Google Form (read 12 October 2026); only shortlisted candidates notified by 6 November 2026. nalafem.org could not be reached on 12 October 2026.",
+  "eligibility": [
+   "Woman aged 18 to 40",
+   "Refugee, internally displaced person or stateless (the form says other applications will not be considered)",
+   "African, including displaced Africans in the diaspora",
+   "Leadership in politics, campaigns, peacebuilding or advocacy"
+  ],
+  "potential_issues": [
+   "The call is only on a Google Form; nalafem.org returned HTTP 503 or no response on 12 October 2026, so the call could not be matched to the organiser's site",
+   "The support offered is described only in general terms on the form, with no amount",
+   "Only for displaced women"
+  ]
+ },
+ {
+  "id": "one-young-world-leading-scholarship-2026",
+  "last_verified": "2026-10-12",
+  "verification": "VERIFIED",
+  "deadline_text": "Application deadline: 31 October 2026. Opening date: 11 June 2026. Scholars are selected on a rolling basis and notified between June and October 2026. The same page also shows a heading \"Application Deadline: Rolling\" (read 12 October 2026).",
+  "potential_issues": [
+   "Nationality not on this scholarship's list: the list includes Congo-Brazzaville but not the Democratic Republic of the Congo (re-checked 12 October 2026)",
+   "Summit (3-6 November 2026) is days after the deadline and selection is rolling",
+   "The page shows both \"31 October 2026\" and \"Rolling\" as the deadline",
+   "Travel and hotel are decided case by case; the visa fee is paid by the scholar"
+  ]
+ },
+ {
+  "id": "global-leadership-challenge-2026",
+  "last_verified": "2026-10-12",
+  "verification": "VERIFIED",
+  "deadline_text": "Application Opens: 29 September 2026. Application Closes: 5 November 2026. Applications are reviewed on a rolling basis, so don't wait until the deadline (read 12 October 2026).",
+  "application_fee": "No fee stated",
+  "education_requirement": "Finished undergraduate studies; students must be enrolled in a Master's or PhD programme",
+  "eligibility": [
+   "A student currently enrolled in a Master's or PhD programme, or a young professional aged between 21 and 30",
+   "Has finished undergraduate studies",
+   "Demonstrated commitment to responsible leadership through extra-curricular activities and/or work experience",
+   "Available for around five half-days from 10 to 14 December 2026; GLC Members can participate virtually from around the world"
+  ],
+  "documents_required": [
+   "CV (PDF)",
+   "Recent portrait picture (JPEG or PNG)",
+   "Proof of enrolment (PDF, students only)"
+  ],
+  "potential_issues": [
+   "Only the three winning teams travel; the other participants take part in the challenge without a funded trip",
+   "Applications are reviewed on a rolling basis before the 5 November deadline",
+   "A Schengen visa would be needed for Switzerland if selected for the Symposium"
+  ]
+ },
+ {
+  "id": "ustc-international-winter-camp-2027",
+  "last_verified": "2026-10-12",
+  "verification": "VERIFIED",
+  "deadline_text": "Submit the application online with completed and required materials by November 8, 2026 (UTC/GMT+8) (USTC International College page, read 12 October 2026)"
+ },
+ {
+  "id": "anzisha-fellowship-2027",
+  "last_verified": "2026-10-12",
+  "verification": "PARTIALLY VERIFIED",
+  "deadline_text": "Applications for the 2027 intake open on 29 September 2026; \"10 November 2026 Applications Closed\"; evaluation November 2026 to March 2027; fellows announced May 2027 (anzisha.org, read 12 October 2026).",
+  "funding_details": [
+   "Reported by secondary sources: up to USD 40,000 of total support, with performance-based stipends tied to growth milestones. The Anzisha apply page (read 12 October 2026) does not state a support package or amount."
+  ],
+  "potential_issues": [
+   "Requires an already running venture (customers, revenue or beneficiaries); formal registration is not required",
+   "The support package was not confirmed on the Anzisha page"
+  ]
+ },
+ {
+  "id": "eu-delegation-drc-subsidised-traineeship",
+  "last_verified": "2026-10-12",
+  "verification": "VERIFIED",
+  "source_confidence": "HIGH",
+  "program_dates": "2026 round: two traineeships of up to 6 months in the Political, Press and Information Section, with provisional starts in March and October 2026",
+  "deadline_text": "\"Délai pour l'envoi des candidatures : 25 janvier 2026.\" The page (published 15.01.2026) is marked Expired (EEAS page, read 12 October 2026). No 2027 call was found.",
+  "last_cycle_deadline": "2026-01-25",
+  "expected_next_cycle": "No 2027 call found on the EEAS site on 12 October 2026. The 2026 call was published on 15 January 2026 with a deadline of 25 January 2026.",
+  "funding_type": "Paid",
+  "funding_details": [
+   "EEAS page: \"Chaque stagiaire sélectionné(e) recevra une subvention mensuelle destinée à couvrir ses frais de subsistance.\" (amount not stated)",
+   "\"Tous les coûts liés aux voyages, à l'obtention du visa, aux assurances et au logement seront à la charge du (de la) stagiaire.\""
+  ],
+  "coverage": {
+   "tuition": "Not applicable",
+   "stipend": "Covered",
+   "flight": "Not covered",
+   "accommodation": "Not covered",
+   "meals": "Not specified",
+   "visa": "Not covered",
+   "insurance": "Not covered",
+   "local_transport": "Not specified"
+  },
+  "stipend": "Monthly grant to cover living costs (amount not stated)",
+  "experience_requirement": "No more than one year of professional experience after graduation at the time the traineeship agreement is signed",
+  "education_requirement": "University degree, preferably in political science, international relations, humanities, or information and communication sciences",
+  "language_requirement": "Excellent French and good knowledge of English",
+  "eligibility": [
+   "Only candidates currently resident in the DRC or near Kinshasa are considered",
+   "University degree, preferably in political science, international relations, humanities, or information and communication sciences",
+   "No more than one year of professional experience after graduation when the traineeship agreement is signed",
+   "Excellent French, good English, strong writing skills",
+   "Skills in social media, digital content production and photo/video software; basic knowledge of the EU and its work in the DRC",
+   "General eligibility for a subsidised traineeship: Article 8 of Decision ADMIN(2017)28"
+  ],
+  "documents_required": [
+   "Europass CV (other CV formats are not considered)",
+   "Motivation letter",
+   "Application form"
+  ],
+  "application_process": [
+   "2026 round: application sent by email to the Delegation's recruitment address shown on the EEAS page, subject \"Stage subventionné – Section Politique, Presse et Information\"",
+   "Shortlisted candidates are invited to an interview; others are told by email"
+  ],
+  "sources": [
+   {
+    "label": "EEAS: subsidised traineeship call, EU Delegation to the DRC (2026 round, read 12 October 2026)",
+    "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-1_en",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "The 2026 call is closed (deadline 25 January 2026); no 2027 call was found on 12 October 2026",
+   "Only candidates currently resident in the DRC or near Kinshasa are considered",
+   "Travel, visa, insurance and housing are paid by the trainee; the monthly grant amount is not stated",
+   "The page change flagged since 9 October 2026 appears to come from the page's 'Related vacancies' box (other EEAS vacancies dated 6 to 9 October 2026); the call text is still the January 2026 call"
+  ],
+  "action": "Watch the EEAS vacancies page for the EU Delegation to the DRC: the 2026 call was published in mid-January with a ten-day application window."
+ },
+ {
+  "id": "un-volunteers-drc-open-assignments",
+  "potential_issues": [
+   "All the deadlines listed here (6, 7 and 11 October 2026) have passed",
+   "The platform could not be read on 12 October 2026: it shows listings only in a browser with JavaScript, so current DRC assignments were not checked",
+   "Most of the assignments listed on 5 October were specialist or international posts outside Kinshasa",
+   "Conditions of eight of nine assignments not read"
+  ],
+  "action": "Open the UN Volunteers platform in a browser, filter for the DRC, and check which assignments are open now: those listed here have expired."
+ },
+ {
+  "id": "youth-global-forum-2027-paris",
+  "last_verified": "2026-10-12",
+  "verification": "PARTIALLY VERIFIED",
+  "application_deadline": "2026-11-20",
+  "deadline_text": "\"Deadline for funded applications | 20 NOVember 2026\" (organiser's page, read 12 October 2026; the same page showed 18 November 2026 on 5 October 2026).",
+  "funding_details": [
+   "Organiser's page: 30 'Fully Funded' and 40 'Partially Funded' seats by competitive selection; 100 'Forum Admission' and 80 'Self Funded' seats by guaranteed selection.",
+   "The single application form for the funded categories is priced at USD 16.99 on the organiser's page (read 12 October 2026); on 5 October 2026 the form showed USD 16.99 plus USD 3 in charges (USD 19.99 total), paid by card.",
+   "Fully Funded: \"Round-trip international airfare support\", twin-shared 4-star hotel, meals, Forum participation, visa invitation letter and support. Partially Funded: the same without airfare.",
+   "Forum Admission listed at USD 399.00 (crossed-out USD 799.99); Self-Funded at USD 699.0 (crossed-out USD 999.99); visa invitation letter package USD 99.00 (crossed-out USD 299.99)."
+  ],
+  "participation_fee": "USD 399.00 (Forum Admission) or USD 699.0 (Self-Funded) for guaranteed seats, as listed on 12 October 2026",
+  "potential_issues": [
+   "Pay-to-apply: USD 16.99 (plus card charges) must be paid to apply for a 'funded' seat",
+   "Guaranteed seats are sold (USD 399 to 699, shown as discounts from USD 799.99 and 999.99)",
+   "Funded seats are 70 of 250",
+   "The funded-application deadline moved from 18 to 20 November 2026 between 5 and 12 October",
+   "Assistance is offered via WhatsApp",
+   "One of the contact phone numbers on the page uses the +1 (555) prefix, which is not a real assigned area code",
+   "The organiser (CGDL, Toronto) was not independently verified"
+  ]
+ }
+]
