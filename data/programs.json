@@ -30,7 +30,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "Reported by secondary sources: \"Medical insurance paid by the Bank and a monthly stipend for eligible interns\" (amount not stated); on-site interns cover their own travel to and from the duty station and their living expenses. The AfDB page could not be read."
@@ -7509,5 +7509,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-12"
+  "status_computed_on": "2026-10-13"
 }

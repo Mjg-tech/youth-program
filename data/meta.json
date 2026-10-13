@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-12T13:29:29Z",
+  "last_refresh": "2026-10-13T12:56:03Z",
   "counts": {
     "total": 70,
     "archived": 1,
     "by_status": {
       "OPEN": 24,
-      "CLOSING SOON": 8,
+      "CLOSING SOON": 7,
       "UPCOMING": 20,
-      "DEADLINE PASSED": 5,
+      "DEADLINE PASSED": 6,
       "ROLLING": 4,
       "DATE UNKNOWN": 9
     },
@@ -44,26 +44,32 @@
     ],
     "14": [
       "au-theme-of-the-year-2027-logo-competition",
-      "d-prize-challenge-2026-2027",
-      "yale-young-african-scholars-2027"
+      "d-prize-challenge-2026-2027"
     ],
     "7": [
-      "aspire-leaders-program-2026-cohort-4",
-      "safetech-africa-hacklab-2026"
+      "safetech-africa-hacklab-2026",
+      "yale-young-african-scholars-2027"
     ],
     "3": [
-      "tutu-leading-for-humanity-2027"
+      "aspire-leaders-program-2026-cohort-4"
     ],
     "1": [
-      "afdb-internship-2027-session-1",
-      "mandela-washington-fellowship-2027"
+      "mandela-washington-fellowship-2027",
+      "tutu-leading-for-humanity-2027"
     ]
   },
   "watch": {
     "checked": 56,
-    "ok": 51,
-    "blocked_or_unreachable": 5,
+    "ok": 52,
+    "blocked_or_unreachable": 4,
     "dead": 0
   },
-  "flags": []
+  "flags": [
+    {
+      "id": "safetech-africa-hacklab-2026",
+      "type": "source_changed",
+      "since": "2026-10-13",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    }
+  ]
 }
