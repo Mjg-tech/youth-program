@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-14T10:34:45Z",
+  "last_refresh": "2026-10-15T10:16:58Z",
   "counts": {
     "total": 70,
     "archived": 1,
     "by_status": {
       "OPEN": 24,
-      "CLOSING SOON": 6,
+      "CLOSING SOON": 5,
       "UPCOMING": 20,
-      "DEADLINE PASSED": 7,
+      "DEADLINE PASSED": 8,
       "ROLLING": 4,
       "DATE UNKNOWN": 9
     },
@@ -47,14 +47,13 @@
       "d-prize-challenge-2026-2027"
     ],
     "7": [
-      "safetech-africa-hacklab-2026",
       "yale-young-african-scholars-2027"
     ],
     "3": [
-      "aspire-leaders-program-2026-cohort-4"
+      "safetech-africa-hacklab-2026"
     ],
     "1": [
-      "tutu-leading-for-humanity-2027"
+      "aspire-leaders-program-2026-cohort-4"
     ]
   },
   "watch": {
@@ -64,6 +63,12 @@
     "dead": 0
   },
   "flags": [
+    {
+      "id": "eu-delegation-drc-subsidised-traineeship",
+      "type": "source_changed",
+      "since": "2026-10-15",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
     {
       "id": "safetech-africa-hacklab-2026",
       "type": "source_changed",

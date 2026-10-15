@@ -5083,7 +5083,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Partially Funded",
       "funding_details": [
         "Foundation's page: \"The Foundation covers all programme costs, accommodation, and meals. Participants (or their sponsors) are responsible for travel to and from South Africa.\""
@@ -7509,5 +7509,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-14"
+  "status_computed_on": "2026-10-15"
 }
