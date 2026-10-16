@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-15T10:16:58Z",
+  "last_refresh": "2026-10-16T10:05:19Z",
   "counts": {
     "total": 70,
     "archived": 1,
@@ -38,15 +38,17 @@
       "anzisha-fellowship-2027",
       "dalai-lama-fellows-2027",
       "global-leadership-challenge-2026",
+      "global-solvers-accelerator-2027",
       "i-am-nala-fellowship-2027",
+      "itu-gender-champions-programme-2027",
       "one-young-world-leading-scholarship-2026",
       "ustc-international-winter-camp-2027"
     ],
     "14": [
-      "au-theme-of-the-year-2027-logo-competition",
       "d-prize-challenge-2026-2027"
     ],
     "7": [
+      "au-theme-of-the-year-2027-logo-competition",
       "yale-young-african-scholars-2027"
     ],
     "3": [
@@ -58,15 +60,15 @@
   },
   "watch": {
     "checked": 56,
-    "ok": 52,
-    "blocked_or_unreachable": 4,
+    "ok": 51,
+    "blocked_or_unreachable": 5,
     "dead": 0
   },
   "flags": [
     {
       "id": "eu-delegation-drc-subsidised-traineeship",
       "type": "source_changed",
-      "since": "2026-10-15",
+      "since": "2026-10-16",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
