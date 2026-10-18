@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-17T09:39:15Z",
+  "last_refresh": "2026-10-18T09:52:22Z",
   "counts": {
     "total": 70,
     "archived": 1,
@@ -44,12 +44,12 @@
       "ustc-international-winter-camp-2027"
     ],
     "14": [
-      "d-prize-challenge-2026-2027",
       "i-am-nala-fellowship-2027",
       "one-young-world-leading-scholarship-2026"
     ],
     "7": [
-      "au-theme-of-the-year-2027-logo-competition"
+      "au-theme-of-the-year-2027-logo-competition",
+      "d-prize-challenge-2026-2027"
     ],
     "3": [
       "yale-young-african-scholars-2027"
