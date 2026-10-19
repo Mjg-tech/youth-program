@@ -2,6 +2,204 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-10-19",
+      "id": "un-agencies-kinshasa-internships",
+      "title": "UN agencies' internships in Kinshasa (UNDP, UNOPS, UN-Habitat, UNCDF, OHCHR, MONUSCO, WHO, UNRC)",
+      "field": "deadline_text",
+      "old": "No open UN internship in Kinshasa was found on 12 October 2026 on the UNFPA, UNDP, UNICEF, WFP, UNHCR and UN Careers (Secretariat/MONUSCO) portals; untalent.org and unjobs.org blocked automated reading, and the UNOPS and WHO internship portals could not be read.",
+      "new": "No open UN internship in Kinshasa was found on 19 October 2026 on the UNFPA, UNDP, UNICEF, WFP and UN Careers (Secretariat/MONUSCO) portals. UNDP's only Kinshasa vacancy was a staff post (UNCDF Administration and Finance Analyst, NPSA-8); WFP listed a Logistics Officer post in Kinshasa and a Programme Assistant post in Goma; UNICEF listed a national consultant post in Kalemie. untalent.org and unjobs.org again refused automated reading (HTTP 403), and the UNOPS and IOM portals could not be reached."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "unicef-drc-internships",
+      "title": "UNICEF DRC internships (Kinshasa, Goma, Bunia)",
+      "field": "deadline_text",
+      "old": "The 2026 round closed on 25 May 2026. A search of jobs.unicef.org on 12 October 2026 (Kinshasa, Congo, RDC, intern, stage) showed no internship in the DRC.",
+      "new": "The 2026 round closed on 25 May 2026. A search of jobs.unicef.org on 19 October 2026 (keywords 'kinshasa' and 'internship') showed no internship in the DRC: the only DRC result was a national consultant post in Kalemie."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "un-osesg-great-lakes-political-affairs-intern-2026",
+      "title": "UN Office of the Special Envoy for the Great Lakes Region: Political Affairs intern (Nairobi)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "afreximbank-internship-programme",
+      "title": "Afreximbank Group Internship Programme (Cairo)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "unu-junior-fellows-internship-spring-2027",
+      "title": "United Nations University Junior Fellows Internship, Spring 2027 (Tokyo)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "allianz-social-shifters-movenow-challenge-2026",
+      "title": "Allianz x Social Shifters MoveNow Social Innovation Challenge 2026",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "safetech-africa-hacklab-2026",
+      "title": "SafeTech Africa HackLab 2026: youth social innovation challenge",
+      "field": "deadline_text",
+      "old": "\"Closing Date: 18 October 2026 (23:59 CAT)\" (Spotlight Initiative call page, read 12 October 2026).",
+      "new": "\"Closing Date: 18 October 2026 (23:59 CAT)\" (Spotlight Initiative and UNFPA East and Southern Africa call pages, re-read 19 October 2026; no extension is mentioned)."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "safetech-africa-hacklab-2026",
+      "title": "SafeTech Africa HackLab 2026: youth social innovation challenge",
+      "field": "eligibility",
+      "old": [
+        "Aged 18 to 35",
+        "Young African innovators, social entrepreneurs or digital rights advocates, individually or in teams",
+        "Solution under one of three themes: safe physical and community spaces, safe information spaces, safe digital spaces"
+      ],
+      "new": [
+        "Aged 18 to 35",
+        "Young African innovators, social entrepreneurs or digital rights advocates, individually or in teams",
+        "Solution under one of three themes: safe physical and community spaces, safe information spaces, safe digital spaces",
+        "Teams of 2 to 5 are strongly encouraged",
+        "Solution at concept, early prototype or early pilot stage; one category only"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "id": "safetech-africa-hacklab-2026",
+      "title": "SafeTech Africa HackLab 2026: youth social innovation challenge",
+      "field": "nationality_requirements",
+      "old": [
+        "Young African innovators; the residency criterion links to the UNFPA East and Southern Africa list of countries, while the call names both the East and Southern and the West and Central Africa regions"
+      ],
+      "new": [
+        "UNFPA page: \"Open to young innovators residing in Eastern and Southern Africa\" (links to a country list); it also names Burkina Faso, Ghana, Niger and Sierra Leone in West and Central Africa, where solutions on child marriage are strongly encouraged. The DRC is not named on either page as read."
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "id": "african-union-youth-volunteer-corps",
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "field": "deadline_text",
+      "old": "13th cohort: applications from 26 March to 26 April 2026 (11:59 pm EAT) on jobs.au.int. No 14th call was found on 12 October 2026 on au.int or jobs.au.int.",
+      "new": "13th cohort: applications from 26 March to 26 April 2026 (11:59 pm EAT) on jobs.au.int. No 14th call was found on 19 October 2026 on au.int (the jobs.au.int search loads its results with JavaScript and showed none to the reader)."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "engen-drc-jeunes-talents",
+      "title": "Jeunes Talents Engen DRC (Kinshasa and Grand Katanga)",
+      "field": "deadline_text",
+      "old": "'Les candidatures sont ouvertes du 1er août au 30 Septembre 2026' (Engen DRC page, read 12 October 2026). Selection October 2026, tests and interviews November 2026, start January 2027.",
+      "new": "'Les candidatures sont ouvertes du 1er août au 30 Septembre 2026' (Engen DRC page, read 19 October 2026). Selection October 2026, tests and interviews November 2026, start January 2027."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "european-forum-alpbach-scholarships",
+      "title": "European Forum Alpbach scholarship programme",
+      "field": "deadline_text",
+      "old": "No 2027 call yet (FAQ page, read 12 October 2026). For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'",
+      "new": "No 2027 call yet (FAQ page, read 19 October 2026: it still describes the 2026 Forum). For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "mastercard-foundation-associates-programme",
+      "title": "Mastercard Foundation Associates programme",
+      "field": "deadline_text",
+      "old": "\"Roles will be posted on an ongoing basis\" (Mastercard Foundation page, read 12 October 2026). Only Yes Youth Employment Service ('Apply for South and Southern African roles') is shown open; Talent 2 Africa, Jobberman, Shortlist Futures and Talenteum are shown 'Closed for Applications'.",
+      "new": "\"Roles will be posted on an ongoing basis\" (Mastercard Foundation page, read 19 October 2026). Only Yes Youth Employment Service ('Apply for South and Southern African roles') is shown open; Talent 2 Africa, Jobberman, Shortlist Futures and Talenteum are shown 'Closed for Applications'."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "deadline_text",
+      "old": "'The application for the 2026-2027 Leaders program is now closed. Please check back here for updates on our 2027-2028 Obama Leaders application.' (Leaders Africa page, read 12 October 2026). The general Leaders page says applicants 'may apply in November of the preceding year'. No 2027-2028 dates posted.",
+      "new": "'The application for the 2026-2027 Leaders program is now closed. Please check back here for updates on our 2027-2028 Obama Leaders application.' (Leaders Africa page, read 19 October 2026). The general Leaders page says 'Find out when applications open by signing up for Obama Foundation emails'. No 2027-2028 dates posted."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "rawbank-rawtalent-jeunes-universitaires",
+      "title": "Rawbank RawTalent: Jeunes Universitaires",
+      "field": "deadline_text",
+      "old": "6th edition: 07 June 2025 at 16:00, Kinshasa time. No 7th edition was found on 12 October 2026: the Rawbank recruitment site listed only 11 offers dated 22/12/2022 and no RawTalent call.",
+      "new": "6th edition: 07 June 2025 at 16:00, Kinshasa time. No 7th edition was found on 19 October 2026: the Rawbank recruitment site still lists only offers dated 22/12/2022 and no RawTalent call."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "vodacom-elite-graduate-officer-programme",
+      "title": "Vodacom Elite: Graduate Officer programme (Kinshasa)",
+      "field": "deadline_text",
+      "old": "2026 edition: 18 June 2026. On 12 October 2026 the Vodacom RDC careers page (vodacom.cd/fr/carrieres) listed 'Programme Elite' in its menu with no linked call or dates.",
+      "new": "2026 edition: 18 June 2026. On 19 October 2026 the Vodacom RDC careers page (vodacom.cd/fr/carrieres) still listed 'Programme Elite' in its menu with no linked call or dates."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "world-bank-wbg-pioneers-internships",
+      "title": "World Bank Group Pioneers internship programme",
+      "field": "deadline_text",
+      "old": "Two windows a year: Spring/Summer 'Applications January – February'; Winter/Fall 'Applications July – August', selection in October (World Bank page, read 12 October 2026). Reported by secondary sources: the 2026 Winter/Fall window ran 13 July to 12 August 2026.",
+      "new": "Two windows a year: Spring/Summer 'Applications January – February'; Winter/Fall 'Applications July – August', selection in October (World Bank page, read 19 October 2026). Reported by secondary sources: the 2026 Winter/Fall window ran 13 July to 12 August 2026."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "i-am-nala-fellowship-2027",
+      "title": "I AM NALA Fellowship 2027",
+      "field": "deadline_text",
+      "old": "\"Deadline: 31 October 2026\", on the organiser's Google Form (read 12 October 2026); only shortlisted candidates notified by 6 November 2026. nalafem.org could not be reached on 12 October 2026.",
+      "new": "\"Deadline: 31 October 2026\", on the organiser's Google Form (re-read 19 October 2026); only shortlisted candidates notified by 6 November 2026. nalafem.org was reachable on 19 October 2026 but has no page about the fellowship."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "cermet-congo-junior-graphic-designer-kinshasa",
+      "title": "CERMET-CONGO: Infographe Junior (job or internship, Kinshasa)",
+      "field": "application_deadline",
+      "old": "",
+      "new": "2026-10-17"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "cermet-congo-junior-graphic-designer-kinshasa",
+      "title": "CERMET-CONGO: Infographe Junior (job or internship, Kinshasa)",
+      "field": "deadline_text",
+      "old": "No deadline shown on the listing; the listing is dated 'Publiée le 09.10.2026' (emploi.cd, read 12 October 2026).",
+      "new": "The emploi.cd listing shows 'Expirée le 17.10.2026' and 'Annonce expirée' (read 19 October 2026). No deadline was shown before."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "transsion-infinix-intern-communication-content-kinshasa",
+      "title": "Transsion / Infinix: Stagiaire en Communication et Création de Contenu (Kinshasa)",
+      "field": "application_deadline",
+      "old": "",
+      "new": "2026-10-17"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "transsion-infinix-intern-communication-content-kinshasa",
+      "title": "Transsion / Infinix: Stagiaire en Communication et Création de Contenu (Kinshasa)",
+      "field": "deadline_text",
+      "old": "No deadline shown on the listing; the listing is dated 'Publiée le 09.10.2026' (emploi.cd, read 12 October 2026).",
+      "new": "The emploi.cd listing shows 'Expirée le 17.10.2026' and 'Annonce expirée' (read 19 October 2026). No deadline was shown before."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "transsion-infinix-intern-admin-assistant-kinshasa",
+      "title": "Transsion / Infinix: Stagiaire Assistant Administratif (Kinshasa)",
+      "field": "deadline_text",
+      "old": "No deadline shown on the listing; the listing is dated 'Publiée le 09.10.2026' (emploi.cd, read 12 October 2026).",
+      "new": "No deadline shown on the listing; the listing is dated 'Publiée le 16.10.2026' and still shows 'Postuler' (emploi.cd, read 19 October 2026)."
+    },
+    {
       "date": "2026-10-12",
       "id": "un-agencies-kinshasa-internships",
       "title": "UN agencies' internships in Kinshasa (UNDP, UNOPS, UN-Habitat, UNCDF, OHCHR, MONUSCO, WHO, UNRC)",

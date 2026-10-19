@@ -1,0 +1,97 @@
+[
+ {
+  "id": "anzisha-fellowship-2027",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "d-prize-challenge-2026-2027",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "dalai-lama-fellows-2027",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "global-leadership-challenge-2026",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "global-solvers-accelerator-2027",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "itu-gender-champions-programme-2027",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "one-young-world-leading-scholarship-2026",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "unearthodox-exploration-co-lab-2027",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "ustc-international-winter-camp-2027",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "yale-young-african-scholars-2027",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "eu-delegation-drc-subsidised-traineeship",
+  "last_verified": "2026-10-19",
+  "expected_next_cycle": "No 2027 call found on the EEAS site on 19 October 2026. The 2026 call was published on 15 January 2026 with a deadline of 25 January 2026."
+ },
+ {
+  "id": "au-theme-of-the-year-2027-logo-competition",
+  "last_verified": "2026-10-19",
+  "potential_issues": [
+   "Only for ages 18 to 24",
+   "The winner assigns copyright and IP rights in the design to the AU Commission",
+   "Generative AI tools are banned and entries are checked",
+   "The event page shows 15:00 on 23 October while the terms of reference say 23:59 EAT: submit early",
+   "The AU page's \"Click here to register\" link (read 19 October 2026) points to accreditation.au.int/en/form/data-form-media, which looks like a media accreditation form; check that it is the competition entry channel before submitting"
+  ]
+ },
+ {
+  "id": "safetech-africa-hacklab-2026",
+  "last_verified": "2026-10-19",
+  "deadline_text": "\"Closing Date: 18 October 2026 (23:59 CAT)\" (Spotlight Initiative and UNFPA East and Southern Africa call pages, re-read 19 October 2026; no extension is mentioned).",
+  "nationality_requirements": [
+   "UNFPA page: \"Open to young innovators residing in Eastern and Southern Africa\" (links to a country list); it also names Burkina Faso, Ghana, Niger and Sierra Leone in West and Central Africa, where solutions on child marriage are strongly encouraged. The DRC is not named on either page as read."
+  ],
+  "eligibility": [
+   "Aged 18 to 35",
+   "Young African innovators, social entrepreneurs or digital rights advocates, individually or in teams",
+   "Solution under one of three themes: safe physical and community spaces, safe information spaces, safe digital spaces",
+   "Teams of 2 to 5 are strongly encouraged",
+   "Solution at concept, early prototype or early pilot stage; one category only"
+  ],
+  "sources": [
+   {
+    "label": "Spotlight Initiative: SafeTech Africa HackLab call",
+    "url": "https://www.spotlightinitiative.org/latest/events/safetech-africa-hacklab-innovating-safe-spaces-call-applications",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunities for Africans",
+    "url": "https://www.opportunitiesforafricans.com/spotlight-initiative-safetech-africa-hacklab-2026-for-young-african-innovators/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UNFPA East and Southern Africa: SafeTech Africa HackLab call",
+    "url": "https://esaro.unfpa.org/en/vacancies/youth-social-innovation-challenge-%E2%80%9926-safetech-africa-hacklab",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Closed on 18 October 2026; no extension announced",
+   "Whether DRC residents qualify is not clear: the residency rule names Eastern and Southern Africa and four West and Central African countries, not the DRC",
+   "Only four winners receive grants",
+   "The UNFPA page links to a different Google Form from the Spotlight Initiative page; one focal-point email address on the UNFPA page is malformed"
+  ],
+  "action": "This call closed on 18 October 2026; watch the UNFPA and Spotlight Initiative pages for a future edition."
+ }
+]

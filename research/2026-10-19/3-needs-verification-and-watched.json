@@ -1,0 +1,156 @@
+[
+ {
+  "id": "african-union-youth-volunteer-corps",
+  "deadline_text": "13th cohort: applications from 26 March to 26 April 2026 (11:59 pm EAT) on jobs.au.int. No 14th call was found on 19 October 2026 on au.int (the jobs.au.int search loads its results with JavaScript and showed none to the reader).",
+  "expected_next_cycle": "No 14th call yet: the AU page (read 19 October 2026) still asks readers to \"be on the lookout for an advertised Call for Applications on the AU Careers page and official social media platforms\"; the 13th call ran 26 March to 26 April 2026.",
+  "potential_issues": [
+   "No open call on 19 October 2026",
+   "Requires one year of volunteering and one year of work experience",
+   "auyvc.africa-union.org shows only a login page for its volunteer management system (19 October 2026)"
+  ],
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "engen-drc-jeunes-talents",
+  "deadline_text": "'Les candidatures sont ouvertes du 1er août au 30 Septembre 2026' (Engen DRC page, read 19 October 2026). Selection October 2026, tests and interviews November 2026, start January 2027.",
+  "expected_next_cycle": "The 2026 call closed on 30 September 2026; the next call has not been announced (Engen DRC page, read 19 October 2026).",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "european-forum-alpbach-scholarships",
+  "deadline_text": "No 2027 call yet (FAQ page, read 19 October 2026: it still describes the 2026 Forum). For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'",
+  "expected_next_cycle": "Applications for the 2027 Forum expected around March 2027, by analogy with 2026. Not announced on 19 October 2026.",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "mastercard-foundation-associates-programme",
+  "deadline_text": "\"Roles will be posted on an ongoing basis\" (Mastercard Foundation page, read 19 October 2026). Only Yes Youth Employment Service ('Apply for South and Southern African roles') is shown open; Talent 2 Africa, Jobberman, Shortlist Futures and Talenteum are shown 'Closed for Applications'.",
+  "expected_next_cycle": "Roles are posted on an ongoing basis by partner platforms; on 19 October 2026 only the South and Southern Africa platform was open and no platform named the DRC.",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "mckinsey-forward-fall-2026",
+  "expected_next_cycle": "Next cohort not announced; the Forward overview page (read 19 October 2026) invites people to 'Register your interest' and 'be the first to get notified when applications reopen in your country'.",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "obama-foundation-leaders",
+  "deadline_text": "'The application for the 2026-2027 Leaders program is now closed. Please check back here for updates on our 2027-2028 Obama Leaders application.' (Leaders Africa page, read 19 October 2026). The general Leaders page says 'Find out when applications open by signing up for Obama Foundation emails'. No 2027-2028 dates posted.",
+  "expected_next_cycle": "2027-2028 Leaders application: by the official pattern, applications in November of the preceding year (November 2026), but no dates were posted on 19 October 2026.",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "oif-senghor-youth-leadership-certificate",
+  "expected_next_cycle": "The 2026 call closed on 25 July 2026; the next call has not been announced. On 19 October 2026 the Université Senghor application platform listed other open campaigns (certificates in crisis management, impact evaluation, patient safety and others) but no youth leadership certificate.",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "rawbank-rawtalent-jeunes-universitaires",
+  "deadline_text": "6th edition: 07 June 2025 at 16:00, Kinshasa time. No 7th edition was found on 19 October 2026: the Rawbank recruitment site still lists only offers dated 22/12/2022 and no RawTalent call.",
+  "expected_next_cycle": "A 7th edition has not been announced (Rawbank recruitment site checked 19 October 2026).",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "vodacom-elite-graduate-officer-programme",
+  "deadline_text": "2026 edition: 18 June 2026. On 19 October 2026 the Vodacom RDC careers page (vodacom.cd/fr/carrieres) still listed 'Programme Elite' in its menu with no linked call or dates.",
+  "expected_next_cycle": "The next edition has not been announced (Vodacom RDC careers page checked 19 October 2026).",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "world-bank-wbg-pioneers-internships",
+  "deadline_text": "Two windows a year: Spring/Summer 'Applications January – February'; Winter/Fall 'Applications July – August', selection in October (World Bank page, read 19 October 2026). Reported by secondary sources: the 2026 Winter/Fall window ran 13 July to 12 August 2026.",
+  "expected_next_cycle": "Next window expected January to February 2027 (Spring/Summer cycle), by the pattern on the World Bank page; exact dates not posted on 19 October 2026.",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "i-am-nala-fellowship-2027",
+  "deadline_text": "\"Deadline: 31 October 2026\", on the organiser's Google Form (re-read 19 October 2026); only shortlisted candidates notified by 6 November 2026. nalafem.org was reachable on 19 October 2026 but has no page about the fellowship.",
+  "sources": [
+   {
+    "label": "I AM NALA Fellowship 2027 application form (Google Form; re-read 19 October 2026, still accepting responses)",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7cdN9YiLa9HpHQ5eGkh6HgpVexDvWGELZB59i4PfmaOMwMw/viewform",
+    "type": "Official"
+   },
+   {
+    "label": "Nalafem Collective (reachable on 19 October 2026; no page about the fellowship found)",
+    "url": "https://nalafem.org/",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunity Desk",
+    "url": "https://opportunitydesk.org/2026/09/14/i-am-nala-fellowship-2027/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "The call is only on a Google Form; nalafem.org (read 19 October 2026: home, Apply page and site search) does not mention the fellowship, so the call could not be matched to a page on the organiser's site. The form states it was 'created inside of NALA - Feminist Collective'.",
+   "The support offered is described only in general terms on the form, with no amount",
+   "Only for displaced women"
+  ],
+  "action": "Compare the Google Form with Nalafem Collective's official social media accounts to confirm the call before filling it in by 31 October 2026.",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "cermet-congo-junior-graphic-designer-kinshasa",
+  "application_deadline": "2026-10-17",
+  "open_now": false,
+  "deadline_text": "The emploi.cd listing shows 'Expirée le 17.10.2026' and 'Annonce expirée' (read 19 October 2026). No deadline was shown before.",
+  "sources": [
+   {
+    "label": "emploi.cd listing: Infographe Junior (H/F) - Kinshasa (expired 17 October 2026, read 19 October 2026)",
+    "url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/infographe-junior-hf-kinshasa-492169",
+    "type": "Aggregator"
+   },
+   {
+    "label": "CERMET-CONGO website (no careers page or job posting found, read 19 October 2026)",
+    "url": "https://cermet-congo.com/",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Closed: the emploi.cd listing expired on 17 October 2026",
+   "Job-board listing only: CERMET-CONGO's own website (cermet-congo.com) has no careers page and does not publish this vacancy",
+   "The listing was re-dated from 2 October to 9 October 2026 on emploi.cd",
+   "Pay and internship duration not stated; hybrid work mentioned"
+  ],
+  "action": "Closed: the listing expired on 17 October 2026; watch emploi.cd for a new CERMET-CONGO posting.",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "transsion-infinix-intern-communication-content-kinshasa",
+  "application_deadline": "2026-10-17",
+  "open_now": false,
+  "deadline_text": "The emploi.cd listing shows 'Expirée le 17.10.2026' and 'Annonce expirée' (read 19 October 2026). No deadline was shown before.",
+  "sources": [
+   {
+    "label": "emploi.cd listing: Stagiaire en Communication et Création de Contenu - Kinshasa (expired 17 October 2026, read 19 October 2026)",
+    "url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/stagiaire-communication-creation-contenu-kinshasa",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "Closed: the emploi.cd listing expired on 17 October 2026",
+   "Job-board listing only; posted by TRANSSION HOLDINGS 'pour le compte de l'un de nos Clients' (the duties mention the Infinix brand); no posting found on a Transsion, Infinix or Carlcare page",
+   "Pay and duration not stated"
+  ],
+  "action": "Closed: the listing expired on 17 October 2026; watch emploi.cd for a new posting.",
+  "last_verified": "2026-10-19"
+ },
+ {
+  "id": "transsion-infinix-intern-admin-assistant-kinshasa",
+  "deadline_text": "No deadline shown on the listing; the listing is dated 'Publiée le 16.10.2026' and still shows 'Postuler' (emploi.cd, read 19 October 2026).",
+  "sources": [
+   {
+    "label": "emploi.cd listing: Stagiaire Assistant Administratif - Kinshasa (read 19 October 2026)",
+    "url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/stagiaire-assistant-administratif-kinshasa-491788",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "Job-board listing only; posted by TRANSSION HOLDINGS 'pour le compte de l'un de nos Clients' (the duties mention the Infinix team); no posting found on a Transsion, Infinix or Carlcare page",
+   "The listing has been re-dated several times on emploi.cd (2 October, 9 October, then 16 October 2026)",
+   "Pay and duration not stated"
+  ],
+  "last_verified": "2026-10-19"
+ }
+]
