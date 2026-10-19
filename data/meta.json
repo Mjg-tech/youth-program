@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-19T07:49:30Z",
+  "last_refresh": "2026-10-19T11:13:32Z",
   "counts": {
     "total": 74,
     "archived": 1,
@@ -59,23 +59,10 @@
     ]
   },
   "watch": {
-    "checked": 56,
-    "ok": 52,
-    "blocked_or_unreachable": 4,
+    "checked": 60,
+    "ok": 55,
+    "blocked_or_unreachable": 5,
     "dead": 0
   },
-  "flags": [
-    {
-      "id": "eu-delegation-drc-subsidised-traineeship",
-      "type": "source_changed",
-      "since": "2026-10-16",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "safetech-africa-hacklab-2026",
-      "type": "source_changed",
-      "since": "2026-10-13",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    }
-  ]
+  "flags": []
 }
