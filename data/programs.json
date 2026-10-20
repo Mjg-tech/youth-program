@@ -3933,9 +3933,9 @@
       "delivery_mode": "Online",
       "program_dates": "Multi-week programme following the application window",
       "duration": "Unknown / Not specified",
-      "application_deadline": "2026-10-05",
+      "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Fall 2026 call closed on 5 October 2026. FAQ on 12 October 2026: 'Applications are not open at the moment. However, you can still register your interest ... to be the first to receive email notifications when a new application cycle opens in your country.'",
+      "deadline_text": "Last cycle closed on 2026-10-05. Next cycle not announced yet.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -3943,7 +3943,7 @@
       "recurring": true,
       "expected_next_cycle": "Next cohort not announced; the Forward overview page (read 19 October 2026) invites people to 'Register your interest' and 'be the first to get notified when applications reopen in your country'.",
       "last_cycle_deadline": "2026-10-05",
-      "status": "DEADLINE PASSED",
+      "status": "UPCOMING",
       "funding_type": "Free",
       "funding_details": [
         "'Forward is a free multi-week learning program'",
@@ -3997,7 +3997,7 @@
       "source_url": "https://www.mckinsey.org/our-programs/forward/overview",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "McKinsey.org Forward overview",
@@ -4021,7 +4021,7 @@
       "action": "Register interest on the McKinsey.org Forward page to be told when the next cycle opens.",
       "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "[auto 2026-10-20] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "mckinsey forward",
         "mckinsey.org forward",
@@ -7977,5 +7977,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-19"
+  "status_computed_on": "2026-10-20"
 }

@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-19T11:13:32Z",
+  "last_refresh": "2026-10-20T10:24:05Z",
   "counts": {
     "total": 74,
-    "archived": 1,
+    "archived": 2,
     "by_status": {
       "OPEN": 21,
       "CLOSING SOON": 7,
-      "UPCOMING": 20,
-      "DEADLINE PASSED": 12,
+      "UPCOMING": 21,
+      "DEADLINE PASSED": 11,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -25,8 +25,8 @@
       "Funding Unclear": 39
     },
     "by_verification": {
-      "VERIFIED": 36,
-      "PARTIALLY VERIFIED": 26,
+      "VERIFIED": 35,
+      "PARTIALLY VERIFIED": 27,
       "NEEDS VERIFICATION": 12
     },
     "in_kinshasa": 18,
@@ -50,10 +50,11 @@
       "unu-junior-fellows-internship-spring-2027"
     ],
     "7": [
-      "au-theme-of-the-year-2027-logo-competition",
       "d-prize-challenge-2026-2027"
     ],
-    "3": [],
+    "3": [
+      "au-theme-of-the-year-2027-logo-competition"
+    ],
     "1": [
       "yale-young-african-scholars-2027"
     ]
@@ -64,5 +65,18 @@
     "blocked_or_unreachable": 5,
     "dead": 0
   },
-  "flags": []
+  "flags": [
+    {
+      "id": "aspire-leaders-program-2026-cohort-4",
+      "type": "source_changed",
+      "since": "2026-10-20",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "eu-delegation-drc-subsidised-traineeship",
+      "type": "source_changed",
+      "since": "2026-10-20",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    }
+  ]
 }

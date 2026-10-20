@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -99,6 +99,124 @@
       "notes": "",
       "archive_id": "koica-youth-leaders-programme-2026-2027@2026-06-26",
       "archived_on": "2026-10-05"
+    },
+    {
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "organization": "McKinsey.org",
+      "overview": "Free multi-week online programme teaching practical workplace skills: adaptability, communication, problem-solving, and digital and AI essentials. Applications are open until 5 October.",
+      "category": [
+        "Training",
+        "Leadership"
+      ],
+      "audience": [
+        "recent-graduate",
+        "young-professional",
+        "university-student"
+      ],
+      "country": "Online",
+      "city": "Online",
+      "location_type": "Remote",
+      "delivery_mode": "Online",
+      "program_dates": "Multi-week programme following the application window",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-10-05",
+      "deadline_utc": "",
+      "deadline_text": "Fall 2026 call closed on 5 October 2026. FAQ on 12 October 2026: 'Applications are not open at the moment. However, you can still register your interest ... to be the first to receive email notifications when a new application cycle opens in your country.'",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "Next cohort not announced; the Forward overview page (read 19 October 2026) invites people to 'Register your interest' and 'be the first to get notified when applications reopen in your country'.",
+      "last_cycle_deadline": "2026-10-05",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Free",
+      "funding_details": [
+        "'Forward is a free multi-week learning program'",
+        "Available in more than 130 countries"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Not applicable",
+        "flight": "Not applicable",
+        "accommodation": "Not applicable",
+        "meals": "Not applicable",
+        "visa": "Not applicable",
+        "insurance": "Not applicable",
+        "local_transport": "Not applicable"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "None: 'Forward is free for eligible participants ... There are no fees to apply, register, or partake' (official FAQ).",
+      "stipend": "Unknown / Not specified",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "Not stated",
+      "experience_requirement": "Reported: under 5 years of work experience; internships count",
+      "education_requirement": "Unknown / Not specified",
+      "nationality_requirements": [
+        "Available in more than 130 countries"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "Primarily English; a secondary source says the digital content is also translated into French",
+      "eligibility": [
+        "Live in a country where Forward is available; the FAQ's Africa list includes the Democratic Republic of the Congo",
+        "Working or with prior work experience (including internships or apprenticeships), or preparing to start work in the next 12 months",
+        "Less than 5 years of total work experience (exceptions stated for nonprofit, non-corporate or non-managerial roles)",
+        "At least a high school education or equivalent",
+        "Command of English, French, Brazilian Portuguese, Latin American Spanish or Arabic"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Apply online from the Forward overview page before 5 October"
+      ],
+      "official_application_url": "https://www.mckinsey.org/our-programs/forward/overview",
+      "official_information_url": "https://www.mckinsey.org/our-programs/forward/faq",
+      "source_url": "https://www.mckinsey.org/our-programs/forward/overview",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "McKinsey.org Forward overview",
+          "url": "https://www.mckinsey.org/our-programs/forward/overview",
+          "type": "Official"
+        },
+        {
+          "label": "McKinsey.org Forward FAQ (deadline, eligibility, country list, no fees)",
+          "url": "https://www.mckinsey.org/our-programs/forward/faq",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "Closed on 5 October 2026; next cohort not announced"
+      ],
+      "benefits": [
+        "Digital badge",
+        "Global learner network",
+        "Skills that employers in the target roles ask for"
+      ],
+      "action": "Register interest on the McKinsey.org Forward page to be told when the next cycle opens.",
+      "last_verified": "2026-10-19",
+      "date_discovered": "2026-10-02",
+      "notes": "",
+      "match_keywords": [
+        "mckinsey forward",
+        "mckinsey.org forward",
+        "mckinsey's forward",
+        "mckinsey"
+      ],
+      "archive_id": "mckinsey-forward-fall-2026@2026-10-05",
+      "archived_on": "2026-10-20"
     }
   ]
 }
