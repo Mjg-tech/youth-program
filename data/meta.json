@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-20T10:24:05Z",
+  "last_refresh": "2026-10-21T10:33:43Z",
   "counts": {
     "total": 74,
     "archived": 2,
     "by_status": {
       "OPEN": 21,
-      "CLOSING SOON": 7,
+      "CLOSING SOON": 6,
       "UPCOMING": 21,
-      "DEADLINE PASSED": 11,
+      "DEADLINE PASSED": 12,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -41,7 +41,8 @@
       "global-solvers-accelerator-2027",
       "itu-gender-champions-programme-2027",
       "unearthodox-exploration-co-lab-2027",
-      "ustc-international-winter-camp-2027"
+      "ustc-international-winter-camp-2027",
+      "youth-global-forum-2027-paris"
     ],
     "14": [
       "i-am-nala-fellowship-2027",
@@ -55,27 +56,37 @@
     "3": [
       "au-theme-of-the-year-2027-logo-competition"
     ],
-    "1": [
-      "yale-young-african-scholars-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 60,
-    "ok": 55,
+    "ok": 54,
     "blocked_or_unreachable": 5,
-    "dead": 0
+    "dead": 1
   },
   "flags": [
     {
+      "id": "african-union-youth-volunteer-corps",
+      "type": "source_changed",
+      "since": "2026-10-21",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
       "id": "aspire-leaders-program-2026-cohort-4",
       "type": "source_changed",
-      "since": "2026-10-20",
+      "since": "2026-10-21",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
       "id": "eu-delegation-drc-subsidised-traineeship",
       "type": "source_changed",
-      "since": "2026-10-20",
+      "since": "2026-10-21",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "au-theme-of-the-year-2027-logo-competition",
+      "type": "source_changed",
+      "since": "2026-10-21",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ]

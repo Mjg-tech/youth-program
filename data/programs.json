@@ -7563,7 +7563,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Partially Funded",
       "funding_details": [
         "YYAS: \"There are no tuition costs for participation in either program.\"",
@@ -7977,5 +7977,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-20"
+  "status_computed_on": "2026-10-21"
 }
