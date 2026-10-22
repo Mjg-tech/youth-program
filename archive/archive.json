@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -217,6 +217,221 @@
       ],
       "archive_id": "mckinsey-forward-fall-2026@2026-10-05",
       "archived_on": "2026-10-20"
+    },
+    {
+      "id": "unfpa-kinshasa-logistics-administrative-support-intern",
+      "title": "UNFPA internship: Logistics Administrative Support (Kinshasa)",
+      "organization": "United Nations Population Fund (UNFPA)",
+      "overview": "Six-month internship in the UNFPA country office in Kinshasa, supporting the logistics of the national census operations: filing and archiving, tracking tools, dashboards and status reports.",
+      "category": [
+        "Internship"
+      ],
+      "audience": [
+        "university-student",
+        "postgraduate-student",
+        "recent-graduate"
+      ],
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "location_type": "Kinshasa",
+      "delivery_mode": "In-person",
+      "program_dates": "Unknown / Not specified",
+      "duration": "6 months",
+      "application_deadline": "2026-10-07",
+      "deadline_utc": "2026-10-07T22:59:00Z",
+      "deadline_text": "Posted 23 September 2026; closes 7 October 2026 at 22:59 UTC (23:59 Kinshasa time), as read on UNFPA's own posting data on 5 October 2026. Closed: on 12 October 2026 the posting no longer appears in UNFPA's careers data and UNFPA lists no position in Kinshasa.",
+      "deadline_timezone": "Africa/Kinshasa",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Unpaid",
+      "funding_details": [
+        "UNFPA posting: \"Les stagiaires ne perçoivent pas de salaire\"; interns receive an allowance towards basic daily expenses if they do not already have financial support.",
+        "UNFPA does not provide medical insurance to interns."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Partially covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not covered",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Daily subsistence allowance only if not supported by an institution",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "No age limit stated",
+      "experience_level": "None required",
+      "experience_requirement": "Some academic, professional or volunteer experience is an advantage, not a requirement.",
+      "education_requirement": "Enrolled in a bachelor's programme with at least one academic year completed, or in a master's programme, or graduated and starting within a year of graduation",
+      "nationality_requirements": [
+        "International recruitment permitted"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "French; English is an asset",
+      "eligibility": [
+        "Enrolled in a first university degree (licence or equivalent) with at least one year completed, or enrolled in a master's programme, or starting within one year of graduating",
+        "Fluent French; English is an asset",
+        "No nationality condition stated on the posting"
+      ],
+      "other_requirements": [],
+      "documents_required": [
+        "CV",
+        "Application through the UNFPA candidate portal"
+      ],
+      "application_process": [
+        "Open the official UNFPA portal",
+        "Apply before 7 October 2026"
+      ],
+      "official_application_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37091",
+      "official_information_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37091",
+      "source_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37091",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "UNFPA careers (Oracle) posting 37091",
+          "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37091",
+          "type": "Official"
+        },
+        {
+          "label": "UN Vacancies listing for Kinshasa",
+          "url": "https://unvacancies.org/jobs/location/kinshasa",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "Closed on 7 October 2026",
+        "Unpaid apart from an allowance for daily expenses; interns arrange their own medical insurance",
+        "UNChannel still lists this internship with the date 2 November 2026; that appears to be the aggregator's own listing date, not UNFPA's deadline"
+      ],
+      "benefits": [],
+      "action": "This call has closed; watch UNFPA's careers site for the next internship in Kinshasa.",
+      "last_verified": "2026-10-05",
+      "date_discovered": "2026-10-05",
+      "notes": "The posting was read through UNFPA's public careers data on 5 October 2026: 'Stagiaire - Logistics Administrative Support, Kinshasa, RDC'.",
+      "archive_id": "unfpa-kinshasa-logistics-administrative-support-intern@2026-10-07",
+      "archived_on": "2026-10-22"
+    },
+    {
+      "id": "unfpa-kinshasa-warehouse-inventory-support-intern",
+      "title": "UNFPA internship: Warehouse & Inventory Support (Kinshasa)",
+      "organization": "United Nations Population Fund (UNFPA)",
+      "overview": "Six-month internship in the UNFPA country office in Kinshasa, listed together with the Logistics Administrative Support internship.",
+      "category": [
+        "Internship"
+      ],
+      "audience": [
+        "university-student",
+        "postgraduate-student",
+        "recent-graduate"
+      ],
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "location_type": "Kinshasa",
+      "delivery_mode": "In-person",
+      "program_dates": "Unknown / Not specified",
+      "duration": "6 months (as listed for the sister posting)",
+      "application_deadline": "2026-10-07",
+      "deadline_utc": "2026-10-07T22:59:00Z",
+      "deadline_text": "Posted 23 September 2026; closes 7 October 2026 at 22:59 UTC (23:59 Kinshasa time), as read on UNFPA's own posting data on 5 October 2026. Closed: on 12 October 2026 the posting no longer appears in UNFPA's careers data and UNFPA lists no position in Kinshasa.",
+      "deadline_timezone": "Africa/Kinshasa",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Unpaid",
+      "funding_details": [
+        "UNFPA posting: \"Les stagiaires ne perçoivent pas de salaire\"; interns receive an allowance towards basic daily expenses if they do not already have financial support.",
+        "UNFPA does not provide medical insurance to interns."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Partially covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not covered",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "None required",
+      "experience_requirement": "Some academic, professional or volunteer experience is an advantage, not a requirement.",
+      "education_requirement": "Enrolled in a bachelor's programme with at least one academic year completed, or in a master's programme, or graduated and starting within a year of graduation",
+      "nationality_requirements": [],
+      "drc_eligible": "Yes",
+      "language_requirement": "French; English is an asset",
+      "eligibility": [
+        "Enrolled in a first university degree (licence or equivalent) with at least one year completed, or enrolled in a master's programme, or starting within one year of graduating",
+        "Fluent French; English is an asset",
+        "No nationality condition stated on the posting"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [],
+      "official_application_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37095",
+      "official_information_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37095",
+      "source_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37095",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "UNFPA careers (Oracle) posting 37095",
+          "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37095",
+          "type": "Official"
+        },
+        {
+          "label": "UN Vacancies listing for Kinshasa",
+          "url": "https://unvacancies.org/jobs/location/kinshasa",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "Closed on 7 October 2026",
+        "Unpaid apart from an allowance for daily expenses; interns arrange their own medical insurance",
+        "Based at the WFP warehouse in Limete",
+        "UNChannel still lists this internship with the date 2 November 2026; that appears to be the aggregator's own listing date, not UNFPA's deadline"
+      ],
+      "benefits": [],
+      "action": "This call has closed; watch UNFPA's careers site for the next internship in Kinshasa.",
+      "last_verified": "2026-10-05",
+      "date_discovered": "2026-10-05",
+      "notes": "The posting was read through UNFPA's public careers data on 5 October 2026: 'Stagiaire - Warehouse & Inventory Support, Kinshasa, RDC'. The posting places the intern at the WFP (PAM) warehouse in Limete.",
+      "archive_id": "unfpa-kinshasa-warehouse-inventory-support-intern@2026-10-07",
+      "archived_on": "2026-10-22"
     }
   ]
 }

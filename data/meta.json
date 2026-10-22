@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-21T10:33:43Z",
+  "last_refresh": "2026-10-22T10:36:47Z",
   "counts": {
-    "total": 74,
-    "archived": 2,
+    "total": 72,
+    "archived": 4,
     "by_status": {
-      "OPEN": 21,
-      "CLOSING SOON": 6,
+      "OPEN": 20,
+      "CLOSING SOON": 7,
       "UPCOMING": 21,
-      "DEADLINE PASSED": 12,
+      "DEADLINE PASSED": 10,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -20,16 +20,16 @@
       "Travel Funded": 3,
       "Participation Funded": 3,
       "Free": 7,
-      "Unpaid": 6,
+      "Unpaid": 4,
       "Self Funded": 1,
       "Funding Unclear": 39
     },
     "by_verification": {
-      "VERIFIED": 35,
+      "VERIFIED": 33,
       "PARTIALLY VERIFIED": 27,
       "NEEDS VERIFICATION": 12
     },
-    "in_kinshasa": 18,
+    "in_kinshasa": 16,
     "remote": 17,
     "fee_required": 4
   },
@@ -37,7 +37,6 @@
     "30": [
       "anzisha-fellowship-2027",
       "dalai-lama-fellows-2027",
-      "global-leadership-challenge-2026",
       "global-solvers-accelerator-2027",
       "itu-gender-champions-programme-2027",
       "unearthodox-exploration-co-lab-2027",
@@ -45,23 +44,24 @@
       "youth-global-forum-2027-paris"
     ],
     "14": [
+      "global-leadership-challenge-2026",
       "i-am-nala-fellowship-2027",
       "one-young-world-leading-scholarship-2026",
       "un-osesg-great-lakes-political-affairs-intern-2026",
       "unu-junior-fellows-internship-spring-2027"
     ],
-    "7": [
+    "7": [],
+    "3": [
       "d-prize-challenge-2026-2027"
     ],
-    "3": [
+    "1": [
       "au-theme-of-the-year-2027-logo-competition"
-    ],
-    "1": []
+    ]
   },
   "watch": {
-    "checked": 60,
-    "ok": 54,
-    "blocked_or_unreachable": 5,
+    "checked": 58,
+    "ok": 50,
+    "blocked_or_unreachable": 7,
     "dead": 1
   },
   "flags": [
@@ -74,7 +74,7 @@
     {
       "id": "aspire-leaders-program-2026-cohort-4",
       "type": "source_changed",
-      "since": "2026-10-21",
+      "since": "2026-10-22",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -82,6 +82,12 @@
       "type": "source_changed",
       "since": "2026-10-21",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "mandela-washington-fellowship-2027",
+      "type": "dead_link",
+      "since": "2026-10-22",
+      "detail": "Official page returned HTTP 404 on two runs."
     },
     {
       "id": "au-theme-of-the-year-2027-logo-competition",
