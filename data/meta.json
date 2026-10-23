@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-22T10:36:47Z",
+  "last_refresh": "2026-10-23T10:29:11Z",
   "counts": {
-    "total": 72,
-    "archived": 4,
+    "total": 71,
+    "archived": 5,
     "by_status": {
       "OPEN": 20,
       "CLOSING SOON": 7,
       "UPCOMING": 21,
-      "DEADLINE PASSED": 10,
+      "DEADLINE PASSED": 9,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
     "by_funding": {
-      "Paid": 5,
+      "Paid": 4,
       "Fully Funded": 3,
       "Substantially Funded": 3,
       "Partially Funded": 4,
@@ -25,7 +25,7 @@
       "Funding Unclear": 39
     },
     "by_verification": {
-      "VERIFIED": 33,
+      "VERIFIED": 32,
       "PARTIALLY VERIFIED": 27,
       "NEEDS VERIFICATION": 12
     },
@@ -59,8 +59,8 @@
     ]
   },
   "watch": {
-    "checked": 58,
-    "ok": 50,
+    "checked": 57,
+    "ok": 49,
     "blocked_or_unreachable": 7,
     "dead": 1
   },
@@ -86,7 +86,7 @@
     {
       "id": "mandela-washington-fellowship-2027",
       "type": "dead_link",
-      "since": "2026-10-22",
+      "since": "2026-10-23",
       "detail": "Official page returned HTTP 404 on two runs."
     },
     {

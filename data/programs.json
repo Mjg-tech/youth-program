@@ -6257,109 +6257,6 @@
       "notes": ""
     },
     {
-      "id": "unon-oif-young-african-interpreters-fellowship-2026",
-      "title": "UNON/OIF Fellowship Programme for Young African Interpreters (2026 cohort)",
-      "organization": "United Nations Office at Nairobi (UNON) with the Organisation internationale de la Francophonie (OIF)",
-      "overview": "A six-week paid training fellowship in Nairobi for young African conference interpreters with French as their A or retour language who recently graduated from a PAMCIT member university.",
-      "category": [
-        "Fellowship",
-        "Training"
-      ],
-      "audience": [
-        "recent-graduate",
-        "young-professional"
-      ],
-      "country": "Kenya",
-      "city": "Nairobi",
-      "location_type": "Abroad in Africa",
-      "delivery_mode": "In-person",
-      "program_dates": "6 November to 18 December 2026",
-      "duration": "6 weeks",
-      "application_deadline": "2026-10-08",
-      "deadline_utc": "",
-      "deadline_text": "\"Applications must be received no later than 11:59 p.m. Nairobi time on 8 October 2026\" (UNON call for applications, read 5 October 2026). An online assessment is tentatively planned for 10 October 2026.",
-      "deadline_timezone": "Africa/Nairobi",
-      "opens_on": "",
-      "open_now": false,
-      "rolling": false,
-      "recurring": false,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
-      "funding_type": "Paid",
-      "funding_details": [
-        "UNON call: \"a monthly stipend of USD 3,000; a one-time settling-in grant of USD 1,300; return air travel ...; medical insurance coverage arrangements.\""
-      ],
-      "coverage": {
-        "tuition": "Not specified",
-        "stipend": "Covered",
-        "flight": "Covered",
-        "accommodation": "Not specified",
-        "meals": "Not specified",
-        "visa": "Not specified",
-        "insurance": "Covered",
-        "local_transport": "Not specified"
-      },
-      "travel_funded": true,
-      "flight_funded": true,
-      "accommodation_funded": false,
-      "meals_funded": false,
-      "visa_funded": false,
-      "insurance_funded": true,
-      "local_transport_funded": false,
-      "application_fee": "No fee stated",
-      "participation_fee": "No fee stated",
-      "stipend": "USD 3,000 a month plus a USD 1,300 settling-in grant",
-      "age_min": null,
-      "age_max": 34,
-      "age_requirement": "Under 35 at the time of application",
-      "experience_level": "None required",
-      "experience_requirement": "No work experience stated",
-      "education_requirement": "Master's degree in conference interpreting from a PAMCIT member university (Nairobi, Buea, Ghana, Gaston Berger, Maputo Pedagogical), obtained within the last three years",
-      "nationality_requirements": [
-        "Young African professionals; open only to graduates of PAMCIT member universities"
-      ],
-      "drc_eligible": "Unclear",
-      "language_requirement": "French as A or retour language; English as B or C",
-      "eligibility": [
-        "Under 35",
-        "Master's in conference interpreting from a PAMCIT member university within the last three years",
-        "French A or retour, English B or C"
-      ],
-      "other_requirements": [],
-      "documents_required": [],
-      "application_process": [
-        "Send one PDF (motivation letter and CV in French, degree and transcripts, passport page) by email as described in the UNON call"
-      ],
-      "official_application_url": "",
-      "official_information_url": "https://www.unon.org/sites/default/files/2026-09/UNONOIF%20Fellowship%20Programme%20for%20Young%20African%20Interpreters%20Call%20for%20Applications%20%E2%80%93%202026%20Cohort%20EN.pdf",
-      "source_url": "https://www.unon.org/sites/default/files/2026-09/UNONOIF%20Fellowship%20Programme%20for%20Young%20African%20Interpreters%20Call%20for%20Applications%20%E2%80%93%202026%20Cohort%20EN.pdf",
-      "source_type": "Official",
-      "source_confidence": "HIGH",
-      "verification": "VERIFIED",
-      "sources": [
-        {
-          "label": "UNON call for applications (PDF)",
-          "url": "https://www.unon.org/sites/default/files/2026-09/UNONOIF%20Fellowship%20Programme%20for%20Young%20African%20Interpreters%20Call%20for%20Applications%20%E2%80%93%202026%20Cohort%20EN.pdf",
-          "type": "Official"
-        },
-        {
-          "label": "OIF announcement",
-          "url": "https://www.francophonie.org/programme-de-bourses-de-perfectionnement-destine-aux-jeunes-interpretes-africaines-8690",
-          "type": "Official"
-        }
-      ],
-      "potential_issues": [
-        "Closed on 8 October 2026",
-        "Only for graduates of five PAMCIT universities, none of them in the DRC"
-      ],
-      "benefits": [],
-      "action": "This call has closed; watch unon.org and francophonie.org for a future cohort.",
-      "last_verified": "2026-10-12",
-      "date_discovered": "2026-10-05",
-      "notes": ""
-    },
-    {
       "id": "unu-junior-fellows-internship-spring-2027",
       "title": "United Nations University Junior Fellows Internship, Spring 2027 (Tokyo)",
       "organization": "United Nations University (UNU), Office of the Rector",
@@ -7766,5 +7663,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-22"
+  "status_computed_on": "2026-10-23"
 }
