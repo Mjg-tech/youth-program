@@ -1283,7 +1283,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "AU: \"USD 5,000 First place\", \"USD 2,000 Second place\", \"USD 1,000 Third place\", plus a certificate, recognition on AU platforms and training opportunities.",
@@ -7663,5 +7663,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-23"
+  "status_computed_on": "2026-10-24"
 }

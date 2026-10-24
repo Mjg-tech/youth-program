@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-23T10:29:11Z",
+  "last_refresh": "2026-10-24T09:46:41Z",
   "counts": {
     "total": 71,
     "archived": 5,
     "by_status": {
       "OPEN": 20,
-      "CLOSING SOON": 7,
+      "CLOSING SOON": 6,
       "UPCOMING": 21,
-      "DEADLINE PASSED": 9,
+      "DEADLINE PASSED": 10,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -45,17 +45,16 @@
     ],
     "14": [
       "global-leadership-challenge-2026",
-      "i-am-nala-fellowship-2027",
-      "one-young-world-leading-scholarship-2026",
-      "un-osesg-great-lakes-political-affairs-intern-2026",
       "unu-junior-fellows-internship-spring-2027"
     ],
-    "7": [],
-    "3": [
-      "d-prize-challenge-2026-2027"
+    "7": [
+      "i-am-nala-fellowship-2027",
+      "one-young-world-leading-scholarship-2026",
+      "un-osesg-great-lakes-political-affairs-intern-2026"
     ],
+    "3": [],
     "1": [
-      "au-theme-of-the-year-2027-logo-competition"
+      "d-prize-challenge-2026-2027"
     ]
   },
   "watch": {
@@ -86,7 +85,7 @@
     {
       "id": "mandela-washington-fellowship-2027",
       "type": "dead_link",
-      "since": "2026-10-23",
+      "since": "2026-10-24",
       "detail": "Official page returned HTTP 404 on two runs."
     },
     {
