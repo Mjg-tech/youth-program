@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-24T09:46:41Z",
+  "last_refresh": "2026-10-25T10:06:47Z",
   "counts": {
     "total": 71,
     "archived": 5,
     "by_status": {
-      "OPEN": 20,
-      "CLOSING SOON": 6,
+      "OPEN": 19,
+      "CLOSING SOON": 7,
       "UPCOMING": 21,
       "DEADLINE PASSED": 10,
       "ROLLING": 5,
@@ -40,17 +40,17 @@
       "global-solvers-accelerator-2027",
       "itu-gender-champions-programme-2027",
       "unearthodox-exploration-co-lab-2027",
-      "ustc-international-winter-camp-2027",
       "youth-global-forum-2027-paris"
     ],
     "14": [
       "global-leadership-challenge-2026",
-      "unu-junior-fellows-internship-spring-2027"
+      "ustc-international-winter-camp-2027"
     ],
     "7": [
       "i-am-nala-fellowship-2027",
       "one-young-world-leading-scholarship-2026",
-      "un-osesg-great-lakes-political-affairs-intern-2026"
+      "un-osesg-great-lakes-political-affairs-intern-2026",
+      "unu-junior-fellows-internship-spring-2027"
     ],
     "3": [],
     "1": [
@@ -85,7 +85,7 @@
     {
       "id": "mandela-washington-fellowship-2027",
       "type": "dead_link",
-      "since": "2026-10-24",
+      "since": "2026-10-25",
       "detail": "Official page returned HTTP 404 on two runs."
     },
     {
