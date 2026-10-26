@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -537,6 +537,102 @@
       "notes": "",
       "archive_id": "unon-oif-young-african-interpreters-fellowship-2026@2026-10-08",
       "archived_on": "2026-10-23"
+    },
+    {
+      "id": "un-volunteers-drc-open-assignments",
+      "title": "UN Volunteers: open assignments in the DRC (October 2026)",
+      "organization": "United Nations Volunteers (UNV)",
+      "overview": "Nine volunteer assignments in the DRC listed on the UN Volunteers platform on 5 October 2026: UNICEF Information Management Specialist (11 Oct), three UNICEF Supply & Logistics Specialists (7 Oct), and MONUSCO assistants: Movement Control (two), Receiving & Inspection, and Information Systems (two) (6 Oct).",
+      "category": [
+        "Volunteering"
+      ],
+      "audience": [
+        "young-professional",
+        "graduate"
+      ],
+      "country": "Democratic Republic of the Congo",
+      "city": "Bunia, Beni and other duty stations",
+      "location_type": "Multiple locations",
+      "delivery_mode": "In-person",
+      "program_dates": "Unknown / Not specified",
+      "duration": "6 to 9 months",
+      "application_deadline": "2026-10-11",
+      "deadline_utc": "",
+      "deadline_text": "Expiry dates shown on the platform: 6 October (MONUSCO assignments), 7 October (UNICEF supply and logistics), 11 October (UNICEF information management).",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "UN Volunteer assignments carry a living allowance; the amounts were not read."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "Some experience needed",
+      "experience_requirement": "Unknown / Not specified",
+      "education_requirement": "Unknown / Not specified",
+      "nationality_requirements": [],
+      "drc_eligible": "Unclear",
+      "language_requirement": "Unknown / Not specified",
+      "eligibility": [
+        "Only one assignment was opened: UNICEF Supply & Logistics Specialist (Hub Operation and Warehousing), an International Specialist (UCoS) post in Bunia, 6 months, expected start 1 November 2026",
+        "The other eight assignments' conditions were not read"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [],
+      "official_application_url": "https://app.unv.org/opportunities?country=COD",
+      "official_information_url": "https://app.unv.org/opportunities?country=COD",
+      "source_url": "https://app.unv.org/opportunities?country=COD",
+      "source_type": "Official",
+      "source_confidence": "MEDIUM",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "UN Volunteers platform, DRC listing (read 5 October 2026)",
+          "url": "https://app.unv.org/opportunities?country=COD",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "All the deadlines listed here (6, 7 and 11 October 2026) have passed",
+        "The platform could not be read on 12, 19 or 26 October 2026: it shows listings only in a browser with JavaScript, so current DRC assignments were not checked",
+        "Most of the assignments listed on 5 October were specialist or international posts outside Kinshasa",
+        "Conditions of eight of nine assignments not read"
+      ],
+      "benefits": [],
+      "action": "Open the UN Volunteers platform in a browser, filter for the DRC, and check which assignments are open now: those listed here have expired.",
+      "last_verified": "2026-10-05",
+      "date_discovered": "2026-10-05",
+      "notes": "",
+      "archive_id": "un-volunteers-drc-open-assignments@2026-10-11",
+      "archived_on": "2026-10-26"
     }
   ]
 }

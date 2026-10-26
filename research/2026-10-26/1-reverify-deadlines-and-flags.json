@@ -1,0 +1,453 @@
+[
+  {
+    "id": "anzisha-fellowship-2027",
+    "last_verified": "2026-10-26",
+    "deadline_text": "Applications for the 2027 intake open on 29 September 2026; \"10 November 2026 Applications Closed\"; evaluation November 2026 to March 2027; fellows announced May 2027 (anzisha.org/apply, read 26 October 2026). No time or time zone stated.",
+    "sources": [
+      {
+        "label": "Anzisha: apply (read 26 October 2026)",
+        "url": "https://anzisha.org/apply/",
+        "type": "Official"
+      },
+      {
+        "label": "Anzisha Fellowship Application 2027 form (read 26 October 2026)",
+        "url": "https://join.anzisha.org/apply",
+        "type": "Official"
+      },
+      {
+        "label": "Afri-Carrières",
+        "url": "https://afri-carrieres.com/opportunites/anzisha-fellowship/",
+        "type": "Aggregator"
+      }
+    ],
+    "potential_issues": [
+      "Requires an already running venture (customers, revenue or beneficiaries); formal registration is not required",
+      "The support package was not confirmed on the Anzisha page (re-checked 26 October 2026)",
+      "No time or time zone is given for the 10 November deadline"
+    ]
+  },
+  {
+    "id": "dalai-lama-fellows-2027",
+    "last_verified": "2026-10-26",
+    "deadline_text": "November 11, 2026: Application deadline (applications and all accompanying materials must be submitted by 22:00 Coordinated Universal Time). Application opened October 1, 2026 (dalailamafellows.com/apply, read 26 October 2026).",
+    "sources": [
+      {
+        "label": "Apply (read 26 October 2026)",
+        "url": "https://dalailamafellows.com/apply/",
+        "type": "Official"
+      },
+      {
+        "label": "The Fellowship (read 26 October 2026)",
+        "url": "https://dalailamafellows.com/the-fellowship/",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "global-leadership-challenge-2026",
+    "last_verified": "2026-10-26",
+    "deadline_text": "Application Opens: 29 September 2026. Application Closes: 5 November 2026. Applications are reviewed on a rolling basis, so don't wait until the deadline (leadership-challenge.org/applynow, read 26 October 2026). No time or time zone stated.",
+    "sources": [
+      {
+        "label": "Apply now (read 26 October 2026)",
+        "url": "https://www.leadership-challenge.org/applynow",
+        "type": "Official"
+      },
+      {
+        "label": "About GLC",
+        "url": "https://www.leadership-challenge.org/about-glc",
+        "type": "Official"
+      }
+    ],
+    "potential_issues": [
+      "Only the three winning teams travel; the other participants take part in the challenge without a funded trip",
+      "Applications are reviewed on a rolling basis before the 5 November deadline",
+      "A Schengen visa would be needed for Switzerland if selected for the Symposium",
+      "The apply page (read 26 October 2026) still shows a leftover line \"Application opens soon\" above a timeline that says applications opened on 29 September 2026"
+    ]
+  },
+  {
+    "id": "global-solvers-accelerator-2027",
+    "last_verified": "2026-10-26",
+    "deadline_text": "\"Applications close on November 15, 2026\"; \"Application Window: 15th August– 15th November 2026\" (Melton Foundation page content, read 26 October 2026). The official Typeform application form gives the time: \"15 November 2026, at 23:59 US EST (New York)\".",
+    "deadline_timezone": "America/New_York",
+    "deadline_utc": "2026-11-16T04:59:00Z",
+    "sources": [
+      {
+        "label": "Melton Foundation: Global Solvers Accelerator (page returned HTTP 403 to automated readers on 26 October 2026; content read through the site's own WordPress API, page last modified 15 September 2026)",
+        "url": "https://meltonfoundation.org/global-solvers-accelerator/",
+        "type": "Official"
+      },
+      {
+        "label": "Official application form (Typeform) (read 26 October 2026)",
+        "url": "https://meltonfoundation.typeform.com/GSA2027-appform",
+        "type": "Official"
+      },
+      {
+        "label": "Afri-Carrières",
+        "url": "https://afri-carrieres.com/opportunites/global-solvers-accelerator/",
+        "type": "Aggregator"
+      }
+    ],
+    "action": "Read the fee and scholarship terms on the Melton Foundation page before applying by 23:59 New York time on 15 November 2026."
+  },
+  {
+    "id": "itu-gender-champions-programme-2027",
+    "last_verified": "2026-10-26",
+    "deadline_text": "\"Applications close | 15 November 2026\" (ITU page, read 26 October 2026; no time or time zone stated); review and selection 16 November 2026 to 7 March 2027; champions announced 8 March 2027.",
+    "sources": [
+      {
+        "label": "ITU Gender Champions (read 26 October 2026)",
+        "url": "https://www.itu.int/initiatives/gender-equality/gender-champions/",
+        "type": "Official"
+      },
+      {
+        "label": "ITU terms of reference (PDF) (read 26 October 2026)",
+        "url": "https://www.itu.int/initiatives/gender-equality/wp-content/uploads/sites/9/2026/09/ITU-Gender-Champion-Programme-ToRs.pdf",
+        "type": "Official"
+      },
+      {
+        "label": "Opportunities for Africans",
+        "url": "https://www.opportunitiesforafricans.com/the-itu-gender-champions-programme-2027-for-young-women-leading-digital-transformation-and-digital-inclusion/",
+        "type": "Aggregator"
+      }
+    ]
+  },
+  {
+    "id": "unearthodox-exploration-co-lab-2027",
+    "last_verified": "2026-10-26",
+    "deadline_text": "\"Nov 16, 2026, 11:59 PM GMT+1\" (official application portal, read 26 October 2026); the Unearthodox open call says applications are open from 15 September to 16 November 2026.",
+    "deadline_timezone": "UTC+1",
+    "deadline_utc": "2026-11-16T22:59:59Z",
+    "sources": [
+      {
+        "label": "Unearthodox: open call (read 26 October 2026)",
+        "url": "https://unearthodox.org/2026/09/open-call-edges-of-possibility-exploration-co-lab-2027/",
+        "type": "Official"
+      },
+      {
+        "label": "Application portal linked by Unearthodox (read 26 October 2026)",
+        "url": "https://apply.younoodle.com/showcase/competition/edges_of_possibility_2027",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "ustc-international-winter-camp-2027",
+    "last_verified": "2026-10-26",
+    "deadline_text": "Submit the application online with completed and required materials by November 8, 2026 (UTC/GMT+8) (USTC International College page, read 26 October 2026)",
+    "sources": [
+      {
+        "label": "USTC International Winter Camp 2027 (read 26 October 2026)",
+        "url": "https://ic.ustc.edu.cn/?abroad=179",
+        "type": "Official"
+      },
+      {
+        "label": "International College programme list",
+        "url": "https://ic.ustc.edu.cn/en/v7list.php?id=547",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "one-young-world-leading-scholarship-2026",
+    "last_verified": "2026-10-26",
+    "deadline_text": "Application deadline: 31 October 2026. Opening date: 11 June 2026. Scholars are selected on a rolling basis and notified between June and October 2026. The same page also shows a heading \"Application Deadline: Rolling\" (read 26 October 2026). No time or time zone stated.",
+    "funding_details": [
+      "General scholarships page (read 26 October 2026): \"These fully funded leadership scholarships cover travel, accommodation, and meals\"",
+      "For this scholarship: 'Whether transport and accommodation is provided is on a case-by-case basis for each scholar.'",
+      "The visa fee and related costs are paid by the participant"
+    ],
+    "nationality_requirements": [
+      "The listed countries include Congo-Brazzaville; the Democratic Republic of the Congo does not appear on the list (re-read 26 October 2026)"
+    ],
+    "sources": [
+      {
+        "label": "Leading Scholarship 2026 (read 26 October 2026)",
+        "url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
+        "type": "Official"
+      },
+      {
+        "label": "One Young World scholarships (read 26 October 2026)",
+        "url": "https://www.oneyoungworld.com/scholarships",
+        "type": "Official"
+      }
+    ],
+    "potential_issues": [
+      "Nationality not on this scholarship's list: the list includes Congo-Brazzaville but not the Democratic Republic of the Congo (re-checked 26 October 2026)",
+      "Summit (3-6 November 2026) is days after the deadline and selection is rolling",
+      "The page shows both \"31 October 2026\" and \"Rolling\" as the deadline",
+      "Travel and hotel are decided case by case for this scholarship, although the general scholarships page calls the scholarships fully funded; the visa fee is paid by the scholar"
+    ],
+    "action": "Check that your nationality is on the list on the official page, then apply before 31 October 2026."
+  },
+  {
+    "id": "unu-junior-fellows-internship-spring-2027",
+    "last_verified": "2026-10-26",
+    "deadline_text": "\"1st November 2026 (NOTE: applications will NOT be possible after 23:59 Japan Standard Time)\" (UNU careers page, read 26 October 2026).",
+    "sources": [
+      {
+        "label": "UNU careers: Junior Fellows Internship Spring 2027 (read 26 October 2026)",
+        "url": "https://careers.unu.edu/o/junior-fellows-internship-spring2027",
+        "type": "Official"
+      },
+      {
+        "label": "Opportunity Desk",
+        "url": "https://opportunitydesk.org/2026/10/16/unu-junior-fellows-internship-2027/",
+        "type": "Aggregator"
+      }
+    ]
+  },
+  {
+    "id": "un-osesg-great-lakes-political-affairs-intern-2026",
+    "last_verified": "2026-10-26",
+    "deadline_text": "Posted 12 October 2026; closes 1 November 2026 at 03:59 UTC, which is 31 October 2026 at 23:59 New York time (UN Careers job opening 286380, read 26 October 2026 through the UN Careers site's public job data).",
+    "sources": [
+      {
+        "label": "UN Careers: Intern, Political Affairs, job opening 286380 (read 26 October 2026)",
+        "url": "https://careers.un.org/jobSearchDescription/286380?language=en",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "i-am-nala-fellowship-2027",
+    "deadline_text": "\"Deadline: 31 October 2026\", on the organiser's Google Form (re-read 26 October 2026, still accepting responses); only shortlisted candidates notified by 6 November 2026. No time or time zone stated. No page about the fellowship was found on nalafem.org on 26 October 2026.",
+    "language_requirement": "Unknown / Not specified (the form asks for a preferred language: English, French or Arabic)",
+    "sources": [
+      {
+        "label": "I AM NALA Fellowship 2027 application form (Google Form; re-read 26 October 2026, still accepting responses)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7cdN9YiLa9HpHQ5eGkh6HgpVexDvWGELZB59i4PfmaOMwMw/viewform",
+        "type": "Official"
+      },
+      {
+        "label": "Nalafem Collective (read 26 October 2026; no page about the fellowship found)",
+        "url": "https://nalafem.org/",
+        "type": "Official"
+      },
+      {
+        "label": "Opportunity Desk",
+        "url": "https://opportunitydesk.org/2026/09/14/i-am-nala-fellowship-2027/",
+        "type": "Aggregator"
+      }
+    ],
+    "potential_issues": [
+      "The call is only on a Google Form. On 26 October 2026 nalafem.org (home page, Apply page and the site's own search for 'fellowship', 'I AM NALA', '2027' and 'call for applications') had no page about the fellowship; the Apply page only shows a 2023 job vacancy. The form states it was 'created inside of NALA - Feminist Collective' and gives a contact address on the nalafem.org domain, which links it to the organiser but does not replace an official page.",
+      "The support offered is described only in general terms on the form, with no amount",
+      "Only for displaced women"
+    ],
+    "action": "Compare the Google Form with Nalafem Collective's official social media accounts to confirm the call before filling it in by 31 October 2026."
+  },
+  {
+    "id": "youth-global-forum-2027-paris",
+    "last_verified": "2026-10-26",
+    "deadline_text": "\"Deadline for funded applications | 20 NOVember 2026\" (organiser's page, re-read 26 October 2026 and unchanged since 12 October; the same page showed 18 November 2026 on 5 October 2026). No time or time zone stated.",
+    "funding_details": [
+      "Organiser's page: 30 'Fully Funded' and 40 'Partially Funded' seats by competitive selection; 100 'Forum Admission' and 80 'Self Funded' seats by guaranteed selection (re-read 26 October 2026).",
+      "The single application form for the funded categories is priced at USD 16.99 on the organiser's page (read 12 and 26 October 2026); on 5 October 2026 the form showed USD 16.99 plus USD 3 in charges (USD 19.99 total), paid by card.",
+      "Fully Funded: \"round-trip international airfare support\", twin-shared 4-star hotel, meals, Forum participation, visa invitation letter and support. Partially Funded: the same without airfare.",
+      "Forum Admission listed at USD 399.00 (crossed-out USD 799.99); Self-Funded at USD 699.0 (crossed-out USD 999.99); visa invitation letter package USD 99.00 (crossed-out USD 299.99) (unchanged on 26 October 2026)."
+    ],
+    "participation_fee": "USD 399.00 (Forum Admission) or USD 699.0 (Self-Funded) for guaranteed seats, as listed on 12 and 26 October 2026",
+    "sources": [
+      {
+        "label": "CGDL: Youth Global Forum 2027 (read 26 October 2026)",
+        "url": "https://thecgdl.org/ygf2027/",
+        "type": "Official"
+      },
+      {
+        "label": "Organiser's paid application form (listed for reference, not an endorsement)",
+        "url": "https://thecgdl.org/youth-global-forum-2027-funded-category-form/",
+        "type": "Official"
+      },
+      {
+        "label": "Afri-Carrières",
+        "url": "https://afri-carrieres.com/opportunites/youth-global-forum-2027/",
+        "type": "Aggregator"
+      }
+    ]
+  },
+  {
+    "id": "d-prize-challenge-2026-2027",
+    "last_verified": "2026-10-26",
+    "application_deadline": "2026-11-15",
+    "deadline_text": "Midnight PT (Pacific Time) per the D-Prize site read 12 October 2026: early submission 25 October 2026 (passed), regular submission 15 November 2026, extension 6 December 2026. The D-Prize extension page (read 26 October 2026): \"The regular D-Prize competition deadline is 15 November, 2026. However, we are offering an extension until 6 December 2026 for entrepreneurs who need extra time.\" The FAQ says applicants for the Extended deadline \"must register in advance\".",
+    "sources": [
+      {
+        "label": "D-Prize (read 26 October 2026)",
+        "url": "https://www.d-prize.org/",
+        "type": "Official"
+      },
+      {
+        "label": "D-Prize FAQs (read 26 October 2026)",
+        "url": "https://www.d-prize.org/faqs",
+        "type": "Official"
+      },
+      {
+        "label": "D-Prize Round 1 extension form (read 26 October 2026)",
+        "url": "https://www.d-prize.org/extension",
+        "type": "Official"
+      },
+      {
+        "label": "Opportunities for Africans",
+        "url": "https://www.opportunitiesforafricans.com/d-prize-challenge-2026-2027-for-social-entrepreneurs-to-fight-poverty/",
+        "type": "Aggregator"
+      }
+    ],
+    "potential_issues": [
+      "A competitive grant, not a job",
+      "You must plan to live and work where the pilot runs",
+      "The early deadline (25 October 2026) has passed; the 6 December extension requires registering in advance on the D-Prize extension page"
+    ],
+    "action": "Read the D-Prize challenges and submit a concept note by 15 November 2026 (regular deadline), or register in advance for the 6 December 2026 extension."
+  },
+  {
+    "id": "african-union-youth-volunteer-corps",
+    "last_verified": "2026-10-26",
+    "deadline_text": "13th cohort: applications from 26 March to 26 April 2026 (11:59 pm EAT) on jobs.au.int. No 14th call was found on 26 October 2026: the au.int volunteer page still asks readers to watch for a call, and the AU jobs portal's RSS feed for 'volunteer' returned \"No jobs currently available\".",
+    "expected_next_cycle": "No 14th call yet: the AU page (read 26 October 2026) still asks readers to \"be on the lookout for an advertised Call for Applications on the AU Careers page and official social media platforms\"; the jobs.au.int feed for 'volunteer' listed no openings on 26 October 2026. The 13th call ran 26 March to 26 April 2026.",
+    "sources": [
+      {
+        "label": "AU: African Union Youth Volunteer Corps (read 26 October 2026)",
+        "url": "https://au.int/en/volunteer/african-union-youth-volunteer-corps",
+        "type": "Official"
+      },
+      {
+        "label": "AU jobs portal RSS feed, keyword 'volunteer' (read 26 October 2026)",
+        "url": "https://jobs.au.int/services/rss/job/?locale=en_US&keywords=(volunteer)",
+        "type": "Official"
+      },
+      {
+        "label": "AU press release: call for the 13th cohort",
+        "url": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps",
+        "type": "Official"
+      },
+      {
+        "label": "AU Youth Volunteer Corps site",
+        "url": "https://auyvc.africa-union.org/",
+        "type": "Official"
+      },
+      {
+        "label": "MSME Africa: call for applications 2026",
+        "url": "https://msmeafricaonline.com/call-for-applications-african-union-youth-volunteer-corps-au-yvc-2026-full-scholarships-monthly-stipend-and-accommodations-for-young-africans/",
+        "type": "Aggregator"
+      }
+    ],
+    "potential_issues": [
+      "No open call on 26 October 2026",
+      "Requires one year of volunteering and one year of work experience",
+      "auyvc.africa-union.org shows only a login page for its volunteer management system (26 October 2026)",
+      "The 'source changed' flag comes from the au.int page's rolling news sidebar (dated items up to 26 October 2026); the programme text is unchanged"
+    ]
+  },
+  {
+    "id": "aspire-leaders-program-2026-cohort-4",
+    "last_verified": "2026-10-26",
+    "deadline_text": "Cohort 4 (2026) deadline was October 16 (Aspire Institute home page, read 12 October 2026). On 26 October 2026 the programme page says \"APPLICATIONS FOR THE 2026 ASPIRE LEADERS PROGRAM ARE CLOSED!\" and lists \"Cohort 1 — 2027: COMING SOON\" with no date.",
+    "last_cycle_deadline": "2026-10-16",
+    "expected_next_cycle": "2027 Cohort 1 is listed as \"COMING SOON\" with no dates (programme page, read 26 October 2026); the home page says \"Check back in for future updates regarding our 2027 program\" and offers an interest form.",
+    "sources": [
+      {
+        "label": "Aspire Leaders Program (read 26 October 2026)",
+        "url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
+        "type": "Official"
+      },
+      {
+        "label": "Aspire Institute home page (read 26 October 2026)",
+        "url": "https://www.aspireleaders.org/",
+        "type": "Official"
+      }
+    ],
+    "potential_issues": [
+      "Applications for 2026 are closed (Cohort 4 deadline 16 October 2026); no 2027 date is published yet",
+      "Online and self-paced (about 3 to 5 hours a week): needs a reliable internet connection"
+    ],
+    "action": "Watch the Aspire Leaders Program page for the 2027 Cohort 1 dates; the page offers an interest form for updates."
+  },
+  {
+    "id": "eu-delegation-drc-subsidised-traineeship",
+    "expected_next_cycle": "No 2027 call found. The EEAS site refused automated readers (HTTP 403) on 26 October 2026, so the flagged page change could not be checked; a web search on 26 October 2026 found no 2027 call. The 2026 call was published on 15 January 2026 with a deadline of 25 January 2026.",
+    "potential_issues": [
+      "The 2026 call is closed (deadline 25 January 2026); no 2027 call was found on 12 October 2026",
+      "Only candidates currently resident in the DRC or near Kinshasa are considered",
+      "Travel, visa, insurance and housing are paid by the trainee; the monthly grant amount is not stated",
+      "The page change flagged since 9 October 2026 appears to come from the page's 'Related vacancies' box (other EEAS vacancies dated 6 to 9 October 2026); the call text is still the January 2026 call",
+      "On 26 October 2026 the EEAS site returned HTTP 403 to both fetch tools, so the 'source changed' flag of 21 October could not be explained; open the page in a browser to check"
+    ]
+  },
+  {
+    "id": "mandela-washington-fellowship-2027",
+    "last_verified": "2026-10-26",
+    "official_information_url": "https://www.mandelawashingtonfellowship.org/about/",
+    "source_url": "https://www.mandelawashingtonfellowship.org/about/",
+    "deadline_text": "APPLICATION DEADLINE: 16:00/4:00 PM GMT on Tuesday, October 13, 2026 (application instructions PDF, read 12 October 2026; the PDF was still online on 26 October 2026). On 26 October 2026 the About page says \"Applications for the 2027 Mandela Washington Fellowship are now closed\" and the IREX application system says \"The application for the 2027 Mandela Washington Fellowship is now closed\"; semifinalists are contacted by their local U.S. embassy or consulate for interviews from November 2026 through January 2027.",
+    "last_cycle_deadline": "2026-10-13",
+    "expected_next_cycle": "No date for the 2028 Fellowship call on the official site (read 26 October 2026). The 2027 call opened on 22 September 2026 and closed on 13 October 2026.",
+    "sources": [
+      {
+        "label": "About the Fellowship (read 26 October 2026)",
+        "url": "https://www.mandelawashingtonfellowship.org/about/",
+        "type": "Official"
+      },
+      {
+        "label": "IREX application system: 2027 application closed (read 26 October 2026)",
+        "url": "https://apply.mandelawashingtonfellowship.org",
+        "type": "Official"
+      },
+      {
+        "label": "2027 application instructions (PDF: deadline time, financial provisions)",
+        "url": "https://www.mandelawashingtonfellowship.org/wp-content/uploads/2026/09/2027-Mandela-Washington-Fellowship-Application-Instructions_Final_9.17.2026-1.pdf",
+        "type": "Official"
+      },
+      {
+        "label": "Application and eligibility information (removed: HTTP 404 on 25 and 26 October 2026)",
+        "url": "https://www.mandelawashingtonfellowship.org/apply/",
+        "type": "Official"
+      }
+    ],
+    "potential_issues": [
+      "Applications for 2027 closed on 13 October 2026",
+      "The /apply/, /apply-faqs/ and /2027-application-instructions/ pages were removed after the deadline (HTTP 404 on 26 October 2026)",
+      "The application system says all applicants will be notified of their status in \"March 2025\", which looks like an error for March 2027",
+      "Nationals of countries under a full or partial U.S. entry or visa suspension can apply, but finalists are selected case by case: check travel.state.gov for the DRC's current status",
+      "'J-1 visa support' and a 'limited accident and sickness benefit plan' are the stated visa and insurance terms; no salary replacement"
+    ],
+    "action": "Watch mandelawashingtonfellowship.org for the next call; the 2027 call ran from 22 September to 13 October 2026."
+  },
+  {
+    "id": "au-theme-of-the-year-2027-logo-competition",
+    "last_verified": "2026-10-26",
+    "deadline_text": "\"Submission deadline: 23 October 2026, 23:59 EAT (UTC+3)\" (au.int call page and AU terms of reference). The au.int event block still shows the call ending \"Oct 23, 2026 - 15:00\". No extension was shown on the au.int page on 26 October 2026.",
+    "sources": [
+      {
+        "label": "African Union: call for entries (read 26 October 2026)",
+        "url": "https://au.int/en/newsevents/20260829/call-entries-calling-young-african-creatives-logo-competition-au-theme-year",
+        "type": "Official"
+      },
+      {
+        "label": "AU terms of reference (PDF, English)",
+        "url": "https://au.int/sites/default/files/AU%20Theme%202027%20Logo%20Competition%20Terms%20of%20Reference%20EN.pdf",
+        "type": "Official"
+      },
+      {
+        "label": "AU terms of reference (PDF, French)",
+        "url": "https://au.int/sites/default/files/AU%20Theme%202027%20Logo%20Competition%20Terms%20of%20Reference%20FR.pdf",
+        "type": "Official"
+      },
+      {
+        "label": "Opportunities for Africans",
+        "url": "https://www.opportunitiesforafricans.com/the-au-theme-of-the-year-2027-official-logo-and-visual-identity-competition-for-young-african-creatives/",
+        "type": "Aggregator"
+      }
+    ],
+    "potential_issues": [
+      "Closed on 23 October 2026; no extension shown on the AU page on 26 October 2026",
+      "Only for ages 18 to 24",
+      "The winner assigns copyright and IP rights in the design to the AU Commission",
+      "Generative AI tools are banned and entries are checked",
+      "The event block shows 15:00 on 23 October while the call text and terms of reference say 23:59 EAT",
+      "The AU page's \"Click here to register\" link points to accreditation.au.int/en/form/data-form-media, which looks like a media accreditation form"
+    ],
+    "action": "The call closed on 23 October 2026; check the AU page for the announcement of the selected logo."
+  }
+]

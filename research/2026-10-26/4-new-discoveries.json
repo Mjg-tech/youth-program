@@ -1,0 +1,805 @@
+[
+ {
+  "id": "wipo-ip-moot-court-competition-2027",
+  "title": "WIPO IP Moot Court Competition 2027",
+  "organization": "World Intellectual Property Organization (WIPO)",
+  "overview": "An international moot court competition on intellectual property law for teams of two law students (aged 35 or under) from the same university, with an optional coach. Teams are selected through a short video application; selected teams write memorials and argue online, and the top eight teams go to the finals in Geneva on 8 to 10 June 2027. Conducted entirely in English.",
+  "category": [
+   "Competition or Award"
+  ],
+  "audience": [
+   "university-student",
+   "postgraduate-student"
+  ],
+  "country": "Switzerland (finals); written and online rounds from the home university",
+  "city": "Geneva (finals only)",
+  "location_type": "Multiple locations",
+  "delivery_mode": "Hybrid",
+  "program_dates": "Teams announced 30 November 2026; moot problem released 10 December 2026; written submissions due 1 February 2027; online rounds 1 to 12 March 2027; finals in Geneva 8 to 10 June 2027 (tentative timeline on the WIPO page)",
+  "duration": "About 7 months (December 2026 to June 2027)",
+  "application_deadline": "2026-11-06",
+  "deadline_utc": "",
+  "deadline_text": "Application period 12 October to 6 November 2026 (WIPO competition page, read 26 October 2026). WIPO: \"All times are given in Geneva time (GMT+1)\"; no closing hour is stated. FAQ: \"Applications must be submitted by November 6, 2026.\"",
+  "deadline_timezone": "Geneva time (CET, GMT+1); no closing hour stated",
+  "opens_on": "2026-10-12",
+  "open_now": true,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "status": "CLOSING SOON",
+  "funding_type": "Travel Funded",
+  "funding_details": [
+   "WIPO FAQ: \"WIPO will provide funding for the eight teams that qualify for the final rounds in Geneva, Switzerland. The funding covers the cost of travel, accommodation, and visa fees. Note that team coaches will not be funded by WIPO.\"",
+   "WIPO FAQ: \"any additional cost associated with obtaining the visa must be borne by the participants.\"",
+   "WIPO FAQ: \"No, there is no registration fee.\"",
+   "Teams that are not among the eight finalists take part in the written and online rounds only; no funding is mentioned for them."
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Not specified",
+   "flight": "Partially covered",
+   "accommodation": "Partially covered",
+   "meals": "Not specified",
+   "visa": "Partially covered",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "travel_funded": false,
+  "flight_funded": false,
+  "accommodation_funded": false,
+  "meals_funded": false,
+  "visa_funded": false,
+  "insurance_funded": false,
+  "local_transport_funded": false,
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "None stated",
+  "age_min": null,
+  "age_max": 35,
+  "age_requirement": "Team members must be \"aged 35 years or under at the time of application\" (the limit does not apply to the coach)",
+  "experience_level": "None required",
+  "experience_requirement": "No work experience required; students must not have been admitted to practise law in any jurisdiction",
+  "education_requirement": "Enrolled full-time or part-time in a law programme leading to a legal degree at the time of application (students who finished coursework but have not graduated are eligible; PhD students and students holding an LLB/LLM enrolled in another law programme are eligible)",
+  "nationality_requirements": [
+   "No nationality condition stated in the 2027 Rules or FAQ"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "\"The competition will be conducted entirely in English.\" The application video must be in English.",
+  "eligibility": [
+   "Teams of two law students from the same university, plus an optional coach (a student or faculty member of the same university)",
+   "Each student aged 35 or under at the time of application",
+   "Enrolled in a law programme and not admitted to practise in any jurisdiction",
+   "Team authorised by the university (Dean of Law or faculty representative signs the declaration form)",
+   "Up to two teams per university; past winners are not eligible"
+  ],
+  "other_requirements": [
+   "Up to two teams from the same university may apply"
+  ],
+  "documents_required": [
+   "Online application form",
+   "Declaration form signed by both students, the coach (if any) and the Dean or faculty representative",
+   "Pre-recorded video argument in English, maximum 5 minutes, answering one of the two questions in the Application Guidelines; both students must speak"
+  ],
+  "application_process": [
+   "Read the Application Guidelines, Competition Rules and FAQ on the WIPO page",
+   "Have the declaration form signed, complete the online application form and upload the video through the link on the WIPO page by 6 November 2026",
+   "Selected teams are announced on 30 November 2026"
+  ],
+  "official_application_url": "https://surveys.wipo.int/s3/2027-WIPO-IP-Moot-Court-Competition-Application-Form",
+  "official_information_url": "https://www.wipo.int/en/web/youth-engagement/moot-court-competition",
+  "source_url": "https://www.wipo.int/en/web/youth-engagement/moot-court-competition",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "WIPO: WIPO IP Moot Court Competition page, 2027 edition (read 26 October 2026)",
+    "url": "https://www.wipo.int/en/web/youth-engagement/moot-court-competition",
+    "type": "Official"
+   },
+   {
+    "label": "WIPO: 2027 Competition Rules (PDF) (read 26 October 2026)",
+    "url": "https://www.wipo.int/documents/d/youth-engagement/docs-en-moot-rules-v3-2027.pdf",
+    "type": "Official"
+   },
+   {
+    "label": "WIPO: 2027 FAQ (PDF) (read 26 October 2026)",
+    "url": "https://www.wipo.int/documents/d/youth-engagement/docs-en-moot-faqs-v3-2027-1-.pdf",
+    "type": "Official"
+   },
+   {
+    "label": "WIPO: 2027 Application Guidelines (PDF) (read 26 October 2026)",
+    "url": "https://www.wipo.int/documents/d/youth-engagement/docs-en-moot-application-guidelines-2026.pdf",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Only the eight finalist teams are funded to travel to Geneva; coaches are not funded",
+   "Visa costs beyond the visa fee are the participants' own; a Swiss visa is needed for DRC nationals who reach the finals",
+   "English only",
+   "Needs the signature of the Dean or a faculty representative, which can take time before 6 November"
+  ],
+  "benefits": [
+   "Awards for winner, runner-up, best memorials and best oralists (no cash amounts stated)"
+  ],
+  "action": "Read the WIPO Application Guidelines and Rules, then submit the form, signed declaration and video before 6 November 2026 (Geneva time) if your law faculty authorises a team.",
+  "last_verified": "2026-10-26",
+  "date_discovered": "2026-10-26",
+  "notes": "The 2026 edition ran with a 6 October to 15 December 2025 application window; the competition repeats yearly."
+ },
+ {
+  "id": "ohchr-yaounde-data-management-admin-intern-2026",
+  "title": "OHCHR Regional Hub for Central and West Africa: Data Management and Administrative Support intern (Yaoundé)",
+  "organization": "Office of the United Nations High Commissioner for Human Rights (OHCHR), Regional Hub for Central and West Africa",
+  "overview": "An unpaid in-person internship from 25 November 2026 to 24 February 2027 in the ERP Section of OHCHR's regional hub in Yaoundé: administrative support, document review, dashboards, reports and basic Microsoft Power Apps / Dataverse work. Open to final-year bachelor's students and to master's students or graduates; fluent English required, French an advantage.",
+  "category": [
+   "Internship"
+  ],
+  "audience": [
+   "university-student",
+   "postgraduate-student",
+   "recent-graduate"
+  ],
+  "country": "Cameroon",
+  "city": "Yaoundé",
+  "location_type": "Abroad in Africa",
+  "delivery_mode": "In-person",
+  "program_dates": "25 November 2026 to 24 February 2027 (expected duration on the posting)",
+  "duration": "3 months",
+  "application_deadline": "2026-11-04",
+  "deadline_utc": "2026-11-05T04:59:59Z",
+  "deadline_text": "Posted 20 October 2026; closes 5 November 2026 at 04:59 UTC, which is 4 November 2026 at 23:59 New York time (UN Careers job opening 286456, read 26 October 2026).",
+  "deadline_timezone": "America/New_York",
+  "opens_on": "2026-10-20",
+  "open_now": false,
+  "rolling": false,
+  "recurring": false,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "status": "CLOSING SOON",
+  "funding_type": "Unpaid",
+  "funding_details": [
+   "UN: \"Interns are not financially remunerated by the United Nations.\"",
+   "UN: \"Costs and arrangements for travel, visas, accommodation and living expenses are the responsibility of interns or their sponsoring institutions.\"",
+   "UN: \"The United Nations does not charge a fee at any stage of the recruitment process.\""
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Not covered",
+   "flight": "Not covered",
+   "accommodation": "Not covered",
+   "meals": "Not covered",
+   "visa": "Not covered",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "travel_funded": false,
+  "flight_funded": false,
+  "accommodation_funded": false,
+  "meals_funded": false,
+  "visa_funded": false,
+  "insurance_funded": false,
+  "local_transport_funded": false,
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "None",
+  "age_min": null,
+  "age_max": null,
+  "age_requirement": "Unknown / Not specified",
+  "experience_level": "None required",
+  "experience_requirement": "No work experience is listed as a requirement; familiarity with data management, process analysis, administrative support or information systems is an asset",
+  "education_requirement": "Enrolled in, or completed, a graduate programme (second university degree or higher), or enrolled in or completed the final year of a first university degree (minimum bachelor's)",
+  "nationality_requirements": [],
+  "drc_eligible": "Yes",
+  "language_requirement": "\"For the position advertised, fluency in English is required. Knowledge of French language is an advantage.\"",
+  "eligibility": [
+   "Final-year bachelor's student, or master's/doctoral student or graduate",
+   "Proficiency in Microsoft Excel, Word, Outlook and PowerPoint; exposure to data entry and basic reporting tools",
+   "Fluent English; French an advantage",
+   "Interns who are not citizens or permanent residents of Cameroon may need a visa and work authorisation"
+  ],
+  "other_requirements": [],
+  "documents_required": [
+   "Complete application / personal history profile (incomplete ones are not reviewed)",
+   "Cover letter stating interest in OHCHR, graduation date, IT and data skills, period of availability and earliest start date"
+  ],
+  "application_process": [
+   "Apply through UN Careers / Inspira for job opening 286456 before 4 November 2026 (New York time); only short-listed applicants are contacted"
+  ],
+  "official_application_url": "https://inspira.un.org/psp/PUNA1J/EMPLOYEE/HRMS/c/UN_CUSTOMIZATIONS.UN_JOB_DETAIL.GBL?Action=A&UNAction=Apply&JobOpeningId=286456&languageCd=ENG",
+  "official_information_url": "https://careers.un.org/jobSearchDescription/286456?language=en",
+  "source_url": "https://careers.un.org/jobSearchDescription/286456?language=en",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "UN Careers: Intern - Data Management and Administrative Support, job opening 286456 (read 26 October 2026); text read through the UN Careers public job-opening data",
+    "url": "https://careers.un.org/jobSearchDescription/286456?language=en",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Unpaid: travel, visa, accommodation and living costs are the intern's own",
+   "Based in Yaoundé, not in the DRC",
+   "Short application window and a fixed start date of 25 November 2026"
+  ],
+  "benefits": [],
+  "action": "Read UN Careers job opening 286456 and apply through Inspira before 4 November 2026 (New York time) if you meet the degree and English requirements and can be in Yaoundé from 25 November 2026.",
+  "last_verified": "2026-10-26",
+  "date_discovered": "2026-10-26",
+  "notes": ""
+ },
+ {
+  "id": "un-habitat-abidjan-programme-management-intern-2026",
+  "title": "UN-Habitat Côte d'Ivoire: Programme Management intern (Abidjan)",
+  "organization": "United Nations Human Settlements Programme (UN-Habitat), Côte d'Ivoire Country Office",
+  "overview": "A 6-month unpaid in-person internship at UN-Habitat's country office in Abidjan, supporting a coastal resilience project in Côte d'Ivoire and Ghana and the office's work on climate adaptation, slum upgrading, housing and urban policy (reports, presentations, maps, events, communication). Open to final-year bachelor's students, master's or PhD students and graduates; fluent French required; no work experience required.",
+  "category": [
+   "Internship"
+  ],
+  "audience": [
+   "university-student",
+   "postgraduate-student",
+   "recent-graduate"
+  ],
+  "country": "Côte d'Ivoire",
+  "city": "Abidjan",
+  "location_type": "Abroad in Africa",
+  "delivery_mode": "In-person",
+  "program_dates": "Unknown / Not specified",
+  "duration": "6 months",
+  "application_deadline": "2026-11-04",
+  "deadline_utc": "2026-11-05T04:59:59Z",
+  "deadline_text": "Posted 21 October 2026; closes 5 November 2026 at 04:59 UTC, which is 4 November 2026 at 23:59 New York time (UN Careers job opening 286269, read 26 October 2026). Duty stations listed: Abidjan, Nairobi; work location stated as \"In-Person, Abidjan, Côte d'Ivoire\".",
+  "deadline_timezone": "America/New_York",
+  "opens_on": "2026-10-21",
+  "open_now": false,
+  "rolling": false,
+  "recurring": false,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "status": "CLOSING SOON",
+  "funding_type": "Unpaid",
+  "funding_details": [
+   "UN: \"Interns are not financially remunerated by the United Nations.\"",
+   "UN: \"Costs and arrangements for travel, visas, accommodation and living expenses are the responsibility of interns or their sponsoring institutions.\"",
+   "UN: \"The United Nations does not charge a fee at any stage of the recruitment process.\""
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Not covered",
+   "flight": "Not covered",
+   "accommodation": "Not covered",
+   "meals": "Not covered",
+   "visa": "Not covered",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "travel_funded": false,
+  "flight_funded": false,
+  "accommodation_funded": false,
+  "meals_funded": false,
+  "visa_funded": false,
+  "insurance_funded": false,
+  "local_transport_funded": false,
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "None",
+  "age_min": null,
+  "age_max": null,
+  "age_requirement": "Unknown / Not specified",
+  "experience_level": "None required",
+  "experience_requirement": "\"Applicants to the UN Internship Programme are not required to have professional work experience. However, a field of study that is closely related to the type of internship that you are applying for is required.\"",
+  "education_requirement": "Enrolled in a graduate programme, or in the final year of a first university degree (minimum bachelor's), or graduated with a bachelor's, master's, PhD or equivalent; preferred fields: urban planning, town planning, architecture, geography or related",
+  "nationality_requirements": [],
+  "drc_eligible": "Yes",
+  "language_requirement": "\"For this internship position, fluency in oral and written French is required. Knowledge of another UN language is desirable.\"",
+  "eligibility": [
+   "Final-year bachelor's student, master's or PhD student, or holder of a bachelor's, master's or PhD",
+   "Field of study related to urban development (urban/town planning, architecture, geography or related)",
+   "Knowledge of urban development themes required; GIS (QGIS, ArcGIS) desirable",
+   "Fluent oral and written French",
+   "Computer literate in Microsoft Office",
+   "Interns who are not citizens or permanent residents of Côte d'Ivoire may need a visa and work authorisation"
+  ],
+  "other_requirements": [],
+  "documents_required": [
+   "Proof of the degree or enrolment criterion met (an official certificate is requested at a later stage)"
+  ],
+  "application_process": [
+   "Apply through UN Careers / Inspira for job opening 286269 before 4 November 2026 (New York time), stating which eligibility criterion you meet and attaching proof"
+  ],
+  "official_application_url": "https://inspira.un.org/psp/PUNA1J/EMPLOYEE/HRMS/c/UN_CUSTOMIZATIONS.UN_JOB_DETAIL.GBL?Action=A&UNAction=Apply&JobOpeningId=286269&languageCd=ENG",
+  "official_information_url": "https://careers.un.org/jobSearchDescription/286269?language=en",
+  "source_url": "https://careers.un.org/jobSearchDescription/286269?language=en",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "UN Careers: Programme Management Intern (UN-Habitat), job opening 286269 (read 26 October 2026); text read through the UN Careers public job-opening data",
+    "url": "https://careers.un.org/jobSearchDescription/286269?language=en",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Unpaid: travel, visa, accommodation and living costs are the intern's own",
+   "Based in Abidjan, not in the DRC",
+   "Start date not stated on the posting"
+  ],
+  "benefits": [],
+  "action": "Read UN Careers job opening 286269 and apply through Inspira before 4 November 2026 (New York time) if you meet the degree, field-of-study and French requirements.",
+  "last_verified": "2026-10-26",
+  "date_discovered": "2026-10-26",
+  "notes": ""
+ },
+ {
+  "id": "novartis-next-generation-scientist-2027",
+  "title": "Next Generation Scientist Program 2027 (Novartis and University of Basel)",
+  "organization": "Novartis, with the University of Basel",
+  "overview": "A 3-month research internship and leadership programme at the Novartis research site in Basel, Switzerland, from 1 June to 31 August 2027, for MSc, PhD and MD students enrolled at universities in low- and middle-income countries. Interns work on a scientific, clinical research or global health project with a Novartis mentor. Novartis pays a monthly stipend for incidentals and basic living expenses.",
+  "category": [
+   "Internship",
+   "Fellowship"
+  ],
+  "audience": [
+   "postgraduate-student",
+   "university-student"
+  ],
+  "country": "Switzerland",
+  "city": "Basel",
+  "location_type": "Abroad outside Africa",
+  "delivery_mode": "In-person",
+  "program_dates": "1 June to 31 August 2027",
+  "duration": "3 months",
+  "application_deadline": "2026-11-15",
+  "deadline_utc": "",
+  "deadline_text": "Posted 15 October 2026; the official Novartis Workday posting REQ-10089124 shows an end date of 15 November 2026 (read 26 October 2026). No closing time is stated. Opportunity Desk also reports a 15 November 2026 deadline.",
+  "deadline_timezone": "Unknown / Not specified",
+  "opens_on": "2026-10-15",
+  "open_now": true,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "status": "OPEN",
+  "funding_type": "Partially Funded",
+  "funding_details": [
+   "Novartis: \"Novartis will provide a monthly stipend to cover incidentals and basic living expenses.\" No amount is stated (the posting's salary field shows CHF 0.00 - CHF 0.00).",
+   "Flights, visa, accommodation and insurance are not mentioned on the posting."
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Covered",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "travel_funded": false,
+  "flight_funded": false,
+  "accommodation_funded": false,
+  "meals_funded": false,
+  "visa_funded": false,
+  "insurance_funded": false,
+  "local_transport_funded": false,
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "Monthly stipend for incidentals and basic living expenses (amount not stated)",
+  "age_min": null,
+  "age_max": null,
+  "age_requirement": "Unknown / Not specified",
+  "experience_level": "None required",
+  "experience_requirement": "No work experience is listed; applicants must be enrolled as MSc, PhD or MD students",
+  "education_requirement": "\"Enrolled at university as MSc, PhD or MD student in a geography of scope (low- and middle-income country)\"",
+  "nationality_requirements": [
+   "Enrolled at a university in a low- or middle-income country (\"geography of scope\"); the list of countries in scope is not given on the posting"
+  ],
+  "drc_eligible": "Unclear",
+  "language_requirement": "\"Advanced verbal and written English communication skills\"",
+  "eligibility": [
+   "Enrolled as an MSc, PhD or MD student at a university in a low- or middle-income country",
+   "Advanced spoken and written English",
+   "Active participation in all programme and training activities",
+   "Preferred fields: translational science, clinical development and global health (therapeutic areas include cardiovascular disease, oncology, infectious diseases such as malaria and leishmaniasis, and sickle cell disease)"
+  ],
+  "other_requirements": [],
+  "documents_required": [],
+  "application_process": [
+   "Apply through the Novartis careers site (Workday) for REQ-10089124 before 15 November 2026"
+  ],
+  "official_application_url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Basel-City/Next-Generation-Scientist-2027_REQ-10089124-1",
+  "official_information_url": "https://www.novartis.com/careers/career-search/job/details/req-10089124-next-generation-scientist-2027",
+  "source_url": "https://www.novartis.com/careers/career-search/job/details/req-10089124-next-generation-scientist-2027",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "PARTIALLY VERIFIED",
+  "sources": [
+   {
+    "label": "Novartis careers: Next Generation Scientist 2027, REQ-10089124 (read 26 October 2026)",
+    "url": "https://www.novartis.com/careers/career-search/job/details/req-10089124-next-generation-scientist-2027",
+    "type": "Official"
+   },
+   {
+    "label": "Novartis Workday posting REQ-10089124 (posting dates 15 October to 15 November 2026) (read 26 October 2026)",
+    "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Basel-City/Next-Generation-Scientist-2027_REQ-10089124-1",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunity Desk: Next Generation Scientist Program 2027 (read 26 October 2026)",
+    "url": "https://opportunitydesk.org/2026/10/21/next-generation-scientist-program-2027/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "The countries in scope are not listed on the posting; the DRC is a low-income country but is not named",
+   "Stipend amount not stated; flights, visa, accommodation and insurance not mentioned",
+   "The deadline comes from the Workday posting end date; no closing time is given",
+   "Requires a Swiss visa for DRC nationals"
+  ],
+  "benefits": [],
+  "action": "Read Novartis posting REQ-10089124 and apply on the Novartis careers site before 15 November 2026 if you are an MSc, PhD or MD student at a university in a low- or middle-income country.",
+  "last_verified": "2026-10-26",
+  "date_discovered": "2026-10-26",
+  "notes": "Verification is PARTIALLY VERIFIED because the posting does not list the eligible countries or state the stipend amount."
+ },
+ {
+  "id": "wff-youth-policy-board-2027-2028",
+  "title": "World Food Forum Youth Policy Board 2027-2028",
+  "organization": "World Food Forum (WFF) Youth Initiative, Food and Agriculture Organization of the United Nations (FAO)",
+  "overview": "A one-year (renewable once) volunteer board of 40 young people aged 18 to 35 who lead regional and thematic youth consultations on agrifood systems towards the 2028 FAO Regional Conferences. Open to high-school graduates who have completed or are enrolled in a bachelor's degree, nationals of an FAO Member State, with C1 English, about 25 hours a month and a weekly one-hour meeting.",
+  "category": [
+   "Leadership",
+   "Youth Programme",
+   "Volunteering"
+  ],
+  "audience": [
+   "university-student",
+   "recent-graduate",
+   "graduate",
+   "young-professional"
+  ],
+  "country": "Remote (global)",
+  "city": "Unknown / Not specified",
+  "location_type": "Remote",
+  "delivery_mode": "Online",
+  "program_dates": "2027-2028 term",
+  "duration": "1 year, with the possibility to reapply for a second year",
+  "application_deadline": "2026-11-30",
+  "deadline_utc": "",
+  "deadline_text": "Reported by secondary sources (Opportunity Desk, Opportunities for Africans): 30 November 2026, no time stated. The official WFF Youth Policy Board page shows an \"Open Call for Applications\" (read 26 October 2026), but the deadline was not visible on the official pages read.",
+  "deadline_timezone": "Unknown / Not specified",
+  "opens_on": "",
+  "open_now": true,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "status": "OPEN",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "The 2027-2028 Terms of Reference read on 26 October 2026 do not mention any stipend, payment or travel funding."
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Not specified",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "travel_funded": false,
+  "flight_funded": false,
+  "accommodation_funded": false,
+  "meals_funded": false,
+  "visa_funded": false,
+  "insurance_funded": false,
+  "local_transport_funded": false,
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "Unknown / Not specified",
+  "age_min": 18,
+  "age_max": 35,
+  "age_requirement": "\"Be between 18 and 35 years as of 30 April 2027\"",
+  "experience_level": "Some experience needed",
+  "experience_requirement": "\"Have demonstrated experience, knowledge or strong engagement in agrifood systems, policy advocacy and youth empowerment\"; preference for experience in youth organisations or consultative youth processes",
+  "education_requirement": "Graduated from high school and either completed or enrolled in a bachelor's degree programme at the time of application",
+  "nationality_requirements": [
+   "Nationals of an FAO Member State"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "Spoken and written English at C1 level; fluency in other FAO official languages is an advantage",
+  "eligibility": [
+   "Aged 18 to 35 on 30 April 2027",
+   "High-school graduate who has completed or is enrolled in a bachelor's degree",
+   "National of an FAO Member State",
+   "English at C1 level",
+   "Available for at least one weekly 1-hour meeting between 09:00 and 18:00 CET/CEST and about 25 hours per month",
+   "Not employed by FAO, not an immediate family member of an FAO employee, and not a current or former YSG or YPB member"
+  ],
+  "other_requirements": [],
+  "documents_required": [
+   "Shortlisted candidates submit a CV, a letter of recommendation and a two-minute video"
+  ],
+  "application_process": [
+   "Apply through the online form on the WFF Youth Policy Board page",
+   "Four rounds: secretariat review, committee shortlist (CV, recommendation letter, two-minute video), evaluation by the outgoing YPB, interview"
+  ],
+  "official_application_url": "https://youth.world-food-forum.org/youth-assembly/youth-policy-board/form/en",
+  "official_information_url": "https://youth.world-food-forum.org/youth-assembly/youth-policy-board/en",
+  "source_url": "https://youth.world-food-forum.org/youth-assembly/youth-policy-board/en",
+  "source_type": "Official",
+  "source_confidence": "MEDIUM",
+  "verification": "PARTIALLY VERIFIED",
+  "sources": [
+   {
+    "label": "WFF Youth: Youth Policy Board page (\"Open Call for Applications\") (read 26 October 2026)",
+    "url": "https://youth.world-food-forum.org/youth-assembly/youth-policy-board/en",
+    "type": "Official"
+   },
+   {
+    "label": "WFF: Youth Policy Board Terms of Reference, 2027-2028 cohort (PDF) (read 26 October 2026)",
+    "url": "https://youth.world-food-forum.org/docs/devworldfoodforumlibraries/track-youth-assembly/ypb-tors-2027-2028.pdf",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunity Desk: World Food Forum Youth Policy Board 2027-2028 (deadline) (read 26 October 2026)",
+    "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "The 30 November 2026 deadline is reported by secondary sources only; it was not visible on the official pages read",
+   "No payment or funding is mentioned: treat it as an unpaid volunteer role unless the organiser says otherwise",
+   "C1 English and about 25 hours a month are required",
+   "Meeting format is not stated in the Terms of Reference; weekly meetings fall in European working hours"
+  ],
+  "benefits": [],
+  "action": "Read the 2027-2028 Terms of Reference on the WFF Youth Policy Board page and confirm the deadline on the application form before applying.",
+  "last_verified": "2026-10-26",
+  "date_discovered": "2026-10-26",
+  "notes": "The ToR text contains a typo ('For the 2026–2027 term' in the thematic duties section); the cohort is 2027-2028."
+ },
+ {
+  "id": "wff-young-scientists-group-2027-2029",
+  "title": "World Food Forum Young Scientists Group 2027-2029",
+  "organization": "World Food Forum (WFF) Youth Initiative, Food and Agriculture Organization of the United Nations (FAO)",
+  "overview": "A two-year volunteer group of early-career researchers aged 18 to 35 who give scientific input to FAO's World Food Forum youth work and write a biennial report on an agrifood systems topic. Open to graduates and students of a graduate degree programme (master's or PhD) who are nationals of an FAO Member State, with good English and about 20 hours a month.",
+  "category": [
+   "Fellowship",
+   "Youth Programme",
+   "Volunteering"
+  ],
+  "audience": [
+   "postgraduate-student",
+   "graduate",
+   "young-professional"
+  ],
+  "country": "Remote (global)",
+  "city": "Unknown / Not specified",
+  "location_type": "Remote",
+  "delivery_mode": "Online",
+  "program_dates": "2027-2029 cohort",
+  "duration": "2 years",
+  "application_deadline": "2027-01-29",
+  "deadline_utc": "",
+  "deadline_text": "Reported by secondary sources (Opportunity Desk; Opportunities for Africans quoting \"29 January 2027 23:59 CET (Rome time)\"). The official WFF page says \"The call for applications for the 2027-2029 YSG cohort is now open!\" (read 26 October 2026) but does not show the deadline.",
+  "deadline_timezone": "Unknown / Not specified",
+  "opens_on": "",
+  "open_now": true,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "status": "OPEN",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "The 2027-2029 Terms of Reference read on 26 October 2026 do not mention any stipend, payment or travel funding."
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Not specified",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "travel_funded": false,
+  "flight_funded": false,
+  "accommodation_funded": false,
+  "meals_funded": false,
+  "visa_funded": false,
+  "insurance_funded": false,
+  "local_transport_funded": false,
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "Unknown / Not specified",
+  "age_min": 18,
+  "age_max": 35,
+  "age_requirement": "\"Be between 18 and 35 years of age as of 31 December 2028\"",
+  "experience_level": "Some experience needed",
+  "experience_requirement": "Candidates are scored \"based on eligibility and experience\"; the group expects postgraduate-level research and writing",
+  "education_requirement": "\"Applicants must have graduated or be enrolled in a graduate degree programme at the time of application\"; specialised in a field relevant to FAO's work",
+  "nationality_requirements": [
+   "Nationals of an FAO Member State"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "\"Have demonstrated proficiency in spoken and written English\"",
+  "eligibility": [
+   "Graduated from or enrolled in a graduate degree programme",
+   "Aged 18 to 35 on 31 December 2028",
+   "National of an FAO Member State",
+   "Field relevant to FAO's mission",
+   "English proficiency; about 20 hours per month",
+   "Not employed by FAO and not an immediate family member of an FAO employee"
+  ],
+  "other_requirements": [],
+  "documents_required": [
+   "Updated CV (reported by secondary sources)",
+   "Shortlisted candidates submit a letter of recommendation and a two-minute video"
+  ],
+  "application_process": [
+   "Apply through the online form linked on the WFF Young Scientists Group page",
+   "Three rounds: Youth Initiative team review, FAO expert committee shortlist (recommendation letter and two-minute video), interview"
+  ],
+  "official_application_url": "https://youth.world-food-forum.org/youth-advisory-bodies/young-scientists-group/form/en",
+  "official_information_url": "https://youth.world-food-forum.org/education/young-scientists-group/en",
+  "source_url": "https://youth.world-food-forum.org/education/young-scientists-group/en",
+  "source_type": "Official",
+  "source_confidence": "MEDIUM",
+  "verification": "PARTIALLY VERIFIED",
+  "sources": [
+   {
+    "label": "WFF Youth: Young Scientists Group page (call for 2027-2029 open) (read 26 October 2026)",
+    "url": "https://youth.world-food-forum.org/education/young-scientists-group/en",
+    "type": "Official"
+   },
+   {
+    "label": "WFF: Young Scientists Group Terms of Reference, 2027-2029 cohort (PDF) (read 26 October 2026)",
+    "url": "https://youth.world-food-forum.org/docs/devworldfoodforumlibraries/programme-ed/ysg-tors-2027-2029.pdf",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunity Desk: WFF Young Scientists Group 2027-2029 (deadline) (read 26 October 2026)",
+    "url": "https://opportunitydesk.org/2026/10/13/wff-young-scientists-group-2027-2029/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "The 29 January 2027 deadline is reported by secondary sources only; it was not visible on the official pages read",
+   "No payment or funding is mentioned: treat it as an unpaid volunteer role unless the organiser says otherwise",
+   "Requires a graduate degree or current master's/PhD enrolment"
+  ],
+  "benefits": [],
+  "action": "Read the 2027-2029 Terms of Reference on the WFF Young Scientists Group page and confirm the deadline on the application form before applying.",
+  "last_verified": "2026-10-26",
+  "date_discovered": "2026-10-26",
+  "notes": ""
+ },
+ {
+  "id": "orange-corners-rdc",
+  "title": "Orange Corners RDC: 10-month programme for young entrepreneurs (Kinshasa and online)",
+  "organization": "Orange Corners RDC (an initiative of the Netherlands Ministry of Foreign Affairs), run by Ingenious City",
+  "overview": "A free 10-month incubation programme for young Congolese aged 18 to 35 with an innovative business idea, concept or MVP in food security, environment and climate, water, green energy, local processing of minerals or digitalisation. It offers training, bi-weekly mentoring, networking, help finding funding (no direct funding) and free coworking space; in person in Kinshasa and online elsewhere in the DRC.",
+  "category": [
+   "Entrepreneurship",
+   "Training"
+  ],
+  "audience": [
+   "recent-graduate",
+   "graduate",
+   "entrepreneur",
+   "young-professional"
+  ],
+  "country": "Democratic Republic of the Congo",
+  "city": "Kinshasa",
+  "location_type": "Kinshasa",
+  "delivery_mode": "Hybrid",
+  "program_dates": "Organiser's FAQ: the programme starts in mid-February and lasts 10 months",
+  "duration": "10 months",
+  "application_deadline": "",
+  "deadline_utc": "",
+  "deadline_text": "No open call on 26 October 2026: the 2026 application form linked from the Orange Corners RDC page says \"L'appel à candidature est clôturé!\". The organiser's FAQ says: \"Les applications au programme sont ouvertes entre décembre et janvier chaque année.\" The 8th-cohort call was reported by ACP on 12 February 2026.",
+  "deadline_timezone": "Unknown / Not specified",
+  "opens_on": "",
+  "open_now": false,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "Next call expected between December 2026 and January 2027, according to the organiser's FAQ (not yet announced on 26 October 2026)",
+  "last_cycle_deadline": "",
+  "status": "UPCOMING",
+  "funding_type": "Free",
+  "funding_details": [
+   "Orange Corners RDC: \"Il n'y a pas de coûts ou de frais de participation au programme.\"",
+   "Orange Corners RDC: \"En tant que programme, Orange Corners ne finance pas directement\"; it connects entrepreneurs with public and private funders.",
+   "Free access to the coworking space during the programme."
+  ],
+  "coverage": {
+   "tuition": "Covered",
+   "stipend": "Not covered",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "travel_funded": false,
+  "flight_funded": false,
+  "accommodation_funded": false,
+  "meals_funded": false,
+  "visa_funded": false,
+  "insurance_funded": false,
+  "local_transport_funded": false,
+  "application_fee": "No fee stated",
+  "participation_fee": "No fee stated",
+  "stipend": "None",
+  "age_min": 18,
+  "age_max": 35,
+  "age_requirement": "\"Avoir entre 18 à 35 ans\"",
+  "experience_level": "None required",
+  "experience_requirement": "An idea, concept or MVP; the business may be at the idea stage or have operated for up to 1 year",
+  "education_requirement": "Graduate of secondary or higher education (\"Diplômé(e) de l'enseignement secondaire ou supérieur\")",
+  "nationality_requirements": [
+   "Congolese (\"être un homme/ une femme congolais(e)\")"
+  ],
+  "drc_eligible": "Yes",
+  "language_requirement": "Unknown / Not specified",
+  "eligibility": [
+   "Congolese, aged 18 to 35",
+   "In Kinshasa for the in-person programme, or elsewhere in the DRC for the online programme",
+   "Secondary-school or higher-education graduate",
+   "Innovative business idea, concept or MVP contributing to the SDGs, in food security, environment and climate change, water, green energy, local processing of mineral resources or digitalisation",
+   "Project at the idea stage or company operating for up to 1 year",
+   "Able to commit full time to the project and all programme activities"
+  ],
+  "other_requirements": [],
+  "documents_required": [],
+  "application_process": [
+   "Online application form published on the Orange Corners website and social media before each cohort",
+   "Pre-selection of 70 candidates, pre-incubation ending with a jury, then a final shortlist"
+  ],
+  "official_application_url": "",
+  "official_information_url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+  "source_url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "PARTIALLY VERIFIED",
+  "sources": [
+   {
+    "label": "Orange Corners: République démocratique du Congo page and FAQ (read 26 October 2026)",
+    "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+    "type": "Official"
+   },
+   {
+    "label": "Orange Corners RDC 2026 application form (Jotform, linked from the official page): closed (read 26 October 2026)",
+    "url": "https://form.jotform.com/260051591187557",
+    "type": "Official"
+   },
+   {
+    "label": "ACP: 8th cohort of Orange Corners RDC announced in Kinshasa (12 February 2026) (read 26 October 2026)",
+    "url": "https://acp.cd/business/la-8eme-cohorte-dun-programme-dencadrement-des-jeunes-entrepreneurs-annoncee-a-kinshasa/",
+    "type": "News"
+   }
+  ],
+  "potential_issues": [
+   "No call open now; next call expected December 2026 to January 2027, not yet announced",
+   "Contradictory timing: the FAQ says applications open in December-January, but the 8th-cohort call was announced in February 2026",
+   "No direct funding: support is training, mentoring, networking and coworking",
+   "Run under the Netherlands Ministry of Foreign Affairs; the name does not refer to the mobile operator Orange RDC. Use only the form linked from orangecorners.com"
+  ],
+  "benefits": [],
+  "action": "Watch the Orange Corners RDC page and its official social media accounts for the next call, expected between December 2026 and January 2027.",
+  "last_verified": "2026-10-26",
+  "date_discovered": "2026-10-26",
+  "notes": "Programme aims stated on the page: support 175 young entrepreneurs and introduce more than 5,000 students to entrepreneurship."
+ }
+]

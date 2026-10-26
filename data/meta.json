@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-25T10:06:47Z",
+  "last_refresh": "2026-10-26T07:54:36Z",
   "counts": {
-    "total": 71,
-    "archived": 5,
+    "total": 77,
+    "archived": 6,
     "by_status": {
-      "OPEN": 19,
-      "CLOSING SOON": 7,
-      "UPCOMING": 21,
-      "DEADLINE PASSED": 10,
+      "OPEN": 23,
+      "CLOSING SOON": 9,
+      "UPCOMING": 22,
+      "DEADLINE PASSED": 9,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -16,35 +16,40 @@
       "Paid": 4,
       "Fully Funded": 3,
       "Substantially Funded": 3,
-      "Partially Funded": 4,
-      "Travel Funded": 3,
+      "Partially Funded": 5,
+      "Travel Funded": 4,
       "Participation Funded": 3,
-      "Free": 7,
-      "Unpaid": 4,
+      "Free": 8,
+      "Unpaid": 6,
       "Self Funded": 1,
-      "Funding Unclear": 39
+      "Funding Unclear": 40
     },
     "by_verification": {
-      "VERIFIED": 32,
-      "PARTIALLY VERIFIED": 27,
+      "VERIFIED": 35,
+      "PARTIALLY VERIFIED": 30,
       "NEEDS VERIFICATION": 12
     },
-    "in_kinshasa": 16,
-    "remote": 17,
+    "in_kinshasa": 17,
+    "remote": 19,
     "fee_required": 4
   },
   "deadline_buckets": {
     "30": [
       "anzisha-fellowship-2027",
+      "d-prize-challenge-2026-2027",
       "dalai-lama-fellows-2027",
       "global-solvers-accelerator-2027",
       "itu-gender-champions-programme-2027",
+      "novartis-next-generation-scientist-2027",
       "unearthodox-exploration-co-lab-2027",
       "youth-global-forum-2027-paris"
     ],
     "14": [
       "global-leadership-challenge-2026",
-      "ustc-international-winter-camp-2027"
+      "ohchr-yaounde-data-management-admin-intern-2026",
+      "un-habitat-abidjan-programme-management-intern-2026",
+      "ustc-international-winter-camp-2027",
+      "wipo-ip-moot-court-competition-2027"
     ],
     "7": [
       "i-am-nala-fellowship-2027",
@@ -53,9 +58,7 @@
       "unu-junior-fellows-internship-spring-2027"
     ],
     "3": [],
-    "1": [
-      "d-prize-challenge-2026-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 57,

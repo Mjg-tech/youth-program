@@ -1,0 +1,241 @@
+[
+ {
+  "id": "transsion-infinix-intern-admin-assistant-kinshasa",
+  "deadline_text": "No deadline shown on the listing when last read: dated 'Publiée le 16.10.2026' and still showing 'Postuler' (emploi.cd, read 19 October 2026). On 26 October 2026 emploi.cd returned a Cloudflare bot check (HTTP 403) to both readers, so the current status could not be checked.",
+  "sources": [
+   {
+    "label": "emploi.cd listing: Stagiaire Assistant Administratif - Kinshasa (read 19 October 2026; blocked by a Cloudflare bot check, HTTP 403, on 26 October 2026)",
+    "url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/stagiaire-assistant-administratif-kinshasa-491788",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "Job-board listing only; posted by TRANSSION HOLDINGS 'pour le compte de l'un de nos Clients' (the duties mention the Infinix team); no posting found on a Transsion, Infinix or Carlcare page (searches on 26 October 2026 found no official Transsion careers page; transsion.com returned HTTP 500)",
+   "The listing has been re-dated several times on emploi.cd (2 October, 9 October, then 16 October 2026)",
+   "Status not re-checked on 26 October 2026: emploi.cd blocked automated readers (Cloudflare bot check); the listing may have expired or been re-dated again",
+   "Pay and duration not stated"
+  ],
+  "action": "Open the listing on emploi.cd in a browser to check whether it is still open before applying; no deadline is given, so it may close without notice."
+ },
+ {
+  "id": "transsion-infinix-intern-communication-content-kinshasa",
+  "potential_issues": [
+   "Closed: the emploi.cd listing expired on 17 October 2026 (read 19 October 2026; emploi.cd blocked automated readers with a Cloudflare bot check on 26 October 2026, so no re-posting could be checked)",
+   "Job-board listing only; posted by TRANSSION HOLDINGS 'pour le compte de l'un de nos Clients' (the duties mention the Infinix brand); no posting found on a Transsion, Infinix or Carlcare page",
+   "Pay and duration not stated"
+  ]
+ },
+ {
+  "id": "cermet-congo-junior-graphic-designer-kinshasa",
+  "sources": [
+   {
+    "label": "emploi.cd listing: Infographe Junior (H/F) - Kinshasa (expired 17 October 2026, read 19 October 2026; blocked by a Cloudflare bot check on 26 October 2026)",
+    "url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/infographe-junior-hf-kinshasa-492169",
+    "type": "Aggregator"
+   },
+   {
+    "label": "CERMET-CONGO website (no careers page or job posting found, read 19 October 2026; HTTP 503 / no response on 26 October 2026)",
+    "url": "https://cermet-congo.com/",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "world-vision-administration-intern-kinshasa",
+  "deadline_text": "No publication date or deadline in the text of the listing, which is still shown without an 'expired' mark (lesopportunites.com, read 26 October 2026); the page metadata dated it 29 April 2025 when read on 12 October 2026. The internship is not listed on World Vision's careers site (Workday) on 26 October 2026.",
+  "sources": [
+   {
+    "label": "Opportunités du Monde listing: still shown, no date or deadline, links to World Vision requisition JR41677 (read 26 October 2026)",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/administration/avis-de-recrutement-dune-stagiaire-en-administration-basee-a-kinshasa-republique-democratique-du-congo/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "World Vision International careers site (Workday): no Kinshasa posting; 'Congo' and 'DRC' return only a Child Well-being Development Facilitator in Lubumbashi; JR41677 not found (read 26 October 2026)",
+    "url": "https://worldvision.wd1.myworkdayjobs.com/WorldVisionInternational",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "The listing appears to date from April 2025 (page metadata 29 April 2025) and links to World Vision requisition JR41677, which is not open: a search for JR41677 on World Vision's Workday site returned no posting on 26 October 2026",
+   "Not found on World Vision's official Workday careers site on 26 October 2026: 'Kinshasa' returned no posting; 'Congo' and 'DRC' returned one non-internship role (Lubumbashi); the only francophone-Africa internship listed was in Burkina Faso",
+   "No deadline; pay not stated",
+   "Requires a Bac+5 level; local candidates only"
+  ],
+  "last_verified": "2026-10-26"
+ },
+ {
+  "id": "nrc-nashiriki-internship-programme-drc",
+  "deadline_text": "No deadline in the listing (dated 6 October 2025); the NRC job it linked to (no. 19202) is no longer on NRC's careers portal, and no Nashiriki, intern or Kinshasa posting was listed there on 26 October 2026.",
+  "expected_next_cycle": "The next call has not been announced: no Nashiriki or internship posting on NRC's careers portal on 26 October 2026.",
+  "sources": [
+   {
+    "label": "Opportunités du Monde (listing dated 6 October 2025, read 12 October 2026)",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/developpement-rural/opportunite-pour-jeunes-diplomes-nrc-programme-de-stages-nashiriki-rdc/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "NRC careers portal (Oracle): 'Nashiriki', 'stagiaire' and 'Kinshasa' return no posting; the only DR Congo posting is a Field Office Coordinator in Beni (read 26 October 2026)",
+    "url": "https://ekum.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2019/",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Closed: the linked NRC job (19202) is no longer on NRC's careers portal and searches for 'Nashiriki', 'stagiaire' and 'Kinshasa' returned no posting on 26 October 2026",
+   "The listing dates from October 2025",
+   "Age limit and criteria come from an aggregator, not from NRC's own page",
+   "Pay and duration not stated"
+  ],
+  "last_verified": "2026-10-26"
+ },
+ {
+  "id": "equitybcdc-jeunes-banquiers",
+  "deadline_text": "Last call found: closed 27 November 2024, training beginning 26 February 2025. No official 2026 or 2027 call found on 26 October 2026.",
+  "expected_next_cycle": "No official 2026 or 2027 call found (searches on 26 October 2026).",
+  "potential_issues": [
+   "Closed",
+   "Criteria come from a news article about the 2024 call",
+   "Equity BCDC's website (equitygroupholdings.com/cd) returned an Incapsula bot-check page and its Taleo careers sections showed 'Career Section Unavailable' on 26 October 2026 (as on 12 October), so no official call could be read",
+   "No official 2026 or 2027 call found in searches on 26 October 2026; a personal social-media post refers to a 32nd edition, but no official announcement of it was found"
+  ]
+ },
+ {
+  "id": "unicef-drc-internships",
+  "deadline_text": "The 2026 round closed on 25 May 2026. Searches of jobs.unicef.org on 26 October 2026 ('kinshasa', 'congo', 'intern', 'stagiaire') showed no internship in the DRC: DRC results were staff and consultant posts only (Kinshasa, Goma, Bunia).",
+  "expected_next_cycle": "No new UNICEF DRC internship call on jobs.unicef.org on 26 October 2026. UNICEF posts internship calls there.",
+  "sources": [
+   {
+    "label": "Opportunités du Monde: UNICEF DRC internships",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/administration/unicef-en-rdc-lance-un-recrutement-de-stagiaires-etudiants-et-jeunes-diplomes-dans-plusieurs-villes-dont-kinshasa-goma-et-bunia/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Goma PSEA internship post",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/droit/unicef-recrute-une-stagiaire-associee-au-programme-de-protection-contre-lexploitation-et-les-abus-sexuels-en-rdc-stage-de-6-mois-remunere/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UN Talent: internships in Kinshasa (all expired on 5 October 2026; blocked, HTTP 403, on 26 October 2026)",
+    "url": "https://untalent.org/jobs/in-anything/contract-internship/kinshasa",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UNICEF careers: search for Kinshasa, no DRC internship (read 26 October 2026)",
+    "url": "https://jobs.unicef.org/en-us/search/?search-keyword=kinshasa",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "No round is open on 26 October 2026",
+   "Age and enrolment rules come from one of the 2026 posts, read through an aggregator"
+  ],
+  "last_verified": "2026-10-26"
+ },
+ {
+  "id": "wfp-drc-internships-kinshasa",
+  "expected_next_cycle": "No WFP internship in the DRC was listed on WFP's careers portal (Workday) on 26 October 2026: the only DRC postings were a Risk and Compliance Officer (Kinshasa), a Logistics Officer - Contracting (Kinshasa) and a Head of Programme (Bukavu).",
+  "sources": [
+   {
+    "label": "Opportunités du Monde: graphic design intern",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/communication/pam-recrute-une-stagiaire-en-conception-graphique-et-communication-pour-son-unite-des-ressources-humaines-a-kinshasa-en-rdc/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Opportunités du Monde: content management intern",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/communication/pam-recrute-une-stagiaire-en-gestion-du-contenu-site-internet-application-dediee-au-bien-etre-du-personnel-republique-democratique-du-congo/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "WFP careers (Workday): no DRC internship (read 26 October 2026)",
+    "url": "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
+    "type": "Official"
+   }
+  ],
+  "potential_issues": [
+   "Closed on the dates read; no DRC internship on WFP's careers portal on 26 October 2026",
+   "Details of the past posts were read through aggregators only"
+  ],
+  "last_verified": "2026-10-26"
+ },
+ {
+  "id": "fijec-congolese-young-entrepreneurs-forum",
+  "expected_next_cycle": "The 6th edition has not been announced (no FIJEC announcement found in searches on 26 October 2026).",
+  "sources": [
+   {
+    "label": "Opportunité pour tous: 5th edition call, organiser 'Initiative FIJEC', no organiser website listed (read 26 October 2026)",
+    "url": "https://opportunitepourtous.com/2026/07/07/fijec-2026-jeunes-entrepreneurs-congolais-appel-candidatures-2026/",
+    "type": "Aggregator"
+   }
+  ],
+  "potential_issues": [
+   "Closed",
+   "No organiser website found (searches on 26 October 2026 found no page from FIJEC): the only registration route was a shortened link (tinyurl) leading to a Google Form, which asked for a Google sign-in",
+   "Location, cost, dates and criteria of the forum were not stated",
+   "Details come from one aggregator"
+  ]
+ },
+ {
+  "id": "world-forum-for-democracy-youth-delegation",
+  "potential_issues": [
+   "This cycle is closed; the 2026 Forum takes place on 2-3 November 2026 (secondary sources)",
+   "All details are from secondary sources; coe.int and the call PDF on rm.coe.int returned a Cloudflare bot check (HTTP 403) to both fetch tools on 26 October 2026",
+   "Requires membership of a youth organisation"
+  ],
+  "sources": [
+   {
+    "label": "Council of Europe call page (official; blocked by a Cloudflare bot check, HTTP 403, on 26 October 2026)",
+    "url": "https://www.coe.int/en/web/youth/-/call-for-participants-world-forum-for-democracy-youth-delegation",
+    "type": "Official"
+   },
+   {
+    "label": "Council of Europe 2026 call document (PDF; blocked by a Cloudflare bot check on 26 October 2026)",
+    "url": "https://rm.coe.int/wfd-2026-call-for-participants-youth-delegation/48802cbb54",
+    "type": "Official"
+   },
+   {
+    "label": "Secondary relay of the 2026 call",
+    "url": "https://www.stgm.org.tr/en/applications-open-council-europe-world-democracy-forum-youth-delegation",
+    "type": "Aggregator"
+   }
+  ]
+ },
+ {
+  "id": "afdb-internship-2027-session-1",
+  "deadline_text": "Applications were open from 28 September to 12 October 2026; no closing time stated (secondary sources). Closed. On 26 October 2026 the AfDB vacancy and internship pages again returned HTTP 403 (Cloudflare bot check) to both readers.",
+  "potential_issues": [
+   "Closed on 12 October 2026",
+   "A master's degree in progress or completed within one year is required",
+   "Everything comes from secondary sources: the AfDB pages block automated readers (HTTP 403 bot check on 5 and 12 October and 26 October 2026)",
+   "Secondary sources disagree on the date at which the age limit of 30 applies",
+   "On-site interns pay their own travel and living costs (secondary sources)",
+   "No 2027 session 2 call found on 26 October 2026 (the AfDB careers pages could not be read)"
+  ],
+  "sources": [
+   {
+    "label": "AfDB vacancy page (blocked to the reader: HTTP 403 bot check, 12 and 26 October 2026)",
+    "url": "https://www.afdb.org/en/vacancy/2027-internship-program-session-1-97099",
+    "type": "Official"
+   },
+   {
+    "label": "Impactpool news item",
+    "url": "https://www.impactpool.org/news/african-development-bank-2027-internship-programme-session-1",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Opportunity Desk",
+    "url": "https://opportunitydesk.org/2026/09/30/afdb-internship-program-2027/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Opportunities for Africans",
+    "url": "https://www.opportunitiesforafricans.com/the-african-development-bank-group-internship-program-2027-session-1/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Afri-Carrières",
+    "url": "https://afri-carrieres.com/opportunites/programme-de-stage-bad-session/",
+    "type": "Aggregator"
+   }
+  ],
+  "action": "Closed: watch the AfDB careers page in a browser for the 2027 session 2 call."
+ }
+]
