@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-26T07:54:36Z",
+  "last_refresh": "2026-10-26T11:31:18Z",
   "counts": {
     "total": 77,
     "archived": 6,
@@ -61,38 +61,14 @@
     "1": []
   },
   "watch": {
-    "checked": 57,
-    "ok": 49,
+    "checked": 63,
+    "ok": 56,
     "blocked_or_unreachable": 7,
-    "dead": 1
+    "dead": 0
   },
   "flags": [
     {
-      "id": "african-union-youth-volunteer-corps",
-      "type": "source_changed",
-      "since": "2026-10-21",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "aspire-leaders-program-2026-cohort-4",
-      "type": "source_changed",
-      "since": "2026-10-22",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
       "id": "eu-delegation-drc-subsidised-traineeship",
-      "type": "source_changed",
-      "since": "2026-10-21",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "mandela-washington-fellowship-2027",
-      "type": "dead_link",
-      "since": "2026-10-25",
-      "detail": "Official page returned HTTP 404 on two runs."
-    },
-    {
-      "id": "au-theme-of-the-year-2027-logo-competition",
       "type": "source_changed",
       "since": "2026-10-21",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
