@@ -3,125 +3,6 @@
   "updated": "2026-10-26",
   "programs": [
     {
-      "id": "afdb-internship-2027-session-1",
-      "title": "African Development Bank (AfDB) Internship Programme 2027, session 1",
-      "organization": "African Development Bank Group",
-      "overview": "Three to six month paid internships starting in January 2027, in Abidjan and selected regional and country offices, on site or remotely depending on the hiring unit.",
-      "category": [
-        "Internship"
-      ],
-      "audience": [
-        "postgraduate-student",
-        "recent-graduate"
-      ],
-      "country": "Côte d'Ivoire and AfDB offices",
-      "city": "Abidjan (and selected offices)",
-      "location_type": "Abroad in Africa",
-      "delivery_mode": "Hybrid",
-      "program_dates": "Starts January 2027",
-      "duration": "3 to 6 months",
-      "application_deadline": "2026-10-12",
-      "deadline_utc": "",
-      "deadline_text": "Applications were open from 28 September to 12 October 2026; no closing time stated (secondary sources). Closed. On 26 October 2026 the AfDB vacancy and internship pages again returned HTTP 403 (Cloudflare bot check) to both readers.",
-      "deadline_timezone": "Unknown / Not specified",
-      "opens_on": "2026-09-28",
-      "open_now": false,
-      "rolling": false,
-      "recurring": false,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
-      "funding_type": "Funding Unclear",
-      "funding_details": [
-        "Reported by secondary sources: \"Medical insurance paid by the Bank and a monthly stipend for eligible interns\" (amount not stated); on-site interns cover their own travel to and from the duty station and their living expenses. The AfDB page could not be read."
-      ],
-      "coverage": {
-        "tuition": "Not specified",
-        "stipend": "Not specified",
-        "flight": "Not specified",
-        "accommodation": "Not specified",
-        "meals": "Not specified",
-        "visa": "Not specified",
-        "insurance": "Not specified",
-        "local_transport": "Not specified"
-      },
-      "travel_funded": false,
-      "flight_funded": false,
-      "accommodation_funded": false,
-      "meals_funded": false,
-      "visa_funded": false,
-      "insurance_funded": false,
-      "local_transport_funded": false,
-      "application_fee": "No fee stated",
-      "participation_fee": "Unknown / Not specified",
-      "stipend": "Unknown / Not specified",
-      "age_min": null,
-      "age_max": 30,
-      "age_requirement": "Reported by secondary sources: of legal age and \"no older than 30 when the internship begins\"; another secondary source says 30 or under by 31 December 2026",
-      "experience_level": "None required",
-      "experience_requirement": "No work experience stated",
-      "education_requirement": "Currently enrolled in, or recently completed (within one year), a master's degree",
-      "nationality_requirements": [
-        "Nationals of African Development Bank member countries"
-      ],
-      "drc_eligible": "Unclear",
-      "language_requirement": "English or French",
-      "eligibility": [
-        "Reported by secondary sources: of legal age and no older than 30 (sources differ on the reference date)",
-        "Reported by secondary sources: enrolled in a master's programme or having obtained the degree within the past year",
-        "Reported by secondary sources: national of an AfDB member country (a single nationality is declared); the DRC is an AfDB member, but this was not read on an AfDB page"
-      ],
-      "other_requirements": [],
-      "documents_required": [],
-      "application_process": [],
-      "official_application_url": "",
-      "official_information_url": "https://www.afdb.org/en/vacancy/2027-internship-program-session-1-97099",
-      "source_url": "https://opportunitydesk.org/2026/09/30/afdb-internship-program-2027/",
-      "source_type": "Aggregator",
-      "source_confidence": "MEDIUM",
-      "verification": "NEEDS VERIFICATION",
-      "sources": [
-        {
-          "label": "AfDB vacancy page (blocked to the reader: HTTP 403 bot check, 12 and 26 October 2026)",
-          "url": "https://www.afdb.org/en/vacancy/2027-internship-program-session-1-97099",
-          "type": "Official"
-        },
-        {
-          "label": "Impactpool news item",
-          "url": "https://www.impactpool.org/news/african-development-bank-2027-internship-programme-session-1",
-          "type": "Aggregator"
-        },
-        {
-          "label": "Opportunity Desk",
-          "url": "https://opportunitydesk.org/2026/09/30/afdb-internship-program-2027/",
-          "type": "Aggregator"
-        },
-        {
-          "label": "Opportunities for Africans",
-          "url": "https://www.opportunitiesforafricans.com/the-african-development-bank-group-internship-program-2027-session-1/",
-          "type": "Aggregator"
-        },
-        {
-          "label": "Afri-Carrières",
-          "url": "https://afri-carrieres.com/opportunites/programme-de-stage-bad-session/",
-          "type": "Aggregator"
-        }
-      ],
-      "potential_issues": [
-        "Closed on 12 October 2026",
-        "A master's degree in progress or completed within one year is required",
-        "Everything comes from secondary sources: the AfDB pages block automated readers (HTTP 403 bot check on 5 and 12 October and 26 October 2026)",
-        "Secondary sources disagree on the date at which the age limit of 30 applies",
-        "On-site interns pay their own travel and living costs (secondary sources)",
-        "No 2027 session 2 call found on 26 October 2026 (the AfDB careers pages could not be read)"
-      ],
-      "benefits": [],
-      "action": "Closed: watch the AfDB careers page in a browser for the 2027 session 2 call.",
-      "last_verified": "2026-10-05",
-      "date_discovered": "2026-10-05",
-      "notes": ""
-    },
-    {
       "id": "afreximbank-internship-programme",
       "title": "Afreximbank Group Internship Programme (Cairo)",
       "organization": "African Export-Import Bank (Afreximbank) Group",
@@ -1079,7 +960,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "Reported by secondary sources: up to USD 40,000 of total support, with performance-based stipends tied to growth milestones. The Anzisha apply page (read 12 October 2026) does not state a support package or amount."
@@ -8446,5 +8327,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-26"
+  "status_computed_on": "2026-10-27"
 }

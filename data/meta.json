@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-26T11:31:18Z",
+  "last_refresh": "2026-10-27T10:56:12Z",
   "counts": {
-    "total": 77,
-    "archived": 6,
+    "total": 76,
+    "archived": 7,
     "by_status": {
-      "OPEN": 23,
-      "CLOSING SOON": 9,
+      "OPEN": 22,
+      "CLOSING SOON": 10,
       "UPCOMING": 22,
-      "DEADLINE PASSED": 9,
+      "DEADLINE PASSED": 8,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -22,12 +22,12 @@
       "Free": 8,
       "Unpaid": 6,
       "Self Funded": 1,
-      "Funding Unclear": 40
+      "Funding Unclear": 39
     },
     "by_verification": {
       "VERIFIED": 35,
       "PARTIALLY VERIFIED": 30,
-      "NEEDS VERIFICATION": 12
+      "NEEDS VERIFICATION": 11
     },
     "in_kinshasa": 17,
     "remote": 19,
@@ -35,7 +35,6 @@
   },
   "deadline_buckets": {
     "30": [
-      "anzisha-fellowship-2027",
       "d-prize-challenge-2026-2027",
       "dalai-lama-fellows-2027",
       "global-solvers-accelerator-2027",
@@ -45,6 +44,7 @@
       "youth-global-forum-2027-paris"
     ],
     "14": [
+      "anzisha-fellowship-2027",
       "global-leadership-challenge-2026",
       "ohchr-yaounde-data-management-admin-intern-2026",
       "un-habitat-abidjan-programme-management-intern-2026",
@@ -61,9 +61,9 @@
     "1": []
   },
   "watch": {
-    "checked": 63,
+    "checked": 62,
     "ok": 56,
-    "blocked_or_unreachable": 7,
+    "blocked_or_unreachable": 6,
     "dead": 0
   },
   "flags": [
