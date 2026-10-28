@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -754,6 +754,143 @@
       "notes": "",
       "archive_id": "afdb-internship-2027-session-1@2026-10-12",
       "archived_on": "2026-10-27"
+    },
+    {
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "organization": "U.S. Department of State (administered by IREX)",
+      "overview": "Six-week executive-style Leadership Institute at a U.S. college or university in summer 2027 for about 550 young African leaders. Applications are open until 13 October 2026 and there is no application fee.",
+      "category": [
+        "Fellowship",
+        "Leadership",
+        "Exchange"
+      ],
+      "audience": [
+        "young-professional",
+        "entrepreneur"
+      ],
+      "country": "United States",
+      "city": "U.S. colleges and universities",
+      "location_type": "Abroad outside Africa",
+      "delivery_mode": "In-person",
+      "program_dates": "Fellowship begins in the United States in June 2027 (six-week institute)",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-10-13",
+      "deadline_utc": "2026-10-13T16:00:00Z",
+      "deadline_text": "APPLICATION DEADLINE: 16:00/4:00 PM GMT on Tuesday, October 13, 2026 (application instructions PDF, read 12 October 2026; the PDF was still online on 26 October 2026). On 26 October 2026 the About page says \"Applications for the 2027 Mandela Washington Fellowship are now closed\" and the IREX application system says \"The application for the 2027 Mandela Washington Fellowship is now closed\"; semifinalists are contacted by their local U.S. embassy or consulate for interviews from November 2026 through January 2027.",
+      "deadline_timezone": "GMT",
+      "opens_on": "2026-09-22",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "No date for the 2028 Fellowship call on the official site (read 26 October 2026). The 2027 call opened on 22 September 2026 and closed on 13 October 2026.",
+      "last_cycle_deadline": "2026-10-13",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Fully Funded",
+      "funding_details": [
+        "'If you are selected for the Fellowship, the U.S. Government will cover all program costs' (2027 application instructions)",
+        "Listed costs: J-1 visa support; round-trip travel from the Fellow's home city to the United States and domestic U.S. travel as required by the program; a six-week institute; a limited accident and sickness benefit plan; housing and meals during the program; an optional four-week Professional Development Experience (for up to 50 Fellows)",
+        "Not covered: salaries while away from work and personal purchases",
+        "'There is no fee to apply for the Mandela Washington Fellowship.'"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Covered",
+        "accommodation": "Covered",
+        "meals": "Covered",
+        "visa": "Partially covered",
+        "insurance": "Partially covered",
+        "local_transport": "Covered"
+      },
+      "travel_funded": true,
+      "flight_funded": true,
+      "accommodation_funded": true,
+      "meals_funded": true,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": true,
+      "application_fee": "No fee stated",
+      "participation_fee": "None: 'There is no fee to apply for the Mandela Washington Fellowship.'",
+      "stipend": "Unknown / Not specified",
+      "age_min": 25,
+      "age_max": 35,
+      "age_requirement": "25 to 35 at the deadline; exceptional applicants aged 21 to 24 may be considered",
+      "experience_level": "Some experience needed",
+      "experience_requirement": "Unknown / Not specified",
+      "education_requirement": "Unknown / Not specified",
+      "nationality_requirements": [
+        "Democratic Republic of the Congo is on the list of eligible countries"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "Proficient English (reading, writing, speaking)",
+      "eligibility": [
+        "Citizen of an eligible country; the list includes the Democratic Republic of the Congo (DRC)",
+        "Resident of an eligible Sub-Saharan African country, permanently residing there as of 1 February 2027 and in June 2027",
+        "Not a U.S. citizen or permanent resident; eligible to receive a U.S. J-1 visa",
+        "Proficient in reading, writing and speaking English",
+        "Selection criteria include a proven record of accomplishment in business, trade, emerging technologies, governance and/or security, and a commitment to return to Sub-Saharan Africa"
+      ],
+      "other_requirements": [],
+      "documents_required": [
+        "Semi-finalists: international passport if available, or other government-issued photo ID, at the Embassy interview"
+      ],
+      "application_process": [
+        "Apply online before 13 October 2026",
+        "November 2026 to January 2027: semi-finalists interviewed in person by the U.S. Embassy",
+        "February or March 2027: applicants notified",
+        "March to May 2027: visa processing and mandatory pre-departure orientation",
+        "June 2027: fellowship begins"
+      ],
+      "official_application_url": "https://apply.mandelawashingtonfellowship.org",
+      "official_information_url": "https://www.mandelawashingtonfellowship.org/about/",
+      "source_url": "https://www.mandelawashingtonfellowship.org/about/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "About the Fellowship (read 26 October 2026)",
+          "url": "https://www.mandelawashingtonfellowship.org/about/",
+          "type": "Official"
+        },
+        {
+          "label": "IREX application system: 2027 application closed (read 26 October 2026)",
+          "url": "https://apply.mandelawashingtonfellowship.org",
+          "type": "Official"
+        },
+        {
+          "label": "2027 application instructions (PDF: deadline time, financial provisions)",
+          "url": "https://www.mandelawashingtonfellowship.org/wp-content/uploads/2026/09/2027-Mandela-Washington-Fellowship-Application-Instructions_Final_9.17.2026-1.pdf",
+          "type": "Official"
+        },
+        {
+          "label": "Application and eligibility information (removed: HTTP 404 on 25 and 26 October 2026)",
+          "url": "https://www.mandelawashingtonfellowship.org/apply/",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "Applications for 2027 closed on 13 October 2026",
+        "The /apply/, /apply-faqs/ and /2027-application-instructions/ pages were removed after the deadline (HTTP 404 on 26 October 2026)",
+        "The application system says all applicants will be notified of their status in \"March 2025\", which looks like an error for March 2027",
+        "Nationals of countries under a full or partial U.S. entry or visa suspension can apply, but finalists are selected case by case: check travel.state.gov for the DRC's current status",
+        "'J-1 visa support' and a 'limited accident and sickness benefit plan' are the stated visa and insurance terms; no salary replacement"
+      ],
+      "benefits": [
+        "Six-week institute at a U.S. university",
+        "Network of African and American leaders",
+        "Possible six-week Professional Development Experience afterwards"
+      ],
+      "action": "Watch mandelawashingtonfellowship.org for the next call; the 2027 call ran from 22 September to 13 October 2026.",
+      "last_verified": "2026-10-26",
+      "date_discovered": "2026-10-02",
+      "notes": "",
+      "match_keywords": [
+        "mandela washington"
+      ],
+      "archive_id": "mandela-washington-fellowship-2027@2026-10-13",
+      "archived_on": "2026-10-28"
     }
   ]
 }

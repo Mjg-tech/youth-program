@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-27T10:56:12Z",
+  "last_refresh": "2026-10-28T11:36:26Z",
   "counts": {
     "total": 76,
-    "archived": 7,
+    "archived": 8,
     "by_status": {
-      "OPEN": 22,
-      "CLOSING SOON": 10,
-      "UPCOMING": 22,
-      "DEADLINE PASSED": 8,
+      "OPEN": 21,
+      "CLOSING SOON": 11,
+      "UPCOMING": 23,
+      "DEADLINE PASSED": 7,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -25,8 +25,8 @@
       "Funding Unclear": 39
     },
     "by_verification": {
-      "VERIFIED": 35,
-      "PARTIALLY VERIFIED": 30,
+      "VERIFIED": 34,
+      "PARTIALLY VERIFIED": 31,
       "NEEDS VERIFICATION": 11
     },
     "in_kinshasa": 17,
@@ -36,7 +36,6 @@
   "deadline_buckets": {
     "30": [
       "d-prize-challenge-2026-2027",
-      "dalai-lama-fellows-2027",
       "global-solvers-accelerator-2027",
       "itu-gender-champions-programme-2027",
       "novartis-next-generation-scientist-2027",
@@ -45,25 +44,27 @@
     ],
     "14": [
       "anzisha-fellowship-2027",
+      "dalai-lama-fellows-2027",
       "global-leadership-challenge-2026",
-      "ohchr-yaounde-data-management-admin-intern-2026",
-      "un-habitat-abidjan-programme-management-intern-2026",
       "ustc-international-winter-camp-2027",
       "wipo-ip-moot-court-competition-2027"
     ],
     "7": [
-      "i-am-nala-fellowship-2027",
-      "one-young-world-leading-scholarship-2026",
-      "un-osesg-great-lakes-political-affairs-intern-2026",
+      "ohchr-yaounde-data-management-admin-intern-2026",
+      "un-habitat-abidjan-programme-management-intern-2026",
       "unu-junior-fellows-internship-spring-2027"
     ],
-    "3": [],
+    "3": [
+      "i-am-nala-fellowship-2027",
+      "one-young-world-leading-scholarship-2026",
+      "un-osesg-great-lakes-political-affairs-intern-2026"
+    ],
     "1": []
   },
   "watch": {
     "checked": 62,
-    "ok": 56,
-    "blocked_or_unreachable": 6,
+    "ok": 55,
+    "blocked_or_unreachable": 7,
     "dead": 0
   },
   "flags": [
