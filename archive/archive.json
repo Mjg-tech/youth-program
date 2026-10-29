@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -891,6 +891,118 @@
       ],
       "archive_id": "mandela-washington-fellowship-2027@2026-10-13",
       "archived_on": "2026-10-28"
+    },
+    {
+      "id": "tutu-leading-for-humanity-2027",
+      "title": "Desmond & Leah Tutu Legacy Foundation: Leading for Humanity 2027",
+      "organization": "Desmond & Leah Tutu Legacy Foundation",
+      "overview": "Eight-day residential leadership immersion on courageous leadership, self-repair, Ubuntu and forgiveness, in Cape Town and Hermanus in April 2027.",
+      "category": [
+        "Leadership",
+        "Training"
+      ],
+      "audience": [
+        "young-professional",
+        "any-adult"
+      ],
+      "country": "South Africa",
+      "city": "Cape Town and Hermanus",
+      "location_type": "Abroad in Africa",
+      "delivery_mode": "In-person",
+      "program_dates": "April 2027 (residential programme in Cape Town and Hermanus; full attendance is mandatory)",
+      "duration": "8 days",
+      "application_deadline": "2026-10-14",
+      "deadline_utc": "",
+      "deadline_text": "\"Deadline: 14 October 2026.\" Nominations opened 11 September 2026 (Foundation's call for nominations, read 12 October 2026).",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "2026-09-11",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Partially Funded",
+      "funding_details": [
+        "Foundation's page: \"The Foundation covers all programme costs, accommodation, and meals. Participants (or their sponsors) are responsible for travel to and from South Africa.\""
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Not covered",
+        "accommodation": "Covered",
+        "meals": "Covered",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": true,
+      "meals_funded": true,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Leaders of any age, sector or life experience",
+      "experience_level": "Not stated",
+      "experience_requirement": "Unknown / Not specified",
+      "education_requirement": "None stated",
+      "nationality_requirements": [
+        "South African or international applicants; nominees must be able to travel to Cape Town and Hermanus"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "Unknown / Not specified",
+      "eligibility": [
+        "Leadership potential and courage: people who stand up for truth, human rights and justice",
+        "Able to travel to Cape Town and Hermanus for the whole programme",
+        "Self-nominations and nominations by others are accepted"
+      ],
+      "other_requirements": [],
+      "documents_required": [
+        "Motivation letter",
+        "Nominee's contact details and short biography",
+        "CV and reference letters"
+      ],
+      "application_process": [
+        "Nominations (including self-nominations) are sent by email as described on the Foundation's page; places are limited."
+      ],
+      "official_application_url": "",
+      "official_information_url": "https://tutu.org.za/news/call-for-nominations-leading-for-humanity-2027-cohort",
+      "source_url": "https://tutu.org.za/news/call-for-nominations-leading-for-humanity-2027-cohort",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Desmond & Leah Tutu Legacy Foundation: call for nominations",
+          "url": "https://tutu.org.za/news/call-for-nominations-leading-for-humanity-2027-cohort",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunities for Africans",
+          "url": "https://www.opportunitiesforafricans.com/the-desmond-leah-tutu-legacy-foundation-2027-leading-for-humanity-leadership-programme/",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "Travel to South Africa is not covered",
+        "Closes 14 October 2026",
+        "Nominations go by email, not through a form",
+        "The page's opening paragraph mentions the \"2026 Leading for Humanity cohort\" while the title and instructions say 2027",
+        "The page calls the programme fully funded, but participants or sponsors pay travel to and from South Africa"
+      ],
+      "benefits": [],
+      "action": "Read the call on the Foundation's page and send a nomination before 14 October 2026 if you can pay your own travel to South Africa.",
+      "last_verified": "2026-10-12",
+      "date_discovered": "2026-10-05",
+      "notes": "",
+      "archive_id": "tutu-leading-for-humanity-2027@2026-10-14",
+      "archived_on": "2026-10-29"
     }
   ]
 }
