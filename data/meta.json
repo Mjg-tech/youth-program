@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-29T11:43:48Z",
+  "last_refresh": "2026-10-30T11:36:01Z",
   "counts": {
     "total": 75,
     "archived": 9,
@@ -45,21 +45,22 @@
     "14": [
       "anzisha-fellowship-2027",
       "dalai-lama-fellows-2027",
-      "ustc-international-winter-camp-2027",
-      "wipo-ip-moot-court-competition-2027"
+      "ustc-international-winter-camp-2027"
     ],
     "7": [
       "global-leadership-challenge-2026",
       "ohchr-yaounde-data-management-admin-intern-2026",
-      "un-habitat-abidjan-programme-management-intern-2026"
+      "un-habitat-abidjan-programme-management-intern-2026",
+      "wipo-ip-moot-court-competition-2027"
     ],
     "3": [
-      "i-am-nala-fellowship-2027",
-      "one-young-world-leading-scholarship-2026",
-      "un-osesg-great-lakes-political-affairs-intern-2026",
       "unu-junior-fellows-internship-spring-2027"
     ],
-    "1": []
+    "1": [
+      "i-am-nala-fellowship-2027",
+      "one-young-world-leading-scholarship-2026",
+      "un-osesg-great-lakes-political-affairs-intern-2026"
+    ]
   },
   "watch": {
     "checked": 61,
@@ -77,7 +78,7 @@
     {
       "id": "au-theme-of-the-year-2027-logo-competition",
       "type": "source_changed",
-      "since": "2026-10-29",
+      "since": "2026-10-30",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ]
