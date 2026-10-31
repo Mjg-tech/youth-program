@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -1003,6 +1003,120 @@
       "notes": "",
       "archive_id": "tutu-leading-for-humanity-2027@2026-10-14",
       "archived_on": "2026-10-29"
+    },
+    {
+      "id": "aspire-leaders-program-2026-cohort-4",
+      "title": "Aspire Leaders Program (2026 Cohort 4)",
+      "organization": "Aspire Institute",
+      "overview": "Free six-week online leadership programme for first-generation or limited-income university students and graduates aged 18 to 29. Cohort 4 runs from 21 October to 30 November 2026.",
+      "category": [
+        "Leadership",
+        "Training"
+      ],
+      "audience": [
+        "university-student",
+        "recent-graduate",
+        "graduate"
+      ],
+      "country": "Online",
+      "city": "Online",
+      "location_type": "Remote",
+      "delivery_mode": "Online",
+      "program_dates": "21 October to 30 November 2026",
+      "duration": "6 weeks (about 3 to 5 hours a week)",
+      "application_deadline": "2026-10-16",
+      "deadline_utc": "",
+      "deadline_text": "Cohort 4 (2026) deadline was October 16 (Aspire Institute home page, read 12 October 2026). On 26 October 2026 the programme page says \"APPLICATIONS FOR THE 2026 ASPIRE LEADERS PROGRAM ARE CLOSED!\" and lists \"Cohort 1 — 2027: COMING SOON\" with no date.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "2027 Cohort 1 is listed as \"COMING SOON\" with no dates (programme page, read 26 October 2026); the home page says \"Check back in for future updates regarding our 2027 program\" and offers an interest form.",
+      "last_cycle_deadline": "2026-10-16",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Free",
+      "funding_details": [
+        "'No application fee. No tuition. No catch.'",
+        "Free certificate of completion; an optional verifiable e-credential bundle costs USD 5",
+        "Alumni can access seed funds and mentorship"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Not applicable",
+        "flight": "Not applicable",
+        "accommodation": "Not applicable",
+        "meals": "Not applicable",
+        "visa": "Not applicable",
+        "insurance": "Not applicable",
+        "local_transport": "Not applicable"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "None: 'No tuition, no application fee, no cost at any point.' An optional verifiable e-credential bundle costs USD 5; a free certificate is still given.",
+      "stipend": "Unknown / Not specified",
+      "age_min": 18,
+      "age_max": 29,
+      "age_requirement": "18 to 29",
+      "experience_level": "Not stated",
+      "experience_requirement": "Unknown / Not specified",
+      "education_requirement": "University student or graduate",
+      "nationality_requirements": [
+        "Open worldwide (195 countries represented)"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "Unknown / Not specified",
+      "eligibility": [
+        "Limited-income or first-generation university students and graduates, anywhere in the world",
+        "18 to 29 years old"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Complete the online application before 16 October 2026"
+      ],
+      "official_application_url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
+      "official_information_url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
+      "source_url": "https://www.aspireleaders.org/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Aspire Leaders Program (read 26 October 2026)",
+          "url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
+          "type": "Official"
+        },
+        {
+          "label": "Aspire Institute home page (read 26 October 2026)",
+          "url": "https://www.aspireleaders.org/",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "Applications for 2026 are closed (Cohort 4 deadline 16 October 2026); no 2027 date is published yet",
+        "Online and self-paced (about 3 to 5 hours a week): needs a reliable internet connection"
+      ],
+      "benefits": [
+        "Live masterclasses and peer cohort",
+        "Certificate",
+        "Seed funds for alumni projects"
+      ],
+      "action": "Watch the Aspire Leaders Program page for the 2027 Cohort 1 dates; the page offers an interest form for updates.",
+      "last_verified": "2026-10-26",
+      "date_discovered": "2026-10-02",
+      "notes": "",
+      "match_keywords": [
+        "aspire leaders"
+      ],
+      "archive_id": "aspire-leaders-program-2026-cohort-4@2026-10-16",
+      "archived_on": "2026-10-31"
     }
   ]
 }

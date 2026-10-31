@@ -1059,9 +1059,9 @@
       "delivery_mode": "Online",
       "program_dates": "21 October to 30 November 2026",
       "duration": "6 weeks (about 3 to 5 hours a week)",
-      "application_deadline": "2026-10-16",
+      "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Cohort 4 (2026) deadline was October 16 (Aspire Institute home page, read 12 October 2026). On 26 October 2026 the programme page says \"APPLICATIONS FOR THE 2026 ASPIRE LEADERS PROGRAM ARE CLOSED!\" and lists \"Cohort 1 — 2027: COMING SOON\" with no date.",
+      "deadline_text": "Last cycle closed on 2026-10-16. Next cycle not announced yet.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -1069,7 +1069,7 @@
       "recurring": true,
       "expected_next_cycle": "2027 Cohort 1 is listed as \"COMING SOON\" with no dates (programme page, read 26 October 2026); the home page says \"Check back in for future updates regarding our 2027 program\" and offers an interest form.",
       "last_cycle_deadline": "2026-10-16",
-      "status": "DEADLINE PASSED",
+      "status": "UPCOMING",
       "funding_type": "Free",
       "funding_details": [
         "'No application fee. No tuition. No catch.'",
@@ -1121,7 +1121,7 @@
       "source_url": "https://www.aspireleaders.org/",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "Aspire Leaders Program (read 26 October 2026)",
@@ -1146,7 +1146,7 @@
       "action": "Watch the Aspire Leaders Program page for the 2027 Cohort 1 dates; the page offers an interest form for updates.",
       "last_verified": "2026-10-26",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "[auto 2026-10-31] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "aspire leaders"
       ]
@@ -8217,5 +8217,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-10-30"
+  "status_computed_on": "2026-10-31"
 }

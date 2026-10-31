@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-30T11:36:01Z",
+  "last_refresh": "2026-10-31T11:11:56Z",
   "counts": {
     "total": 75,
-    "archived": 9,
+    "archived": 10,
     "by_status": {
       "OPEN": 21,
       "CLOSING SOON": 11,
-      "UPCOMING": 23,
-      "DEADLINE PASSED": 6,
+      "UPCOMING": 24,
+      "DEADLINE PASSED": 5,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -25,8 +25,8 @@
       "Funding Unclear": 39
     },
     "by_verification": {
-      "VERIFIED": 33,
-      "PARTIALLY VERIFIED": 31,
+      "VERIFIED": 32,
+      "PARTIALLY VERIFIED": 32,
       "NEEDS VERIFICATION": 11
     },
     "in_kinshasa": 17,
@@ -40,6 +40,7 @@
       "itu-gender-champions-programme-2027",
       "novartis-next-generation-scientist-2027",
       "unearthodox-exploration-co-lab-2027",
+      "wff-youth-policy-board-2027-2028",
       "youth-global-forum-2027-paris"
     ],
     "14": [
@@ -53,19 +54,18 @@
       "un-habitat-abidjan-programme-management-intern-2026",
       "wipo-ip-moot-court-competition-2027"
     ],
-    "3": [
-      "unu-junior-fellows-internship-spring-2027"
-    ],
+    "3": [],
     "1": [
       "i-am-nala-fellowship-2027",
       "one-young-world-leading-scholarship-2026",
-      "un-osesg-great-lakes-political-affairs-intern-2026"
+      "un-osesg-great-lakes-political-affairs-intern-2026",
+      "unu-junior-fellows-internship-spring-2027"
     ]
   },
   "watch": {
     "checked": 61,
-    "ok": 55,
-    "blocked_or_unreachable": 6,
+    "ok": 57,
+    "blocked_or_unreachable": 4,
     "dead": 0
   },
   "flags": [
