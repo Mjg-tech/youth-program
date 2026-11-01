@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-31T11:11:56Z",
+  "last_refresh": "2026-11-01T12:00:17Z",
   "counts": {
-    "total": 75,
-    "archived": 10,
+    "total": 73,
+    "archived": 12,
     "by_status": {
-      "OPEN": 21,
-      "CLOSING SOON": 11,
+      "OPEN": 17,
+      "CLOSING SOON": 12,
       "UPCOMING": 24,
-      "DEADLINE PASSED": 5,
+      "DEADLINE PASSED": 6,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -22,43 +22,42 @@
       "Free": 8,
       "Unpaid": 6,
       "Self Funded": 1,
-      "Funding Unclear": 39
+      "Funding Unclear": 37
     },
     "by_verification": {
       "VERIFIED": 32,
       "PARTIALLY VERIFIED": 32,
-      "NEEDS VERIFICATION": 11
+      "NEEDS VERIFICATION": 9
     },
-    "in_kinshasa": 17,
+    "in_kinshasa": 15,
     "remote": 19,
     "fee_required": 4
   },
   "deadline_buckets": {
     "30": [
-      "d-prize-challenge-2026-2027",
-      "global-solvers-accelerator-2027",
-      "itu-gender-champions-programme-2027",
-      "novartis-next-generation-scientist-2027",
+      "jim-leech-mastercard-foundation-fellowship-2027",
       "unearthodox-exploration-co-lab-2027",
       "wff-youth-policy-board-2027-2028",
       "youth-global-forum-2027-paris"
     ],
     "14": [
       "anzisha-fellowship-2027",
+      "d-prize-challenge-2026-2027",
       "dalai-lama-fellows-2027",
-      "ustc-international-winter-camp-2027"
+      "global-solvers-accelerator-2027",
+      "itu-gender-champions-programme-2027",
+      "novartis-next-generation-scientist-2027"
     ],
     "7": [
       "global-leadership-challenge-2026",
-      "ohchr-yaounde-data-management-admin-intern-2026",
-      "un-habitat-abidjan-programme-management-intern-2026",
+      "ustc-international-winter-camp-2027",
       "wipo-ip-moot-court-competition-2027"
     ],
-    "3": [],
+    "3": [
+      "ohchr-yaounde-data-management-admin-intern-2026",
+      "un-habitat-abidjan-programme-management-intern-2026"
+    ],
     "1": [
-      "i-am-nala-fellowship-2027",
-      "one-young-world-leading-scholarship-2026",
-      "un-osesg-great-lakes-political-affairs-intern-2026",
       "unu-junior-fellows-internship-spring-2027"
     ]
   },
@@ -73,6 +72,12 @@
       "id": "eu-delegation-drc-subsidised-traineeship",
       "type": "source_changed",
       "since": "2026-10-21",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "one-young-world-leading-scholarship-2026",
+      "type": "source_changed",
+      "since": "2026-11-01",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {

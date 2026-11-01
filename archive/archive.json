@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -1117,6 +1117,205 @@
       ],
       "archive_id": "aspire-leaders-program-2026-cohort-4@2026-10-16",
       "archived_on": "2026-10-31"
+    },
+    {
+      "id": "cermet-congo-junior-graphic-designer-kinshasa",
+      "title": "CERMET-CONGO: Infographe Junior (job or internship, Kinshasa)",
+      "organization": "CERMET-CONGO",
+      "overview": "Printing company recruiting a junior graphic designer for its design team: visuals for social networks, infographics, logos and brand charters, flyers.",
+      "category": [
+        "Internship"
+      ],
+      "audience": [
+        "secondary-school",
+        "recent-graduate",
+        "university-student"
+      ],
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "location_type": "Kinshasa",
+      "delivery_mode": "In-person",
+      "program_dates": "Unknown / Not specified",
+      "duration": "Unknown / Not specified (the listing states a one-month trial period: 'Durée d'essai : 1 mois')",
+      "application_deadline": "2026-10-17",
+      "deadline_utc": "",
+      "deadline_text": "The emploi.cd listing shows 'Expirée le 17.10.2026' and 'Annonce expirée' (read 19 October 2026). No deadline was shown before.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Funding Unclear",
+      "funding_details": [],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "Unknown",
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "None required",
+      "experience_requirement": "Student, young graduate or beginner with under 2 years",
+      "education_requirement": "Pre-baccalaureate qualification or baccalaureate",
+      "nationality_requirements": [],
+      "drc_eligible": "Yes",
+      "language_requirement": "Unknown / Not specified",
+      "eligibility": [
+        "Contract types listed: CDD and internship ('CDD - Stage')",
+        "Experience level: student, young graduate or beginner under 2 years",
+        "At least a 'diplôme d'état'; a certificate or diploma in graphic design is an asset",
+        "French at a good level and at least one local language",
+        "Photoshop, Illustrator, InDesign, Canva"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [],
+      "official_application_url": "",
+      "official_information_url": "",
+      "source_url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/infographe-junior-hf-kinshasa-492169",
+      "source_type": "Aggregator",
+      "source_confidence": "MEDIUM",
+      "verification": "NEEDS VERIFICATION",
+      "sources": [
+        {
+          "label": "emploi.cd listing: Infographe Junior (H/F) - Kinshasa (expired 17 October 2026, read 19 October 2026; blocked by a Cloudflare bot check on 26 October 2026)",
+          "url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/infographe-junior-hf-kinshasa-492169",
+          "type": "Aggregator"
+        },
+        {
+          "label": "CERMET-CONGO website (no careers page or job posting found, read 19 October 2026; HTTP 503 / no response on 26 October 2026)",
+          "url": "https://cermet-congo.com/",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "Closed: the emploi.cd listing expired on 17 October 2026",
+        "Job-board listing only: CERMET-CONGO's own website (cermet-congo.com) has no careers page and does not publish this vacancy",
+        "The listing was re-dated from 2 October to 9 October 2026 on emploi.cd",
+        "Pay and internship duration not stated; hybrid work mentioned"
+      ],
+      "benefits": [],
+      "action": "Closed: the listing expired on 17 October 2026; watch emploi.cd for a new CERMET-CONGO posting.",
+      "last_verified": "2026-10-19",
+      "date_discovered": "2026-10-05",
+      "notes": "",
+      "archive_id": "cermet-congo-junior-graphic-designer-kinshasa@2026-10-17",
+      "archived_on": "2026-11-01"
+    },
+    {
+      "id": "transsion-infinix-intern-communication-content-kinshasa",
+      "title": "Transsion / Infinix: Stagiaire en Communication et Création de Contenu (Kinshasa)",
+      "organization": "Transsion Holdings (for one of its clients)",
+      "overview": "Internship creating content for the Infinix brand: social media content, photo and video shooting at events and campaigns, video production.",
+      "category": [
+        "Internship"
+      ],
+      "audience": [
+        "recent-graduate",
+        "university-student",
+        "graduate"
+      ],
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "location_type": "Kinshasa",
+      "delivery_mode": "In-person",
+      "program_dates": "Unknown / Not specified",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-10-17",
+      "deadline_utc": "",
+      "deadline_text": "The emploi.cd listing shows 'Expirée le 17.10.2026' and 'Annonce expirée' (read 19 October 2026). No deadline was shown before.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Funding Unclear",
+      "funding_details": [],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "Unknown",
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "None required",
+      "experience_requirement": "Student or young graduate",
+      "education_requirement": "Bac+3, Bac+4 or Bac+5 and above",
+      "nationality_requirements": [],
+      "drc_eligible": "Yes",
+      "language_requirement": "English is mandatory ('La maitrise de l'anglais est obligatoire')",
+      "eligibility": [
+        "Final year of studies or recent graduate in communication, marketing, multimedia, audiovisual production, graphic design, graphic arts, digital communication or a related field",
+        "English is mandatory",
+        "Prior professional experience is not required ('n'est pas obligatoire')",
+        "Useful skills: photography, video, editing, photo retouching, graphic design, social media content"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [],
+      "official_application_url": "",
+      "official_information_url": "",
+      "source_url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/stagiaire-communication-creation-contenu-kinshasa",
+      "source_type": "Aggregator",
+      "source_confidence": "MEDIUM",
+      "verification": "NEEDS VERIFICATION",
+      "sources": [
+        {
+          "label": "emploi.cd listing: Stagiaire en Communication et Création de Contenu - Kinshasa (expired 17 October 2026, read 19 October 2026)",
+          "url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/stagiaire-communication-creation-contenu-kinshasa",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "Closed: the emploi.cd listing expired on 17 October 2026 (read 19 October 2026; emploi.cd blocked automated readers with a Cloudflare bot check on 26 October 2026, so no re-posting could be checked)",
+        "Job-board listing only; posted by TRANSSION HOLDINGS 'pour le compte de l'un de nos Clients' (the duties mention the Infinix brand); no posting found on a Transsion, Infinix or Carlcare page",
+        "Pay and duration not stated"
+      ],
+      "benefits": [],
+      "action": "Closed: the listing expired on 17 October 2026; watch emploi.cd for a new posting.",
+      "last_verified": "2026-10-19",
+      "date_discovered": "2026-10-05",
+      "notes": "",
+      "archive_id": "transsion-infinix-intern-communication-content-kinshasa@2026-10-17",
+      "archived_on": "2026-11-01"
     }
   ]
 }
