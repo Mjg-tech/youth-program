@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-02T13:05:09Z",
+  "last_refresh": "2026-11-02T13:09:25Z",
   "counts": {
-    "total": 80,
+    "total": 81,
     "archived": 13,
     "by_status": {
-      "OPEN": 20,
+      "OPEN": 21,
       "CLOSING SOON": 14,
       "UPCOMING": 26,
       "DEADLINE PASSED": 6,
@@ -14,7 +14,7 @@
     },
     "by_funding": {
       "Paid": 3,
-      "Fully Funded": 3,
+      "Fully Funded": 4,
       "Substantially Funded": 1,
       "Partially Funded": 7,
       "Travel Funded": 4,
@@ -25,7 +25,7 @@
       "Funding Unclear": 44
     },
     "by_verification": {
-      "VERIFIED": 35,
+      "VERIFIED": 36,
       "PARTIALLY VERIFIED": 35,
       "NEEDS VERIFICATION": 10
     },
@@ -35,6 +35,7 @@
   },
   "deadline_buckets": {
     "30": [
+      "alu-mastercard-foundation-scholars-january-2027",
       "gtf-telemachus-athena-mentoring-2027",
       "jim-leech-mastercard-foundation-fellowship-2027",
       "sir-cyril-taylor-young-african-leaders-2027",

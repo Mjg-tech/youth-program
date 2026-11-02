@@ -52,7 +52,7 @@ Result: 1 record added and 12 updated. The database now has 80 live records. `va
 - **Internet Society Fellowship 2027**: was `Substantially Funded`. The page lists a project stipend of up to USD 5,000 and travel support to one event. Now `Partially Funded`.
 - **ALX sponsored programmes**: was `Substantially Funded`, yet the learner pays USD 5 a month and the page does not say how much the sponsorship covers. Now `Partially Funded`.
 - **Vodacom Elite (24-month programme, closed 18 June 2026)**: was `Paid`, on the word of one secondary source (youth.cd, "rémunéré"); Vodacom's own page showed no call. Now `Funding Unclear`, and the overview no longer calls it paid.
-- Checked and left unchanged: Earth Prize and HP LIFE (`Free`, the organisers say "free of charge" and "a free ... program"), Yoma ("completely free"), the three `Fully Funded` records whose organisers use or imply the words (EAC Youth Fellowship, Sir Cyril Taylor, Mandela Washington: "will cover all program costs"), Oif Senghor (the OIF lists the costs it covers), Afreximbank, EU Delegation DRC and the World Bank (the organisers state a stipend, a monthly grant or a salary).
+- Checked and left unchanged: Earth Prize and HP LIFE (`Free`, the organisers say "free of charge" and "a free ... program"), Yoma ("completely free"), the three `Fully Funded` records whose organisers use or imply the words (EAC Youth Fellowship, Sir Cyril Taylor, Mandela Washington: "will cover all program costs"), OIF Senghor (the OIF lists the costs it covers), Afreximbank, EU Delegation DRC and the World Bank (the organisers state a stipend, a monthly grant or a salary).
 
 ### New record (1)
 
@@ -71,6 +71,25 @@ Result: 1 record added and 12 updated. The database now has 80 live records. `va
 - **WFP Kinshasa Graphic Design intern (JR125588)**: the aggregator page gives a closing date of 16 August 2026; already covered by the WFP watch record.
 - **AU Youth Ambassadors for Peace call (PDF on au.int)**: the call dates from 2023. **TotalEnergies Young Graduate Program**: the only 2026 posting found is for TotalEnergies Marketing Uganda. **"Service civique" 10 Congolese volunteers to France**: Congo-Brazzaville, not the DRC. **Go Volunteer Africa placements in Kinshasa**: foreign-volunteer placements with no stated terms.
 
+## Checkpoint 3
+
+Result: 1 record added and 1 updated. 81 live records. `validate.py` reports 0 errors; French complete (2,119 of 2,119 texts).
+
+### New record (1)
+
+- **African Leadership University (ALU) Rwanda: Mastercard Foundation Scholars Program, January 2027 intake**: VERIFIED on ALU's own pages. ALU's Apply Now page says the January 2027 intake "closes" on 30 November 2026, and states "ALU does not charge any fees ... for application services". The Financial Aid page describes the scholarships as "full-ride scholarships covering full tuition and additional financial support", for applicants aged 26 and below who show financial need, open to individuals "across the African continent". Aid is requested inside the application, so the page gives no separate scholarship deadline. Funding is `Fully Funded` because ALU's wording says "full-ride"; slots are limited and the record says so. Ends in 28 days.
+
+### Updated
+
+- **YouthConnekt Africa Summit 2026**: re-read through WebFetch (curl's connection was reset). The official page lists only past summits, its "Register Now" button pointed to "#", and the registration system page showed only "Loading form...". The record already warned that the dates come from news coverage; the new reading is added to its issues.
+
+### Looked at and not added (second round)
+
+- **ChangemakerXchange "Changemakers for Youth" (application deadline 9 November 2026)**: several aggregators present it as open to young African social entrepreneurs. ChangemakerXchange's own page limits it to ventures based in Egypt, Germany (with impact in Eastern Germany), Jordan, Lebanon, Morocco, Palestine, Switzerland or Tunisia. The DRC is not eligible, so no record. This is a case of an aggregator widening an organiser's rule.
+- **VIJANA (FPI and FOGEC loans to young entrepreneurs aged 18 to 35, up to USD 50,000)**: only press reports (ACP, actualite.cd): 18 loan agreements signed on 14 July 2026 and a national call "in the coming days". No organiser page or call could be found. Worth watching; not added.
+- **Global Shapers Community, Kinshasa Hub, and the YALI Network courses**: the globalshapers.org and yali.state.gov pages answered HTTP 403; not added.
+- **Top100 Africa Future Leaders 2026**: closed on 31 August 2026. **Mastercard Foundation Scholars at AUC (2 November) and the Lester B. Pearson scholarship (nomination by school)**: not pursued.
+
 ## Could not be read in this pass so far
 
 - careers.un.org (jobs 286456, 286269, 286380, its public data address and its organisation listing): HTTP 403.
@@ -78,5 +97,7 @@ Result: 1 record added and 12 updated. The database now has 80 live records. `va
 - CMU-Africa pages: certificate error (not bypassed).
 - jobs.unops.org: certificate error. jobs.unicef.org: answers HTTP 202 with no page (a script challenge).
 - unv.org (Incapsula check, HTTP 403), app.unv.org (empty shell) and onlinevolunteering.org (TLS error): not readable.
-- mstcdc.or.tz: the connection was reset for curl; read through WebFetch instead.
+- mstcdc.or.tz and youthconnektafrica.org: the connection was reset for curl; read through WebFetch instead.
+- CMU-Africa pages: HTTP 503 through WebFetch as well (certificate error through curl).
+- emploi.cd (WebFetch): HTTP 403. coe.int and rm.coe.int: HTTP 403. globalshapers.org and yali.state.gov: HTTP 403. fpi.cd: proxy error.
 - jobs.fao.org and the UNFPA Oracle page show no text without scripts; the data embedded in the page (FAO) or behind it (UNFPA) was read instead.

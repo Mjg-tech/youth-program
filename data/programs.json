@@ -825,6 +825,117 @@
       "notes": "Social Shifters guidelines state: \"Social Shifters does NOT charge fees for participation.\""
     },
     {
+      "id": "alu-mastercard-foundation-scholars-january-2027",
+      "title": "African Leadership University (ALU) Rwanda: Mastercard Foundation Scholars Program, January 2027 intake",
+      "organization": "African Leadership University (ALU), with the Mastercard Foundation",
+      "overview": "A full-ride undergraduate scholarship at ALU in Kigali, Rwanda (BSc Software Engineering, Entrepreneurial Leadership, or International Business and Trade) for talented young Africans aged 26 and below who cannot afford the tuition (USD 3,000 to 4,000 a year). Financial aid is requested inside the ALU application for the January 2027 intake, which closes on 30 November 2026. ALU says it charges no application fee.",
+      "category": [
+        "Other"
+      ],
+      "audience": [
+        "secondary-school",
+        "university-student"
+      ],
+      "country": "Rwanda",
+      "city": "Kigali",
+      "location_type": "Abroad in Africa",
+      "delivery_mode": "In-person",
+      "program_dates": "January 2027 intake; the start date is not stated on the pages read",
+      "duration": "A bachelor's degree: the scholarship holds for the minimum time needed to complete it",
+      "application_deadline": "2026-11-30",
+      "deadline_utc": "",
+      "deadline_text": "\"Applications closes\" \"30 November 2026\" for the January 2027 intake (ALU 'Apply Now' page, read 2 November 2026); no time or time zone is stated. The pages give no separate scholarship deadline: financial aid is requested during the application (stage 3, Finances).",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "OPEN",
+      "funding_type": "Fully Funded",
+      "funding_details": [
+        "ALU (Financial Aid page): \"Scholarships offered at ALU are full-ride scholarships covering full tuition and additional financial support throughout the scholars' journey at ALU (terms and conditions may vary depending on the scholarship contract/ partnering donor).\"",
+        "ALU (Apply Now page): tuition is USD 3,000 a year for the BEL and BSE degrees and USD 4,000 for IBT; \"Scholarships and grants are available to those with significant financial need.\"",
+        "ALU on its own grants (not the scholarship): they \"apply to tuition fees only\" and \"other costs of attending ALU will not be covered by a grant offer\"."
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "Tuition of USD 3,000 a year (BEL and BSE) or USD 4,000 (IBT) unless a scholarship or grant is awarded",
+      "stipend": "Unknown / Not specified",
+      "age_min": null,
+      "age_max": 26,
+      "age_requirement": "\"Aged 26 and below\" (ALU scholarship eligibility)",
+      "experience_level": "Not stated",
+      "experience_requirement": "Unknown / Not specified",
+      "education_requirement": "Applicants must first meet ALU's admission requirements, which are not listed on the pages read",
+      "nationality_requirements": [
+        "Open to individuals \"across the African continent\" (ALU wording)"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "Unknown / Not specified",
+      "eligibility": [
+        "Meet ALU's admission requirements, then request financial aid inside the application",
+        "Be unable to afford ALU tuition, with documents that prove financial need and socio-economic disadvantage",
+        "Aged 26 and below",
+        "Especially encouraged: young women, refugees and displaced people, people with disabilities, and active contributors in their communities"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Stage 1, a short introduction form; stage 2, additional information and documents; stage 3, finances, where you find out whether you qualify to apply for ALU financial aid (ALU Apply Now page)"
+      ],
+      "official_application_url": "https://www.alueducation.com/apply-now/",
+      "official_information_url": "https://www.alueducation.com/mastercard-foundation-scholars-program-at-alu/",
+      "source_url": "https://www.alueducation.com/mastercard-foundation-scholars-program-at-alu/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "ALU: Mastercard Foundation Scholars Program at ALU (read 2 November 2026)",
+          "url": "https://www.alueducation.com/mastercard-foundation-scholars-program-at-alu/",
+          "type": "Official"
+        },
+        {
+          "label": "ALU: Financial Aid, scholarships and grants (read 2 November 2026)",
+          "url": "https://www.alueducation.com/financial-aid-at-alu/",
+          "type": "Official"
+        },
+        {
+          "label": "ALU: Apply Now, January 2027 intake closes 30 November 2026 (read 2 November 2026)",
+          "url": "https://www.alueducation.com/apply-now/",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "A degree programme in Kigali, Rwanda; scholarships are limited per intake and go primarily to applicants with demonstrated financial need, so not every eligible applicant receives aid",
+        "ALU says terms vary by scholarship contract or donor, and its own grants cover tuition only",
+        "ALU warns that nobody may charge a fee to help with an application; report anyone who asks for money"
+      ],
+      "benefits": [],
+      "action": "Read ALU's Apply Now page and apply for the January 2027 intake before 30 November 2026, requesting financial aid in the finances stage if you cannot afford the tuition.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": ""
+    },
+    {
       "id": "alx-sponsored-programmes",
       "title": "ALX sponsored tech programmes",
       "organization": "ALX Africa, in partnership with the Mastercard Foundation",
@@ -8890,11 +9001,12 @@
         "The official summit page gives no 2026 dates, fees or eligibility; the dates come from news coverage",
         "The registration form (linked from the official site, hosted on qtems.qtsoftwareltd.com) loads only with JavaScript and could not be read, so fees and conditions are unknown",
         "No funding for delegates (search summary, not confirmed on an official page)",
-        "The official site's blog lists unrelated online-casino articles (seen 12 October 2026), which suggests the site may be poorly maintained or compromised; use the registration link from the summit page only"
+        "The official site's blog lists unrelated online-casino articles (seen 12 October 2026), which suggests the site may be poorly maintained or compromised; use the registration link from the summit page only",
+        "Re-read on 2 November 2026 through the WebFetch tool (curl's connection was reset): the summit page lists only past summits and no 2026 details, its 'Register Now' button pointed to '#', and the registration system page showed only 'Loading form...'"
       ],
       "benefits": [],
       "action": "Open the 'Register YCA 2026' link on the official summit page in a browser and read the fees and conditions before registering.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     }
