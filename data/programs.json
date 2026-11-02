@@ -724,7 +724,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "2026-12-18",
       "deadline_utc": "2026-12-18T17:00:00Z",
-      "deadline_text": "\"18th DEC Submissions Close (5pm UTC)\" (Social Shifters challenge page, read 19 October 2026).",
+      "deadline_text": "\"18th DEC Submissions Close (5pm UTC)\" (Social Shifters challenge page, read 19 October and 2 November 2026).",
       "deadline_timezone": "UTC",
       "opens_on": "2026-10-07",
       "open_now": false,
@@ -820,7 +820,7 @@
       ],
       "benefits": [],
       "action": "Read the guidelines and FAQ on the Social Shifters page and submit your project through the official platform before 18 December 2026, 17:00 UTC.",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-19",
       "notes": "Social Shifters guidelines state: \"Social Shifters does NOT charge fees for participation.\""
     },
@@ -1840,6 +1840,122 @@
       "notes": ""
     },
     {
+      "id": "eac-youth-fellowship-ms-tcdc",
+      "title": "EAC Youth Fellowship (4th cohort, MS TCDC, Arusha)",
+      "organization": "MS Training Centre for Development Cooperation (MS TCDC), with the Danida Fellowship Centre",
+      "overview": "A fellowship on regional integration and leadership in the East African Community, run in a blended format: 4 weeks of online sessions and 2 weeks in person at MS TCDC in Arusha, Tanzania. For people aged 18 to 35 from Kenya, Tanzania, Uganda, South Sudan, Burundi, Rwanda, Somalia and the Democratic Republic of the Congo, with at least a bachelor's degree and strong leadership potential. The call for the 4th cohort ran from 17 August to 7 September 2026 and is closed.",
+      "category": [
+        "Fellowship",
+        "Leadership"
+      ],
+      "audience": [
+        "recent-graduate",
+        "graduate",
+        "young-professional"
+      ],
+      "country": "Tanzania",
+      "city": "Arusha",
+      "location_type": "Abroad in Africa",
+      "delivery_mode": "Hybrid",
+      "program_dates": "The YouLead portal lists an event start date of 15 November 2026; the in-person dates in Arusha are not stated",
+      "duration": "About 6 weeks: 4 weeks online and 2 weeks in person",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "Applications \"Open: 17-Aug-2026 02:00 PM\", \"Close: 07-Sep-2026 11:59 PM\" for the 4th cohort (YouLead portal, read 2 November 2026); no time zone is shown. No call for a 5th cohort was shown.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "Not announced. The 4th cohort's call closed on 7 September 2026 (YouLead portal, read 2 November 2026) and the portal showed no call for a 5th cohort.",
+      "last_cycle_deadline": "2026-09-07",
+      "status": "UPCOMING",
+      "funding_type": "Fully Funded",
+      "funding_details": [
+        "MS TCDC: \"Yes, the EAC Youth Fellowship is fully funded under the Together for Impact Partnership between the Danida Fellowship Centre and MS TCDC.\"",
+        "MS TCDC: \"Fellows may also receive a stipend or allowances to cover their expenses during the fellowship period, the details of which will be disclosed to selected participants.\""
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "No fee stated",
+      "stipend": "Fellows 'may' receive a stipend or allowances; details are given to selected participants only",
+      "age_min": 18,
+      "age_max": 35,
+      "age_requirement": "\"Applicants should be between 18-35 years old.\"",
+      "experience_level": "Not stated",
+      "experience_requirement": "Unknown / Not specified",
+      "education_requirement": "\"Minimum of a Bachelor's degree or its equivalent. Strong demonstrated leadership potential is required.\" Qualifications related to regional integration, leadership, business or economic governance are highly valued.",
+      "nationality_requirements": [
+        "Kenya, Tanzania, Uganda, South Sudan, Burundi, Rwanda, Somalia and the Democratic Republic of the Congo"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "Unknown / Not specified",
+      "eligibility": [
+        "Aged 18 to 35",
+        "Citizen of Kenya, Tanzania, Uganda, South Sudan, Burundi, Rwanda, Somalia or the Democratic Republic of the Congo",
+        "At least a bachelor's degree or its equivalent",
+        "Strong demonstrated leadership potential"
+      ],
+      "other_requirements": [],
+      "documents_required": [
+        "A comprehensive resume (education, work experience, leadership roles, achievements)",
+        "A cover letter on interest in regional integration and motivation to contribute to the fellowship"
+      ],
+      "application_process": [
+        "Applications are received through the YouLead portal (portal.youlead.africa); the 4th cohort's call closed on 7 September 2026"
+      ],
+      "official_application_url": "https://portal.youlead.africa/public/events",
+      "official_information_url": "https://mstcdc.or.tz/eac-youth-fellowship",
+      "source_url": "https://mstcdc.or.tz/eac-youth-fellowship",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "MS TCDC: EAC Youth Fellowship page (read 2 November 2026 through the WebFetch tool; a direct connection was reset)",
+          "url": "https://mstcdc.or.tz/eac-youth-fellowship",
+          "type": "Official"
+        },
+        {
+          "label": "YouLead E-Portal: EAC Youth Fellowship 4th Cohort, applications 17 August to 7 September 2026, event start 15 November 2026 (read 2 November 2026)",
+          "url": "https://portal.youlead.africa/public/events",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunity Desk: EAC Youth Fellowship 2027, \"Deadline: September 7, 2026\" (secondary, read 2 November 2026)",
+          "url": "https://opportunitydesk.org/2026/09/05/eac-youth-fellowship-2027/",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "The 4th cohort's call is closed (7 September 2026) and no 5th cohort has been announced",
+        "Open only to citizens of the eight listed countries",
+        "The page says fellows 'may' receive a stipend or allowances; travel, accommodation and visa for the weeks in Arusha are not stated",
+        "An aggregator names the programme 'EAC Youth Fellowship 2027'; the organiser's pages say '4th Cohort'"
+      ],
+      "benefits": [],
+      "action": "Watch the MS TCDC page and the YouLead portal for a call for the next cohort; the call for the 4th cohort closed on 7 September 2026.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": ""
+    },
+    {
       "id": "earth-prize-2027",
       "title": "The Earth Prize 2027",
       "organization": "The Earth Prize (Earth Foundation)",
@@ -2366,7 +2482,7 @@
       "duration": "3 to 11 months",
       "application_deadline": "2026-12-31",
       "deadline_utc": "",
-      "deadline_text": "Posted 21 September 2026; closes 31 December 2026, 11:59 PM (FAO careers, job 2601980, read 12 October 2026). FAO notes that the time shown depends on the reader's device settings.",
+      "deadline_text": "Posted 21 September 2026; closes 31 December 2026, 11:59 PM (FAO careers, job 2601980, read 12 October and re-read 2 November 2026 from the posting data in the page). FAO notes that the time shown depends on the reader's device settings.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "2026-09-21",
       "open_now": true,
@@ -2407,7 +2523,7 @@
       "experience_requirement": "Relevant academic studies in one of FAO's fields; no work experience stated",
       "education_requirement": "Enrolled in an undergraduate or graduate degree at a recognised (WHED-listed) institution, or a recent graduate, in a field relevant to FAO",
       "nationality_requirements": [
-        "Nationals of FAO Members"
+        "Nationals of FAO Members. The DRC is listed among FAO's Member Nations on FAO's membership page (read 2 November 2026)"
       ],
       "drc_eligible": "Yes",
       "language_requirement": "Working knowledge of one FAO language (Arabic, Chinese, English, French, Russian or Spanish)",
@@ -2438,6 +2554,11 @@
           "label": "FAO careers: Internship Programme for Africa (RAF), job 2601980",
           "url": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601980&lang=en",
           "type": "Official"
+        },
+        {
+          "label": "FAO: Membership of FAO. The Democratic Republic of the Congo is listed among the Member Nations (read 2 November 2026)",
+          "url": "https://www.fao.org/legal/home/Membership-of-FAO/en",
+          "type": "Official"
         }
       ],
       "potential_issues": [
@@ -2448,7 +2569,7 @@
       ],
       "benefits": [],
       "action": "Apply to FAO job 2601980 on the FAO careers site before 31 December 2026.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -2474,7 +2595,7 @@
       "duration": "Up to a maximum of 6 months",
       "application_deadline": "2026-12-31",
       "deadline_utc": "",
-      "deadline_text": "Closure date '31/Dec/2026, 11:59:00 PM'; the page notes the time shown follows the settings of the viewer's device (FAO Jobs, job 2601986, read 12 October 2026).",
+      "deadline_text": "Closure date '31/Dec/2026, 10:59:00 PM' in the posting data (the internship posting 2601980 shows 11:59:00 PM); the page notes the time shown follows the settings of the viewer's device (FAO Jobs, job 2601986, read 12 October and re-read 2 November 2026).",
       "deadline_timezone": "Not stated (shown in the viewer's device time)",
       "opens_on": "2026-09-21",
       "open_now": false,
@@ -2514,9 +2635,9 @@
       "experience_requirement": "Unknown / Not specified",
       "education_requirement": "Completed secondary school",
       "nationality_requirements": [
-        "Nationals of FAO Members"
+        "Nationals of FAO Members. The DRC is listed among FAO's Member Nations on FAO's membership page (read 2 November 2026)"
       ],
-      "drc_eligible": "Unclear",
+      "drc_eligible": "Yes",
       "language_requirement": "Working knowledge of at least one FAO language (Arabic, Chinese, English, French, Russian or Spanish); a second is an asset",
       "eligibility": [
         "Completed secondary school",
@@ -2553,6 +2674,11 @@
           "label": "Opportunities for Africans",
           "url": "https://www.opportunitiesforafricans.com/the-food-and-agriculture-organization-of-the-united-nations-fao-2027-regional-volunteer-program/",
           "type": "Aggregator"
+        },
+        {
+          "label": "FAO: Membership of FAO. The Democratic Republic of the Congo is listed among the Member Nations (read 2 November 2026)",
+          "url": "https://www.fao.org/legal/home/Membership-of-FAO/en",
+          "type": "Official"
         }
       ],
       "potential_issues": [
@@ -2562,7 +2688,7 @@
       ],
       "benefits": [],
       "action": "Apply on the FAO Jobs portal (job 2601986) before 31 December 2026, knowing the post is unpaid.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": "FAO published parallel calls with the same closing date for its other regions (job numbers 2601985 HQ, 2601987 Asia-Pacific, 2601988 Europe and Central Asia, 2601990 Latin America and the Caribbean, 2601991 Near East and North Africa). FAO states it charges no fee at any stage."
     },
@@ -4578,7 +4704,7 @@
       "duration": "3 months",
       "application_deadline": "2026-11-04",
       "deadline_utc": "2026-11-05T04:59:59Z",
-      "deadline_text": "Posted 20 October 2026; closes 5 November 2026 at 04:59 UTC, which is 4 November 2026 at 23:59 New York time (UN Careers job opening 286456, read 2 November 2026; posting still active).",
+      "deadline_text": "Reported by secondary sources that reproduce the UN Careers notice (unvacancies.org and unjobnet.org, read 2 November 2026): posted 20 October 2026, \"Closes 4 Nov 2026\", 23:59 EST (UTC-5), i.e. 5 November 2026 at 04:59 UTC. The official page careers.un.org (job opening 286456) could not be read.",
       "deadline_timezone": "America/New_York",
       "opens_on": "2026-10-20",
       "open_now": false,
@@ -4636,26 +4762,37 @@
       "application_process": [
         "Apply through UN Careers / Inspira for job opening 286456 before 4 November 2026 (New York time); only short-listed applicants are contacted"
       ],
-      "official_application_url": "https://inspira.un.org/psp/PUNA1J/EMPLOYEE/HRMS/c/UN_CUSTOMIZATIONS.UN_JOB_DETAIL.GBL?Action=A&UNAction=Apply&JobOpeningId=286456&languageCd=ENG",
+      "official_application_url": "https://careers.un.org/jobSearchDescription/286456?language=en",
       "official_information_url": "https://careers.un.org/jobSearchDescription/286456?language=en",
       "source_url": "https://careers.un.org/jobSearchDescription/286456?language=en",
       "source_type": "Official",
-      "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "source_confidence": "MEDIUM",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "UN Careers: Intern - Data Management and Administrative Support, job opening 286456 (read 2 November 2026); text read through the UN Careers public job-opening data",
+          "label": "UN Careers: the official posting, job opening 286456. It returned HTTP 403 to an automated reader on 2 November 2026 and could not be read",
           "url": "https://careers.un.org/jobSearchDescription/286456?language=en",
           "type": "Official"
+        },
+        {
+          "label": "unvacancies.org: mirror of the UN Careers notice for job opening 286456 (full notice text read 2 November 2026; shows \"Closes 4 Nov 2026\" and \"Open to all nationalities\")",
+          "url": "https://unvacancies.org/jobs/intern-data-management-and-administrative-support-R-286456",
+          "type": "Aggregator"
+        },
+        {
+          "label": "unjobnet.org: listing of the same posting, \"Closes 4 Nov 2026, 23:59 EST (UTC-5)\" (read 2 November 2026)",
+          "url": "https://www.unjobnet.org/jobs/detail/ohchr-intern-data-management-and-administrative-support-89888214",
+          "type": "Aggregator"
         }
       ],
       "potential_issues": [
+        "Reported by secondary sources: the UN Careers page itself could not be read on 2 November 2026 (HTTP 403 to automated readers); the notice text and the closing time come from two sites that reproduce the notice, so confirm them on the official page before applying",
         "Unpaid: travel, visa, accommodation and living costs are the intern's own",
         "Based in Yaoundé, not in the DRC",
         "Short application window and a fixed start date of 25 November 2026"
       ],
       "benefits": [],
-      "action": "Read UN Careers job opening 286456 and apply through Inspira before 4 November 2026 (New York time) if you meet the degree and English requirements and can be in Yaoundé from 25 November 2026.",
+      "action": "Open UN Careers job opening 286456 (the official page) and apply there before 4 November 2026 (New York time) if you meet the degree and English requirements and can be in Yaoundé from 25 November 2026.",
       "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": ""
@@ -5936,7 +6073,7 @@
       "duration": "6 months",
       "application_deadline": "2026-11-04",
       "deadline_utc": "2026-11-05T04:59:59Z",
-      "deadline_text": "Posted 21 October 2026; closes 5 November 2026 at 04:59 UTC, which is 4 November 2026 at 23:59 New York time (UN Careers job opening 286269, read 2 November 2026; posting still active). Duty stations listed: Abidjan, Nairobi; work location stated as \"In-Person, Abidjan, Côte d'Ivoire\".",
+      "deadline_text": "Reported by secondary sources that reproduce the UN Careers notice (unvacancies.org and unjobnet.org, read 2 November 2026): posted 21 October 2026, \"Closes 4 Nov 2026\", 23:59 EST (UTC-5), i.e. 5 November 2026 at 04:59 UTC; work location \"In-Person, Abidjan, Côte d'Ivoire\". The official page careers.un.org (job opening 286269) could not be read.",
       "deadline_timezone": "America/New_York",
       "opens_on": "2026-10-21",
       "open_now": false,
@@ -5995,26 +6132,37 @@
       "application_process": [
         "Apply through UN Careers / Inspira for job opening 286269 before 4 November 2026 (New York time), stating which eligibility criterion you meet and attaching proof"
       ],
-      "official_application_url": "https://inspira.un.org/psp/PUNA1J/EMPLOYEE/HRMS/c/UN_CUSTOMIZATIONS.UN_JOB_DETAIL.GBL?Action=A&UNAction=Apply&JobOpeningId=286269&languageCd=ENG",
+      "official_application_url": "https://careers.un.org/jobSearchDescription/286269?language=en",
       "official_information_url": "https://careers.un.org/jobSearchDescription/286269?language=en",
       "source_url": "https://careers.un.org/jobSearchDescription/286269?language=en",
       "source_type": "Official",
-      "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "source_confidence": "MEDIUM",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "UN Careers: Programme Management Intern (UN-Habitat), job opening 286269 (read 2 November 2026); text read through the UN Careers public job-opening data",
+          "label": "UN Careers: the official posting, job opening 286269. It returned HTTP 403 to an automated reader on 2 November 2026 and could not be read",
           "url": "https://careers.un.org/jobSearchDescription/286269?language=en",
           "type": "Official"
+        },
+        {
+          "label": "unvacancies.org: mirror of the UN Careers notice for job opening 286269 (full notice text read 2 November 2026; shows \"Closes 4 Nov 2026\", \"6 Months\" and \"Open to all nationalities\")",
+          "url": "https://unvacancies.org/jobs/programme-management-intern-t-286269",
+          "type": "Aggregator"
+        },
+        {
+          "label": "unjobnet.org: listing of the same posting, \"Closes 4 Nov 2026, 23:59 EST (UTC-5)\" (read 2 November 2026)",
+          "url": "https://www.unjobnet.org/jobs/detail/unhabitat-programme-management-intern-89917444",
+          "type": "Aggregator"
         }
       ],
       "potential_issues": [
+        "Reported by secondary sources: the UN Careers page itself could not be read on 2 November 2026 (HTTP 403 to automated readers); the notice text and the closing time come from two sites that reproduce the notice, so confirm them on the official page before applying",
         "Unpaid: travel, visa, accommodation and living costs are the intern's own",
         "Based in Abidjan, not in the DRC",
         "Six months expected; start date not stated on the posting"
       ],
       "benefits": [],
-      "action": "Read UN Careers job opening 286269 and apply through Inspira before 4 November 2026 (New York time) if you meet the degree, field-of-study and French requirements.",
+      "action": "Open UN Careers job opening 286269 (the official page) and apply there before 4 November 2026 (New York time) if you meet the degree, field-of-study and French requirements.",
       "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": ""
@@ -6441,6 +6589,109 @@
       "notes": ""
     },
     {
+      "id": "unfpa-equatorial-guinea-secretariat-support-intern-2026",
+      "title": "UNFPA Equatorial Guinea: Secretariat Support Intern (Malabo)",
+      "organization": "United Nations Population Fund (UNFPA), Equatorial Guinea Country Office",
+      "overview": "A part-time internship in the Representative's Office of UNFPA in Malabo: organising meetings, correspondence and filing, records, calls and visitors, and logistics for events. Open to students, recent graduates and people in second-level vocational training in administration or related fields. Fluent Spanish is required; English or French is an asset.",
+      "category": [
+        "Internship"
+      ],
+      "audience": [
+        "university-student",
+        "postgraduate-student",
+        "recent-graduate"
+      ],
+      "country": "Equatorial Guinea",
+      "city": "Malabo",
+      "location_type": "Abroad in Africa",
+      "delivery_mode": "In-person",
+      "program_dates": "Unknown / Not specified",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-11-05",
+      "deadline_utc": "2026-11-05T14:18:00Z",
+      "deadline_text": "Posted 29 October 2026; the posting ends 5 November 2026 at 14:18 UTC (UNFPA careers data for job 37759, read 2 November 2026).",
+      "deadline_timezone": "UTC",
+      "opens_on": "2026-10-29",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "CLOSING SOON",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "UNFPA, under 'Compensation and Benefits': \"This position offers an attractive remuneration package including a competitive net salary plus health insurance and other benefits as applicable.\" No amount is stated and the posting has no paragraph on an intern stipend, so whether this internship is paid is unclear.",
+        "UNFPA: \"UNFPA does not charge any application, processing, training, interviewing, testing or other fee in connection with the application or recruitment process\"."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "No fee stated",
+      "stipend": "Unclear: the posting mentions 'a competitive net salary' but gives no amount",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "None required",
+      "experience_requirement": "\"Some experience in administrative support, customer service, records management, event organization or volunteering is desirable\"; a good command of Microsoft Word, Excel, PowerPoint and email/calendar tools is required",
+      "education_requirement": "Enrolled in a first university degree (one full academic year completed) or a postgraduate degree, or recently graduated and able to start within one year of graduation, or enrolled in or recently completed a recognised second-level vocational training programme in administration, secretarial studies, executive assistance, office management or a related field",
+      "nationality_requirements": [
+        "No nationality condition stated"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "\"Be fluent in written and spoken Spanish. Working knowledge of English or French is an asset\"",
+      "eligibility": [
+        "University student (first degree with one full academic year completed, or postgraduate), recent graduate, or second-level vocational trainee in a related field",
+        "Fluent written and spoken Spanish; English or French an asset",
+        "Good command of Microsoft Word, Excel, PowerPoint and email/calendar tools",
+        "Interest in international development and in UNFPA's mandate"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Apply to job 37759 on UNFPA's careers site before the posting ends"
+      ],
+      "official_application_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37759",
+      "official_information_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37759",
+      "source_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37759",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "UNFPA careers: Equatorial Guinea-Secretariat Support Intern (posting 37759); text and dates read 2 November 2026 from UNFPA's own careers data for the posting",
+          "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37759",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "Fluent Spanish is required, and the post is in Malabo, not in the DRC",
+        "Short window: the posting ends on 5 November 2026",
+        "The 'Compensation and Benefits' paragraph mentions a salary, but no amount or stipend rule is given for this internship",
+        "Duration and start date are not stated",
+        "The posting says selection may depend on visa issuance"
+      ],
+      "benefits": [],
+      "action": "Read UNFPA job 37759 and apply on UNFPA's careers site before 5 November 2026 (14:18 UTC) if you are fluent in Spanish and can be in Malabo.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": ""
+    },
+    {
       "id": "unfpa-global-internship-roster-2026",
       "title": "UNFPA Global Internship Roster 2026",
       "organization": "United Nations Population Fund (UNFPA)",
@@ -6461,7 +6712,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "2026-12-31",
       "deadline_utc": "2027-01-01T04:59:00Z",
-      "deadline_text": "Posted 16 January 2026; the posting ends 1 January 2027 04:59 UTC, i.e. 31 December 2026 at 23:59 New York time (UNFPA careers posting 31319, read 12 October 2026).",
+      "deadline_text": "Posted 16 January 2026; the posting ends 1 January 2027 04:59 UTC, i.e. 31 December 2026 at 23:59 New York time (UNFPA careers posting 31319, read 12 October and re-read 2 November 2026 from UNFPA's own careers data).",
       "deadline_timezone": "America/New_York",
       "opens_on": "2026-01-16",
       "open_now": true,
@@ -6537,8 +6788,111 @@
       ],
       "benefits": [],
       "action": "Apply to the UNFPA Global Internship Roster on UNFPA's careers site before 31 December 2026.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-12",
+      "notes": ""
+    },
+    {
+      "id": "unfpa-supply-chain-internship-roster-2026-copenhagen",
+      "title": "UNFPA Supply Chain Internship Roster 2026 (SCMU, Copenhagen)",
+      "organization": "United Nations Population Fund (UNFPA), Supply Chain Management Unit (SCMU)",
+      "overview": "A roster for on-site internships in UNFPA's Supply Chain Management Unit at UN City in Copenhagen, in ten streams: data and analytics, logistics and supply chain, procurement and business, humanitarian supplies, customer service, governance risk and compliance, communications, human resources, ICT, and administration and business. Students and recent graduates apply once to the roster. The posting asks candidates to be logistically and financially prepared to work full time on site in Copenhagen.",
+      "category": [
+        "Internship"
+      ],
+      "audience": [
+        "university-student",
+        "postgraduate-student",
+        "recent-graduate"
+      ],
+      "country": "Denmark",
+      "city": "Copenhagen",
+      "location_type": "Abroad outside Africa",
+      "delivery_mode": "In-person",
+      "program_dates": "Unknown / Not specified",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-12-31",
+      "deadline_utc": "2027-01-01T04:59:00Z",
+      "deadline_text": "Posted 5 February 2026; the posting ends 1 January 2027 04:59 UTC, i.e. 31 December 2026 at 23:59 New York time (UNFPA careers data for posting 31364, read 2 November 2026).",
+      "deadline_timezone": "America/New_York",
+      "opens_on": "2026-02-05",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "OPEN",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "UNFPA: \"Interns who do not receive financial support from an outside party (such as an academic institution, university, government) are eligible to receive a stipend as a contribution towards living expenses.\" No amount is stated; it depends on the place of work.",
+        "UNFPA: \"UNFPA does not charge any application, processing, training, interviewing, testing or other fee in connection with the application or recruitment process\"."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "No fee stated",
+      "stipend": "Stipend towards living expenses for interns without outside funding (amount not stated)",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "None required",
+      "experience_requirement": "Unknown / Not specified",
+      "education_requirement": "Enrolled in a first university degree with one full academic year completed, or in a postgraduate degree, or recently graduated and starting within one year of graduation, or in a postgraduate professional trainee programme",
+      "nationality_requirements": [
+        "No nationality condition stated"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "English or French, plus fluency in the official language of the UNFPA office",
+      "eligibility": [
+        "First-degree student with one academic year completed, postgraduate student, or graduate starting within one year of graduation",
+        "Interest in the field of development",
+        "English or French, and the official language of the office",
+        "No parent, child or sibling on UNFPA staff",
+        "Ready to work full time on site in Copenhagen for the whole internship"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Apply to posting 31364 on UNFPA's careers site"
+      ],
+      "official_application_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/31364",
+      "official_information_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/31364",
+      "source_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/31364",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "UNFPA careers: Supply Chain Internship Roster 2026, SCMU, Copenhagen (posting 31364); text and dates read 2 November 2026 from UNFPA's own careers data for the posting",
+          "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/31364",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "A roster: applying does not guarantee an internship",
+        "On site in Copenhagen only; the posting asks candidates to be logistically and financially prepared",
+        "Stipend amount not stated, and paid only to interns with no outside funding",
+        "Duration and start date are not stated"
+      ],
+      "benefits": [],
+      "action": "Apply to the UNFPA Supply Chain Internship Roster on UNFPA's careers site before 31 December 2026 if you can work full time on site in Copenhagen.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
       "notes": ""
     },
     {

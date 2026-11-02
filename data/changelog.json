@@ -3,6 +3,142 @@
   "entries": [
     {
       "date": "2026-11-02",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Internship Programme for Africa (RAF), call open until 31 December 2026",
+      "field": "deadline_text",
+      "old": "Posted 21 September 2026; closes 31 December 2026, 11:59 PM (FAO careers, job 2601980, read 12 October 2026). FAO notes that the time shown depends on the reader's device settings.",
+      "new": "Posted 21 September 2026; closes 31 December 2026, 11:59 PM (FAO careers, job 2601980, read 12 October and re-read 2 November 2026 from the posting data in the page). FAO notes that the time shown depends on the reader's device settings."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "fao-regional-office-africa-internship-2027",
+      "title": "FAO Internship Programme for Africa (RAF), call open until 31 December 2026",
+      "field": "nationality_requirements",
+      "old": [
+        "Nationals of FAO Members"
+      ],
+      "new": [
+        "Nationals of FAO Members. The DRC is listed among FAO's Member Nations on FAO's membership page (read 2 November 2026)"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "deadline_text",
+      "old": "Closure date '31/Dec/2026, 11:59:00 PM'; the page notes the time shown follows the settings of the viewer's device (FAO Jobs, job 2601986, read 12 October 2026).",
+      "new": "Closure date '31/Dec/2026, 10:59:00 PM' in the posting data (the internship posting 2601980 shows 11:59:00 PM); the page notes the time shown follows the settings of the viewer's device (FAO Jobs, job 2601986, read 12 October and re-read 2 November 2026)."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "nationality_requirements",
+      "old": [
+        "Nationals of FAO Members"
+      ],
+      "new": [
+        "Nationals of FAO Members. The DRC is listed among FAO's Member Nations on FAO's membership page (read 2 November 2026)"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "fao-regional-volunteer-programme-2027",
+      "title": "FAO Regular Volunteer Programme for Africa (RAF): call for expressions of interest",
+      "field": "drc_eligible",
+      "old": "Unclear",
+      "new": "Yes"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "unfpa-global-internship-roster-2026",
+      "title": "UNFPA Global Internship Roster 2026",
+      "field": "deadline_text",
+      "old": "Posted 16 January 2026; the posting ends 1 January 2027 04:59 UTC, i.e. 31 December 2026 at 23:59 New York time (UNFPA careers posting 31319, read 12 October 2026).",
+      "new": "Posted 16 January 2026; the posting ends 1 January 2027 04:59 UTC, i.e. 31 December 2026 at 23:59 New York time (UNFPA careers posting 31319, read 12 October and re-read 2 November 2026 from UNFPA's own careers data)."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "allianz-social-shifters-movenow-challenge-2026",
+      "title": "Allianz x Social Shifters MoveNow Social Innovation Challenge 2026",
+      "field": "deadline_text",
+      "old": "\"18th DEC Submissions Close (5pm UTC)\" (Social Shifters challenge page, read 19 October 2026).",
+      "new": "\"18th DEC Submissions Close (5pm UTC)\" (Social Shifters challenge page, read 19 October and 2 November 2026)."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ohchr-yaounde-data-management-admin-intern-2026",
+      "title": "OHCHR Regional Hub for Central and West Africa: Data Management and Administrative Support intern (Yaoundé)",
+      "field": "deadline_text",
+      "old": "Posted 20 October 2026; closes 5 November 2026 at 04:59 UTC, which is 4 November 2026 at 23:59 New York time (UN Careers job opening 286456, read 2 November 2026; posting still active).",
+      "new": "Reported by secondary sources that reproduce the UN Careers notice (unvacancies.org and unjobnet.org, read 2 November 2026): posted 20 October 2026, \"Closes 4 Nov 2026\", 23:59 EST (UTC-5), i.e. 5 November 2026 at 04:59 UTC. The official page careers.un.org (job opening 286456) could not be read."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ohchr-yaounde-data-management-admin-intern-2026",
+      "title": "OHCHR Regional Hub for Central and West Africa: Data Management and Administrative Support intern (Yaoundé)",
+      "field": "official_application_url",
+      "old": "https://inspira.un.org/psp/PUNA1J/EMPLOYEE/HRMS/c/UN_CUSTOMIZATIONS.UN_JOB_DETAIL.GBL?Action=A&UNAction=Apply&JobOpeningId=286456&languageCd=ENG",
+      "new": "https://careers.un.org/jobSearchDescription/286456?language=en"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ohchr-yaounde-data-management-admin-intern-2026",
+      "title": "OHCHR Regional Hub for Central and West Africa: Data Management and Administrative Support intern (Yaoundé)",
+      "field": "verification",
+      "old": "VERIFIED",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "un-habitat-abidjan-programme-management-intern-2026",
+      "title": "UN-Habitat Côte d'Ivoire: Programme Management intern (Abidjan)",
+      "field": "deadline_text",
+      "old": "Posted 21 October 2026; closes 5 November 2026 at 04:59 UTC, which is 4 November 2026 at 23:59 New York time (UN Careers job opening 286269, read 2 November 2026; posting still active). Duty stations listed: Abidjan, Nairobi; work location stated as \"In-Person, Abidjan, Côte d'Ivoire\".",
+      "new": "Reported by secondary sources that reproduce the UN Careers notice (unvacancies.org and unjobnet.org, read 2 November 2026): posted 21 October 2026, \"Closes 4 Nov 2026\", 23:59 EST (UTC-5), i.e. 5 November 2026 at 04:59 UTC; work location \"In-Person, Abidjan, Côte d'Ivoire\". The official page careers.un.org (job opening 286269) could not be read."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "un-habitat-abidjan-programme-management-intern-2026",
+      "title": "UN-Habitat Côte d'Ivoire: Programme Management intern (Abidjan)",
+      "field": "official_application_url",
+      "old": "https://inspira.un.org/psp/PUNA1J/EMPLOYEE/HRMS/c/UN_CUSTOMIZATIONS.UN_JOB_DETAIL.GBL?Action=A&UNAction=Apply&JobOpeningId=286269&languageCd=ENG",
+      "new": "https://careers.un.org/jobSearchDescription/286269?language=en"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "un-habitat-abidjan-programme-management-intern-2026",
+      "title": "UN-Habitat Côte d'Ivoire: Programme Management intern (Abidjan)",
+      "field": "verification",
+      "old": "VERIFIED",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "unfpa-equatorial-guinea-secretariat-support-intern-2026",
+      "title": "UNFPA Equatorial Guinea: Secretariat Support Intern (Malabo)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "unfpa-supply-chain-internship-roster-2026-copenhagen",
+      "title": "UNFPA Supply Chain Internship Roster 2026 (SCMU, Copenhagen)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "eac-youth-fellowship-ms-tcdc",
+      "title": "EAC Youth Fellowship (4th cohort, MS TCDC, Arusha)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-02",
       "id": "anzisha-fellowship-2027",
       "title": "Anzisha Fellowship 2027",
       "field": "deadline_text",

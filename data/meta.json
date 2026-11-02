@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-02T07:57:43Z",
+  "last_refresh": "2026-11-02T12:58:49Z",
   "counts": {
-    "total": 76,
+    "total": 79,
     "archived": 13,
     "by_status": {
-      "OPEN": 19,
-      "CLOSING SOON": 13,
-      "UPCOMING": 24,
+      "OPEN": 20,
+      "CLOSING SOON": 14,
+      "UPCOMING": 25,
       "DEADLINE PASSED": 6,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
     "by_funding": {
       "Paid": 4,
-      "Fully Funded": 3,
+      "Fully Funded": 4,
       "Substantially Funded": 3,
       "Partially Funded": 4,
       "Travel Funded": 4,
@@ -22,11 +22,11 @@
       "Free": 8,
       "Unpaid": 6,
       "Self Funded": 1,
-      "Funding Unclear": 40
+      "Funding Unclear": 42
     },
     "by_verification": {
-      "VERIFIED": 33,
-      "PARTIALLY VERIFIED": 33,
+      "VERIFIED": 34,
+      "PARTIALLY VERIFIED": 35,
       "NEEDS VERIFICATION": 10
     },
     "in_kinshasa": 15,
@@ -58,7 +58,8 @@
     "3": [
       "global-leadership-challenge-2026",
       "ohchr-yaounde-data-management-admin-intern-2026",
-      "un-habitat-abidjan-programme-management-intern-2026"
+      "un-habitat-abidjan-programme-management-intern-2026",
+      "unfpa-equatorial-guinea-secretariat-support-intern-2026"
     ],
     "1": []
   },
