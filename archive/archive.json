@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -1316,6 +1316,130 @@
       "notes": "",
       "archive_id": "transsion-infinix-intern-communication-content-kinshasa@2026-10-17",
       "archived_on": "2026-11-01"
+    },
+    {
+      "id": "safetech-africa-hacklab-2026",
+      "title": "SafeTech Africa HackLab 2026: youth social innovation challenge",
+      "organization": "UNFPA (East and Southern Africa and West and Central Africa regions) with the Spotlight Initiative, the African Union and other UN partners",
+      "overview": "A youth innovation challenge for young Africans aged 18 to 35 with digital or community solutions against technology-facilitated violence, child marriage and FGM; finalists get virtual mentorship and pitch at the YouthConnekt Africa Summit.",
+      "category": [
+        "Competition or Award",
+        "Entrepreneurship"
+      ],
+      "audience": [
+        "university-student",
+        "recent-graduate",
+        "young-professional",
+        "entrepreneur"
+      ],
+      "country": "Online",
+      "city": "Online",
+      "location_type": "Remote",
+      "delivery_mode": "Online",
+      "program_dates": "Applications 29 September to 18 October 2026; virtual showcase for shortlisted teams; final pitch at the YouthConnekt Africa Summit in November 2026",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-10-18",
+      "deadline_utc": "2026-10-18T21:59:00Z",
+      "deadline_text": "\"Closing Date: 18 October 2026 (23:59 CAT)\" (Spotlight Initiative and UNFPA East and Southern Africa call pages, re-read 19 October 2026; no extension is mentioned).",
+      "deadline_timezone": "Africa/Maputo",
+      "opens_on": "2026-09-29",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "Call: \"Four winners will receive seed grants ranging between USD 5,000 to USD 10,000.\"",
+        "Shortlisted finalists receive pitch coaching and present live at the YouthConnekt Africa Summit; travel for the pitch is not described."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "No fee stated",
+      "stipend": "None",
+      "age_min": 18,
+      "age_max": 35,
+      "age_requirement": "\"Young African Innovators (Ages 18–35)\"",
+      "experience_level": "None required",
+      "experience_requirement": "An original, practical innovative idea or solution; no prior experience is stated",
+      "education_requirement": "Unknown / Not specified",
+      "nationality_requirements": [
+        "UNFPA page: \"Open to young innovators residing in Eastern and Southern Africa\" (links to a country list); it also names Burkina Faso, Ghana, Niger and Sierra Leone in West and Central Africa, where solutions on child marriage are strongly encouraged. The DRC is not named on either page as read."
+      ],
+      "drc_eligible": "Unclear",
+      "language_requirement": "Unknown / Not specified (call published in English)",
+      "eligibility": [
+        "Aged 18 to 35",
+        "Young African innovators, social entrepreneurs or digital rights advocates, individually or in teams",
+        "Solution under one of three themes: safe physical and community spaces, safe information spaces, safe digital spaces",
+        "Teams of 2 to 5 are strongly encouraged",
+        "Solution at concept, early prototype or early pilot stage; one category only"
+      ],
+      "other_requirements": [],
+      "documents_required": [
+        "Team lead and member details",
+        "Problem statement (max 200 words)",
+        "Innovation description (max 700 words)",
+        "12-month implementation roadmap",
+        "Digital safety and inclusion note"
+      ],
+      "application_process": [
+        "Read the call on the Spotlight Initiative page",
+        "Submit through the online form linked from that page before 18 October 2026"
+      ],
+      "official_application_url": "https://forms.gle/ygJb48Kpk6KLwbGQA",
+      "official_information_url": "https://www.spotlightinitiative.org/latest/events/safetech-africa-hacklab-innovating-safe-spaces-call-applications",
+      "source_url": "https://www.spotlightinitiative.org/latest/events/safetech-africa-hacklab-innovating-safe-spaces-call-applications",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "Spotlight Initiative: SafeTech Africa HackLab call",
+          "url": "https://www.spotlightinitiative.org/latest/events/safetech-africa-hacklab-innovating-safe-spaces-call-applications",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunities for Africans",
+          "url": "https://www.opportunitiesforafricans.com/spotlight-initiative-safetech-africa-hacklab-2026-for-young-african-innovators/",
+          "type": "Aggregator"
+        },
+        {
+          "label": "UNFPA East and Southern Africa: SafeTech Africa HackLab call",
+          "url": "https://esaro.unfpa.org/en/vacancies/youth-social-innovation-challenge-%E2%80%9926-safetech-africa-hacklab",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "Closed on 18 October 2026; no extension announced",
+        "Whether DRC residents qualify is not clear: the residency rule names Eastern and Southern Africa and four West and Central African countries, not the DRC",
+        "Only four winners receive grants",
+        "The UNFPA page links to a different Google Form from the Spotlight Initiative page; one focal-point email address on the UNFPA page is malformed"
+      ],
+      "benefits": [],
+      "action": "This call closed on 18 October 2026; watch the UNFPA and Spotlight Initiative pages for a future edition.",
+      "last_verified": "2026-10-19",
+      "date_discovered": "2026-10-12",
+      "notes": "",
+      "archive_id": "safetech-africa-hacklab-2026@2026-10-18",
+      "archived_on": "2026-11-02"
     }
   ]
 }

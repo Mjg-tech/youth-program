@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-01T12:00:17Z",
+  "last_refresh": "2026-11-02T07:57:43Z",
   "counts": {
-    "total": 73,
-    "archived": 12,
+    "total": 76,
+    "archived": 13,
     "by_status": {
-      "OPEN": 17,
-      "CLOSING SOON": 12,
+      "OPEN": 19,
+      "CLOSING SOON": 13,
       "UPCOMING": 24,
       "DEADLINE PASSED": 6,
       "ROLLING": 5,
@@ -22,44 +22,45 @@
       "Free": 8,
       "Unpaid": 6,
       "Self Funded": 1,
-      "Funding Unclear": 37
+      "Funding Unclear": 40
     },
     "by_verification": {
-      "VERIFIED": 32,
-      "PARTIALLY VERIFIED": 32,
-      "NEEDS VERIFICATION": 9
+      "VERIFIED": 33,
+      "PARTIALLY VERIFIED": 33,
+      "NEEDS VERIFICATION": 10
     },
     "in_kinshasa": 15,
-    "remote": 19,
+    "remote": 21,
     "fee_required": 4
   },
   "deadline_buckets": {
     "30": [
+      "gtf-telemachus-athena-mentoring-2027",
       "jim-leech-mastercard-foundation-fellowship-2027",
-      "unearthodox-exploration-co-lab-2027",
+      "sir-cyril-taylor-young-african-leaders-2027",
       "wff-youth-policy-board-2027-2028",
       "youth-global-forum-2027-paris"
     ],
     "14": [
       "anzisha-fellowship-2027",
+      "cmu-africa-ai-certificate-2027",
       "d-prize-challenge-2026-2027",
       "dalai-lama-fellows-2027",
       "global-solvers-accelerator-2027",
       "itu-gender-champions-programme-2027",
-      "novartis-next-generation-scientist-2027"
+      "novartis-next-generation-scientist-2027",
+      "unearthodox-exploration-co-lab-2027"
     ],
     "7": [
-      "global-leadership-challenge-2026",
       "ustc-international-winter-camp-2027",
       "wipo-ip-moot-court-competition-2027"
     ],
     "3": [
+      "global-leadership-challenge-2026",
       "ohchr-yaounde-data-management-admin-intern-2026",
       "un-habitat-abidjan-programme-management-intern-2026"
     ],
-    "1": [
-      "unu-junior-fellows-internship-spring-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 61,

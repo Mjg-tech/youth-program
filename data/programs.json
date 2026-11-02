@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-26",
+  "updated": "2026-11-02",
   "programs": [
     {
       "id": "afreximbank-internship-programme",
@@ -148,7 +148,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No deadline on the organiser's page or its pre-registration form (read 5 October 2026). Afri-Carrières reports 30 October 2026.",
+      "deadline_text": "Registration closed: the pre-registration form linked from the organiser's page shows 'Ce formulaire est maintenant clos' (read 2 November 2026). No deadline was stated on the organiser's page. Afri-Carrières reported 30 October 2026.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -211,7 +211,7 @@
           "type": "Official"
         },
         {
-          "label": "Pre-registration form linked from the organiser's page",
+          "label": "Pre-registration form linked from the organiser's page (closed: 'Ce formulaire est maintenant clos', read 2 November 2026)",
           "url": "https://tally.so/r/9qjAGG",
           "type": "Official"
         },
@@ -222,13 +222,13 @@
         }
       ],
       "potential_issues": [
+        "Registration closed: the pre-registration form linked from the organiser's page no longer accepts responses (read 2 November 2026)",
         "Aimed at entrepreneurship-support professionals rather than first-time job seekers",
-        "The travel and accommodation funding reported by an aggregator is not on the organiser's page",
-        "No registration deadline on the organiser's page"
+        "The travel and accommodation funding reported by an aggregator is not on the organiser's page"
       ],
       "benefits": [],
-      "action": "Pre-register through the form on the organiser's page and wait for confirmation; do not count on travel funding unless the organiser confirms it.",
-      "last_verified": "2026-10-05",
+      "action": "Registration has closed; the summit takes place in Lomé from 5 to 7 November 2026.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -251,7 +251,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "\"Applications must be submitted by 7 August 2026 at 11:59 PM GMT+3\" (The Youth Café, implementing partner, read 5 October 2026). Closed.",
+      "deadline_text": "\"Applications must be submitted by 7 August 2026 at 11:59 PM GMT+3\" (The Youth Café, implementing partner, re-read 2 November 2026; no new call on the page). Closed.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -327,7 +327,7 @@
       ],
       "benefits": [],
       "action": "For youth organisations only: watch The Youth Café for a new AEYA call.",
-      "last_verified": "2026-10-05",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -587,13 +587,13 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "13th cohort: applications from 26 March to 26 April 2026 (11:59 pm EAT) on jobs.au.int. No 14th call was found on 26 October 2026: the au.int volunteer page still asks readers to watch for a call, and the AU jobs portal's RSS feed for 'volunteer' returned \"No jobs currently available\".",
+      "deadline_text": "13th cohort: applications from 26 March to 26 April 2026 (11:59 pm EAT) on jobs.au.int. No 14th call was found on 2 November 2026: the au.int volunteer page still asks readers to watch for a call and gives no dates.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "No 14th call yet: the AU page (read 26 October 2026) still asks readers to \"be on the lookout for an advertised Call for Applications on the AU Careers page and official social media platforms\"; the jobs.au.int feed for 'volunteer' listed no openings on 26 October 2026. The 13th call ran 26 March to 26 April 2026.",
+      "expected_next_cycle": "No 14th call yet: the AU page (read 2 November 2026) still asks readers to \"be on the lookout for an advertised Call for Applications on the AU Careers page and official social media platforms\". The 13th call ran 26 March to 26 April 2026.",
       "last_cycle_deadline": "2026-04-26",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -692,7 +692,7 @@
         "Pre-deployment training"
       ],
       "action": "Watch jobs.au.int and au.int for the 14th call.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -844,7 +844,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Cohort dates were not on the pages read.",
+      "deadline_text": "The programmes page marks Freelancer Academy, Founder Academy, Data Science, Graphic Design, Virtual Assistant, Content Creation, AI & Career Essentials and Data Analytics as 'Now Open'; no cohort dates or deadlines on the pages read (2 November 2026).",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -902,12 +902,12 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "ALX",
+          "label": "ALX home page: Mastercard Foundation sponsorship, '$5 a month' (read 2 November 2026)",
           "url": "https://www.alxafrica.com/",
           "type": "Official"
         },
         {
-          "label": "ALX programmes",
+          "label": "ALX programmes: eight programmes marked 'Now Open', no dates (read 2 November 2026)",
           "url": "https://www.alxafrica.com/programmes/",
           "type": "Official"
         }
@@ -922,7 +922,7 @@
         "Peer community"
       ],
       "action": "Read the official page for the current call and its dates.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -952,7 +952,7 @@
       "duration": "Multi-year support",
       "application_deadline": "2026-11-10",
       "deadline_utc": "",
-      "deadline_text": "Applications for the 2027 intake open on 29 September 2026; \"10 November 2026 Applications Closed\"; evaluation November 2026 to March 2027; fellows announced May 2027 (anzisha.org/apply, read 26 October 2026). No time or time zone stated.",
+      "deadline_text": "Applications for the 2027 intake open on 29 September 2026; \"10 November 2026 Applications Closed\"; evaluation November 2026 to March 2027; fellows announced May 2027 (anzisha.org/apply, read 2 November 2026). No time or time zone stated; no extension mentioned.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "2026-09-29",
       "open_now": false,
@@ -1013,7 +1013,7 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "Anzisha: apply (read 26 October 2026)",
+          "label": "Anzisha: apply (read 2 November 2026)",
           "url": "https://anzisha.org/apply/",
           "type": "Official"
         },
@@ -1030,12 +1030,12 @@
       ],
       "potential_issues": [
         "Requires an already running venture (customers, revenue or beneficiaries); formal registration is not required",
-        "The support package was not confirmed on the Anzisha page (re-checked 26 October 2026)",
+        "The support package was not confirmed on the Anzisha page (re-checked 2 November 2026)",
         "No time or time zone is given for the 10 November deadline"
       ],
       "benefits": [],
       "action": "Apply on join.anzisha.org before 10 November 2026 if you run a business in Africa and are 15 to 22.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -1067,7 +1067,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "2027 Cohort 1 is listed as \"COMING SOON\" with no dates (programme page, read 26 October 2026); the home page says \"Check back in for future updates regarding our 2027 program\" and offers an interest form.",
+      "expected_next_cycle": "2027 Cohort 1 is listed as \"COMING SOON\" with no dates (programme page, read 2 November 2026); the page banner says \"APPLICATIONS FOR THE 2026 ASPIRE LEADERS PROGRAM ARE CLOSED! FILL OUT OUR INTEREST FORM TO STAY UPDATED ON NEWS REGARDING THE 2027 PROGRAM.\"",
       "last_cycle_deadline": "2026-10-16",
       "status": "UPCOMING",
       "funding_type": "Free",
@@ -1144,7 +1144,7 @@
         "Seed funds for alumni projects"
       ],
       "action": "Watch the Aspire Leaders Program page for the 2027 Cohort 1 dates; the page offers an interest form for updates.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "[auto 2026-10-31] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
@@ -1174,7 +1174,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "2026-10-23",
       "deadline_utc": "2026-10-23T20:59:00Z",
-      "deadline_text": "\"Submission deadline: 23 October 2026, 23:59 EAT (UTC+3)\" (au.int call page and AU terms of reference). The au.int event block still shows the call ending \"Oct 23, 2026 - 15:00\". No extension was shown on the au.int page on 26 October 2026.",
+      "deadline_text": "\"Submission deadline: 23 October 2026, 23:59 EAT (UTC+3)\" (au.int call page, read 2 November 2026; same date in the AU terms of reference read 26 October 2026). The au.int event block, which showed the call ending \"Oct 23, 2026 - 15:00\" on 26 October 2026, now reads \"Sep 24, 2026 - 17:00 - Oct 31, 2026 - 17:59\"; the call text was not changed and no extension is announced. No winner announced on the page.",
       "deadline_timezone": "Africa/Addis_Ababa",
       "opens_on": "2026-09-24",
       "open_now": false,
@@ -1248,7 +1248,7 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "African Union: call for entries (read 26 October 2026)",
+          "label": "African Union: call for entries (read 2 November 2026)",
           "url": "https://au.int/en/newsevents/20260829/call-entries-calling-young-african-creatives-logo-competition-au-theme-year",
           "type": "Official"
         },
@@ -1269,16 +1269,15 @@
         }
       ],
       "potential_issues": [
-        "Closed on 23 October 2026; no extension shown on the AU page on 26 October 2026",
+        "Closed: the call text gives 23 October 2026 (23:59 EAT); the page's event block was changed to end on 31 October 2026 at 17:59 without any extension being announced (read 2 November 2026); either way the date has passed",
         "Only for ages 18 to 24",
         "The winner assigns copyright and IP rights in the design to the AU Commission",
         "Generative AI tools are banned and entries are checked",
-        "The event block shows 15:00 on 23 October while the call text and terms of reference say 23:59 EAT",
         "The AU page's \"Click here to register\" link points to accreditation.au.int/en/form/data-form-media, which looks like a media accreditation form"
       ],
       "benefits": [],
       "action": "The call closed on 23 October 2026; check the AU page for the announcement of the selected logo.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-12",
       "notes": ""
     },
@@ -1302,7 +1301,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "LinkedIn shows the posting as '2 weeks ago' and still accepting applications; no deadline stated (read 12 October 2026).",
+      "deadline_text": "Closed: the LinkedIn posting shows 'No longer accepting applications' (read 2 November 2026). No deadline was stated.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -1358,7 +1357,7 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "LinkedIn job posting by Changement7.net (public page read 12 October 2026)",
+          "label": "LinkedIn job posting by Changement7.net: 'No longer accepting applications' (public page read 2 November 2026)",
           "url": "https://www.linkedin.com/jobs/view/4469367204",
           "type": "Social media"
         },
@@ -1369,14 +1368,132 @@
         }
       ],
       "potential_issues": [
+        "Closed: LinkedIn shows 'No longer accepting applications' (read 2 November 2026)",
         "No deadline or pay stated",
         "Published only on LinkedIn; the organisation's website (changement7.net) has no recruitment page or matching post"
       ],
       "benefits": [],
-      "action": "Read the LinkedIn posting and apply as it describes; it may close without notice.",
-      "last_verified": "2026-10-12",
+      "action": "This posting is closed; watch Changement7.net's LinkedIn page for a new internship call.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
+    },
+    {
+      "id": "cmu-africa-ai-certificate-2027",
+      "title": "CMU-Africa Certificate in Artificial Intelligence for Africa (cohort starting January 2027)",
+      "organization": "Carnegie Mellon University Africa (CMU-Africa)",
+      "overview": "Reported by secondary sources: a six-course online certificate in applied artificial intelligence for the African context, with 14-15 lessons per course, digital badges per course and a verifiable certificate (not university credit). Secondary sources say it is \"cost-free for qualified applicants\", needs basic linear algebra, probability and statistics and programming, and at least 5-6 hours a week. Applications reported open 15 October to 15 November 2026; cohort reported to start 17 January 2027; enrolment by invitation. The official CMU-Africa page could not be read on 2 November 2026.",
+      "category": [
+        "Training"
+      ],
+      "audience": [
+        "university-student",
+        "recent-graduate",
+        "graduate",
+        "young-professional"
+      ],
+      "country": "Online",
+      "city": "",
+      "location_type": "Remote",
+      "delivery_mode": "Online",
+      "program_dates": "Reported by secondary sources: next cohort starts 17 January 2027",
+      "duration": "Reported by secondary sources: six courses of about 45 hours each, at least 5-6 hours a week",
+      "application_deadline": "2026-11-15",
+      "deadline_utc": "",
+      "deadline_text": "Reported by secondary sources: \"Application Deadline: November 15, 2026\" (Opportunities for Africans, read 2 November 2026); search-engine extracts of the CMU-Africa apply page say applications and recommendations are accepted from October 15 to November 15, 2026, cohort start January 17, 2027. The official page itself could not be opened.",
+      "deadline_timezone": "",
+      "opens_on": "2026-10-15",
+      "open_now": true,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "CLOSING SOON",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "Reported by secondary sources (Opportunities for Africans, quoting the programme): \"The certificate program is cost-free for qualified applicants.\" Not confirmed on the official page during this cycle."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not applicable",
+        "accommodation": "Not applicable",
+        "meals": "Not applicable",
+        "visa": "Not applicable",
+        "insurance": "Not applicable",
+        "local_transport": "Not applicable"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "Unknown",
+      "participation_fee": "Unknown",
+      "stipend": "None stated",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "None required",
+      "experience_requirement": "Reported by secondary sources: aimed at early-career learners and undergraduate students as well as working professionals; no work experience stated as required",
+      "education_requirement": "Reported by secondary sources: introductory linear algebra, probability and statistics, and computer programming experience",
+      "nationality_requirements": [],
+      "drc_eligible": "Unclear",
+      "language_requirement": "Unknown / Not specified (English-language programme by CMU-Africa; not confirmed)",
+      "eligibility": [
+        "Reported by secondary sources: introductory linear algebra and probability and statistics",
+        "Reported by secondary sources: computer programming experience",
+        "Reported by secondary sources: laptop or desktop computer and reliable internet",
+        "Reported by secondary sources: at least five hours a week available",
+        "Nationality or residence rule not found"
+      ],
+      "other_requirements": [
+        "Reported by secondary sources: enrolment by invitation, based on the application and available space"
+      ],
+      "documents_required": [
+        "Reported by secondary sources: contact details, academic background, professional experience, CV and a short statement of goals"
+      ],
+      "application_process": [
+        "Reported by secondary sources: apply through the CMU-Africa AI certificate apply page between 15 October and 15 November 2026"
+      ],
+      "official_application_url": "https://www.africa.engineering.cmu.edu/academics/ai-certificate/apply.html",
+      "official_information_url": "https://www.africa.engineering.cmu.edu/academics/ai-certificate/index.html",
+      "source_url": "https://www.opportunitiesforafricans.com/carnegie-mellon-university-artificial-intelligence-certificate-for-africa/",
+      "source_type": "Aggregator",
+      "source_confidence": "MEDIUM",
+      "verification": "NEEDS VERIFICATION",
+      "sources": [
+        {
+          "label": "Opportunities for Africans: CMU Artificial Intelligence Certificate for Africa (posted 19 October 2026, read 2 November 2026)",
+          "url": "https://www.opportunitiesforafricans.com/carnegie-mellon-university-artificial-intelligence-certificate-for-africa/",
+          "type": "Aggregator"
+        },
+        {
+          "label": "CMU-Africa AI certificate page: could not be read on 2 November 2026 (certificate error with curl, HTTP 503 with the fetch tool); facts above come from secondary sources and search-engine extracts of this page",
+          "url": "https://www.africa.engineering.cmu.edu/academics/ai-certificate/index.html",
+          "type": "Official"
+        },
+        {
+          "label": "CMU-Africa AI certificate apply page: could not be read on 2 November 2026 (HTTP 503)",
+          "url": "https://www.africa.engineering.cmu.edu/academics/ai-certificate/apply.html",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "Official page could not be read during this cycle; deadline, cost and eligibility are from secondary sources",
+        "\"Cost-free\" applies to \"qualified applicants\"; not confirmed on the official page",
+        "Nationality or residence rules not found",
+        "Needs maths and programming background"
+      ],
+      "benefits": [
+        "Reported by secondary sources: digital badge per course and a verifiable certificate on completion"
+      ],
+      "action": "Open the CMU-Africa AI certificate page in a browser to confirm the deadline (reported as 15 November 2026), cost and eligibility before applying.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": "Official CMU-Africa site returned a certificate error to curl and HTTP 503 to the fetch tool; the certificate warning was not bypassed."
     },
     {
       "id": "d-prize-challenge-2026-2027",
@@ -1401,7 +1518,7 @@
       "duration": "3-month pilot",
       "application_deadline": "2026-11-15",
       "deadline_utc": "",
-      "deadline_text": "Midnight PT (Pacific Time) per the D-Prize site read 12 October 2026: early submission 25 October 2026 (passed), regular submission 15 November 2026, extension 6 December 2026. The D-Prize extension page (read 26 October 2026): \"The regular D-Prize competition deadline is 15 November, 2026. However, we are offering an extension until 6 December 2026 for entrepreneurs who need extra time.\" The FAQ says applicants for the Extended deadline \"must register in advance\".",
+      "deadline_text": "Midnight PT (Pacific Time) per the D-Prize site (read 2 November 2026): early submission 25 October 2026 (passed), regular submission 15 November 2026, extension 6 December 2026. The D-Prize extension page (read 2 November 2026): \"The regular D-Prize competition deadline is 15 November, 2026. However, we are offering an extension until 6 December 2026 for entrepreneurs who need extra time.\" The FAQ says applicants for the Extended deadline \"must register in advance\".",
       "deadline_timezone": "America/Los_Angeles",
       "opens_on": "",
       "open_now": false,
@@ -1464,17 +1581,17 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "D-Prize (read 26 October 2026)",
+          "label": "D-Prize (read 2 November 2026)",
           "url": "https://www.d-prize.org/",
           "type": "Official"
         },
         {
-          "label": "D-Prize FAQs (read 26 October 2026)",
+          "label": "D-Prize FAQs (read 2 November 2026)",
           "url": "https://www.d-prize.org/faqs",
           "type": "Official"
         },
         {
-          "label": "D-Prize Round 1 extension form (read 26 October 2026)",
+          "label": "D-Prize Round 1 extension form (read 2 November 2026)",
           "url": "https://www.d-prize.org/extension",
           "type": "Official"
         },
@@ -1491,7 +1608,7 @@
       ],
       "benefits": [],
       "action": "Read the D-Prize challenges and submit a concept note by 15 November 2026 (regular deadline), or register in advance for the 6 December 2026 extension.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -1517,7 +1634,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "2026-11-11",
       "deadline_utc": "2026-11-11T22:00:00Z",
-      "deadline_text": "November 11, 2026: Application deadline (applications and all accompanying materials must be submitted by 22:00 Coordinated Universal Time). Application opened October 1, 2026 (dalailamafellows.com/apply, read 26 October 2026).",
+      "deadline_text": "November 11, 2026: Application deadline (applications and all accompanying materials must be submitted by 22:00 Coordinated Universal Time). Application opened October 1, 2026 (dalailamafellows.com/apply, read 2 November 2026). No extension mentioned.",
       "deadline_timezone": "UTC",
       "opens_on": "2026-10-01",
       "open_now": false,
@@ -1591,12 +1708,12 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "Apply (read 26 October 2026)",
+          "label": "Apply (read 2 November 2026)",
           "url": "https://dalailamafellows.com/apply/",
           "type": "Official"
         },
         {
-          "label": "The Fellowship (read 26 October 2026)",
+          "label": "The Fellowship (read 2 November 2026)",
           "url": "https://dalailamafellows.com/the-fellowship/",
           "type": "Official"
         }
@@ -1611,7 +1728,7 @@
         "Global cohort and mentoring"
       ],
       "action": "Read the official page, then apply before 2026-11-11.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": "",
       "match_keywords": [
@@ -1648,7 +1765,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "ACP reports that cohorts are planned between 2026 and 2028; no further call has been announced.",
+      "expected_next_cycle": "ACP reports that cohorts are planned between 2026 and 2028; no further call has been announced. On 2 November 2026 the EU Delegation to the DRC page still featured only the list of the 21 young people selected for cohort 2, and a web search found no call for a third cohort.",
       "last_cycle_deadline": "2026-04-05",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -1846,7 +1963,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "The 2026 call (the first edition) closed on 30 September 2026; the next call has not been announced (Engen DRC page, read 26 October 2026).",
+      "expected_next_cycle": "The 2026 call (the first edition) closed on 30 September 2026; the next call has not been announced (Engen DRC page, read 2 November 2026).",
       "last_cycle_deadline": "2026-09-30",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -1913,7 +2030,7 @@
       ],
       "benefits": [],
       "action": "Watch the Engen DRC news page for the next call.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -1938,13 +2055,13 @@
       "duration": "6 months of training",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Last call found: closed 27 November 2024, training beginning 26 February 2025. No official 2026 or 2027 call found on 26 October 2026.",
+      "deadline_text": "Last call found: closed 27 November 2024, training beginning 26 February 2025. No official 2026 or 2027 call found on 2 November 2026.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "No official 2026 or 2027 call found (searches on 26 October 2026).",
+      "expected_next_cycle": "No official 2026 or 2027 call found (searches on 2 November 2026).",
       "last_cycle_deadline": "2024-11-27",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -2009,11 +2126,11 @@
       "potential_issues": [
         "Closed",
         "Criteria come from a news article about the 2024 call",
-        "Equity BCDC's website (equitygroupholdings.com/cd) returned an Incapsula bot-check page and its Taleo careers sections showed 'Career Section Unavailable' on 26 October 2026 (as on 12 October), so no official call could be read",
-        "No official 2026 or 2027 call found in searches on 26 October 2026; a personal social-media post refers to a 32nd edition, but no official announcement of it was found"
+        "Equity BCDC's website (equitygroupholdings.com/cd) returned an Incapsula bot-check page, equitybcdc.cd did not respond, and its Taleo careers section showed 'Career Section Unavailable' on 2 November 2026 (as on 12 and 26 October), so no official call could be read",
+        "No official 2026 or 2027 call found in searches on 2 November 2026; a personal social-media post refers to a 32nd edition closed on 14 August 2026, but no official announcement of it was found"
       ],
       "benefits": [],
-      "action": "Watch Equity BCDC's official website and social channels for the next call; the official page could not be read on 12 October 2026.",
+      "action": "Watch Equity BCDC's official website and social channels for the next call; the official page could not be read on 2 November 2026.",
       "last_verified": "2026-10-05",
       "date_discovered": "2026-10-05",
       "notes": ""
@@ -2037,13 +2154,13 @@
       "duration": "Up to 6 months",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "\"Délai pour l'envoi des candidatures : 25 janvier 2026.\" The page (published 15.01.2026) is marked Expired (EEAS page, read 12 October 2026). No 2027 call was found.",
+      "deadline_text": "\"Délai pour l'envoi des candidatures : 25 janvier 2026.\" The page (published 15.01.2026) is still marked Expired, with \"Deadline 25.01.2026\" in its practical information (EEAS page, read 2 November 2026). No 2027 call was found.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "No 2027 call found. The EEAS site refused automated readers (HTTP 403) on 26 October 2026, so the flagged page change could not be checked; a web search on 26 October 2026 found no 2027 call. The 2026 call was published on 15 January 2026 with a deadline of 25 January 2026.",
+      "expected_next_cycle": "No 2027 call found on 2 November 2026 (EEAS page re-read; web search found none). The 2026 call was published on 15 January 2026 with a deadline of 25 January 2026.",
       "last_cycle_deadline": "2026-01-25",
       "status": "UPCOMING",
       "funding_type": "Paid",
@@ -2108,21 +2225,20 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "EEAS: subsidised traineeship call, EU Delegation to the DRC (2026 round, read 12 October 2026)",
+          "label": "EEAS: subsidised traineeship call, EU Delegation to the DRC (2026 round, read 2 November 2026)",
           "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-1_en",
           "type": "Official"
         }
       ],
       "potential_issues": [
-        "The 2026 call is closed (deadline 25 January 2026); no 2027 call was found on 12 October 2026",
+        "The 2026 call is closed (deadline 25 January 2026); no 2027 call was found on the page or in a web search on 2 November 2026",
         "Only candidates currently resident in the DRC or near Kinshasa are considered",
         "Travel, visa, insurance and housing are paid by the trainee; the monthly grant amount is not stated",
-        "The page change flagged since 9 October 2026 appears to come from the page's 'Related vacancies' box (other EEAS vacancies dated 6 to 9 October 2026); the call text is still the January 2026 call",
-        "On 26 October 2026 the EEAS site returned HTTP 403 to both fetch tools, so the 'source changed' flag of 21 October could not be explained; open the page in a browser to check"
+        "The 'source changed' flags come from the page's 'Related vacancies' box, which now lists other EEAS vacancies dated 19 to 21 October 2026; the call text itself is still the January 2026 call (re-read 2 November 2026)"
       ],
       "benefits": [],
       "action": "Watch the EEAS vacancies page for the EU Delegation to the DRC: the 2026 call was published in mid-January with a ten-day application window.",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -2147,13 +2263,13 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No 2027 call yet (FAQ page, read 26 October 2026: it still describes the 2026 Forum). For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'",
+      "deadline_text": "No 2027 call yet (FAQ page, read 2 November 2026: it still describes the 2026 Forum). For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Applications for the 2027 Forum expected around March 2027, by analogy with 2026. Not announced on 26 October 2026.",
+      "expected_next_cycle": "Applications for the 2027 Forum expected around March 2027, by analogy with 2026. Not announced on 2 November 2026.",
       "last_cycle_deadline": "2026-03-22",
       "status": "UPCOMING",
       "funding_type": "Participation Funded",
@@ -2222,7 +2338,7 @@
         "European and international network"
       ],
       "action": "Check the Alpbach scholarship FAQ in early 2027 for the 2027 call.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -2478,7 +2594,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "The 6th edition has not been announced (no FIJEC announcement found in searches on 26 October 2026).",
+      "expected_next_cycle": "The 6th edition has not been announced (no FIJEC announcement found in searches on 2 November 2026).",
       "last_cycle_deadline": "2026-07-29",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -2533,7 +2649,7 @@
       ],
       "potential_issues": [
         "Closed",
-        "No organiser website found (searches on 26 October 2026 found no page from FIJEC): the only registration route was a shortened link (tinyurl) leading to a Google Form, which asked for a Google sign-in",
+        "No organiser website found (searches on 26 October and 2 November 2026 found no page from FIJEC): the only registration route was a shortened link (tinyurl) leading to a Google Form, which asked for a Google sign-in",
         "Location, cost, dates and criteria of the forum were not stated",
         "Details come from one aggregator"
       ],
@@ -2564,7 +2680,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "2026-11-05",
       "deadline_utc": "",
-      "deadline_text": "Application Opens: 29 September 2026. Application Closes: 5 November 2026. Applications are reviewed on a rolling basis, so don't wait until the deadline (leadership-challenge.org/applynow, read 26 October 2026). No time or time zone stated.",
+      "deadline_text": "Application Opens: 29 September 2026. Application Closes: 5 November 2026. GLC 2026: 10-14 December 2026. Applications are reviewed on a rolling basis, so don't wait until the deadline (leadership-challenge.org/applynow, read 2 November 2026). No time or time zone stated.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "2026-09-29",
       "open_now": false,
@@ -2575,7 +2691,7 @@
       "status": "CLOSING SOON",
       "funding_type": "Travel Funded",
       "funding_details": [
-        "The three winning teams attend the 56th St. Gallen Symposium in April 2027 as Leaders of Tomorrow: 'their expenses for travel and accommodation will be fully covered'",
+        "The four winning teams attend the 56th St. Gallen Symposium in April 2027 as Leaders of Tomorrow: 'their expenses for travel and accommodation will be fully covered' (the page said three winning teams on 26 October 2026 and says four on 2 November 2026)",
         "Nothing on the pages read mentions a fee for taking part in the challenge itself"
       ],
       "coverage": {
@@ -2633,7 +2749,7 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "Apply now (read 26 October 2026)",
+          "label": "Apply now (read 2 November 2026)",
           "url": "https://www.leadership-challenge.org/applynow",
           "type": "Official"
         },
@@ -2644,10 +2760,11 @@
         }
       ],
       "potential_issues": [
-        "Only the three winning teams travel; the other participants take part in the challenge without a funded trip",
+        "Only the four winning teams travel; the other participants take part in the challenge without a funded trip",
+        "The number of winning teams with a funded trip changed on the apply page from three (26 October 2026) to four (2 November 2026)",
         "Applications are reviewed on a rolling basis before the 5 November deadline",
         "A Schengen visa would be needed for Switzerland if selected for the Symposium",
-        "The apply page (read 26 October 2026) still shows a leftover line \"Application opens soon\" above a timeline that says applications opened on 29 September 2026"
+        "The apply page (read 2 November 2026) still shows a leftover line \"Application opens soon\" above a timeline that says applications opened on 29 September 2026"
       ],
       "benefits": [
         "Work on real challenges from partner organisations",
@@ -2655,7 +2772,7 @@
         "Chance of a funded trip to the St. Gallen Symposium"
       ],
       "action": "Read the official page, then apply before 2026-11-05.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -2684,7 +2801,7 @@
       "duration": "Ten months, about 4 hours a week",
       "application_deadline": "2026-11-15",
       "deadline_utc": "2026-11-16T04:59:00Z",
-      "deadline_text": "\"Applications close on November 15, 2026\"; \"Application Window: 15th August– 15th November 2026\" (Melton Foundation page content, read 26 October 2026). The official Typeform application form gives the time: \"15 November 2026, at 23:59 US EST (New York)\".",
+      "deadline_text": "\"Applications close on November 15, 2026\"; \"Application Window: 15th August– 15th November 2026\" (Melton Foundation page content, read 2 November 2026; page last modified 15 September 2026). The official Typeform application form (read 26 October 2026) gives the time: \"15 November 2026, at 23:59 US EST (New York)\".",
       "deadline_timezone": "America/New_York",
       "opens_on": "",
       "open_now": false,
@@ -2745,7 +2862,7 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "Melton Foundation: Global Solvers Accelerator (page returned HTTP 403 to automated readers on 26 October 2026; content read through the site's own WordPress API, page last modified 15 September 2026)",
+          "label": "Melton Foundation: Global Solvers Accelerator (read 2 November 2026; content read through the site's own WordPress API, page last modified 15 September 2026)",
           "url": "https://meltonfoundation.org/global-solvers-accelerator/",
           "type": "Official"
         },
@@ -2766,7 +2883,7 @@
       ],
       "benefits": [],
       "action": "Read the fee and scholarship terms on the Melton Foundation page before applying by 23:59 New York time on 15 November 2026.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -2861,6 +2978,260 @@
       "last_verified": "2026-10-05",
       "date_discovered": "2026-10-05",
       "notes": ""
+    },
+    {
+      "id": "green-institute-officially-green-fellowship-2027",
+      "title": "Officially Green Global Fellowship, February 2027 cohort",
+      "organization": "The Green Institute (Nigeria)",
+      "overview": "A sustainability fellowship for people aged 18-35 from around the world, starting with a February 2027 cohort. Fellows take a compulsory online course (MOOC), attend the fellowship conferences, set up an \"Officially Green Club\" of at least 20 pupils in a primary or secondary school, promote seven sustainability pledges online and report on their impact. A certificate is given only on completion; one fellow may receive a US$1,000 post-fellowship award. No prior sustainability experience is required.",
+      "category": [
+        "Fellowship",
+        "Volunteering",
+        "Training"
+      ],
+      "audience": [
+        "university-student",
+        "recent-graduate",
+        "graduate",
+        "young-professional",
+        "any-adult"
+      ],
+      "country": "Online",
+      "city": "",
+      "location_type": "Remote",
+      "delivery_mode": "Online",
+      "program_dates": "February 2027 cohort; end date not stated",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2027-01-07",
+      "deadline_utc": "2027-01-07T16:00:00Z",
+      "deadline_text": "\"Application Deadline: January 7, 2027 Closing Time: 4:00 p.m. GMT\" (Green Institute fellowship page, read 2 November 2026; the same page also shows \"at 4:00 GMT\" in another place). Outcomes announced by email \"during the first week of February 2027\".",
+      "deadline_timezone": "GMT",
+      "opens_on": "",
+      "open_now": true,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "OPEN",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "No fee and no payment to fellows are mentioned on the fellowship page or the first page of the application form read on 2 November 2026.",
+        "Green Institute: \"US$1,000 Grand Prize (One fellow who fulfils all fellowship requirements and demonstrates documented impact may receive a US$1,000 post-fellowship award ... selection alone does not guarantee funding.)\""
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not applicable",
+        "accommodation": "Not applicable",
+        "meals": "Not applicable",
+        "visa": "Not applicable",
+        "insurance": "Not applicable",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "Unknown",
+      "stipend": "None stated",
+      "age_min": 18,
+      "age_max": 35,
+      "age_requirement": "\"Be between 18 and 35 years old at the application deadline.\"",
+      "experience_level": "None required",
+      "experience_requirement": "FAQ: \"No. You do not need to be a sustainability expert or have extensive prior experience.\" Application form: \"No prior professional experience in sustainability is required.\"",
+      "education_requirement": "Unknown / Not specified",
+      "nationality_requirements": [],
+      "drc_eligible": "Yes",
+      "language_requirement": "Unknown / Not specified (page and form are in English)",
+      "eligibility": [
+        "Aged 18-35 at the application deadline",
+        "Genuine commitment to sustainability and environmental action",
+        "Committed to running an Officially Green Club in a school",
+        "Available to attend all designated conferences and take part actively",
+        "Reliable internet access; able to document activities and impact"
+      ],
+      "other_requirements": [
+        "Complete the compulsory MOOC",
+        "Set up and sustain an Officially Green Club with at least 20 young students in a primary or secondary school",
+        "Promote the seven Officially Green pledges on social media with #OfficiallyGreen",
+        "Submit brief reports on activities and impact"
+      ],
+      "documents_required": [
+        "Application form asks for contact details, country of residence, current status, affiliation and a LinkedIn page (first page of four read)"
+      ],
+      "application_process": [
+        "Apply through the Google Form linked from the Green Institute fellowship page before 7 January 2027"
+      ],
+      "official_application_url": "https://docs.google.com/forms/d/e/1FAIpQLSc9_5u4TDlr5y9esiBoyRmxD2vc-K6GUvPx_S_-vO8yXOI1Lg/viewform",
+      "official_information_url": "https://greeninstitute.ng/greenfellow2026",
+      "source_url": "https://greeninstitute.ng/greenfellow2026",
+      "source_type": "Official",
+      "source_confidence": "MEDIUM",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "The Green Institute: Officially Green Global Fellowship page (read 2 November 2026)",
+          "url": "https://greeninstitute.ng/greenfellow2026",
+          "type": "Official"
+        },
+        {
+          "label": "Green Institute application form, first page (read 2 November 2026)",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSc9_5u4TDlr5y9esiBoyRmxD2vc-K6GUvPx_S_-vO8yXOI1Lg/viewform",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunity Desk listing (read 2 November 2026)",
+          "url": "https://opportunitydesk.org/2026/10/29/green-global-fellowship-2027/",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "Whether the fellowship conferences are online or in person, and whether they cost anything, is not stated; the organiser's other conferences are listed as virtual or hybrid",
+        "Fellows do unpaid work (running a school club, social media promotion, reporting); only one fellow may receive US$1,000",
+        "Certificate only on completion of all requirements",
+        "Small organisation; the page calls it a 501(c)(3) organisation while the site is a .ng domain made in Ondo, Nigeria (status not checked)",
+        "Application by Google Form asking for phone number and LinkedIn page"
+      ],
+      "benefits": [
+        "Learning sessions with sustainability experts",
+        "Certificate on completion of all requirements",
+        "Network of young sustainability leaders",
+        "Possible US$1,000 post-fellowship award for one fellow"
+      ],
+      "action": "Read the Green Institute fellowship page, check with the organiser whether the conferences are online and free, and apply through its form before 7 January 2027 if you are 18-35 and can run a school club.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": "The page URL says 2026 but the text describes the February 2027 cohort."
+    },
+    {
+      "id": "gtf-telemachus-athena-mentoring-2027",
+      "title": "Telemachus & Athena Mentoring Programmes 2027 (Global Thinkers Forum)",
+      "organization": "Global Thinkers Forum (GTF), a London-based non-profit",
+      "overview": "An eight-month online mentoring programme starting in January 2027 that pairs each mentee with a volunteer mentor from fields such as public policy, business, entrepreneurship, media, academia, non-profit and science. Telemachus is for young people aged 18-29 from anywhere in the world; Athena is for women aged over 22 with no upper age limit. Mentor and mentee meet virtually at least once a month; mentees receive a completion certificate and can take an optional 3-month internship with GTF.",
+      "category": [
+        "Leadership",
+        "Training"
+      ],
+      "audience": [
+        "university-student",
+        "recent-graduate",
+        "graduate",
+        "young-professional"
+      ],
+      "country": "Online",
+      "city": "",
+      "location_type": "Remote",
+      "delivery_mode": "Online",
+      "program_dates": "Starts January 2027; eight months",
+      "duration": "8 months",
+      "application_deadline": "2026-11-23",
+      "deadline_utc": "",
+      "deadline_text": "\"Applications deadline: November 23, 2026\" (GTF mentees application page, read 2 November 2026); no time or time zone given.",
+      "deadline_timezone": "",
+      "opens_on": "",
+      "open_now": true,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "OPEN",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "The GTF pages read on 2 November 2026 mention no fee and no payment to mentees; mentors are described as \"volunteering their time\".",
+        "GTF FAQ: \"You will also earn an optional 3-month internship with GTF\" (pay for that internship not stated)."
+      ],
+      "coverage": {
+        "tuition": "Not applicable",
+        "stipend": "Not specified",
+        "flight": "Not applicable",
+        "accommodation": "Not applicable",
+        "meals": "Not applicable",
+        "visa": "Not applicable",
+        "insurance": "Not applicable",
+        "local_transport": "Not applicable"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "No fee stated",
+      "stipend": "None stated",
+      "age_min": 18,
+      "age_max": 29,
+      "age_requirement": "Telemachus: \"a young individual between 18-29\"; Athena: \"women above the age of 22 and without age limit\"",
+      "experience_level": "None required",
+      "experience_requirement": "No minimum stated. GTF: \"Applicants with fluent command of English, who have completed a Bachelor's degree or have equally-relevant professional experience of a minimum of 5 years will be prioritised.\"",
+      "education_requirement": "None required; holders of a bachelor's degree (or 5 years of relevant experience) are prioritised",
+      "nationality_requirements": [],
+      "drc_eligible": "Yes",
+      "language_requirement": "Fluent English is prioritised (mentoring is in English; Arabic may be possible only for Athena MENA)",
+      "eligibility": [
+        "Telemachus: aged 18-29, from any country",
+        "Athena: women aged over 22, no upper age limit",
+        "Priority to fluent English speakers with a bachelor's degree or at least 5 years of relevant experience",
+        "Mentees who already took part in a cycle cannot take part again"
+      ],
+      "other_requirements": [
+        "At least one virtual meeting with the mentor each month for eight months",
+        "Motivation, commitment and critical thinking"
+      ],
+      "documents_required": [
+        "Motivation letter explaining what you want to achieve and why you want to be mentored"
+      ],
+      "application_process": [
+        "Complete the form on the GTF mentees application page before 23 November 2026, or email the motivation letter as described on the GTF guidelines"
+      ],
+      "official_application_url": "https://globalthinkersmentors.org/mentees-application",
+      "official_information_url": "https://globalthinkersmentors.org/",
+      "source_url": "https://globalthinkersmentors.org/mentees-application",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "Global Thinkers Mentors: mentees application, 2027 cycle (read 2 November 2026)",
+          "url": "https://globalthinkersmentors.org/mentees-application",
+          "type": "Official"
+        },
+        {
+          "label": "Global Thinkers Mentors: home page, guidelines (read 2 November 2026)",
+          "url": "https://globalthinkersmentors.org/",
+          "type": "Official"
+        },
+        {
+          "label": "Global Thinkers Mentors: FAQ (read 2 November 2026)",
+          "url": "https://globalthinkersmentors.org/faq",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunity Desk listing (read 2 November 2026)",
+          "url": "https://opportunitydesk.org/2026/10/30/telemachus-athena-mentoring-programme-2027/",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "Funding and cost are not stated either way on the pages read; no fee is mentioned",
+        "Deadline has no time or time zone",
+        "Mentoring is not a qualification: GTF says it \"is by no means a certificate, a qualification or a degree\" (a completion certificate is given)"
+      ],
+      "benefits": [
+        "Eight months of one-to-one mentoring",
+        "Programme completion certificate",
+        "Membership of the GTF community",
+        "Optional 3-month internship with GTF"
+      ],
+      "action": "Read the GTF guidelines and FAQ and submit the mentee application with a motivation letter before 23 November 2026 if you are 18-29 (Telemachus) or a woman over 22 (Athena).",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": "Marked PARTIALLY VERIFIED because funding/cost is not stated on the official pages; deadline and eligibility were read there."
     },
     {
       "id": "hp-life-free-online-courses",
@@ -2977,7 +3348,7 @@
       "duration": "About 6 months",
       "application_deadline": "2026-10-31",
       "deadline_utc": "",
-      "deadline_text": "\"Deadline: 31 October 2026\", on the organiser's Google Form (re-read 26 October 2026, still accepting responses); only shortlisted candidates notified by 6 November 2026. No time or time zone stated. No page about the fellowship was found on nalafem.org on 26 October 2026.",
+      "deadline_text": "\"Deadline: 31 October 2026\", on the organiser's Google Form (re-read 2 November 2026: deadline passed, but the form was still accepting responses); only shortlisted candidates notified by 6 November 2026. No time or time zone stated. No page about the fellowship was found on nalafem.org on 26 October 2026.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -3038,7 +3409,7 @@
       "verification": "NEEDS VERIFICATION",
       "sources": [
         {
-          "label": "I AM NALA Fellowship 2027 application form (Google Form; re-read 26 October 2026, still accepting responses)",
+          "label": "I AM NALA Fellowship 2027 application form (Google Form; re-read 2 November 2026, still shows 'Deadline: 31 October 2026' and still accepts responses)",
           "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7cdN9YiLa9HpHQ5eGkh6HgpVexDvWGELZB59i4PfmaOMwMw/viewform",
           "type": "Official"
         },
@@ -3054,13 +3425,14 @@
         }
       ],
       "potential_issues": [
+        "Deadline passed on 31 October 2026; on 2 November 2026 the Google Form still accepted responses, but late applications may not be considered",
         "The call is only on a Google Form. On 26 October 2026 nalafem.org (home page, Apply page and the site's own search for 'fellowship', 'I AM NALA', '2027' and 'call for applications') had no page about the fellowship; the Apply page only shows a 2023 job vacancy. The form states it was 'created inside of NALA - Feminist Collective' and gives a contact address on the nalafem.org domain, which links it to the organiser but does not replace an official page.",
         "The support offered is described only in general terms on the form, with no amount",
         "Only for displaced women"
       ],
       "benefits": [],
-      "action": "Compare the Google Form with Nalafem Collective's official social media accounts to confirm the call before filling it in by 31 October 2026.",
-      "last_verified": "2026-10-19",
+      "action": "The deadline (31 October 2026) has passed; watch Nalafem Collective's official channels for the next call.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -3084,7 +3456,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "The round for the ICANN88 Community Forum is closed. The round for the ICANN89 Policy Forum opens 5 November 2026 and closes 5 December 2026, but only Fellowship alumni may apply for a Policy Forum fellowship.",
+      "deadline_text": "The round for the ICANN88 Community Forum (Lisbon, 13-18 March 2027) is closed. The round for the ICANN89 Policy Forum (Vancouver, 14-17 June 2027) opens 5 November 2026 and closes 5 December 2026, both at 23:59 UTC, but only Fellowship alumni may apply for a Policy Forum fellowship (read 2 November 2026).",
       "deadline_timezone": "UTC",
       "opens_on": "",
       "open_now": false,
@@ -3159,7 +3531,7 @@
         "Mentor and training"
       ],
       "action": "Read the official page for the current call and its dates.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -3296,7 +3668,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "2026-11-15",
       "deadline_utc": "",
-      "deadline_text": "\"Applications close | 15 November 2026\" (ITU page, read 26 October 2026; no time or time zone stated); review and selection 16 November 2026 to 7 March 2027; champions announced 8 March 2027.",
+      "deadline_text": "\"Applications close | 15 November 2026\" (ITU page, read 2 November 2026; no time or time zone stated, no extension mentioned); review and selection 16 November 2026 to 7 March 2027; champions announced 8 March 2027.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "2026-09-21",
       "open_now": false,
@@ -3357,12 +3729,12 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "ITU Gender Champions (read 26 October 2026)",
+          "label": "ITU Gender Champions (read 2 November 2026)",
           "url": "https://www.itu.int/initiatives/gender-equality/gender-champions/",
           "type": "Official"
         },
         {
-          "label": "ITU terms of reference (PDF) (read 26 October 2026)",
+          "label": "ITU terms of reference (PDF) (read 2 November 2026)",
           "url": "https://www.itu.int/initiatives/gender-equality/wp-content/uploads/sites/9/2026/09/ITU-Gender-Champion-Programme-ToRs.pdf",
           "type": "Official"
         },
@@ -3379,7 +3751,7 @@
       ],
       "benefits": [],
       "action": "Read the ITU terms of reference and apply through the form linked on the ITU page before 15 November 2026.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -3387,7 +3759,7 @@
       "id": "jim-leech-mastercard-foundation-fellowship-2027",
       "title": "Jim Leech Mastercard Foundation Fellowship on Entrepreneurship",
       "organization": "Dunin-Deshpande Queen's Innovation Centre, Queen's University, with the Mastercard Foundation",
-      "overview": "Free eight-month online entrepreneurship programme for African students and recent graduates, with courses, coaching and micro-credentials from Queen's University. Apply by 1 December 2026.",
+      "overview": "Eight-month online entrepreneurship programme for African students and recent graduates, with courses, coaching and micro-credentials from Queen's University. Apply by 1 December 2026.",
       "category": [
         "Entrepreneurship",
         "Fellowship",
@@ -3402,11 +3774,11 @@
       "city": "Online",
       "location_type": "Remote",
       "delivery_mode": "Online",
-      "program_dates": "Eight-month programme",
+      "program_dates": "Eight-month programme: Phase 1 Explore (January-February), Phase 2 Ignite (March-April), Phase 3 Launch and Fellowship (May-August), graduation in August (year not stated on the page)",
       "duration": "Unknown / Not specified",
       "application_deadline": "2026-12-01",
       "deadline_utc": "",
-      "deadline_text": "Apply By December 1, 2026",
+      "deadline_text": "\"Apply By December 1, 2026\" (Queen's University programme page, read 2 November 2026; the button links to the Qualtrics application form). No time or time zone stated. The same page also still shows a link \"Sign up to be notified when applications launch!\"",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -3415,10 +3787,11 @@
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
       "status": "OPEN",
-      "funding_type": "Fully Funded",
+      "funding_type": "Funding Unclear",
       "funding_details": [
-        "Training, resources and mentors at no cost; digital badges and certificates are free of charge",
-        "Up to 60 Fellows selected in the final phase receive a stipend of CAD 500"
+        "Queen's page: \"Up to 60 Fellows will be selected in the final phase to receive a stipend of $500 CAD\"; the timeline on the same page says Fellows \"will receive a USD 350 stipend\"",
+        "Queen's page: \"Opportunities to pitch for prizes of up to $15,000 CAD in the pitch competition at the end of the program\"",
+        "\"All Queen's University digital badges and certificates are provided free of charge\"; the page does not mention an application or programme fee"
       ],
       "coverage": {
         "tuition": "Covered",
@@ -3439,7 +3812,7 @@
       "local_transport_funded": false,
       "application_fee": "No fee stated",
       "participation_fee": "None",
-      "stipend": "CAD 500 for up to 60 Fellows in the final phase",
+      "stipend": "Up to 60 Fellows in the final phase: \"$500 CAD\" in one section of the page, \"USD 350\" in the timeline section",
       "age_min": null,
       "age_max": null,
       "age_requirement": "Unknown / Not specified",
@@ -3452,14 +3825,17 @@
       "drc_eligible": "Yes",
       "language_requirement": "English, with language support for French-speaking learners",
       "eligibility": [
-        "African students and recent graduates"
+        "Students and recent graduates from all academic disciplines and any post-secondary institution in Africa",
+        "Already building a business or just exploring a new idea",
+        "Willing to dedicate at least 10 hours per week; fully virtual, at your own pace, but assignment deadlines must be met",
+        "Assignments and pitches must be completed in English (applicants not fluent in English may form a team with someone who is)"
       ],
       "other_requirements": [],
       "documents_required": [],
       "application_process": [
         "Apply online by 1 December 2026"
       ],
-      "official_application_url": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship",
+      "official_application_url": "https://queensu.qualtrics.com/jfe/form/SV_2skpzGTY6MedJJk",
       "official_information_url": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship",
       "source_url": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship",
       "source_type": "Official",
@@ -3467,14 +3843,22 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "Queen's University: Jim Leech Mastercard Foundation Fellowship",
+          "label": "Queen's University: Jim Leech Mastercard Foundation Fellowship (read 2 November 2026)",
           "url": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship",
+          "type": "Official"
+        },
+        {
+          "label": "Official application form (Qualtrics), linked from the Queen's page (opened 2 November 2026; content loads only with JavaScript)",
+          "url": "https://queensu.qualtrics.com/jfe/form/SV_2skpzGTY6MedJJk",
           "type": "Official"
         }
       ],
       "potential_issues": [
         "Definition of 'recent graduate' to confirm on the application form",
-        "Needs regular internet access over eight months, though content is downloadable"
+        "Needs regular internet access over eight months, though content is downloadable",
+        "The stipend is given as CAD 500 in one place and USD 350 in another on the same page (read 2 November 2026)",
+        "The page links to a Queen's University fraud alert targeting international students: apply only through the official Queen's page and form",
+        "The page shows both \"Apply By December 1, 2026\" and \"Sign up to be notified when applications launch!\""
       ],
       "benefits": [
         "Micro-credentials from Queen's University",
@@ -3482,7 +3866,7 @@
         "French-language support"
       ],
       "action": "Read the official page, then apply before 2026-12-01.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -3517,7 +3901,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "No date for the 2028 Fellowship call on the official site (read 26 October 2026). The 2027 call opened on 22 September 2026 and closed on 13 October 2026.",
+      "expected_next_cycle": "No date for the 2028 Fellowship call on the official site (read 2 November 2026: \"Applications for the 2027 Mandela Washington Fellowship are now closed.\"). The 2027 call opened on 22 September 2026 and closed on 13 October 2026. A news item of 21 October 2026 about the 2027 Reciprocal Exchange Component concerns a different component, not a new Fellowship call.",
       "last_cycle_deadline": "2026-10-13",
       "status": "UPCOMING",
       "funding_type": "Fully Funded",
@@ -3617,7 +4001,7 @@
         "Possible six-week Professional Development Experience afterwards"
       ],
       "action": "Watch mandelawashingtonfellowship.org for the next call; the 2027 call ran from 22 September to 13 October 2026.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "[auto 2026-10-28] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
@@ -3644,13 +4028,13 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "\"Roles will be posted on an ongoing basis\" (Mastercard Foundation page, read 26 October 2026). Under 'Where to Apply' the page now lists Yes Youth Employment Service ('Apply for South and Southern African roles') and Talent 2 Africa ('Francophone Africa', link to academy4africa.com/careers); Jobberman, Shortlist Futures and Talenteum are under 'Closed for Applications'. No deadline is stated.",
+      "deadline_text": "No deadline is stated. Under 'Where to Apply' the Mastercard Foundation page lists Yes Youth Employment Service ('Apply for South and Southern African roles') and Talent 2 Africa ('Francophone Africa'); Jobberman, Shortlist Futures and Talenteum are under 'Closed for Applications' (read 2 November 2026).",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Roles are posted on an ongoing basis by partner platforms. On 26 October 2026 the Francophone Africa platform (Talent 2 Africa) was listed under 'Where to Apply'; its careers page showed only a spontaneous application ('Programme Associés Mastercard Foundation – Candidature Spontanée') with no location or deadline, and no platform named the DRC.",
+      "expected_next_cycle": "Roles are posted on an ongoing basis by partner platforms. On 2 November 2026 the Talent 2 Africa careers page still showed only 'Programme Associés Mastercard Foundation – Candidature Spontanée', with no location or deadline, and no platform named the DRC.",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -3701,12 +4085,12 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "Mastercard Foundation Associates Program (read 26 October 2026)",
+          "label": "Mastercard Foundation Associates Program (read 2 November 2026)",
           "url": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/",
           "type": "Official"
         },
         {
-          "label": "Talent 2 Africa careers page, linked from the Mastercard Foundation page for Francophone Africa (read 26 October 2026)",
+          "label": "Talent 2 Africa careers page, linked from the Mastercard Foundation page for Francophone Africa (read 2 November 2026)",
           "url": "https://academy4africa.com/careers",
           "type": "Official"
         },
@@ -3722,14 +4106,14 @@
         }
       ],
       "potential_issues": [
-        "No platform names the DRC; the Francophone Africa partner's careers page shows only a spontaneous application, with no location or deadline (read 26 October 2026)",
+        "No platform names the DRC; the Francophone Africa partner's careers page shows only a spontaneous application, with no location or deadline (read 2 November 2026)",
         "Apply only for roles in your country of residence or remote roles",
         "Age, education and experience rules are not stated on the official page",
         "Aggregator details (age 18-34, Jobberman cohort) conflict with the official page"
       ],
       "benefits": [],
       "action": "Check the Talent 2 Africa careers page, linked from the Mastercard Foundation page for Francophone Africa, for roles in the DRC or remote roles.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -3761,7 +4145,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Next cohort not announced; the Forward overview page (read 26 October 2026) says 'Stay connected and be the first to get notified when applications reopen in your country'.",
+      "expected_next_cycle": "Next cohort not announced; the Forward overview page (read 2 November 2026) gives no dates and says 'Stay connected and be the first to get notified when applications reopen in your country'.",
       "last_cycle_deadline": "2026-10-05",
       "status": "UPCOMING",
       "funding_type": "Free",
@@ -3839,7 +4223,7 @@
         "Skills that employers in the target roles ask for"
       ],
       "action": "Register interest on the McKinsey.org Forward page to be told when the next cycle opens.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "[auto 2026-10-20] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
@@ -3870,7 +4254,7 @@
       "duration": "3 months",
       "application_deadline": "2026-11-15",
       "deadline_utc": "",
-      "deadline_text": "Posted 15 October 2026; the official Novartis Workday posting REQ-10089124 shows an end date of 15 November 2026 (read 26 October 2026). No closing time is stated. Opportunity Desk also reports a 15 November 2026 deadline.",
+      "deadline_text": "Posted 15 October 2026; the official Novartis Workday posting REQ-10089124 shows an end date of 15 November 2026 and still accepts applications (read 2 November 2026). No closing time is stated. Opportunity Desk also reports a 15 November 2026 deadline.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "2026-10-15",
       "open_now": true,
@@ -3934,12 +4318,12 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "Novartis careers: Next Generation Scientist 2027, REQ-10089124 (read 26 October 2026)",
+          "label": "Novartis careers: Next Generation Scientist 2027, REQ-10089124 (read 2 November 2026)",
           "url": "https://www.novartis.com/careers/career-search/job/details/req-10089124-next-generation-scientist-2027",
           "type": "Official"
         },
         {
-          "label": "Novartis Workday posting REQ-10089124 (posting dates 15 October to 15 November 2026) (read 26 October 2026)",
+          "label": "Novartis Workday posting REQ-10089124 (posting dates 15 October to 15 November 2026) (read 2 November 2026)",
           "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Basel-City/Next-Generation-Scientist-2027_REQ-10089124-1",
           "type": "Official"
         },
@@ -3957,7 +4341,7 @@
       ],
       "benefits": [],
       "action": "Read Novartis posting REQ-10089124 and apply on the Novartis careers site before 15 November 2026 if you are an MSc, PhD or MD student at a university in a low- or middle-income country.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": "Verification is PARTIALLY VERIFIED because the posting does not list the eligible countries or state the stipend amount."
     },
@@ -3980,13 +4364,13 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No deadline in the listing (dated 6 October 2025); the NRC job it linked to (no. 19202) is no longer on NRC's careers portal, and no Nashiriki, intern or Kinshasa posting was listed there on 26 October 2026.",
+      "deadline_text": "No deadline in the listing (dated 6 October 2025); the NRC job it linked to (no. 19202) is no longer on NRC's careers portal, and no Nashiriki, intern or Kinshasa posting was listed there on 2 November 2026.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "The next call has not been announced: no Nashiriki or internship posting on NRC's careers portal on 26 October 2026.",
+      "expected_next_cycle": "The next call has not been announced: no Nashiriki or internship posting on NRC's careers portal on 2 November 2026.",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -4042,20 +4426,20 @@
           "type": "Aggregator"
         },
         {
-          "label": "NRC careers portal (Oracle): 'Nashiriki', 'stagiaire' and 'Kinshasa' return no posting; the only DR Congo posting is a Field Office Coordinator in Beni (read 26 October 2026)",
+          "label": "NRC careers portal (Oracle): 'Nashiriki', 'stagiaire' and 'Kinshasa' return no posting; the only DR Congo posting is a Field Office Coordinator in Beni (read 2 November 2026)",
           "url": "https://ekum.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2019/",
           "type": "Official"
         }
       ],
       "potential_issues": [
-        "Closed: the linked NRC job (19202) is no longer on NRC's careers portal and searches for 'Nashiriki', 'stagiaire' and 'Kinshasa' returned no posting on 26 October 2026",
+        "Closed: the linked NRC job (19202) is no longer on NRC's careers portal and searches for 'Nashiriki', 'stagiaire' and 'Kinshasa' returned no posting on 2 November 2026",
         "The listing dates from October 2025",
         "Age limit and criteria come from an aggregator, not from NRC's own page",
         "Pay and duration not stated"
       ],
       "benefits": [],
       "action": "Watch the NRC careers portal for the next Nashiriki internship call.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -4080,13 +4464,13 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "'Applications live on November 9! Please check back here to apply, then.' (Leaders Africa page and Leaders page, read 26 October 2026). The pages give no year next to this date and no closing date; the Leaders Africa page now shows the 2026-2027 cohort and no longer says the 2026-2027 application is closed.",
+      "deadline_text": "'Applications live on November 9! Please check back here to apply, then.' (Leaders Africa page and Leaders page, read 2 November 2026). Applications were not yet open on 2 November 2026; the pages give no year next to this date and no closing date.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Applications for the next Leaders cohort open on 9 November, according to both official pages (read 26 October 2026); the pages state neither the year nor the closing date. The 2026-2027 cohort is the current one, so this is presumably the 2027-2028 call.",
+      "expected_next_cycle": "Applications for the next Leaders cohort open on 9 November, according to both official pages (read 2 November 2026); the pages state neither the year nor the closing date. The 2026-2027 cohort is the current one, so this is presumably the 2027-2028 call.",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -4142,12 +4526,12 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "Obama Foundation Leaders (read 26 October 2026): 'Applications live on November 9!', ages 24-45, Leaders Africa 'six-month, virtual'",
+          "label": "Obama Foundation Leaders (read 2 November 2026): 'Applications live on November 9!', ages 24-45, 'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply'",
           "url": "https://www.obama.org/programs/leaders/",
           "type": "Official"
         },
         {
-          "label": "Obama Foundation Leaders Africa (read 26 October 2026): 'Applications live on November 9! Please check back here to apply, then.'",
+          "label": "Obama Foundation Leaders Africa (read 2 November 2026): 'Applications live on November 9! Please check back here to apply, then.'; 'eight-month, hybrid' for 35 leaders",
           "url": "https://www.obama.org/programs/leaders/africa",
           "type": "Official"
         }
@@ -4155,7 +4539,7 @@
       "potential_issues": [
         "Minimum age of 24",
         "Costs are not stated on the pages read",
-        "The opening date '9 November' is given with no year and no closing date (pages read 26 October 2026)",
+        "The opening date '9 November' is given with no year and no closing date (pages read 2 November 2026)",
         "Expects an established record of community leadership",
         "The two official pages differ on the Africa format: 'six-month, virtual' (Leaders page) versus 'eight-month, hybrid' for 35 leaders (Leaders Africa page)",
         "Reported by secondary sources: the last Africa deadline was 12 December 2025, with at least 3 years of experience in the issue area"
@@ -4165,7 +4549,7 @@
         "Continental network of peers"
       ],
       "action": "Open the Leaders Africa page on or after 9 November (the page gives no year) to read the next application's rules and deadline.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -4194,7 +4578,7 @@
       "duration": "3 months",
       "application_deadline": "2026-11-04",
       "deadline_utc": "2026-11-05T04:59:59Z",
-      "deadline_text": "Posted 20 October 2026; closes 5 November 2026 at 04:59 UTC, which is 4 November 2026 at 23:59 New York time (UN Careers job opening 286456, read 26 October 2026).",
+      "deadline_text": "Posted 20 October 2026; closes 5 November 2026 at 04:59 UTC, which is 4 November 2026 at 23:59 New York time (UN Careers job opening 286456, read 2 November 2026; posting still active).",
       "deadline_timezone": "America/New_York",
       "opens_on": "2026-10-20",
       "open_now": false,
@@ -4260,7 +4644,7 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "UN Careers: Intern - Data Management and Administrative Support, job opening 286456 (read 26 October 2026); text read through the UN Careers public job-opening data",
+          "label": "UN Careers: Intern - Data Management and Administrative Support, job opening 286456 (read 2 November 2026); text read through the UN Careers public job-opening data",
           "url": "https://careers.un.org/jobSearchDescription/286456?language=en",
           "type": "Official"
         }
@@ -4272,7 +4656,7 @@
       ],
       "benefits": [],
       "action": "Read UN Careers job opening 286456 and apply through Inspira before 4 November 2026 (New York time) if you meet the degree and English requirements and can be in Yaoundé from 25 November 2026.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": ""
     },
@@ -4304,7 +4688,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "The AI session closed on 23 October 2026; no further D-CLIC call has been announced (OIF page and OIF youth portal, read 26 October 2026).",
+      "expected_next_cycle": "The AI session closed on 23 October 2026; no further D-CLIC call has been announced (OIF page and OIF youth portal, read 2 November 2026; the youth portal's AI-session article had been removed).",
       "last_cycle_deadline": "2026-10-23",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -4350,22 +4734,22 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "OIF: 300 young Congolese to be trained in digital professions",
+          "label": "OIF: 300 young Congolese to be trained in digital professions (read 2 November 2026, no new call)",
           "url": "https://www.francophonie.org/rdc-300-jeunes-congolais-vont-etre-formes-aux-metiers-du-numerique-8406",
           "type": "Official"
         },
         {
-          "label": "OIF: Formation en ligne dans le domaine de l'Intelligence artificielle, 22 October 2026, deadline brought forward to 23 October 2026 18:00 Paris time (read 26 October 2026)",
+          "label": "OIF: Formation en ligne dans le domaine de l'Intelligence artificielle, 22 October 2026, deadline brought forward to 23 October 2026 18:00 Paris time (read 26 October 2026; HTTP 403 on 2 November 2026)",
           "url": "https://www.francophonie.org/formation-en-ligne-dans-le-domaine-de-lintelligence-artificielle-8737",
           "type": "Official"
         },
         {
-          "label": "OIF youth portal: D-CLIC AI session, 'Date limite pour postuler : le 2 novembre 2026', training 12 to 16 weeks, about 10 hours a week (read 26 October 2026)",
+          "label": "OIF youth portal: D-CLIC AI session, 'Date limite pour postuler : le 2 novembre 2026', training 12 to 16 weeks, about 10 hours a week (read 26 October 2026; the page no longer existed on 2 November 2026)",
           "url": "https://jeunesse.francophonie.org/11-opportunites-jeunesse/4237-d-clic-une-nouvelle-session-de-formation-en-ligne-a-l-intelligence-artificielle",
           "type": "Official"
         },
         {
-          "label": "OIF youth portal: opportunities (read 26 October 2026)",
+          "label": "OIF youth portal: opportunities (read 2 November 2026, no new D-CLIC call)",
           "url": "https://jeunesse.francophonie.org/component/content/category/11-appels-d-offres-et-concours?Itemid=101",
           "type": "Official"
         },
@@ -4377,12 +4761,11 @@
       ],
       "potential_issues": [
         "No open call",
-        "The OIF youth portal still shows the AI session deadline as 2 November 2026, but the OIF page says it was brought forward to 23 October 2026",
         "The pages did not state age, degree, eligible countries or cost"
       ],
       "benefits": [],
       "action": "Watch the OIF youth portal and francophonie.org for the next D-CLIC call.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -4413,7 +4796,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "The 2026 call closed on 25 July 2026; the next call has not been announced. On 26 October 2026 the Université Senghor application platform listed seven open campaigns (archaeology and heritage, crisis management, performance management, impact evaluation, legislative engineering, coastal and marine tourism, public health communication) but no youth leadership certificate.",
+      "expected_next_cycle": "The 2026 call closed on 25 July 2026; the next call has not been announced. On 2 November 2026 the Université Senghor application platform listed five open campaigns (DU Archéologie et Patrimoine, DU Gestion des Aires Protégées, M2 Management de Projets Internationaux, certificate on African port issues, certificate on coastal and marine tourism) but no youth leadership certificate.",
       "last_cycle_deadline": "2026-07-25",
       "status": "UPCOMING",
       "funding_type": "Substantially Funded",
@@ -4484,7 +4867,7 @@
       ],
       "benefits": [],
       "action": "Watch candidature.usenghor.org for the 2027 call.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -4510,13 +4893,13 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "2026-10-31",
       "deadline_utc": "",
-      "deadline_text": "Application deadline: 31 October 2026. Opening date: 11 June 2026. Scholars are selected on a rolling basis and notified between June and October 2026. The same page also shows a heading \"Application Deadline: Rolling\" (read 26 October 2026). No time or time zone stated.",
+      "deadline_text": "Application deadline: 31 October 2026. Opening date: 11 June 2026. Scholars are selected on a rolling basis and notified between June and October 2026. The heading that read \"Application Deadline: Rolling\" on 26 October 2026 now reads \"Application Deadline: Closed\" (oneyoungworld.com, read 2 November 2026). No time or time zone stated.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "2026-06-11",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "",
+      "expected_next_cycle": "No 2027 Leading Scholarship was listed on the official One Young World scholarship pages read on 2 November 2026. The 2026 edition opened on 11 June 2026 and closed on 31 October 2026.",
       "last_cycle_deadline": "",
       "status": "DEADLINE PASSED",
       "funding_type": "Participation Funded",
@@ -4574,27 +4957,26 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "Leading Scholarship 2026 (read 26 October 2026)",
+          "label": "Leading Scholarship 2026 (read 2 November 2026)",
           "url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
           "type": "Official"
         },
         {
-          "label": "One Young World scholarships (read 26 October 2026)",
+          "label": "One Young World scholarships (read 2 November 2026)",
           "url": "https://www.oneyoungworld.com/scholarships",
           "type": "Official"
         }
       ],
       "potential_issues": [
-        "Nationality not on this scholarship's list: the list includes Congo-Brazzaville but not the Democratic Republic of the Congo (re-checked 26 October 2026)",
-        "Summit (3-6 November 2026) is days after the deadline and selection is rolling",
-        "The page shows both \"31 October 2026\" and \"Rolling\" as the deadline",
+        "Nationality not on this scholarship's list: the list includes Congo-Brazzaville but not the Democratic Republic of the Congo (re-checked 2 November 2026)",
+        "The 2026 call is closed (the page shows \"Application Deadline: Closed\" on 2 November 2026); the Summit is 3-6 November 2026",
         "Travel and hotel are decided case by case for this scholarship, although the general scholarships page calls the scholarships fully funded; the visa fee is paid by the scholar"
       ],
       "benefits": [
         "Access to the One Young World Summit and ambassador community"
       ],
-      "action": "Check that your nationality is on the list on the official page, then apply before 31 October 2026.",
-      "last_verified": "2026-10-26",
+      "action": "The 2026 call is closed; watch the One Young World scholarships page for the next Leading Scholarship and check whether the DRC is on its country list.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -4624,13 +5006,13 @@
       "duration": "10 months",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No open call on 26 October 2026: the 2026 application form linked from the Orange Corners RDC page says \"L'appel à candidature est clôturé!\". The organiser's FAQ says: \"Les applications au programme sont ouvertes entre décembre et janvier chaque année.\" The 8th-cohort call was reported by ACP on 12 February 2026.",
+      "deadline_text": "No open call on 2 November 2026: the official page still shows an 'APPLY NOW!' button, but the 2026 application form it links to says \"L'appel à candidature est clôturé!\". The organiser's FAQ says: \"Les applications au programme sont ouvertes entre décembre et janvier chaque année.\" The 8th-cohort call was reported by ACP on 12 February 2026.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Next call expected between December 2026 and January 2027, according to the organiser's FAQ (not yet announced on 26 October 2026)",
+      "expected_next_cycle": "Next call expected between December 2026 and January 2027, according to the organiser's FAQ (not yet announced on 2 November 2026)",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
       "funding_type": "Free",
@@ -4692,12 +5074,12 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "Orange Corners: République démocratique du Congo page and FAQ (read 26 October 2026)",
+          "label": "Orange Corners: République démocratique du Congo page and FAQ (read 2 November 2026)",
           "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
           "type": "Official"
         },
         {
-          "label": "Orange Corners RDC 2026 application form (Jotform, linked from the official page): closed (read 26 October 2026)",
+          "label": "Orange Corners RDC 2026 application form (Jotform, linked from the official page's 'APPLY NOW!' button through bit.ly/OCRDC2026): closed (read 2 November 2026)",
           "url": "https://form.jotform.com/260051591187557",
           "type": "Official"
         },
@@ -4715,7 +5097,7 @@
       ],
       "benefits": [],
       "action": "Watch the Orange Corners RDC page and its official social media accounts for the next call, expected between December 2026 and January 2027.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": "Programme aims stated on the page: support 175 young entrepreneurs and introduce more than 5,000 students to entrepreneurship."
     },
@@ -4815,14 +5197,15 @@
       "potential_issues": [
         "No current calendar found online",
         "The Orange Digital Center country site has a certificate error and could not be read",
-        "12 October 2026: the Orange Digital Center country site (orangedigitalcenters.com/country/cd) still fails with a certificate error and was not read; no current training calendar found"
+        "12 October 2026: the Orange Digital Center country site (orangedigitalcenters.com/country/cd) still fails with a certificate error and was not read; no current training calendar found",
+        "2 November 2026: orangedigitalcenters.com/country/cd (without 'www') shows only a 'Coming soon' page announcing a new Orange Digital Center platform; the 'www' address still fails with a certificate error and was not read; no training calendar found"
       ],
       "benefits": [
         "Free, local and in person",
         "Digital skills and coaching"
       ],
-      "action": "Read the official page for the current call and its dates.",
-      "last_verified": "2026-10-02",
+      "action": "Contact the Orange Digital Center in Kinshasa through Orange RDC's official channels for the next training dates; the new platform is not online yet.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -4848,13 +5231,13 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "6th edition: 07 June 2025 at 16:00, Kinshasa time. No 7th edition was found on 26 October 2026: the Rawbank recruitment site lists one new offer (Responsable Service Assurances & Transfert des Risques, dated 22/10/2026) and older offers dated 22/12/2022, and no RawTalent call.",
+      "deadline_text": "6th edition: 07 June 2025 at 16:00, Kinshasa time. No 7th edition was found on 2 November 2026: the Rawbank recruitment site lists 12 offers, one new (Administrateur Plateforme Illicocash, Kinshasa, dated 30/10/2026) and the others dated 2022, and no RawTalent call.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "A 7th edition has not been announced (Rawbank recruitment site checked 26 October 2026).",
+      "expected_next_cycle": "A 7th edition has not been announced (Rawbank recruitment site checked 2 November 2026).",
       "last_cycle_deadline": "2025-06-07",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -4928,12 +5311,12 @@
       "potential_issues": [
         "Closed",
         "Requires a Bac+5 level in the 6th edition",
-        "The Rawbank recruitment site lists few offers (one dated 22/10/2026, the others dated December 2022)",
+        "The Rawbank recruitment site lists few offers (one dated 30/10/2026, the others dated December 2022)",
         "Rawbank recruitment site: 'La Rawbank n'exige aucun frais pour le dépôt des candidatures'; any request for a fee is a scam"
       ],
       "benefits": [],
       "action": "Watch the Rawbank recruitment site and Rawbank news for a 7th RawTalents edition.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -4959,7 +5342,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Cohort dates and deadlines are shown in the application portal, not on the public page read.",
+      "deadline_text": "No open call, cohort dates or deadline on the public page (read 2 November 2026); dates are shown in the application portal.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -5039,7 +5422,7 @@
         "Regional network across 14 countries"
       ],
       "action": "Read the official page for the current call and its dates.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -5049,126 +5432,132 @@
       ]
     },
     {
-      "id": "safetech-africa-hacklab-2026",
-      "title": "SafeTech Africa HackLab 2026: youth social innovation challenge",
-      "organization": "UNFPA (East and Southern Africa and West and Central Africa regions) with the Spotlight Initiative, the African Union and other UN partners",
-      "overview": "A youth innovation challenge for young Africans aged 18 to 35 with digital or community solutions against technology-facilitated violence, child marriage and FGM; finalists get virtual mentorship and pitch at the YouthConnekt Africa Summit.",
+      "id": "sir-cyril-taylor-young-african-leaders-2027",
+      "title": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly)",
+      "organization": "AFS Youth Assembly, with grant support from the Sir Cyril Taylor Charitable Foundation",
+      "overview": "A 12-month programme for 10 young leaders aged 18-35 from Sub-Saharan Africa: an online AFS Global Competence Certificate, preparation workshops, the AFS Youth Assembly and an \"Effect+ in the Community\" workshop in Switzerland in August 2027, then a 6-month local impact project with seed funding and mentoring. Participants must run the workshop for at least 100 young people at home. The organiser describes it as fully funded, with travel and accommodation for the Youth Assembly covered.",
       "category": [
-        "Competition or Award",
-        "Entrepreneurship"
+        "Leadership",
+        "Fellowship",
+        "Summit or Event"
       ],
       "audience": [
         "university-student",
         "recent-graduate",
+        "graduate",
         "young-professional",
-        "entrepreneur"
+        "any-adult"
       ],
-      "country": "Online",
-      "city": "Online",
-      "location_type": "Remote",
-      "delivery_mode": "Online",
-      "program_dates": "Applications 29 September to 18 October 2026; virtual showcase for shortlisted teams; final pitch at the YouthConnekt Africa Summit in November 2026",
-      "duration": "Unknown / Not specified",
-      "application_deadline": "2026-10-18",
-      "deadline_utc": "2026-10-18T21:59:00Z",
-      "deadline_text": "\"Closing Date: 18 October 2026 (23:59 CAT)\" (Spotlight Initiative and UNFPA East and Southern Africa call pages, re-read 19 October 2026; no extension is mentioned).",
-      "deadline_timezone": "Africa/Maputo",
-      "opens_on": "2026-09-29",
-      "open_now": false,
+      "country": "Switzerland",
+      "city": "Geneva",
+      "location_type": "Abroad outside Africa",
+      "delivery_mode": "Hybrid",
+      "program_dates": "12 months; AFS Youth Assembly and \"Effect+ in the Community\" workshop in Switzerland in August 2027 (exact days not stated); online certificate and workshops before; 6-month impact project after",
+      "duration": "12 months",
+      "application_deadline": "2026-11-19",
+      "deadline_utc": "2026-11-19T23:59:00Z",
+      "deadline_text": "\"Application Deadline: November 19, 2026 23:59 UTC\" (AFS Youth Assembly announcement posted 16 October 2026, read 2 November 2026). The organiser adds: \"Applications will be reviewed on a first come first served basis.\"",
+      "deadline_timezone": "UTC",
+      "opens_on": "2026-10-16",
+      "open_now": true,
       "rolling": false,
-      "recurring": false,
+      "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
-      "funding_type": "Funding Unclear",
+      "status": "OPEN",
+      "funding_type": "Fully Funded",
       "funding_details": [
-        "Call: \"Four winners will receive seed grants ranging between USD 5,000 to USD 10,000.\"",
-        "Shortlisted finalists receive pitch coaching and present live at the YouthConnekt Africa Summit; travel for the pitch is not described."
+        "AFS Youth Assembly: \"This is a 12-month fully funded scholarship that covers the costs of participating in all program elements listed below.\"",
+        "AFS Youth Assembly: \"Travel and accommodation for the AFS Youth Assembly will be covered for the participants in this program.\"",
+        "Seed funding is provided for the impact project; the amount is not stated."
       ],
       "coverage": {
-        "tuition": "Not specified",
+        "tuition": "Covered",
         "stipend": "Not specified",
-        "flight": "Not specified",
-        "accommodation": "Not specified",
+        "flight": "Covered",
+        "accommodation": "Covered",
         "meals": "Not specified",
         "visa": "Not specified",
         "insurance": "Not specified",
         "local_transport": "Not specified"
       },
-      "travel_funded": false,
-      "flight_funded": false,
-      "accommodation_funded": false,
+      "travel_funded": true,
+      "flight_funded": true,
+      "accommodation_funded": true,
       "meals_funded": false,
       "visa_funded": false,
       "insurance_funded": false,
       "local_transport_funded": false,
       "application_fee": "No fee stated",
       "participation_fee": "No fee stated",
-      "stipend": "None",
+      "stipend": "None stated; seed funding for the impact project (amount not stated)",
       "age_min": 18,
       "age_max": 35,
-      "age_requirement": "\"Young African Innovators (Ages 18–35)\"",
-      "experience_level": "None required",
-      "experience_requirement": "An original, practical innovative idea or solution; no prior experience is stated",
+      "age_requirement": "\"18-35 years old\"",
+      "experience_level": "Some experience needed",
+      "experience_requirement": "\"Have demonstrable leadership qualities or proven track record of leadership experience\"; leading a social impact project related to the SDGs is preferred, not required",
       "education_requirement": "Unknown / Not specified",
       "nationality_requirements": [
-        "UNFPA page: \"Open to young innovators residing in Eastern and Southern Africa\" (links to a country list); it also names Burkina Faso, Ghana, Niger and Sierra Leone in West and Central Africa, where solutions on child marriage are strongly encouraged. The DRC is not named on either page as read."
+        "\"Must be from a Sub-Saharan African country\" (the DRC is in Sub-Saharan Africa)"
       ],
-      "drc_eligible": "Unclear",
-      "language_requirement": "Unknown / Not specified (call published in English)",
+      "drc_eligible": "Yes",
+      "language_requirement": "\"Proficient in English (Intermediate Level)\"",
       "eligibility": [
-        "Aged 18 to 35",
-        "Young African innovators, social entrepreneurs or digital rights advocates, individually or in teams",
-        "Solution under one of three themes: safe physical and community spaces, safe information spaces, safe digital spaces",
-        "Teams of 2 to 5 are strongly encouraged",
-        "Solution at concept, early prototype or early pilot stage; one category only"
+        "Aged 18-35",
+        "From a Sub-Saharan African country",
+        "Demonstrable leadership qualities or a track record of leadership",
+        "Unexpired passport",
+        "Able to attend the Youth Assembly in Geneva, Switzerland, in person in August 2027",
+        "Intermediate English",
+        "Interest in global affairs, sustainable development and youth issues",
+        "Leading a social impact project related to the SDGs (preferred)"
       ],
-      "other_requirements": [],
+      "other_requirements": [
+        "After returning home, run the \"Effect+ in the Community\" workshop for at least 100 young people",
+        "Work on an impact project for 6 months with mentoring"
+      ],
       "documents_required": [
-        "Team lead and member details",
-        "Problem statement (max 200 words)",
-        "Innovation description (max 700 words)",
-        "12-month implementation roadmap",
-        "Digital safety and inclusion note"
+        "Unexpired passport"
       ],
       "application_process": [
-        "Read the call on the Spotlight Initiative page",
-        "Submit through the online form linked from that page before 18 October 2026"
+        "Apply through the \"Apply Now\" form linked from the AFS Youth Assembly announcement before 19 November 2026, 23:59 UTC",
+        "The organiser encourages early applications because visa processing can take several months, and discourages using AI to write the narrative"
       ],
-      "official_application_url": "https://forms.gle/ygJb48Kpk6KLwbGQA",
-      "official_information_url": "https://www.spotlightinitiative.org/latest/events/safetech-africa-hacklab-innovating-safe-spaces-call-applications",
-      "source_url": "https://www.spotlightinitiative.org/latest/events/safetech-africa-hacklab-innovating-safe-spaces-call-applications",
+      "official_application_url": "https://forms.gle/VEYy2UHv22nHGDbBA",
+      "official_information_url": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
+      "source_url": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "PARTIALLY VERIFIED",
+      "verification": "VERIFIED",
       "sources": [
         {
-          "label": "Spotlight Initiative: SafeTech Africa HackLab call",
-          "url": "https://www.spotlightinitiative.org/latest/events/safetech-africa-hacklab-innovating-safe-spaces-call-applications",
+          "label": "AFS Youth Assembly: Apply Now for the 2027 Sir Cyril Taylor Young African Leaders Program (posted 16 October 2026, read 2 November 2026)",
+          "url": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
           "type": "Official"
         },
         {
-          "label": "Opportunities for Africans",
-          "url": "https://www.opportunitiesforafricans.com/spotlight-initiative-safetech-africa-hacklab-2026-for-young-african-innovators/",
+          "label": "Opportunity Desk listing that led to the official page (read 2 November 2026)",
+          "url": "https://opportunitydesk.org/2026/10/26/sir-cyril-taylor-young-african-leaders-program-2027/",
           "type": "Aggregator"
-        },
-        {
-          "label": "UNFPA East and Southern Africa: SafeTech Africa HackLab call",
-          "url": "https://esaro.unfpa.org/en/vacancies/youth-social-innovation-challenge-%E2%80%9926-safetech-africa-hacklab",
-          "type": "Official"
         }
       ],
       "potential_issues": [
-        "Closed on 18 October 2026; no extension announced",
-        "Whether DRC residents qualify is not clear: the residency rule names Eastern and Southern Africa and four West and Central African countries, not the DRC",
-        "Only four winners receive grants",
-        "The UNFPA page links to a different Google Form from the Spotlight Initiative page; one focal-point email address on the UNFPA page is malformed"
+        "Only 10 places; the second edition received almost 6,000 applications",
+        "Requires a Swiss visa and an unexpired passport; visa costs are not stated as covered",
+        "Applications reviewed first come, first served",
+        "Application is through a Google Form linked from the official announcement"
       ],
-      "benefits": [],
-      "action": "This call closed on 18 October 2026; watch the UNFPA and Spotlight Initiative pages for a future edition.",
-      "last_verified": "2026-10-19",
-      "date_discovered": "2026-10-12",
-      "notes": ""
+      "benefits": [
+        "AFS Global Competence Certificate (online)",
+        "Pre-Youth Assembly preparation workshops",
+        "Travel and accommodation to the AFS Youth Assembly in Switzerland, August 2027",
+        "\"Effect+ in the Community\" workshop in Switzerland",
+        "Seed funding and 6 months of mentoring for an impact project"
+      ],
+      "action": "Read the AFS Youth Assembly announcement and apply through its form before 19 November 2026, 23:59 UTC, if you are 18-35, from Sub-Saharan Africa, hold a valid passport and can travel to Geneva in August 2027.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": "Third edition; the first two editions selected leaders from Uganda, Kenya, Nigeria, Mali, South Africa, Ghana, Malawi and Namibia."
     },
     {
       "id": "tony-elumelu-entrepreneurship-programme-2027",
@@ -5190,7 +5579,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "2027-03-01",
       "deadline_utc": "",
-      "deadline_text": "'Every year, the application portal opens on the 1st of January till midnight on the 1st of March' (TEF programme page, read 12 October 2026; the page still gave this yearly window on 26 October 2026). No 2027-specific dates on the page; the 2027 dates stored here follow that yearly pattern.",
+      "deadline_text": "'Every year, the application portal opens on the 1st of January till midnight on the 1st of March' (TEF programme page, read 12 October 2026; the page still gave this yearly window on 2 November 2026). No 2027-specific dates on the page; the 2027 dates stored here follow that yearly pattern.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "2027-01-01",
       "open_now": false,
@@ -5280,7 +5669,7 @@
         "Alumni network across Africa"
       ],
       "action": "Read the official page, then apply between 2027-01-01 and 2027-03-01.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -5309,7 +5698,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No deadline shown on the listing when last read: dated 'Publiée le 16.10.2026' and still showing 'Postuler' (emploi.cd, read 19 October 2026). On 26 October 2026 emploi.cd returned a Cloudflare bot check (HTTP 403) to both readers, so the current status could not be checked.",
+      "deadline_text": "No deadline shown on the listing when last read: dated 'Publiée le 16.10.2026' and still showing 'Postuler' (emploi.cd, read 19 October 2026). On 26 October and 2 November 2026 emploi.cd returned a Cloudflare bot check (HTTP 403) to both readers, so the current status could not be checked.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": true,
@@ -5367,15 +5756,15 @@
       "verification": "NEEDS VERIFICATION",
       "sources": [
         {
-          "label": "emploi.cd listing: Stagiaire Assistant Administratif - Kinshasa (read 19 October 2026; blocked by a Cloudflare bot check, HTTP 403, on 26 October 2026)",
+          "label": "emploi.cd listing: Stagiaire Assistant Administratif - Kinshasa (read 19 October 2026; blocked by a Cloudflare bot check, HTTP 403, on 26 October and 2 November 2026)",
           "url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/stagiaire-assistant-administratif-kinshasa-491788",
           "type": "Aggregator"
         }
       ],
       "potential_issues": [
-        "Job-board listing only; posted by TRANSSION HOLDINGS 'pour le compte de l'un de nos Clients' (the duties mention the Infinix team); no posting found on a Transsion, Infinix or Carlcare page (searches on 26 October 2026 found no official Transsion careers page; transsion.com returned HTTP 500)",
+        "Job-board listing only; posted by TRANSSION HOLDINGS 'pour le compte de l'un de nos Clients' (the duties mention the Infinix team); no posting found on a Transsion, Infinix or Carlcare page (searches on 26 October and 2 November 2026 found no official Transsion careers page or other copy of the posting)",
         "The listing has been re-dated several times on emploi.cd (2 October, 9 October, then 16 October 2026)",
-        "Status not re-checked on 26 October 2026: emploi.cd blocked automated readers (Cloudflare bot check); the listing may have expired or been re-dated again",
+        "Status not re-checked since 19 October 2026: emploi.cd blocked automated readers (Cloudflare bot check, HTTP 403) on 26 October and 2 November 2026; the listing may have expired or been re-dated again",
         "Pay and duration not stated"
       ],
       "benefits": [],
@@ -5404,13 +5793,13 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No open UN internship in Kinshasa was found on 26 October 2026. Official portals read: UNDP (one Kinshasa vacancy, UNCDF Administration and Finance Analyst, NPSA-8, a staff post), UNFPA (four Kinshasa staff posts posted 21 October 2026), WFP (Risk and Compliance Officer and Logistics Officer posts in Kinshasa), UNICEF (Senior Finance Associate, Chief of Communication and a consultancy) and UNESCO (one National Officer post). The two UNFPA Kinshasa internships (Logistics Administrative Support; Warehouse & Inventory Support) seen on unvacancies.org closed on 7 October 2026 (secondary). untalent.org and unjobs.org again refused automated reading (HTTP 403); UN Careers showed no listings to an automated reader, and the UNOPS portal returned HTTP 503.",
+      "deadline_text": "No open UN internship or UN Volunteer post in the DRC was found on 2 November 2026. Official portals read: UNDP (one Kinshasa vacancy, Monitoring and Evaluation and Risk Management Team Lead, a staff post), UNFPA (no DRC posting), WFP (PSEA Officer and Risk and Compliance Officer in Kinshasa, Management Services Officer in Goma, Head of Programme in Bukavu), UNICEF (Supply Associate and two consultancies in the DRC; its internship search listed internships in China, Italy, Algeria, Indonesia, Senegal and the Central African Republic, none in the DRC) and UNESCO (one National Officer post). unvacancies.org listed eight Kinshasa posts, none an internship. untalent.org and unjobs.org refused automated reading (HTTP 403); UN Careers, WHO and the UN Volunteers platform showed no listings to an automated reader, and the UNOPS portal returned HTTP 503.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Agencies post internship calls at different times of the year; none was open in Kinshasa on 26 October 2026. Set an alert for Kinshasa on untalent.org and unjobs.org.",
+      "expected_next_cycle": "Agencies post internship calls at different times of the year; none was open in the DRC on 2 November 2026. Set an alert for Kinshasa on untalent.org and unjobs.org.",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -5456,58 +5845,73 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "UN Talent: internships in Kinshasa (HTTP 403 on 26 October 2026)",
+          "label": "UN Talent: internships in Kinshasa (HTTP 403 on 2 November 2026)",
           "url": "https://untalent.org/jobs/in-anything/contract-internship/kinshasa",
           "type": "Aggregator"
         },
         {
-          "label": "UNjobs: Kinshasa vacancies (HTTP 403 on 26 October 2026)",
+          "label": "UNjobs: Kinshasa vacancies (HTTP 403 on 2 November 2026)",
           "url": "https://unjobs.org/duty_stations/fih",
           "type": "Aggregator"
         },
         {
-          "label": "UN Careers (Secretariat, MONUSCO) job openings",
+          "label": "UN Careers (Secretariat, MONUSCO) job openings (no listings shown to an automated reader on 2 November 2026)",
           "url": "https://careers.un.org/jobopening?language=en",
           "type": "Official"
         },
         {
-          "label": "UNICEF careers: search 'kinshasa' (read 26 October 2026, no internship)",
+          "label": "UNICEF careers: searches 'kinshasa', 'congo' and 'intern' (read 2 November 2026, no internship in the DRC)",
           "url": "https://jobs.unicef.org/en-us/search/?search-keyword=kinshasa",
           "type": "Official"
         },
         {
-          "label": "WFP careers (Workday), read 26 October 2026, no internship in the DRC",
+          "label": "WFP careers (Workday), read 2 November 2026, no internship in the DRC",
           "url": "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
           "type": "Official"
         },
         {
-          "label": "UNFPA vacancy portal, read 26 October 2026, no internship in Kinshasa",
+          "label": "UNFPA vacancy portal, read 2 November 2026, no posting in the DRC",
           "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/",
           "type": "Official"
         },
         {
-          "label": "UNDP vacancy portal, read 26 October 2026, no internship in Kinshasa",
+          "label": "UNDP vacancy portal, read 2 November 2026, no internship in the DRC",
           "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/",
           "type": "Official"
         },
         {
-          "label": "UNESCO careers: search 'Kinshasa' (read 26 October 2026, no internship)",
+          "label": "UNESCO careers: search 'Kinshasa' (read 2 November 2026, no internship)",
           "url": "https://careers.unesco.org/search/?q=Kinshasa",
           "type": "Official"
         },
         {
-          "label": "UNVacancies: Kinshasa (read 26 October 2026, no internship)",
+          "label": "UNVacancies: Kinshasa (read 2 November 2026, eight posts, no internship or UN Volunteer post)",
           "url": "https://unvacancies.org/jobs/location/kinshasa",
           "type": "Aggregator"
+        },
+        {
+          "label": "WHO careers (Taleo): job search page showed no listings to an automated reader on 2 November 2026",
+          "url": "https://careers.who.int/careersection/ex/jobsearch.ftl",
+          "type": "Official"
+        },
+        {
+          "label": "UNOPS vacancies (HTTP 503 on 2 November 2026)",
+          "url": "https://jobs.unops.org/Pages/ViewVacancy/VAListing.aspx",
+          "type": "Official"
+        },
+        {
+          "label": "UN Volunteers platform (the page loads no listings for an automated reader on 2 November 2026)",
+          "url": "https://app.unv.org/",
+          "type": "Official"
         }
       ],
       "potential_issues": [
         "A watch entry, not an open call",
-        "untalent.org and unjobs.org refused automated readers on 26 October 2026 (HTTP 403); UN Careers showed no listings to an automated reader; the UNOPS portal returned HTTP 503; WHO was not checked"
+        "untalent.org and unjobs.org refused automated readers on 2 November 2026 (HTTP 403); UN Careers, WHO and the UN Volunteers platform showed no listings to an automated reader; the UNOPS portal returned HTTP 503"
       ],
       "benefits": [],
       "action": "Create e-mail alerts on untalent.org and unjobs.org for Kinshasa and check the agencies' career portals.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -5528,11 +5932,11 @@
       "city": "Abidjan",
       "location_type": "Abroad in Africa",
       "delivery_mode": "In-person",
-      "program_dates": "Unknown / Not specified",
+      "program_dates": "\"Expected duration 6 Months\" (UN Careers job opening 286269); start date not stated",
       "duration": "6 months",
       "application_deadline": "2026-11-04",
       "deadline_utc": "2026-11-05T04:59:59Z",
-      "deadline_text": "Posted 21 October 2026; closes 5 November 2026 at 04:59 UTC, which is 4 November 2026 at 23:59 New York time (UN Careers job opening 286269, read 26 October 2026). Duty stations listed: Abidjan, Nairobi; work location stated as \"In-Person, Abidjan, Côte d'Ivoire\".",
+      "deadline_text": "Posted 21 October 2026; closes 5 November 2026 at 04:59 UTC, which is 4 November 2026 at 23:59 New York time (UN Careers job opening 286269, read 2 November 2026; posting still active). Duty stations listed: Abidjan, Nairobi; work location stated as \"In-Person, Abidjan, Côte d'Ivoire\".",
       "deadline_timezone": "America/New_York",
       "opens_on": "2026-10-21",
       "open_now": false,
@@ -5599,7 +6003,7 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "UN Careers: Programme Management Intern (UN-Habitat), job opening 286269 (read 26 October 2026); text read through the UN Careers public job-opening data",
+          "label": "UN Careers: Programme Management Intern (UN-Habitat), job opening 286269 (read 2 November 2026); text read through the UN Careers public job-opening data",
           "url": "https://careers.un.org/jobSearchDescription/286269?language=en",
           "type": "Official"
         }
@@ -5607,11 +6011,11 @@
       "potential_issues": [
         "Unpaid: travel, visa, accommodation and living costs are the intern's own",
         "Based in Abidjan, not in the DRC",
-        "Start date not stated on the posting"
+        "Six months expected; start date not stated on the posting"
       ],
       "benefits": [],
       "action": "Read UN Careers job opening 286269 and apply through Inspira before 4 November 2026 (New York time) if you meet the degree, field-of-study and French requirements.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": ""
     },
@@ -5836,7 +6240,7 @@
       "duration": "10 months",
       "application_deadline": "2026-11-16",
       "deadline_utc": "2026-11-16T22:59:59Z",
-      "deadline_text": "\"Nov 16, 2026, 11:59 PM GMT+1\" (official application portal, read 26 October 2026); the Unearthodox open call says applications are open from 15 September to 16 November 2026.",
+      "deadline_text": "\"Nov 16, 2026, 11:59 PM GMT+1\" (official application portal, read 2 November 2026); the Unearthodox open call says applications are open from 15 September to 16 November 2026. No extension mentioned.",
       "deadline_timezone": "UTC+1",
       "opens_on": "2026-09-15",
       "open_now": false,
@@ -5844,7 +6248,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "Unearthodox: \"CHF 10,000 to help move your initiative forward\" plus about \"CHF 60,000 in value of non-financial, tailored support\" for selected initiatives."
@@ -5896,12 +6300,12 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "Unearthodox: open call (read 26 October 2026)",
+          "label": "Unearthodox: open call (read 2 November 2026)",
           "url": "https://unearthodox.org/2026/09/open-call-edges-of-possibility-exploration-co-lab-2027/",
           "type": "Official"
         },
         {
-          "label": "Application portal linked by Unearthodox (read 26 October 2026)",
+          "label": "Application portal linked by Unearthodox (read 2 November 2026)",
           "url": "https://apply.younoodle.com/showcase/competition/edges_of_possibility_2027",
           "type": "Official"
         }
@@ -5912,7 +6316,7 @@
       ],
       "benefits": [],
       "action": "Read the open call and apply on the linked portal before 16 November 2026.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -6157,13 +6561,13 @@
       "duration": "6 months",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "The 2026 round closed on 25 May 2026. Searches of jobs.unicef.org on 26 October 2026 ('kinshasa', 'congo', 'intern', 'stagiaire') showed no internship in the DRC: DRC results were staff and consultant posts only (Kinshasa, Goma, Bunia).",
+      "deadline_text": "The 2026 round closed on 25 May 2026. Searches of jobs.unicef.org on 2 November 2026 ('congo', 'intern') showed no internship in the DRC: DRC results were a Supply Associate temporary post and consultancies only; the internships listed were in other countries (for example Senegal and the Central African Republic).",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "No new UNICEF DRC internship call on jobs.unicef.org on 26 October 2026. UNICEF posts internship calls there.",
+      "expected_next_cycle": "No new UNICEF DRC internship call on jobs.unicef.org on 2 November 2026. UNICEF posts internship calls there.",
       "last_cycle_deadline": "2026-05-25",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -6229,18 +6633,18 @@
           "type": "Aggregator"
         },
         {
-          "label": "UNICEF careers: search for Kinshasa, no DRC internship (read 26 October 2026)",
-          "url": "https://jobs.unicef.org/en-us/search/?search-keyword=kinshasa",
+          "label": "UNICEF careers: searches for 'congo' and 'intern', no DRC internship (read 2 November 2026)",
+          "url": "https://jobs.unicef.org/en-us/search/?search-keyword=congo",
           "type": "Official"
         }
       ],
       "potential_issues": [
-        "No round is open on 26 October 2026",
+        "No round is open on 2 November 2026",
         "Age and enrolment rules come from one of the 2026 posts, read through an aggregator"
       ],
       "benefits": [],
       "action": "Set an alert on untalent.org and unjobs.org for Kinshasa and check jobs.unicef.org each spring.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -6272,7 +6676,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Partially Funded",
       "funding_details": [
         "UNU: interns who receive no financial support from other sources \"will receive a stipend from UNU to partially subsidise their basic living costs\"; academic scholarships do not count as other support. The amount is not stated on the page.",
@@ -6377,7 +6781,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "2026-11-08",
       "deadline_utc": "",
-      "deadline_text": "Submit the application online with completed and required materials by November 8, 2026 (UTC/GMT+8) (USTC International College page, read 26 October 2026)",
+      "deadline_text": "Submit the application online with completed and required materials by November 8, 2026 (UTC/GMT+8) (USTC International College page, read 2 November 2026; no extension mentioned)",
       "deadline_timezone": "UTC+8",
       "opens_on": "",
       "open_now": false,
@@ -6444,7 +6848,7 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "USTC International Winter Camp 2027 (read 26 October 2026)",
+          "label": "USTC International Winter Camp 2027 (read 2 November 2026)",
           "url": "https://ic.ustc.edu.cn/?abroad=179",
           "type": "Official"
         },
@@ -6464,7 +6868,7 @@
         "Possible fellowship with travel subsidy and stipend"
       ],
       "action": "Read the official page, then apply before 2026-11-08.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": "",
       "match_keywords": [
@@ -6491,13 +6895,13 @@
       "duration": "24 months",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "2026 edition: 18 June 2026. On 26 October 2026 the Vodacom RDC careers page (vodacom.cd/fr/carrieres) still listed 'Programme Elite' in its menu with no description, call or dates, and showed no job offers.",
+      "deadline_text": "2026 edition: 18 June 2026. On 2 November 2026 the Vodacom RDC careers page (vodacom.cd/fr/carrieres) still listed 'Programme Elite' in its menu under 'Jeunes talents' with no description, call or dates, and showed no job offers.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "The next edition has not been announced (Vodacom RDC careers page checked 26 October 2026).",
+      "expected_next_cycle": "The next edition has not been announced (Vodacom RDC careers page checked 2 November 2026).",
       "last_cycle_deadline": "2026-06-18",
       "status": "UPCOMING",
       "funding_type": "Paid",
@@ -6572,7 +6976,7 @@
       ],
       "benefits": [],
       "action": "Watch the Vodacom RDC careers page for the next Elite edition.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -6638,7 +7042,7 @@
       "nationality_requirements": [
         "No nationality condition"
       ],
-      "drc_eligible": "Unclear",
+      "drc_eligible": "Yes",
       "language_requirement": "French",
       "eligibility": [
         "Open to any adult, with no nationality condition",
@@ -6668,7 +7072,7 @@
         }
       ],
       "potential_issues": [
-        "No list of open missions was found on the page read",
+        "No list of open missions was found: the France Volontaires missions page showed no listings when read on 2 November 2026",
         "Allowance and travel coverage not verified"
       ],
       "benefits": [
@@ -6676,7 +7080,7 @@
         "Missions supporting francophone institutions, the social economy and cooperation projects"
       ],
       "action": "Read the official page for the current call and its dates.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -6826,7 +7230,7 @@
       "duration": "1 year, with the possibility to reapply for a second year",
       "application_deadline": "2026-11-30",
       "deadline_utc": "",
-      "deadline_text": "Reported by secondary sources (Opportunity Desk, Opportunities for Africans): 30 November 2026, no time stated. The official WFF Youth Policy Board page shows an \"Open Call for Applications\" (read 26 October 2026), but the deadline was not visible on the official pages read.",
+      "deadline_text": "Reported by secondary sources (Opportunity Desk, Opportunities for Africans): 30 November 2026, no time stated. The official WFF Youth Policy Board page still shows an \"Open Call for Applications\" (read 2 November 2026), but no deadline is shown on it or in the 2027-2028 Terms of Reference; the application form is an embedded Microsoft Form that automated readers could not load on 2 November 2026.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": true,
@@ -6894,12 +7298,12 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "WFF Youth: Youth Policy Board page (\"Open Call for Applications\") (read 26 October 2026)",
+          "label": "WFF Youth: Youth Policy Board page (\"Open Call for Applications\") (read 2 November 2026)",
           "url": "https://youth.world-food-forum.org/youth-assembly/youth-policy-board/en",
           "type": "Official"
         },
         {
-          "label": "WFF: Youth Policy Board Terms of Reference, 2027-2028 cohort (PDF) (read 26 October 2026)",
+          "label": "WFF: Youth Policy Board Terms of Reference, 2027-2028 cohort (PDF) (read 2 November 2026)",
           "url": "https://youth.world-food-forum.org/docs/devworldfoodforumlibraries/track-youth-assembly/ypb-tors-2027-2028.pdf",
           "type": "Official"
         },
@@ -6910,14 +7314,14 @@
         }
       ],
       "potential_issues": [
-        "The 30 November 2026 deadline is reported by secondary sources only; it was not visible on the official pages read",
+        "The 30 November 2026 deadline is reported by secondary sources only; it was not visible on the official page or Terms of Reference (re-checked 2 November 2026), and the embedded application form could not be read automatically",
         "No payment or funding is mentioned: treat it as an unpaid volunteer role unless the organiser says otherwise",
         "C1 English and about 25 hours a month are required",
         "Meeting format is not stated in the Terms of Reference; weekly meetings fall in European working hours"
       ],
       "benefits": [],
       "action": "Read the 2027-2028 Terms of Reference on the WFF Youth Policy Board page and confirm the deadline on the application form before applying.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": "The ToR text contains a typo ('For the 2026–2027 term' in the thematic duties section); the cohort is 2027-2028."
     },
@@ -6947,7 +7351,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "No WFP internship in the DRC was listed on WFP's careers portal (Workday) on 26 October 2026: the only DRC postings were a Risk and Compliance Officer (Kinshasa), a Logistics Officer - Contracting (Kinshasa) and a Head of Programme (Bukavu).",
+      "expected_next_cycle": "No WFP internship in the DRC was listed on WFP's careers portal (Workday) on 2 November 2026: the only DRC postings were a PSEA Officer (Kinshasa), a Risk and Compliance Officer (Kinshasa), a Management Services Officer (Goma) and a Head of Programme (Bukavu).",
       "last_cycle_deadline": "2026-08-16",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -7009,18 +7413,19 @@
           "type": "Aggregator"
         },
         {
-          "label": "WFP careers (Workday): no DRC internship (read 26 October 2026)",
+          "label": "WFP careers (Workday): no DRC internship (read 2 November 2026)",
           "url": "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
           "type": "Official"
         }
       ],
       "potential_issues": [
-        "Closed on the dates read; no DRC internship on WFP's careers portal on 26 October 2026",
-        "Details of the past posts were read through aggregators only"
+        "Closed on the dates read; no DRC internship on WFP's careers portal on 2 November 2026",
+        "Details of the past posts were read through aggregators only",
+        "The JR125588 posting could not be opened on WFP's Workday portal on 2 November 2026 (access refused, HTTP 403), consistent with a closed posting"
       ],
       "benefits": [],
       "action": "Watch the WFP careers portal and the aggregators for the next Kinshasa internship call.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -7149,7 +7554,7 @@
       "duration": "About 7 months (December 2026 to June 2027)",
       "application_deadline": "2026-11-06",
       "deadline_utc": "",
-      "deadline_text": "Application period 12 October to 6 November 2026 (WIPO competition page, read 26 October 2026). WIPO: \"All times are given in Geneva time (GMT+1)\"; no closing hour is stated. FAQ: \"Applications must be submitted by November 6, 2026.\"",
+      "deadline_text": "Application period 12 October to 6 November 2026; \"Apply by November 6, 2026\" (WIPO competition page, read 2 November 2026). WIPO: \"All times are given in Geneva time (GMT+1)\"; no closing hour is stated. FAQ (read 26 October 2026): \"Applications must be submitted by November 6, 2026.\" No extension mentioned.",
       "deadline_timezone": "Geneva time (CET, GMT+1); no closing hour stated",
       "opens_on": "2026-10-12",
       "open_now": true,
@@ -7224,7 +7629,7 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "WIPO: WIPO IP Moot Court Competition page, 2027 edition (read 26 October 2026)",
+          "label": "WIPO: WIPO IP Moot Court Competition page, 2027 edition (read 2 November 2026)",
           "url": "https://www.wipo.int/en/web/youth-engagement/moot-court-competition",
           "type": "Official"
         },
@@ -7254,7 +7659,7 @@
         "Awards for winner, runner-up, best memorials and best oralists (no cash amounts stated)"
       ],
       "action": "Read the WIPO Application Guidelines and Rules, then submit the form, signed declaration and video before 6 November 2026 (Geneva time) if your law faculty authorises a team.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": "The 2026 edition ran with a 6 October to 15 December 2025 application window; the competition repeats yearly."
     },
@@ -7284,7 +7689,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Next window expected January to February 2027 (Spring/Summer cycle), by the pattern on the World Bank page; exact dates not posted on 26 October 2026.",
+      "expected_next_cycle": "Next window expected January to February 2027 (Spring/Summer cycle), by the pattern on the World Bank page; exact dates not posted on 2 November 2026.",
       "last_cycle_deadline": "2026-08-12",
       "status": "UPCOMING",
       "funding_type": "Paid",
@@ -7362,7 +7767,7 @@
       ],
       "benefits": [],
       "action": "Check the World Bank internship page in January 2027 for the Spring/Summer window.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -7447,12 +7852,12 @@
       "verification": "NEEDS VERIFICATION",
       "sources": [
         {
-          "label": "Council of Europe call page (official; blocked by a Cloudflare bot check, HTTP 403, on 26 October 2026)",
+          "label": "Council of Europe call page (official; blocked by a Cloudflare bot check, HTTP 403, on 26 October and 2 November 2026)",
           "url": "https://www.coe.int/en/web/youth/-/call-for-participants-world-forum-for-democracy-youth-delegation",
           "type": "Official"
         },
         {
-          "label": "Council of Europe 2026 call document (PDF; blocked by a Cloudflare bot check on 26 October 2026)",
+          "label": "Council of Europe 2026 call document (PDF; blocked by a Cloudflare bot check on 26 October and 2 November 2026)",
           "url": "https://rm.coe.int/wfd-2026-call-for-participants-youth-delegation/48802cbb54",
           "type": "Official"
         },
@@ -7464,7 +7869,7 @@
       ],
       "potential_issues": [
         "This cycle is closed; the 2026 Forum takes place on 2-3 November 2026 (secondary sources)",
-        "All details are from secondary sources; coe.int and the call PDF on rm.coe.int returned a Cloudflare bot check (HTTP 403) to both fetch tools on 26 October 2026",
+        "All details are from secondary sources; coe.int and the call PDF on rm.coe.int returned a Cloudflare bot check (HTTP 403) to both fetch tools on 26 October and 2 November 2026",
         "Requires membership of a youth organisation"
       ],
       "benefits": [
@@ -7498,7 +7903,7 @@
       "duration": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No publication date or deadline in the text of the listing, which is still shown without an 'expired' mark (lesopportunites.com, read 26 October 2026); the page metadata dated it 29 April 2025 when read on 12 October 2026. The internship is not listed on World Vision's careers site (Workday) on 26 October 2026.",
+      "deadline_text": "No publication date or deadline in the text of the listing (lesopportunites.com, read 26 October 2026); the page metadata dated it 29 April 2025 when read on 12 October 2026. The internship is not listed on World Vision's careers site (Workday) on 2 November 2026.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -7563,20 +7968,20 @@
           "type": "Aggregator"
         },
         {
-          "label": "World Vision International careers site (Workday): no Kinshasa posting; 'Congo' and 'DRC' return only a Child Well-being Development Facilitator in Lubumbashi; JR41677 not found (read 26 October 2026)",
+          "label": "World Vision International careers site (Workday): no internship in the DRC; 'Kinshasa' returns three staff roles; JR41677 and 'stagiaire' return nothing (read 2 November 2026)",
           "url": "https://worldvision.wd1.myworkdayjobs.com/WorldVisionInternational",
           "type": "Official"
         }
       ],
       "potential_issues": [
-        "The listing appears to date from April 2025 (page metadata 29 April 2025) and links to World Vision requisition JR41677, which is not open: a search for JR41677 on World Vision's Workday site returned no posting on 26 October 2026",
-        "Not found on World Vision's official Workday careers site on 26 October 2026: 'Kinshasa' returned no posting; 'Congo' and 'DRC' returned one non-internship role (Lubumbashi); the only francophone-Africa internship listed was in Burkina Faso",
+        "The listing appears to date from April 2025 (page metadata 29 April 2025) and links to World Vision requisition JR41677, which is not open: a search for JR41677 on World Vision's Workday site returned no posting on 2 November 2026",
+        "Not found on World Vision's official Workday careers site on 2 November 2026: 'Kinshasa' returned three staff roles (finance, administration and logistics, safeguarding) and no internship; 'Congo' returned staff roles only; the internships listed were in the United States",
         "No deadline; pay not stated",
         "Requires a Bac+5 level; local candidates only"
       ],
       "benefits": [],
       "action": "Treat this posting as probably closed; search World Vision's careers site for a current Kinshasa internship before applying.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -7821,7 +8226,7 @@
       "duration": "4 days",
       "application_deadline": "2026-11-20",
       "deadline_utc": "",
-      "deadline_text": "\"Deadline for funded applications | 20 NOVember 2026\" (organiser's page, re-read 26 October 2026 and unchanged since 12 October; the same page showed 18 November 2026 on 5 October 2026). No time or time zone stated.",
+      "deadline_text": "\"Deadline for funded applications | 20 NOVember 2026\" (organiser's page, re-read 2 November 2026 and unchanged since 12 October; the same page showed 18 November 2026 on 5 October 2026). No time or time zone stated.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -7832,10 +8237,10 @@
       "status": "OPEN",
       "funding_type": "Funding Unclear",
       "funding_details": [
-        "Organiser's page: 30 'Fully Funded' and 40 'Partially Funded' seats by competitive selection; 100 'Forum Admission' and 80 'Self Funded' seats by guaranteed selection (re-read 26 October 2026).",
-        "The single application form for the funded categories is priced at USD 16.99 on the organiser's page (read 12 and 26 October 2026); on 5 October 2026 the form showed USD 16.99 plus USD 3 in charges (USD 19.99 total), paid by card.",
+        "Organiser's page: 30 'Fully Funded' and 40 'Partially Funded' seats by competitive selection; 100 'Forum Admission' and 80 'Self Funded' seats by guaranteed selection (re-read 2 November 2026).",
+        "The single application form for the funded categories is priced at USD 16.99 on the organiser's page; on 2 November 2026 the form's billing box showed \"Application Fee for Fully/Partially Funded Category\" USD 16.99 plus \"Service Charges, VAT & Processing Fee\" USD 3.0, total USD 19.99, paid by card (Stripe) (the same total was shown on 5 October 2026).",
         "Fully Funded: \"round-trip international airfare support\", twin-shared 4-star hotel, meals, Forum participation, visa invitation letter and support. Partially Funded: the same without airfare.",
-        "Forum Admission listed at USD 399.00 (crossed-out USD 799.99); Self-Funded at USD 699.0 (crossed-out USD 999.99); visa invitation letter package USD 99.00 (crossed-out USD 299.99) (unchanged on 26 October 2026)."
+        "Forum Admission listed at USD 399.00 (crossed-out USD 799.99); Self-Funded at USD 699.0 (crossed-out USD 999.99); visa invitation letter package USD 99.00 (crossed-out USD 299.99) (unchanged on 2 November 2026)."
       ],
       "coverage": {
         "tuition": "Not specified",
@@ -7883,12 +8288,12 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "CGDL: Youth Global Forum 2027 (read 26 October 2026)",
+          "label": "CGDL: Youth Global Forum 2027 (read 2 November 2026)",
           "url": "https://thecgdl.org/ygf2027/",
           "type": "Official"
         },
         {
-          "label": "Organiser's paid application form (listed for reference, not an endorsement)",
+          "label": "Organiser's paid application form (listed for reference, not an endorsement) (read 2 November 2026)",
           "url": "https://thecgdl.org/youth-global-forum-2027-funded-category-form/",
           "type": "Official"
         },
@@ -7899,7 +8304,7 @@
         }
       ],
       "potential_issues": [
-        "Pay-to-apply: USD 16.99 (plus card charges) must be paid to apply for a 'funded' seat",
+        "Pay-to-apply: USD 16.99 plus USD 3.0 in charges (USD 19.99 total on 2 November 2026) must be paid to apply for a 'funded' seat",
         "Guaranteed seats are sold (USD 399 to 699, shown as discounts from USD 799.99 and 999.99)",
         "Funded seats are 70 of 250",
         "The funded-application deadline moved from 18 to 20 November 2026 between 5 and 12 October",
@@ -7909,7 +8314,7 @@
       ],
       "benefits": [],
       "action": "Be cautious: applying for a funded seat costs money and most seats are sold; do not pay unless you accept losing the fee.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -8022,5 +8427,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-11-01"
+  "status_computed_on": "2026-11-02"
 }
