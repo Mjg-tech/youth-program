@@ -3,6 +3,46 @@
   "entries": [
     {
       "date": "2026-11-02",
+      "id": "tony-elumelu-entrepreneurship-programme-2027",
+      "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Partially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "internet-society-fellowship-2027",
+      "title": "Internet Society Fellowship Program 2027",
+      "field": "funding_type",
+      "old": "Substantially Funded",
+      "new": "Partially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "alx-sponsored-programmes",
+      "title": "ALX sponsored tech programmes",
+      "field": "funding_type",
+      "old": "Substantially Funded",
+      "new": "Partially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "vodacom-elite-graduate-officer-programme",
+      "title": "Vodacom Elite: Graduate Officer programme (Kinshasa)",
+      "field": "funding_type",
+      "old": "Paid",
+      "new": "Funding Unclear"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "unicef-drc-jeunes-champions-unv",
+      "title": "UNICEF Jeunes Champions (UN Volunteers), DRC",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-02",
       "id": "fao-regional-office-africa-internship-2027",
       "title": "FAO Internship Programme for Africa (RAF), call open until 31 December 2026",
       "field": "deadline_text",

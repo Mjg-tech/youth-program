@@ -445,7 +445,7 @@
       ],
       "benefits": [],
       "action": "Read the ALA apply page and application guide, then apply online before 15 January 2027 (Early Decision closes 15 October 2026).",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-12",
       "notes": ""
     },
@@ -563,7 +563,7 @@
       ],
       "benefits": [],
       "action": "Apply on the AU careers portal before 31 December 2026 using the AU CV template, if you can cover your own costs in Addis Ababa.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -853,9 +853,10 @@
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
       "status": "DATE UNKNOWN",
-      "funding_type": "Substantially Funded",
+      "funding_type": "Partially Funded",
       "funding_details": [
-        "The Mastercard Foundation partnership 'allows eligible learners to access sponsored programme training ... for $5 a month'"
+        "The Mastercard Foundation partnership 'allows eligible learners to access sponsored programme training ... for $5 a month'",
+        "The learner still pays USD 5 a month, and the page does not say how much of the cost the sponsorship covers."
       ],
       "coverage": {
         "tuition": "Partially covered",
@@ -2050,7 +2051,7 @@
       ],
       "benefits": [],
       "action": "Register on theearthprize.org before 10 January 2027 and submit by 31 January 2027.",
-      "last_verified": "2026-10-05",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -3449,7 +3450,7 @@
       ],
       "benefits": [],
       "action": "Create a free account on life-global.org and pick a course.",
-      "last_verified": "2026-10-05",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -3693,11 +3694,12 @@
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
       "status": "OPEN",
-      "funding_type": "Substantially Funded",
+      "funding_type": "Partially Funded",
       "funding_details": [
         "A project stipend of up to USD 5,000, upon approval of the project budget",
         "Travel support to attend a global or regional Internet event (for example IGF, AfPIF or the NDSS Symposium)",
-        "Mentorship and expert sessions"
+        "Mentorship and expert sessions",
+        "The page lists a project stipend and travel support to one event; it does not describe the fellowship as fully or substantially funded."
       ],
       "coverage": {
         "tuition": "Not specified",
@@ -3766,7 +3768,7 @@
         "Travel to an international Internet event"
       ],
       "action": "Read the official page, then apply before 2026-12-18.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -5725,10 +5727,11 @@
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
-      "funding_type": "Fully Funded",
+      "funding_type": "Partially Funded",
       "funding_details": [
         "Non-returnable seed capital of USD 5,000 for selected entrepreneurs",
-        "Business training on TEFConnect and mentorship"
+        "Business training on TEFConnect and mentorship",
+        "TEF page (read 2 November 2026): \"the most deserving entrepreneurs receive the training, mentorship, and funding needed to succeed\"; selected participants who meet all requirements are \"eligible to receive their $5,000 non-refundable seed capital\". The page does not call the programme fully funded."
       ],
       "coverage": {
         "tuition": "Covered",
@@ -5936,7 +5939,7 @@
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Agencies post internship calls at different times of the year; none was open in the DRC on 2 November 2026. Set an alert for Kinshasa on untalent.org and unjobs.org.",
+      "expected_next_cycle": "Agencies post internship calls at different times of the year; none was open in the DRC on 2 November 2026. Set an alert for Kinshasa on untalent.org and unjobs.org. UNFPA's own careers data (read 2 November 2026) lists no Kinshasa posting; its open internships are in Malabo and Copenhagen, plus the Global Internship Roster.",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -6584,7 +6587,7 @@
       ],
       "benefits": [],
       "action": "Apply to the UNESCO internship pool before 31 December 2026 if you can cover your own costs.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },
@@ -7003,6 +7006,121 @@
       "notes": ""
     },
     {
+      "id": "unicef-drc-jeunes-champions-unv",
+      "title": "UNICEF Jeunes Champions (UN Volunteers), DRC",
+      "organization": "UNICEF DRC, with the UN Volunteers programme (UNV)",
+      "overview": "UNICEF's Jeunes Champions programme, launched in 2023 with UN Volunteers, places young Congolese as UN Volunteers in UNICEF offices in 13 DRC cities, Kinshasa included. The 2024 call (28 places) was for six months full time, for Congolese citizens aged 18 to 30 with a state diploma, at least six months of volunteering and excellent French. Volunteers receive a monthly living allowance, not a salary. No call for 2025 or 2026 was found on UNICEF DRC's page.",
+      "category": [
+        "Volunteering",
+        "Youth Programme"
+      ],
+      "audience": [
+        "university-student",
+        "recent-graduate"
+      ],
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "location_type": "Kinshasa",
+      "delivery_mode": "In-person",
+      "program_dates": "2024 call: six months full time; first cohort from April 2024, second from September 2024",
+      "duration": "6 months",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "2024 call: \"l'appel à candidatures se clôture le 16 février 2024\" (the call closes on 16 February 2024), online applications only (UNICEF DRC page, read 2 November 2026). No later call was found.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "No call for 2025 or 2026 was found. UNICEF DRC's page (read 2 November 2026) still shows the call that closed on 16 February 2024, and UNICEF's own story says the 2023 edition took 40 young people for three months and the 2024 edition 28 for six months. A 2026 Jeunes Champions posting for the Central African Republic on the UN Volunteers platform closed on 14 July 2026 (reported by unvacancies.org).",
+      "last_cycle_deadline": "2024-02-16",
+      "status": "UPCOMING",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "UNICEF DRC (page in French, translated): \"UN Volunteers do not receive a salary for their services, but receive a monthly living allowance to help them during their assignment and volunteer action.\" No amount is stated on the page.",
+        "UNICEF DRC (translated): \"UN Volunteers also receive leave and medical insurance for the duration of the assignment.\""
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": true,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "No fee stated",
+      "stipend": "Monthly living allowance, not a salary (amount not stated)",
+      "age_min": 18,
+      "age_max": 30,
+      "age_requirement": "\"Avoir entre 18 ans et 30 ans\" (between 18 and 30 years old), 2024 call",
+      "experience_level": "Some experience needed",
+      "experience_requirement": "At least six months of experience as a volunteer (2024 call)",
+      "education_requirement": "A state diploma (\"diplôme d'État\") (2024 call)",
+      "nationality_requirements": [
+        "Congolese nationality and living in the province of the assignment (2024 call)"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "Excellent command of written and spoken French (2024 call)",
+      "eligibility": [
+        "Congolese nationality, living in the province where you apply (2024 call)",
+        "Aged 18 to 30 (2024 call)",
+        "Holder of a state diploma (2024 call)",
+        "At least six months of experience as a volunteer (2024 call)",
+        "Excellent written and spoken French (2024 call)"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "In 2024, applications were online only, through the UN Volunteers platform link for each city; help desks were held in UNICEF offices from 5 to 15 February 2024",
+        "Only the selected candidates were contacted, by e-mail"
+      ],
+      "official_application_url": "",
+      "official_information_url": "https://www.unicef.org/drcongo/unicef-rdc-recrute-28-jeunes-champions-2024",
+      "source_url": "https://www.unicef.org/drcongo/unicef-rdc-recrute-28-jeunes-champions-2024",
+      "source_type": "Official",
+      "source_confidence": "MEDIUM",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "UNICEF DRC: L'UNICEF en RDC recrute 28 Jeunes Champions (page in French, read 2 November 2026)",
+          "url": "https://www.unicef.org/drcongo/unicef-rdc-recrute-28-jeunes-champions-2024",
+          "type": "Official"
+        },
+        {
+          "label": "UNICEF DRC: Youth at the forefront of change, 12 August 2024 (read 2 November 2026)",
+          "url": "https://www.unicef.org/drcongo/en/stories/youth-forefront-change",
+          "type": "Official"
+        },
+        {
+          "label": "unvacancies.org: Jeunes Champions de l'Unicef (UNV, Bangui, Central African Republic), closed 14 July 2026 (read 2 November 2026)",
+          "url": "https://unvacancies.org/jobs/jeunes-champions-de-l-unicef-21270345",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "No open call: the last DRC call closed on 16 February 2024 and none was found for 2025 or 2026",
+        "The rules above are those of the 2024 call and may change",
+        "UN Volunteers applications are made on app.unv.org, which could not be read by an automated reader on 2 November 2026",
+        "Only Congolese nationals living in the province of the assignment could apply",
+        "UNICEF: no extension or renewal of the six-month assignment"
+      ],
+      "benefits": [],
+      "action": "Watch UNICEF DRC's page and the UN Volunteers platform for a new Jeunes Champions call, and check the age, French and volunteering requirements when it opens.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": ""
+    },
+    {
       "id": "unu-junior-fellows-internship-spring-2027",
       "title": "United Nations University Junior Fellows Internship, Spring 2027 (Tokyo)",
       "organization": "United Nations University (UNU), Office of the Rector",
@@ -7234,7 +7352,7 @@
       "id": "vodacom-elite-graduate-officer-programme",
       "title": "Vodacom Elite: Graduate Officer programme (Kinshasa)",
       "organization": "Vodacom Congo",
-      "overview": "24-month paid professional integration programme in Kinshasa for high-potential young graduates, with training, mentoring and strategic projects. The 2026 edition closed on 18 June 2026.",
+      "overview": "24-month professional integration programme (described as paid by a secondary source) in Kinshasa for high-potential young graduates, with training, mentoring and strategic projects. The 2026 edition closed on 18 June 2026.",
       "category": [
         "Graduate Programme"
       ],
@@ -7258,9 +7376,9 @@
       "expected_next_cycle": "The next edition has not been announced (Vodacom RDC careers page checked 2 November 2026).",
       "last_cycle_deadline": "2026-06-18",
       "status": "UPCOMING",
-      "funding_type": "Paid",
+      "funding_type": "Funding Unclear",
       "funding_details": [
-        "Described as a paid programme by a secondary source."
+        "Reported by a secondary source (youth.cd, 2026 announcement): \"un programme d'intégration professionnelle rémunéré de 24 mois\" (a paid 24-month professional integration programme). No amount is stated, and Vodacom's own page showed no call to confirm the pay."
       ],
       "coverage": {
         "tuition": "Not specified",
@@ -7556,7 +7674,7 @@
       ],
       "benefits": [],
       "action": "Read the 2027-2029 Terms of Reference on the WFF Young Scientists Group page and confirm the deadline on the application form before applying.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": ""
     },
@@ -8553,7 +8671,7 @@
       ],
       "benefits": [],
       "action": "Create a free account on yoma.world and filter opportunities by your country and language to find courses you can take now.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-12",
       "notes": ""
     },

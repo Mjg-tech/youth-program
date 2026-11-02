@@ -1,35 +1,35 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-02T12:58:49Z",
+  "last_refresh": "2026-11-02T13:05:09Z",
   "counts": {
-    "total": 79,
+    "total": 80,
     "archived": 13,
     "by_status": {
       "OPEN": 20,
       "CLOSING SOON": 14,
-      "UPCOMING": 25,
+      "UPCOMING": 26,
       "DEADLINE PASSED": 6,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
     "by_funding": {
-      "Paid": 4,
-      "Fully Funded": 4,
-      "Substantially Funded": 3,
-      "Partially Funded": 4,
+      "Paid": 3,
+      "Fully Funded": 3,
+      "Substantially Funded": 1,
+      "Partially Funded": 7,
       "Travel Funded": 4,
       "Participation Funded": 3,
       "Free": 8,
       "Unpaid": 6,
       "Self Funded": 1,
-      "Funding Unclear": 42
+      "Funding Unclear": 44
     },
     "by_verification": {
-      "VERIFIED": 34,
+      "VERIFIED": 35,
       "PARTIALLY VERIFIED": 35,
       "NEEDS VERIFICATION": 10
     },
-    "in_kinshasa": 15,
+    "in_kinshasa": 16,
     "remote": 21,
     "fee_required": 4
   },
