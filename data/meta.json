@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-02T13:18:16Z",
+  "last_refresh": "2026-11-02T13:49:35Z",
   "counts": {
     "total": 81,
     "archived": 13,
@@ -65,29 +65,10 @@
     "1": []
   },
   "watch": {
-    "checked": 61,
-    "ok": 57,
+    "checked": 69,
+    "ok": 64,
     "blocked_or_unreachable": 4,
-    "dead": 0
+    "dead": 1
   },
-  "flags": [
-    {
-      "id": "eu-delegation-drc-subsidised-traineeship",
-      "type": "source_changed",
-      "since": "2026-10-21",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "one-young-world-leading-scholarship-2026",
-      "type": "source_changed",
-      "since": "2026-11-01",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "au-theme-of-the-year-2027-logo-competition",
-      "type": "source_changed",
-      "since": "2026-10-30",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    }
-  ]
+  "flags": []
 }
