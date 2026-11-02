@@ -627,7 +627,7 @@
       "experience_requirement": "At least one year of verifiable volunteer experience and one year of professional work experience",
       "education_requirement": "A post-secondary qualification (TVET, bachelor's or master's)",
       "nationality_requirements": [
-        "Citizen of an AU member state, living on the continent or in the diaspora"
+        "Citizen of an AU member state, living on the continent or in the diaspora (the DRC is listed on the African Union's member states page, read 2 November 2026)"
       ],
       "drc_eligible": "Yes",
       "language_requirement": "At least one AU working language: Arabic, English, French, Kiswahili, Portuguese or Spanish",
@@ -679,6 +679,11 @@
           "label": "MSME Africa: call for applications 2026",
           "url": "https://msmeafricaonline.com/call-for-applications-african-union-youth-volunteer-corps-au-yvc-2026-full-scholarships-monthly-stipend-and-accommodations-for-young-africans/",
           "type": "Aggregator"
+        },
+        {
+          "label": "African Union: Member States. The Democratic Republic of Congo is listed among the AU member states (read 2 November 2026)",
+          "url": "https://au.int/en/member_states/countryprofiles2",
+          "type": "Official"
         }
       ],
       "potential_issues": [
@@ -4493,7 +4498,7 @@
       "duration": "3 months",
       "application_deadline": "2026-11-15",
       "deadline_utc": "",
-      "deadline_text": "Posted 15 October 2026; the official Novartis Workday posting REQ-10089124 shows an end date of 15 November 2026 and still accepts applications (read 2 November 2026). No closing time is stated. Opportunity Desk also reports a 15 November 2026 deadline.",
+      "deadline_text": "Posted 15 October 2026; the Novartis Workday posting REQ-10089124 carries the structured data \"datePosted\": \"2026-10-15\" and \"validThrough\": \"2026-11-15\" (read 2 November 2026 in the page's own data, and again in the rerun), and still accepts applications. No closing time is stated. Opportunity Desk also reports a 15 November 2026 deadline.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "2026-10-15",
       "open_now": true,
@@ -4554,7 +4559,7 @@
       "source_url": "https://www.novartis.com/careers/career-search/job/details/req-10089124-next-generation-scientist-2027",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "PARTIALLY VERIFIED",
+      "verification": "VERIFIED",
       "sources": [
         {
           "label": "Novartis careers: Next Generation Scientist 2027, REQ-10089124 (read 2 November 2026)",
@@ -7104,6 +7109,11 @@
           "label": "UNICEF careers: searches for 'congo' and 'intern', no DRC internship (read 2 November 2026)",
           "url": "https://jobs.unicef.org/en-us/search/?search-keyword=congo",
           "type": "Official"
+        },
+        {
+          "label": "UNICEF careers: vacancies for the DRC (read 2 November 2026 through the WebFetch tool): three vacancies, none an internship or UN Volunteer post",
+          "url": "https://jobs.unicef.org/en-us/filter/?location=democratic+republic+of+congo",
+          "type": "Official"
         }
       ],
       "potential_issues": [
@@ -7734,7 +7744,7 @@
       "experience_requirement": "Candidates are scored \"based on eligibility and experience\"; the group expects postgraduate-level research and writing",
       "education_requirement": "\"Applicants must have graduated or be enrolled in a graduate degree programme at the time of application\"; specialised in a field relevant to FAO's work",
       "nationality_requirements": [
-        "Nationals of an FAO Member State"
+        "Nationals of an FAO Member State (the DRC is listed among FAO's Member Nations on FAO's membership page, read 2 November 2026)"
       ],
       "drc_eligible": "Yes",
       "language_requirement": "\"Have demonstrated proficiency in spoken and written English\"",
@@ -7776,6 +7786,11 @@
           "label": "Opportunity Desk: WFF Young Scientists Group 2027-2029 (deadline) (read 26 October 2026)",
           "url": "https://opportunitydesk.org/2026/10/13/wff-young-scientists-group-2027-2029/",
           "type": "Aggregator"
+        },
+        {
+          "label": "FAO: Membership of FAO. The Democratic Republic of the Congo is listed among the Member Nations (read 2 November 2026)",
+          "url": "https://www.fao.org/legal/home/Membership-of-FAO/en",
+          "type": "Official"
         }
       ],
       "potential_issues": [
@@ -7853,7 +7868,7 @@
       "experience_requirement": "\"Have demonstrated experience, knowledge or strong engagement in agrifood systems, policy advocacy and youth empowerment\"; preference for experience in youth organisations or consultative youth processes",
       "education_requirement": "Graduated from high school and either completed or enrolled in a bachelor's degree programme at the time of application",
       "nationality_requirements": [
-        "Nationals of an FAO Member State"
+        "Nationals of an FAO Member State (the DRC is listed among FAO's Member Nations on FAO's membership page, read 2 November 2026)"
       ],
       "drc_eligible": "Yes",
       "language_requirement": "Spoken and written English at C1 level; fluency in other FAO official languages is an advantage",
@@ -7894,6 +7909,11 @@
           "label": "Opportunity Desk: World Food Forum Youth Policy Board 2027-2028 (deadline) (read 26 October 2026)",
           "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
           "type": "Aggregator"
+        },
+        {
+          "label": "FAO: Membership of FAO. The Democratic Republic of the Congo is listed among the Member Nations (read 2 November 2026)",
+          "url": "https://www.fao.org/legal/home/Membership-of-FAO/en",
+          "type": "Official"
         }
       ],
       "potential_issues": [
@@ -8073,7 +8093,7 @@
       "experience_requirement": "Unknown / Not specified",
       "education_requirement": "Enrolled in, or finished within the last 18 months, a university programme in a relevant field, with three years of full-time university study completed before starting",
       "nationality_requirements": [
-        "Valid passport of a WHO Member State"
+        "Valid passport of a WHO Member State (the DRC is listed among the countries of the WHO African Region on the WHO Regional Office for Africa page, read 2 November 2026)"
       ],
       "drc_eligible": "Yes",
       "language_requirement": "Fluent in a working language of the office",
@@ -8105,6 +8125,11 @@
           "label": "Crisp NG",
           "url": "https://crispng.com/2026-who-internship-programme-global-students/",
           "type": "Aggregator"
+        },
+        {
+          "label": "WHO Regional Office for Africa: Countries. The Democratic Republic of Congo is listed among the countries of the WHO African Region (read 2 November 2026)",
+          "url": "https://www.afro.who.int/countries",
+          "type": "Official"
         }
       ],
       "potential_issues": [
@@ -8113,7 +8138,7 @@
       ],
       "benefits": [],
       "action": "Search the WHO Careers site for current internship notices and read each one's duty station and deadline.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": ""
     },

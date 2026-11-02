@@ -3,6 +3,70 @@
   "entries": [
     {
       "date": "2026-11-02",
+      "id": "novartis-next-generation-scientist-2027",
+      "title": "Next Generation Scientist Program 2027 (Novartis and University of Basel)",
+      "field": "deadline_text",
+      "old": "Posted 15 October 2026; the official Novartis Workday posting REQ-10089124 shows an end date of 15 November 2026 and still accepts applications (read 2 November 2026). No closing time is stated. Opportunity Desk also reports a 15 November 2026 deadline.",
+      "new": "Posted 15 October 2026; the Novartis Workday posting REQ-10089124 carries the structured data \"datePosted\": \"2026-10-15\" and \"validThrough\": \"2026-11-15\" (read 2 November 2026 in the page's own data, and again in the rerun), and still accepts applications. No closing time is stated. Opportunity Desk also reports a 15 November 2026 deadline."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "novartis-next-generation-scientist-2027",
+      "title": "Next Generation Scientist Program 2027 (Novartis and University of Basel)",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "wff-youth-policy-board-2027-2028",
+      "title": "World Food Forum Youth Policy Board 2027-2028",
+      "field": "nationality_requirements",
+      "old": [
+        "Nationals of an FAO Member State"
+      ],
+      "new": [
+        "Nationals of an FAO Member State (the DRC is listed among FAO's Member Nations on FAO's membership page, read 2 November 2026)"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "wff-young-scientists-group-2027-2029",
+      "title": "World Food Forum Young Scientists Group 2027-2029",
+      "field": "nationality_requirements",
+      "old": [
+        "Nationals of an FAO Member State"
+      ],
+      "new": [
+        "Nationals of an FAO Member State (the DRC is listed among FAO's Member Nations on FAO's membership page, read 2 November 2026)"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "who-internship-programme",
+      "title": "WHO internship programme (headquarters and country offices)",
+      "field": "nationality_requirements",
+      "old": [
+        "Valid passport of a WHO Member State"
+      ],
+      "new": [
+        "Valid passport of a WHO Member State (the DRC is listed among the countries of the WHO African Region on the WHO Regional Office for Africa page, read 2 November 2026)"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "african-union-youth-volunteer-corps",
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "field": "nationality_requirements",
+      "old": [
+        "Citizen of an AU member state, living on the continent or in the diaspora"
+      ],
+      "new": [
+        "Citizen of an AU member state, living on the continent or in the diaspora (the DRC is listed on the African Union's member states page, read 2 November 2026)"
+      ]
+    },
+    {
+      "date": "2026-11-02",
       "id": "alu-mastercard-foundation-scholars-january-2027",
       "title": "African Leadership University (ALU) Rwanda: Mastercard Foundation Scholars Program, January 2027 intake",
       "field": "(new record)",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-02T13:09:25Z",
+  "last_refresh": "2026-11-02T13:18:16Z",
   "counts": {
     "total": 81,
     "archived": 13,
@@ -25,8 +25,8 @@
       "Funding Unclear": 44
     },
     "by_verification": {
-      "VERIFIED": 36,
-      "PARTIALLY VERIFIED": 35,
+      "VERIFIED": 37,
+      "PARTIALLY VERIFIED": 34,
       "NEEDS VERIFICATION": 10
     },
     "in_kinshasa": 16,
