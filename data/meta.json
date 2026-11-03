@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-02T13:49:35Z",
+  "last_refresh": "2026-11-03T12:59:05Z",
   "counts": {
     "total": 81,
     "archived": 13,
@@ -43,7 +43,6 @@
       "youth-global-forum-2027-paris"
     ],
     "14": [
-      "anzisha-fellowship-2027",
       "cmu-africa-ai-certificate-2027",
       "d-prize-challenge-2026-2027",
       "dalai-lama-fellows-2027",
@@ -53,16 +52,18 @@
       "unearthodox-exploration-co-lab-2027"
     ],
     "7": [
-      "ustc-international-winter-camp-2027",
-      "wipo-ip-moot-court-competition-2027"
+      "anzisha-fellowship-2027",
+      "ustc-international-winter-camp-2027"
     ],
     "3": [
       "global-leadership-challenge-2026",
-      "ohchr-yaounde-data-management-admin-intern-2026",
-      "un-habitat-abidjan-programme-management-intern-2026",
-      "unfpa-equatorial-guinea-secretariat-support-intern-2026"
+      "unfpa-equatorial-guinea-secretariat-support-intern-2026",
+      "wipo-ip-moot-court-competition-2027"
     ],
-    "1": []
+    "1": [
+      "ohchr-yaounde-data-management-admin-intern-2026",
+      "un-habitat-abidjan-programme-management-intern-2026"
+    ]
   },
   "watch": {
     "checked": 69,
@@ -70,5 +71,18 @@
     "blocked_or_unreachable": 4,
     "dead": 1
   },
-  "flags": []
+  "flags": [
+    {
+      "id": "eu-delegation-drc-subsidised-traineeship",
+      "type": "source_changed",
+      "since": "2026-11-03",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "unu-junior-fellows-internship-spring-2027",
+      "type": "dead_link",
+      "since": "2026-11-03",
+      "detail": "Official page returned HTTP 404 on two runs."
+    }
+  ]
 }
