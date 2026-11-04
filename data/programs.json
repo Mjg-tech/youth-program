@@ -8594,112 +8594,6 @@
       "notes": ""
     },
     {
-      "id": "yale-young-african-scholars-2027",
-      "title": "Yale Young African Scholars Program 2027",
-      "organization": "Yale University",
-      "overview": "Programme for African secondary school students. Aggregators describe it as entirely free (lodging, meals and teaching materials included).",
-      "category": [
-        "Youth Programme",
-        "Training"
-      ],
-      "audience": [
-        "secondary-school"
-      ],
-      "country": "Not stated",
-      "city": "Not stated",
-      "location_type": "Multiple locations",
-      "delivery_mode": "Hybrid",
-      "program_dates": "2027: an online college prep workshop or a residential leadership summit in Rwanda (the site gives 15 July and 7 to 15 August 2027 in different places)",
-      "duration": "Unknown / Not specified",
-      "application_deadline": "2026-10-20",
-      "deadline_utc": "",
-      "deadline_text": "All times Eastern Time (US). Early Action (Pool #1): 11:59 PM ET on 20 October 2026, decisions by 18 December 2026. Regular Decision (Pool #2): 11:59 PM ET on 20 January 2027, decisions by 20 March 2027 (YYAS timeline page, read 12 October 2026).",
-      "deadline_timezone": "America/New_York",
-      "opens_on": "",
-      "open_now": false,
-      "rolling": false,
-      "recurring": false,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
-      "funding_type": "Partially Funded",
-      "funding_details": [
-        "YYAS: \"There are no tuition costs for participation in either program.\"",
-        "Travel grants are limited; students without one arrange their own transport. A free airport shuttle runs from Kigali."
-      ],
-      "coverage": {
-        "tuition": "Covered",
-        "stipend": "Not specified",
-        "flight": "Partially covered",
-        "accommodation": "Not specified",
-        "meals": "Not specified",
-        "visa": "Not specified",
-        "insurance": "Not specified",
-        "local_transport": "Not specified"
-      },
-      "travel_funded": true,
-      "flight_funded": false,
-      "accommodation_funded": false,
-      "meals_funded": false,
-      "visa_funded": false,
-      "insurance_funded": false,
-      "local_transport_funded": false,
-      "application_fee": "No fee stated",
-      "participation_fee": "Unknown / Not specified",
-      "stipend": "Unknown / Not specified",
-      "age_min": 14,
-      "age_max": 18,
-      "age_requirement": "14 to 18 years old on the first day of the programme (15 July 2027)",
-      "experience_level": "None required",
-      "experience_requirement": "Unknown / Not specified",
-      "education_requirement": "Currently in 10th or 11th grade (or the international equivalent), graduating secondary school between May/June 2028 and May/June 2029",
-      "nationality_requirements": [
-        "Citizen or permanent resident of an African country, or a refugee living in Africa; must attend school in Africa"
-      ],
-      "drc_eligible": "Yes",
-      "language_requirement": "Unknown / Not specified",
-      "eligibility": [
-        "Aged 14 to 18 on 15 July 2027",
-        "In 10th or 11th grade or equivalent",
-        "Citizen or permanent resident of an African country, or a refugee in Africa, attending school in Africa"
-      ],
-      "other_requirements": [],
-      "documents_required": [],
-      "application_process": [],
-      "official_application_url": "",
-      "official_information_url": "https://africanscholars.yale.edu/",
-      "source_url": "https://africanscholars.yale.edu/admissions/application-timeline-deadlines",
-      "source_type": "Official",
-      "source_confidence": "HIGH",
-      "verification": "VERIFIED",
-      "sources": [
-        {
-          "label": "YYAS: timeline and deadlines",
-          "url": "https://africanscholars.yale.edu/admissions/application-timeline-deadlines",
-          "type": "Official"
-        },
-        {
-          "label": "YYAS: eligibility",
-          "url": "https://africanscholars.yale.edu/admissions/eligibility",
-          "type": "Official"
-        },
-        {
-          "label": "YYAS: FAQ",
-          "url": "https://africanscholars.yale.edu/program/yyas-faq",
-          "type": "Official"
-        }
-      ],
-      "potential_issues": [
-        "Travel is covered only for students who receive a limited travel grant",
-        "The site gives two different start dates for the residential programme"
-      ],
-      "benefits": [],
-      "action": "Apply on the YYAS site by 20 October 2026 (early action) or 20 January 2027 (regular decision).",
-      "last_verified": "2026-10-19",
-      "date_discovered": "2026-10-05",
-      "notes": ""
-    },
-    {
       "id": "yoma-youth-agency-marketplace",
       "title": "Yoma (Youth Agency Marketplace): free online courses, tasks and opportunities",
       "organization": "Yoma, developed by UNICEF with partners and young Africans",
@@ -9036,5 +8930,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-11-03"
+  "status_computed_on": "2026-11-04"
 }

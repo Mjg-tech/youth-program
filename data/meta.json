@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-03T12:59:05Z",
+  "last_refresh": "2026-11-04T13:15:09Z",
   "counts": {
-    "total": 81,
-    "archived": 13,
+    "total": 80,
+    "archived": 14,
     "by_status": {
       "OPEN": 21,
       "CLOSING SOON": 14,
       "UPCOMING": 26,
-      "DEADLINE PASSED": 6,
+      "DEADLINE PASSED": 5,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -16,7 +16,7 @@
       "Paid": 3,
       "Fully Funded": 4,
       "Substantially Funded": 1,
-      "Partially Funded": 7,
+      "Partially Funded": 6,
       "Travel Funded": 4,
       "Participation Funded": 3,
       "Free": 8,
@@ -25,7 +25,7 @@
       "Funding Unclear": 44
     },
     "by_verification": {
-      "VERIFIED": 37,
+      "VERIFIED": 36,
       "PARTIALLY VERIFIED": 34,
       "NEEDS VERIFICATION": 10
     },
@@ -45,7 +45,6 @@
     "14": [
       "cmu-africa-ai-certificate-2027",
       "d-prize-challenge-2026-2027",
-      "dalai-lama-fellows-2027",
       "global-solvers-accelerator-2027",
       "itu-gender-champions-programme-2027",
       "novartis-next-generation-scientist-2027",
@@ -53,21 +52,22 @@
     ],
     "7": [
       "anzisha-fellowship-2027",
+      "dalai-lama-fellows-2027",
       "ustc-international-winter-camp-2027"
     ],
     "3": [
-      "global-leadership-challenge-2026",
-      "unfpa-equatorial-guinea-secretariat-support-intern-2026",
       "wipo-ip-moot-court-competition-2027"
     ],
     "1": [
+      "global-leadership-challenge-2026",
       "ohchr-yaounde-data-management-admin-intern-2026",
-      "un-habitat-abidjan-programme-management-intern-2026"
+      "un-habitat-abidjan-programme-management-intern-2026",
+      "unfpa-equatorial-guinea-secretariat-support-intern-2026"
     ]
   },
   "watch": {
-    "checked": 69,
-    "ok": 64,
+    "checked": 68,
+    "ok": 63,
     "blocked_or_unreachable": 4,
     "dead": 1
   },
@@ -81,7 +81,7 @@
     {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-03",
+      "since": "2026-11-04",
       "detail": "Official page returned HTTP 404 on two runs."
     }
   ]
