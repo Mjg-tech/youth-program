@@ -4830,7 +4830,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Unpaid",
       "funding_details": [
         "UN: \"Interns are not financially remunerated by the United Nations.\"",
@@ -5719,7 +5719,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Fully Funded",
       "funding_details": [
         "AFS Youth Assembly: \"This is a 12-month fully funded scholarship that covers the costs of participating in all program elements listed below.\"",
@@ -6200,7 +6200,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Unpaid",
       "funding_details": [
         "UN: \"Interns are not financially remunerated by the United Nations.\"",
@@ -8930,5 +8930,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-11-04"
+  "status_computed_on": "2026-11-05"
 }

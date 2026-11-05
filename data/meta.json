@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-04T13:15:09Z",
+  "last_refresh": "2026-11-05T13:28:24Z",
   "counts": {
     "total": 80,
     "archived": 14,
     "by_status": {
-      "OPEN": 21,
-      "CLOSING SOON": 14,
+      "OPEN": 20,
+      "CLOSING SOON": 13,
       "UPCOMING": 26,
-      "DEADLINE PASSED": 5,
+      "DEADLINE PASSED": 7,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -38,7 +38,6 @@
       "alu-mastercard-foundation-scholars-january-2027",
       "gtf-telemachus-athena-mentoring-2027",
       "jim-leech-mastercard-foundation-fellowship-2027",
-      "sir-cyril-taylor-young-african-leaders-2027",
       "wff-youth-policy-board-2027-2028",
       "youth-global-forum-2027-paris"
     ],
@@ -48,21 +47,20 @@
       "global-solvers-accelerator-2027",
       "itu-gender-champions-programme-2027",
       "novartis-next-generation-scientist-2027",
+      "sir-cyril-taylor-young-african-leaders-2027",
       "unearthodox-exploration-co-lab-2027"
     ],
     "7": [
       "anzisha-fellowship-2027",
-      "dalai-lama-fellows-2027",
-      "ustc-international-winter-camp-2027"
+      "dalai-lama-fellows-2027"
     ],
     "3": [
-      "wipo-ip-moot-court-competition-2027"
+      "ustc-international-winter-camp-2027"
     ],
     "1": [
       "global-leadership-challenge-2026",
-      "ohchr-yaounde-data-management-admin-intern-2026",
-      "un-habitat-abidjan-programme-management-intern-2026",
-      "unfpa-equatorial-guinea-secretariat-support-intern-2026"
+      "unfpa-equatorial-guinea-secretariat-support-intern-2026",
+      "wipo-ip-moot-court-competition-2027"
     ]
   },
   "watch": {
@@ -75,13 +73,31 @@
     {
       "id": "eu-delegation-drc-subsidised-traineeship",
       "type": "source_changed",
-      "since": "2026-11-03",
+      "since": "2026-11-05",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "internet-society-fellowship-2027",
+      "type": "source_changed",
+      "since": "2026-11-05",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "african-leadership-academy-class-of-2027",
+      "type": "source_changed",
+      "since": "2026-11-05",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "au-theme-of-the-year-2027-logo-competition",
+      "type": "source_changed",
+      "since": "2026-11-05",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-04",
+      "since": "2026-11-05",
       "detail": "Official page returned HTTP 404 on two runs."
     }
   ]
