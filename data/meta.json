@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-05T13:28:24Z",
+  "last_refresh": "2026-11-06T13:12:52Z",
   "counts": {
     "total": 80,
     "archived": 14,
     "by_status": {
-      "OPEN": 20,
-      "CLOSING SOON": 13,
+      "OPEN": 19,
+      "CLOSING SOON": 12,
       "UPCOMING": 26,
-      "DEADLINE PASSED": 7,
+      "DEADLINE PASSED": 9,
       "ROLLING": 5,
       "DATE UNKNOWN": 9
     },
@@ -38,8 +38,7 @@
       "alu-mastercard-foundation-scholars-january-2027",
       "gtf-telemachus-athena-mentoring-2027",
       "jim-leech-mastercard-foundation-fellowship-2027",
-      "wff-youth-policy-board-2027-2028",
-      "youth-global-forum-2027-paris"
+      "wff-youth-policy-board-2027-2028"
     ],
     "14": [
       "cmu-africa-ai-certificate-2027",
@@ -48,7 +47,8 @@
       "itu-gender-champions-programme-2027",
       "novartis-next-generation-scientist-2027",
       "sir-cyril-taylor-young-african-leaders-2027",
-      "unearthodox-exploration-co-lab-2027"
+      "unearthodox-exploration-co-lab-2027",
+      "youth-global-forum-2027-paris"
     ],
     "7": [
       "anzisha-fellowship-2027",
@@ -58,15 +58,13 @@
       "ustc-international-winter-camp-2027"
     ],
     "1": [
-      "global-leadership-challenge-2026",
-      "unfpa-equatorial-guinea-secretariat-support-intern-2026",
       "wipo-ip-moot-court-competition-2027"
     ]
   },
   "watch": {
     "checked": 68,
-    "ok": 63,
-    "blocked_or_unreachable": 4,
+    "ok": 61,
+    "blocked_or_unreachable": 6,
     "dead": 1
   },
   "flags": [
@@ -74,6 +72,18 @@
       "id": "eu-delegation-drc-subsidised-traineeship",
       "type": "source_changed",
       "since": "2026-11-05",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "global-leadership-challenge-2026",
+      "type": "source_changed",
+      "since": "2026-11-06",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "icann-fellowship",
+      "type": "source_changed",
+      "since": "2026-11-06",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -97,8 +107,20 @@
     {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-05",
+      "since": "2026-11-06",
       "detail": "Official page returned HTTP 404 on two runs."
+    },
+    {
+      "id": "wff-young-scientists-group-2027-2029",
+      "type": "source_changed",
+      "since": "2026-11-06",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "wff-youth-policy-board-2027-2028",
+      "type": "source_changed",
+      "since": "2026-11-06",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ]
 }
