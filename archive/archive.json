@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -1548,6 +1548,138 @@
       "notes": "",
       "archive_id": "yale-young-african-scholars-2027@2026-10-20",
       "archived_on": "2026-11-04"
+    },
+    {
+      "id": "au-theme-of-the-year-2027-logo-competition",
+      "title": "AU Theme of the Year 2027: logo and visual identity competition for young African creatives",
+      "organization": "African Union Commission (Infrastructure and Energy Department), with AUDA-NEPAD",
+      "overview": "An online design competition for individual young Africans aged 18 to 24 to create the official logo and visual identity of the African Union's Theme of the Year 2027, with cash prizes for the top three entries.",
+      "category": [
+        "Competition or Award"
+      ],
+      "audience": [
+        "secondary-school",
+        "university-student",
+        "recent-graduate",
+        "young-professional",
+        "any-adult"
+      ],
+      "country": "Online",
+      "city": "Online",
+      "location_type": "Remote",
+      "delivery_mode": "Online",
+      "program_dates": "Call open 24 September to 23 October 2026; the winning logo is unveiled at the AU Summit",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-10-23",
+      "deadline_utc": "2026-10-23T20:59:00Z",
+      "deadline_text": "\"Submission deadline: 23 October 2026, 23:59 EAT (UTC+3)\" (au.int call page, read 2 November 2026; same date in the AU terms of reference read 26 October 2026). The au.int event block, which showed the call ending \"Oct 23, 2026 - 15:00\" on 26 October 2026, now reads \"Sep 24, 2026 - 17:00 - Oct 31, 2026 - 17:59\"; the call text was not changed and no extension is announced. No winner announced on the page.",
+      "deadline_timezone": "Africa/Addis_Ababa",
+      "opens_on": "2026-09-24",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "AU: \"USD 5,000 First place\", \"USD 2,000 Second place\", \"USD 1,000 Third place\", plus a certificate, recognition on AU platforms and training opportunities.",
+        "AU: \"The winner will also have the opportunity to participate in the AU Summit\"; travel arrangements are not described."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "No fee stated",
+      "stipend": "None",
+      "age_min": 18,
+      "age_max": 24,
+      "age_requirement": "\"aged 18–24 on the submission deadline\"",
+      "experience_level": "None required",
+      "experience_requirement": "\"Students, designers, artists, digital creatives, innovators welcome — formal qualifications not required\"",
+      "education_requirement": "None required",
+      "nationality_requirements": [
+        "Citizens of all African Union member states"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "Unknown / Not specified (terms of reference published in English and French)",
+      "eligibility": [
+        "Citizen of an AU member state",
+        "Aged 18 to 24 on 23 October 2026",
+        "Individual entries only, one entry per person",
+        "Original, human-made work: generative AI is not permitted",
+        "AU personnel, contractors, evaluators and their immediate family are not eligible"
+      ],
+      "other_requirements": [],
+      "documents_required": [
+        "Completed application form",
+        "Proof of nationality and age",
+        "Presentation PDF with the primary logo, colour, black-and-white and reversed versions and three mock-ups",
+        "Preview PNG/JPEG at least 3000 px wide",
+        "Concept note of up to 500 words",
+        "Signed originality, intellectual-property and AI declaration"
+      ],
+      "application_process": [
+        "Download the terms of reference and declaration form from the AU competition page",
+        "Submit the package through the official competition entry form reached from that page",
+        "Shortlisted applicants must send editable vector files within 3 working days"
+      ],
+      "official_application_url": "",
+      "official_information_url": "https://au.int/en/newsevents/20260829/call-entries-calling-young-african-creatives-logo-competition-au-theme-year",
+      "source_url": "https://au.int/en/newsevents/20260829/call-entries-calling-young-african-creatives-logo-competition-au-theme-year",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "African Union: call for entries (read 2 November 2026)",
+          "url": "https://au.int/en/newsevents/20260829/call-entries-calling-young-african-creatives-logo-competition-au-theme-year",
+          "type": "Official"
+        },
+        {
+          "label": "AU terms of reference (PDF, English)",
+          "url": "https://au.int/sites/default/files/AU%20Theme%202027%20Logo%20Competition%20Terms%20of%20Reference%20EN.pdf",
+          "type": "Official"
+        },
+        {
+          "label": "AU terms of reference (PDF, French)",
+          "url": "https://au.int/sites/default/files/AU%20Theme%202027%20Logo%20Competition%20Terms%20of%20Reference%20FR.pdf",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunities for Africans",
+          "url": "https://www.opportunitiesforafricans.com/the-au-theme-of-the-year-2027-official-logo-and-visual-identity-competition-for-young-african-creatives/",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "Closed: the call text gives 23 October 2026 (23:59 EAT); the page's event block was changed to end on 31 October 2026 at 17:59 without any extension being announced (read 2 November 2026); either way the date has passed",
+        "Only for ages 18 to 24",
+        "The winner assigns copyright and IP rights in the design to the AU Commission",
+        "Generative AI tools are banned and entries are checked",
+        "The AU page's \"Click here to register\" link points to accreditation.au.int/en/form/data-form-media, which looks like a media accreditation form"
+      ],
+      "benefits": [],
+      "action": "The call closed on 23 October 2026; check the AU page for the announcement of the selected logo.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-10-12",
+      "notes": "",
+      "archive_id": "au-theme-of-the-year-2027-logo-competition@2026-10-23",
+      "archived_on": "2026-11-07"
     }
   ]
 }

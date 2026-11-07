@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-06T13:12:52Z",
+  "last_refresh": "2026-11-07T11:54:35Z",
   "counts": {
-    "total": 80,
-    "archived": 14,
+    "total": 79,
+    "archived": 15,
     "by_status": {
       "OPEN": 19,
-      "CLOSING SOON": 12,
+      "CLOSING SOON": 11,
       "UPCOMING": 26,
       "DEADLINE PASSED": 9,
       "ROLLING": 5,
@@ -22,15 +22,15 @@
       "Free": 8,
       "Unpaid": 6,
       "Self Funded": 1,
-      "Funding Unclear": 44
+      "Funding Unclear": 43
     },
     "by_verification": {
-      "VERIFIED": 36,
+      "VERIFIED": 35,
       "PARTIALLY VERIFIED": 34,
       "NEEDS VERIFICATION": 10
     },
     "in_kinshasa": 16,
-    "remote": 21,
+    "remote": 20,
     "fee_required": 4
   },
   "deadline_buckets": {
@@ -51,20 +51,19 @@
       "youth-global-forum-2027-paris"
     ],
     "7": [
-      "anzisha-fellowship-2027",
       "dalai-lama-fellows-2027"
     ],
     "3": [
-      "ustc-international-winter-camp-2027"
+      "anzisha-fellowship-2027"
     ],
     "1": [
-      "wipo-ip-moot-court-competition-2027"
+      "ustc-international-winter-camp-2027"
     ]
   },
   "watch": {
-    "checked": 68,
+    "checked": 67,
     "ok": 61,
-    "blocked_or_unreachable": 6,
+    "blocked_or_unreachable": 5,
     "dead": 1
   },
   "flags": [
@@ -99,15 +98,9 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
-      "id": "au-theme-of-the-year-2027-logo-competition",
-      "type": "source_changed",
-      "since": "2026-11-05",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-06",
+      "since": "2026-11-07",
       "detail": "Official page returned HTTP 404 on two runs."
     },
     {
