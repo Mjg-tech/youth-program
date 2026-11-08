@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-07T11:54:35Z",
+  "last_refresh": "2026-11-08T12:10:29Z",
   "counts": {
     "total": 79,
     "archived": 15,
@@ -41,20 +41,20 @@
       "wff-youth-policy-board-2027-2028"
     ],
     "14": [
-      "cmu-africa-ai-certificate-2027",
-      "d-prize-challenge-2026-2027",
-      "global-solvers-accelerator-2027",
-      "itu-gender-champions-programme-2027",
-      "novartis-next-generation-scientist-2027",
       "sir-cyril-taylor-young-african-leaders-2027",
       "unearthodox-exploration-co-lab-2027",
       "youth-global-forum-2027-paris"
     ],
     "7": [
-      "dalai-lama-fellows-2027"
+      "cmu-africa-ai-certificate-2027",
+      "d-prize-challenge-2026-2027",
+      "global-solvers-accelerator-2027",
+      "itu-gender-champions-programme-2027",
+      "novartis-next-generation-scientist-2027"
     ],
     "3": [
-      "anzisha-fellowship-2027"
+      "anzisha-fellowship-2027",
+      "dalai-lama-fellows-2027"
     ],
     "1": [
       "ustc-international-winter-camp-2027"
@@ -100,7 +100,7 @@
     {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-07",
+      "since": "2026-11-08",
       "detail": "Official page returned HTTP 404 on two runs."
     },
     {
