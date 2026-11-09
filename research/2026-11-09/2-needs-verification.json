@@ -1,0 +1,154 @@
+[
+ {
+  "id": "nrc-nashiriki-internship-programme-drc",
+  "last_verified": "2026-11-09",
+  "potential_issues": [
+   "Closed: the linked NRC job (19202) is no longer on NRC's careers portal, and searches for 'Nashiriki', 'stagiaire' and 'Kinshasa' returned no posting on 2 and 9 November 2026",
+   "The listing dates from October 2025",
+   "Age limit and criteria come from an aggregator, not from NRC's own page",
+   "Pay and duration not stated"
+  ],
+  "expected_next_cycle": "Not announced: no posting named Nashiriki on NRC's careers portal on 9 November 2026. The portal listed four DR Congo postings that day, one of them an internship (Logistics Intern, Goma, job 22051, closing 20 November 2026), which does not say whether it belongs to the Nashiriki programme.",
+  "sources": [
+   {
+    "label": "Opportunités du Monde (listing dated 6 October 2025, read 12 October 2026)",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/developpement-rural/opportunite-pour-jeunes-diplomes-nrc-programme-de-stages-nashiriki-rdc/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "NRC careers portal (Oracle): 'Nashiriki', 'stagiaire' and 'Kinshasa' return no posting; DR Congo postings are three staff roles in Bunia and a Logistics Intern in Goma (job 22051) (read 9 November 2026)",
+    "url": "https://ekum.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2019/",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "world-vision-administration-intern-kinshasa",
+  "last_verified": "2026-11-09",
+  "deadline_text": "No publication date or deadline in the text of the listing; the page's own data says it was published on 29 April 2025 (lesopportunites.com, re-read 9 November 2026). The internship is not listed on World Vision's careers site (Workday) on 9 November 2026.",
+  "potential_issues": [
+   "The listing dates from April 2025 (published 29 April 2025 according to the page's own data) and links to World Vision requisition JR41677, which is not open: a search for JR41677 on World Vision's Workday site returned no posting on 2 and 9 November 2026",
+   "Not found on World Vision's official Workday careers site on 9 November 2026: 'Kinshasa' returned three staff roles (a financial specialist, an administration and logistics officer and a safeguarding adviser) and 'stagiaire' returned nothing",
+   "No deadline; pay not stated",
+   "Requires a Bac+5 level; local candidates only"
+  ],
+  "sources": [
+   {
+    "label": "Opportunités du Monde listing: still shown, no date or deadline in the text, published 29 April 2025 according to the page data, links to World Vision requisition JR41677 (read 9 November 2026)",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/administration/avis-de-recrutement-dune-stagiaire-en-administration-basee-a-kinshasa-republique-democratique-du-congo/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "World Vision International careers site (Workday): no internship in the DRC; 'Kinshasa' returns three staff roles; JR41677 and 'stagiaire' return nothing (read 9 November 2026)",
+    "url": "https://worldvision.wd1.myworkdayjobs.com/WorldVisionInternational",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "i-am-nala-fellowship-2027",
+  "last_verified": "2026-11-09",
+  "deadline_text": "\"Deadline: 31 October 2026\", on the organiser's Google Form (re-read 9 November 2026: deadline passed, form still open); \"ONLY shortlisted candidates will be notified by November 6th 2026\". No time or time zone stated. No page about the fellowship was found on nalafem.org (home and Apply pages re-read 9 November 2026; the Apply page lists a staff vacancy).",
+  "potential_issues": [
+   "Deadline passed on 31 October 2026; on 9 November 2026 the Google Form still showed the 31 October deadline and its buttons to continue, but late applications may not be considered",
+   "The call is only on a Google Form. On 26 October 2026 nalafem.org (home page, Apply page and the site's own search for 'fellowship', 'I AM NALA', '2027' and 'call for applications') had no page about the fellowship; the Apply page only shows a 2023 job vacancy. The form states it was 'created inside of NALA - Feminist Collective' and gives a contact address on the nalafem.org domain, which links it to the organiser but does not replace an official page.",
+   "The support offered is described only in general terms on the form, with no amount",
+   "Only for displaced women"
+  ],
+  "sources": [
+   {
+    "label": "I AM NALA Fellowship 2027 application form (Google Form; re-read 9 November 2026, still shows 'Deadline: 31 October 2026')",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7cdN9YiLa9HpHQ5eGkh6HgpVexDvWGELZB59i4PfmaOMwMw/viewform",
+    "type": "Official"
+   },
+   {
+    "label": "Nalafem Collective (home and Apply pages re-read 9 November 2026; no page about the fellowship)",
+    "url": "https://nalafem.org/",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunity Desk",
+    "url": "https://opportunitydesk.org/2026/09/14/i-am-nala-fellowship-2027/",
+    "type": "Aggregator"
+   }
+  ]
+ },
+ {
+  "id": "transsion-infinix-intern-admin-assistant-kinshasa",
+  "deadline_text": "No deadline shown on the listing when last read: dated 'Publiée le 16.10.2026' and still showing 'Postuler' (emploi.cd, read 19 October 2026). On 26 October, 2 November and 9 November 2026 emploi.cd returned a Cloudflare bot check (HTTP 403) to both readers, so the current status could not be checked.",
+  "potential_issues": [
+   "Job-board listing only; posted by TRANSSION HOLDINGS 'pour le compte de l'un de nos Clients' (the duties mention the Infinix team); no posting found on a Transsion, Infinix or Carlcare page (searches on 26 October and 2 November 2026 found no official Transsion careers page or other copy of the posting)",
+   "The listing has been re-dated several times on emploi.cd (2 October, 9 October, then 16 October 2026)",
+   "Status not re-checked since 19 October 2026: emploi.cd blocked automated readers (Cloudflare bot check, HTTP 403) on 26 October, 2 November and 9 November 2026; the listing may have expired or been re-dated again",
+   "Pay and duration not stated"
+  ],
+  "sources": [
+   {
+    "label": "emploi.cd listing: Stagiaire Assistant Administratif - Kinshasa (read 19 October 2026; blocked by a Cloudflare bot check, HTTP 403, on 26 October, 2 and 9 November 2026)",
+    "url": "https://www.emploi.cd/offre-emploi-rdc-republique-democratique-congo/stagiaire-assistant-administratif-kinshasa-491788",
+    "type": "Aggregator"
+   }
+  ]
+ },
+ {
+  "id": "world-forum-for-democracy-youth-delegation",
+  "expected_next_cycle": "Next call expected around July to August 2027 if the yearly pattern holds. Not announced: a web search on 9 November 2026 found no 2027 call.",
+  "potential_issues": [
+   "This cycle is closed; the 2026 Forum takes place on 2-3 November 2026 (secondary sources)",
+   "All details are from secondary sources; coe.int and the call PDF on rm.coe.int returned a Cloudflare bot check or block (HTTP 403) to both fetch tools on 26 October, 2 November and 9 November 2026",
+   "Requires membership of a youth organisation"
+  ],
+  "sources": [
+   {
+    "label": "Council of Europe call page (official; blocked by Cloudflare, HTTP 403, on 26 October, 2 and 9 November 2026)",
+    "url": "https://www.coe.int/en/web/youth/-/call-for-participants-world-forum-for-democracy-youth-delegation",
+    "type": "Official"
+   },
+   {
+    "label": "Council of Europe 2026 call document (PDF; blocked by a Cloudflare bot check on 26 October and 2 November 2026)",
+    "url": "https://rm.coe.int/wfd-2026-call-for-participants-youth-delegation/48802cbb54",
+    "type": "Official"
+   },
+   {
+    "label": "Secondary relay of the 2026 call",
+    "url": "https://www.stgm.org.tr/en/applications-open-council-europe-world-democracy-forum-youth-delegation",
+    "type": "Aggregator"
+   }
+  ]
+ },
+ {
+  "id": "equitybcdc-jeunes-banquiers",
+  "expected_next_cycle": "No official 2026 or 2027 call found (searches on 2 and 9 November 2026).",
+  "potential_issues": [
+   "Closed",
+   "Criteria come from a news article about the 2024 call",
+   "Equity BCDC's website (equitygroupholdings.com/cd) returned an Incapsula bot-check page and equitybcdc.cd did not respond on 2 and 9 November 2026 (its Taleo careers section showed 'Career Section Unavailable' on 12 and 26 October and 2 November), so no official call could be read",
+   "No official 2026 or 2027 call found in searches on 2 November 2026; a personal social-media post refers to a 32nd edition closed on 14 August 2026, but no official announcement of it was found"
+  ],
+  "action": "Watch Equity BCDC's official website and social channels for the next call; the official site could not be read on 2 or 9 November 2026."
+ },
+ {
+  "id": "fijec-congolese-young-entrepreneurs-forum",
+  "last_verified": "2026-11-09",
+  "program_dates": "Reported by a press article: a bootcamp on 8 and 9 September 2026 and a pitch round on 18 September 2026 in Kinshasa for the 'cinquième édition' of the 'Forum d'innovation des jeunes entreprises congolaises' (ACP, 18 September 2026). The article gives no acronym and names no organiser, so it is probably, but not certainly, this forum.",
+  "potential_issues": [
+   "Closed",
+   "No organiser website found (searches on 26 October, 2 November and 9 November 2026 found no page from FIJEC): the only registration route was a shortened link (tinyurl) leading to a Google Form, which asked for a Google sign-in",
+   "Cost and criteria of the forum were not stated; the aggregator gave no location or dates for the forum itself",
+   "Details come from one aggregator and one press report that names no organiser"
+  ],
+  "expected_next_cycle": "The 6th edition has not been announced (no FIJEC announcement found in searches on 9 November 2026).",
+  "sources": [
+   {
+    "label": "Opportunité pour tous: 5th edition call, organiser 'Initiative FIJEC', no organiser website listed (read 9 November 2026)",
+    "url": "https://opportunitepourtous.com/2026/07/07/fijec-2026-jeunes-entrepreneurs-congolais-appel-candidatures-2026/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "ACP (Agence Congolaise de Presse), 18 September 2026: pitch round of the fifth edition of the 'Forum d'innovation des jeunes entreprises congolaises' in Kinshasa; organisers not named (read 9 November 2026 with the fetch tool; curl received HTTP 403)",
+    "url": "https://acp.cd/business/kinshasa-la-necessite-de-letude-de-marche-expliquee-aux-entrepreneurs-lors-dun-forum/",
+    "type": "News"
+   }
+  ]
+ }
+]

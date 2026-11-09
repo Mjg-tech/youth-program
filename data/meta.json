@@ -1,63 +1,68 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-08T12:10:29Z",
+  "last_refresh": "2026-11-09T08:07:18Z",
   "counts": {
-    "total": 79,
+    "total": 87,
     "archived": 15,
     "by_status": {
-      "OPEN": 19,
-      "CLOSING SOON": 11,
-      "UPCOMING": 26,
-      "DEADLINE PASSED": 9,
+      "OPEN": 21,
+      "CLOSING SOON": 15,
+      "UPCOMING": 28,
+      "DEADLINE PASSED": 10,
       "ROLLING": 5,
-      "DATE UNKNOWN": 9
+      "DATE UNKNOWN": 8
     },
     "by_funding": {
       "Paid": 3,
-      "Fully Funded": 4,
-      "Substantially Funded": 1,
-      "Partially Funded": 6,
+      "Fully Funded": 6,
+      "Substantially Funded": 2,
+      "Partially Funded": 9,
       "Travel Funded": 4,
-      "Participation Funded": 3,
+      "Participation Funded": 4,
       "Free": 8,
       "Unpaid": 6,
-      "Self Funded": 1,
-      "Funding Unclear": 43
+      "Self Funded": 0,
+      "Funding Unclear": 45
     },
     "by_verification": {
-      "VERIFIED": 35,
-      "PARTIALLY VERIFIED": 34,
+      "VERIFIED": 41,
+      "PARTIALLY VERIFIED": 36,
       "NEEDS VERIFICATION": 10
     },
-    "in_kinshasa": 16,
-    "remote": 20,
-    "fee_required": 4
+    "in_kinshasa": 17,
+    "remote": 23,
+    "fee_required": 5
   },
   "deadline_buckets": {
     "30": [
       "alu-mastercard-foundation-scholars-january-2027",
-      "gtf-telemachus-athena-mentoring-2027",
       "jim-leech-mastercard-foundation-fellowship-2027",
+      "mcw-global-young-leaders-fellowship-2027",
+      "ned-hurford-youth-fellows-2027",
       "wff-youth-policy-board-2027-2028"
     ],
     "14": [
+      "global-solvers-accelerator-2027",
+      "gtf-telemachus-athena-mentoring-2027",
+      "nrc-logistics-intern-goma-2026",
       "sir-cyril-taylor-young-african-leaders-2027",
-      "unearthodox-exploration-co-lab-2027",
+      "undp-rome-centre-climate-energy-intern-2026",
       "youth-global-forum-2027-paris"
     ],
     "7": [
       "cmu-africa-ai-certificate-2027",
       "d-prize-challenge-2026-2027",
-      "global-solvers-accelerator-2027",
       "itu-gender-champions-programme-2027",
-      "novartis-next-generation-scientist-2027"
+      "novartis-next-generation-scientist-2027",
+      "undp-internship-development-as-defense-home-based-2026",
+      "unearthodox-exploration-co-lab-2027"
     ],
     "3": [
-      "anzisha-fellowship-2027",
       "dalai-lama-fellows-2027"
     ],
     "1": [
-      "ustc-international-winter-camp-2027"
+      "anzisha-fellowship-2027",
+      "undp-effective-development-cooperation-intern-2026"
     ]
   },
   "watch": {

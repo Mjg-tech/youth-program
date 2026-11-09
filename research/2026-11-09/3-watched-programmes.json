@@ -1,0 +1,613 @@
+[
+ {
+  "id": "un-agencies-kinshasa-internships",
+  "last_verified": "2026-11-09",
+  "overview": "A watch entry for UN internships in Kinshasa. On 9 November 2026 no UN internship based in the DRC was open on the agencies' own portals that could be read (UNDP, UNFPA, UNICEF, WFP, UNESCO, WHO); the last UNFPA Kinshasa internships closed on 7 October 2026. UNDP had internships that can be done from home (see the separate UNDP records).",
+  "deadline_text": "No open UN internship in the DRC was found on 9 November 2026. Official portals read: UNDP (one DRC vacancy, the Kinshasa Monitoring and Evaluation and Risk Management Team Lead, a staff post; several home-based internships open worldwide), UNFPA (no DRC posting), WFP (four DRC postings: Business Support Associate - Mechanic and PSEA Officer in Kinshasa, Management Services Officer in Goma, site maintenance assistant in Beni; no internship), UNICEF (three DRC vacancies: a temporary P-4 post in Bunia and two national consultancies; no internship), UNESCO ('There are currently no' jobs for Kinshasa) and WHO (two internships, both in Geneva). unvacancies.org listed nine Kinshasa posts, none an internship: two National UN Volunteer posts with MONUSCO (Political Affairs Assistant and Child Protection Officer, closing 17 November 2026) each require three years of experience. untalent.org and unjobs.org refused automated reading (bot check, HTTP 403); UN Careers and the UN Volunteers platform show no listings to an automated reader; the UNOPS portal returned a certificate error, which was not bypassed.",
+  "expected_next_cycle": "Agencies post internship calls at different times of the year; none was open in the DRC on 9 November 2026. Set an alert for Kinshasa on untalent.org and unjobs.org.",
+  "potential_issues": [
+   "A watch entry, not an open call",
+   "untalent.org and unjobs.org refused automated readers on 9 November 2026 (bot check, HTTP 403); UN Careers and the UN Volunteers platform showed no listings to an automated reader; the UNOPS portal returned a certificate error",
+   "National UN Volunteer posts in Kinshasa seen on 9 November 2026 require at least three years of experience"
+  ],
+  "sources": [
+   {
+    "label": "UN Talent: internships in Kinshasa (bot check, HTTP 403 on 9 November 2026)",
+    "url": "https://untalent.org/jobs/in-anything/contract-internship/kinshasa",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UNjobs: Kinshasa vacancies (HTTP 403 on 9 November 2026)",
+    "url": "https://unjobs.org/duty_stations/fih",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UN Careers (Secretariat, MONUSCO) job openings (no listings shown to an automated reader)",
+    "url": "https://careers.un.org/jobopening?language=en",
+    "type": "Official"
+   },
+   {
+    "label": "UNICEF careers: vacancies for the DRC (read 9 November 2026 with the fetch tool): three vacancies, none an internship",
+    "url": "https://jobs.unicef.org/en-us/filter/?location=democratic+republic+of+congo",
+    "type": "Official"
+   },
+   {
+    "label": "WFP careers (Workday): four DRC postings, no internship (read 9 November 2026)",
+    "url": "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
+    "type": "Official"
+   },
+   {
+    "label": "UNFPA vacancy portal: no DRC posting (read 9 November 2026)",
+    "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/",
+    "type": "Official"
+   },
+   {
+    "label": "UNDP vacancy portal: one DRC staff post, no DRC internship (read 9 November 2026)",
+    "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/",
+    "type": "Official"
+   },
+   {
+    "label": "UNESCO careers: search 'Kinshasa', no job (read 9 November 2026)",
+    "url": "https://careers.unesco.org/search/?q=Kinshasa",
+    "type": "Official"
+   },
+   {
+    "label": "WHO internship job search: two internships, both in Geneva (read 9 November 2026)",
+    "url": "https://careers.who.int/careersection/intern/jobsearch.ftl?lang=en",
+    "type": "Official"
+   },
+   {
+    "label": "UNVacancies: Kinshasa (read 9 November 2026, nine posts, no internship; two National UN Volunteer posts requiring three years of experience)",
+    "url": "https://unvacancies.org/jobs/location/kinshasa",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UNOPS vacancies (certificate error on 9 November 2026, not bypassed)",
+    "url": "https://jobs.unops.org/Pages/ViewVacancy/VAListing.aspx",
+    "type": "Official"
+   },
+   {
+    "label": "UN Volunteers platform (loads no listings for an automated reader)",
+    "url": "https://app.unv.org/",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "unicef-drc-internships",
+  "last_verified": "2026-11-09",
+  "deadline_text": "The 2026 round closed on 25 May 2026. On 9 November 2026 UNICEF's careers site listed three vacancies in the DRC (a temporary People and Culture Manager post in Bunia and two national consultancies in Bukavu and Kananga) and no internship.",
+  "expected_next_cycle": "No new UNICEF DRC internship call on jobs.unicef.org on 9 November 2026. UNICEF posts internship calls there.",
+  "potential_issues": [
+   "No round is open on 9 November 2026",
+   "Age and enrolment rules come from one of the 2026 posts, read through an aggregator"
+  ],
+  "sources": [
+   {
+    "label": "Opportunités du Monde: UNICEF DRC internships",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/administration/unicef-en-rdc-lance-un-recrutement-de-stagiaires-etudiants-et-jeunes-diplomes-dans-plusieurs-villes-dont-kinshasa-goma-et-bunia/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Goma PSEA internship post",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/droit/unicef-recrute-une-stagiaire-associee-au-programme-de-protection-contre-lexploitation-et-les-abus-sexuels-en-rdc-stage-de-6-mois-remunere/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UN Talent: internships in Kinshasa (all expired on 5 October 2026; blocked, HTTP 403, on 26 October 2026)",
+    "url": "https://untalent.org/jobs/in-anything/contract-internship/kinshasa",
+    "type": "Aggregator"
+   },
+   {
+    "label": "UNICEF careers: searches for 'congo' and 'intern', no DRC internship (read 2 November 2026)",
+    "url": "https://jobs.unicef.org/en-us/search/?search-keyword=congo",
+    "type": "Official"
+   },
+   {
+    "label": "UNICEF careers: vacancies for the DRC (read 9 November 2026 with the fetch tool): three vacancies, none an internship",
+    "url": "https://jobs.unicef.org/en-us/filter/?location=democratic+republic+of+congo",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "wfp-drc-internships-kinshasa",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "No WFP internship in the DRC was listed on WFP's careers portal (Workday) on 9 November 2026: the DRC postings were a Business Support Associate - Mechanic and a PSEA Officer in Kinshasa, a Management Services Officer in Goma and a site maintenance assistant in Beni.",
+  "potential_issues": [
+   "Closed on the dates read; no DRC internship on WFP's careers portal on 9 November 2026",
+   "Details of the past posts were read through aggregators only",
+   "The JR125588 posting could not be opened on WFP's Workday portal on 2 November 2026 (access refused, HTTP 403), consistent with a closed posting"
+  ],
+  "sources": [
+   {
+    "label": "Opportunités du Monde: graphic design intern",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/communication/pam-recrute-une-stagiaire-en-conception-graphique-et-communication-pour-son-unite-des-ressources-humaines-a-kinshasa-en-rdc/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Opportunités du Monde: content management intern",
+    "url": "https://www.lesopportunites.com/opportunite/rdcongo/stages/communication/pam-recrute-une-stagiaire-en-gestion-du-contenu-site-internet-application-dediee-au-bien-etre-du-personnel-republique-democratique-du-congo/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "WFP careers (Workday): no DRC internship (read 9 November 2026)",
+    "url": "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "obama-foundation-leaders",
+  "last_verified": "2026-11-09",
+  "deadline_text": "'Applications live on November 9! Please check back here to apply, then.' (Leaders page and Leaders Africa page, re-read on 9 November 2026 at about 08:00 UTC: the message was still shown, with no application link and no closing date). The pages give no year next to this date.",
+  "expected_next_cycle": "Applications for the next Leaders cohort are announced for 9 November; on the morning of 9 November 2026 (UTC) the official pages still showed the announcement and no application form or closing date. The 2026-2027 cohort is the current one, so this is presumably the 2027-2028 call.",
+  "eligibility": [
+   "From Africa, Asia-Pacific, Europe or the United States (Leaders page)",
+   "Between the ages of 24 and 45 during the programme",
+   "Leaders Africa rules for the 2026-2027 cohort ('How to Apply' page): reside in Africa; be a citizen or permanent resident of an African country or territory, or have lived in one for at least the last 5 years",
+   "Leaders Africa (2026-2027 rules): work focused on positive change for local communities, an African nation or territory, or the Africa region",
+   "Leaders Africa (2026-2027 rules): professionally proficient in English; at least 3 years of relevant experience in the issue area; no candidacy in an electoral campaign during the programme; no legal restriction on taking part in a U.S.-based programme"
+  ],
+  "nationality_requirements": [
+   "Leaders Africa (2026-2027 rules): citizen or permanent resident of an African country or territory, or living in one for at least the last 5 years, and residing in Africa"
+  ],
+  "experience_requirement": "At least 3 years of relevant experience in the issue area (Leaders Africa 'How to Apply' page, 2026-2027 rules, read 9 November 2026)",
+  "language_requirement": "Professionally proficient in English (2026-2027 rules)",
+  "potential_issues": [
+   "Minimum age of 24",
+   "Costs are not stated on the pages read",
+   "The opening date '9 November' is given with no year and no closing date; no application link was visible on the morning of 9 November 2026 (UTC)",
+   "Expects an established record of community leadership: at least 3 years of relevant experience (2026-2027 rules)",
+   "The Leaders Africa 'How to Apply' page (read 9 November 2026) still gives the rules of the 2026-2027 cohort (start the week of 1 September 2026, end no later than 1 May 2027); the next cohort's rules may differ",
+   "The two official pages differ on the Africa format: 'six-month, virtual' (Leaders page) versus 'eight-month, hybrid' for 35 leaders (Leaders Africa page)",
+   "Reported by secondary sources: the last Africa deadline was 12 December 2025"
+  ],
+  "action": "Open the Leaders Africa page in the coming days to find the application form and the closing date, which were not yet visible on the morning of 9 November 2026.",
+  "sources": [
+   {
+    "label": "Obama Foundation Leaders (read 9 November 2026): 'Applications live on November 9!', ages 24-45, 'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply'",
+    "url": "https://www.obama.org/programs/leaders/",
+    "type": "Official"
+   },
+   {
+    "label": "Obama Foundation Leaders Africa (read 9 November 2026): 'Applications live on November 9! Please check back here to apply, then.'; 'eight-month, hybrid' for 35 leaders",
+    "url": "https://www.obama.org/programs/leaders/africa",
+    "type": "Official"
+   },
+   {
+    "label": "Leaders Africa: How to Apply (eligibility for the 2026-2027 cohort; read 9 November 2026)",
+    "url": "https://www.obama.org/programs/leaders/africa/how-to-apply/",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "african-union-youth-volunteer-corps",
+  "last_verified": "2026-11-09",
+  "deadline_text": "13th cohort: applications from 26 March to 26 April 2026 (11:59 pm EAT) on jobs.au.int. No 14th call was found on 9 November 2026: the au.int volunteer page still asks readers to watch for a call and gives no dates, and the AU jobs feed for 'volunteer' says 'No jobs currently available'.",
+  "expected_next_cycle": "No 14th call yet: the AU page (read 9 November 2026) still asks readers to \"be on the lookout for an advertised Call for Applications on the AU Careers page and official social media platforms\". The 13th call ran 26 March to 26 April 2026.",
+  "sources": [
+   {
+    "label": "AU: African Union Youth Volunteer Corps (read 9 November 2026)",
+    "url": "https://au.int/en/volunteer/african-union-youth-volunteer-corps",
+    "type": "Official"
+   },
+   {
+    "label": "AU jobs portal RSS feed, keyword 'volunteer': 'No jobs currently available' (read 9 November 2026)",
+    "url": "https://jobs.au.int/services/rss/job/?locale=en_US&keywords=(volunteer)",
+    "type": "Official"
+   },
+   {
+    "label": "AU press release: call for the 13th cohort",
+    "url": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps",
+    "type": "Official"
+   },
+   {
+    "label": "AU Youth Volunteer Corps site",
+    "url": "https://auyvc.africa-union.org/",
+    "type": "Official"
+   },
+   {
+    "label": "MSME Africa: call for applications 2026",
+    "url": "https://msmeafricaonline.com/call-for-applications-african-union-youth-volunteer-corps-au-yvc-2026-full-scholarships-monthly-stipend-and-accommodations-for-young-africans/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "African Union: Member States. The Democratic Republic of Congo is listed among the AU member states (read 2 November 2026)",
+    "url": "https://au.int/en/member_states/countryprofiles2",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "aspire-leaders-program-2026-cohort-4",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "2027 Cohort 1 is listed as \"COMING SOON\" with no dates (programme page, read 9 November 2026); the page banner says \"APPLICATIONS FOR THE 2026 ASPIRE LEADERS PROGRAM ARE CLOSED! FILL OUT OUR INTEREST FORM TO STAY UPDATED ON NEWS REGARDING THE 2027 PROGRAM.\"",
+  "sources": [
+   {
+    "label": "Aspire Leaders Program (read 9 November 2026)",
+    "url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
+    "type": "Official"
+   },
+   {
+    "label": "Aspire Institute home page (read 26 October 2026)",
+    "url": "https://www.aspireleaders.org/",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "eac-youth-fellowship-ms-tcdc",
+  "last_verified": "2026-11-09",
+  "deadline_text": "Applications \"Open: 17-Aug-2026 02:00 PM\", \"Close: 07-Sep-2026 11:59 PM\" for the 4th cohort, \"Application Window Closed\" (YouLead portal, read 9 November 2026); no time zone is shown. No call for a 5th cohort was shown.",
+  "expected_next_cycle": "Not announced. The 4th cohort's call closed on 7 September 2026 (YouLead portal, read 9 November 2026) and the portal showed no call for a 5th cohort.",
+  "sources": [
+   {
+    "label": "MS TCDC: EAC Youth Fellowship page (read 9 November 2026)",
+    "url": "https://mstcdc.or.tz/eac-youth-fellowship",
+    "type": "Official"
+   },
+   {
+    "label": "YouLead E-Portal: EAC Youth Fellowship 4th Cohort, applications 17 August to 7 September 2026, event start 15 November 2026 (read 9 November 2026)",
+    "url": "https://portal.youlead.africa/public/events",
+    "type": "Official"
+   },
+   {
+    "label": "Opportunity Desk: EAC Youth Fellowship 2027, \"Deadline: September 7, 2026\" (secondary, read 2 November 2026)",
+    "url": "https://opportunitydesk.org/2026/09/05/eac-youth-fellowship-2027/",
+    "type": "Aggregator"
+   }
+  ]
+ },
+ {
+  "id": "engen-drc-jeunes-talents",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "The 2026 call (the first edition) closed on 30 September 2026; the next call has not been announced (Engen DRC page, read 9 November 2026).",
+  "sources": [
+   {
+    "label": "Engen DRC: Programme des Jeunes Talents (published 29 July 2026, read 9 November 2026)",
+    "url": "https://www.engendrc.cd/actualites-et-blogs/programme-des-jeunes-talents-engen-drc/",
+    "type": "Official"
+   },
+   {
+    "label": "Congo Quotidien",
+    "url": "https://www.congoquotidien.com/2026/07/30/programme-jeunes-talents-engen-drc/",
+    "type": "News"
+   }
+  ]
+ },
+ {
+  "id": "european-forum-alpbach-scholarships",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "Applications for the 2027 Forum expected around March 2027, by analogy with 2026. Not announced on 9 November 2026.",
+  "deadline_text": "No 2027 call yet (FAQ page, read 9 November 2026: it still describes the 2026 Forum). For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'",
+  "sources": [
+   {
+    "label": "FAQ: scholarship programme (read 9 November 2026)",
+    "url": "https://www.alpbach.org/faq-scholarship-programme",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "mandela-washington-fellowship-2027",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "No date for the 2028 Fellowship call on the official site (read 9 November 2026: \"Applications for the 2027 Mandela Washington Fellowship are now closed.\"). The 2027 call opened on 22 September 2026 and closed on 13 October 2026. A news item of 21 October 2026 about the 2027 Reciprocal Exchange Component concerns a different component, not a new Fellowship call.",
+  "sources": [
+   {
+    "label": "About the Fellowship (read 9 November 2026)",
+    "url": "https://www.mandelawashingtonfellowship.org/about/",
+    "type": "Official"
+   },
+   {
+    "label": "IREX application system: 2027 application closed (read 26 October 2026)",
+    "url": "https://apply.mandelawashingtonfellowship.org",
+    "type": "Official"
+   },
+   {
+    "label": "2027 application instructions (PDF: deadline time, financial provisions)",
+    "url": "https://www.mandelawashingtonfellowship.org/wp-content/uploads/2026/09/2027-Mandela-Washington-Fellowship-Application-Instructions_Final_9.17.2026-1.pdf",
+    "type": "Official"
+   },
+   {
+    "label": "Application and eligibility information (removed: HTTP 404 on 25 and 26 October and 9 November 2026)",
+    "url": "https://www.mandelawashingtonfellowship.org/apply/",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "mastercard-foundation-associates-programme",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "Roles are posted on an ongoing basis by partner platforms. On 9 November 2026 the Talent 2 Africa careers page still showed only 'Programme Associés Mastercard Foundation – Candidature Spontanée', with no location or deadline, and no platform named the DRC.",
+  "sources": [
+   {
+    "label": "Mastercard Foundation Associates Program (read 2 November 2026)",
+    "url": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/",
+    "type": "Official"
+   },
+   {
+    "label": "Talent 2 Africa careers page, linked from the Mastercard Foundation page for Francophone Africa (read 9 November 2026)",
+    "url": "https://academy4africa.com/careers",
+    "type": "Official"
+   },
+   {
+    "label": "Mastercard Foundation programme page",
+    "url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-associates-program/",
+    "type": "Official"
+   },
+   {
+    "label": "EduTimes Africa",
+    "url": "https://edutimesafrica.com/mastercard-foundation-opens-2026-associates-programme-for-young-africans/",
+    "type": "Aggregator"
+   }
+  ]
+ },
+ {
+  "id": "mckinsey-forward-fall-2026",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "Next cohort not announced; the Forward overview page (read 9 November 2026) gives no dates and says 'Stay connected and be the first to get notified when applications reopen in your country'.",
+  "sources": [
+   {
+    "label": "McKinsey.org Forward overview (read 9 November 2026)",
+    "url": "https://www.mckinsey.org/our-programs/forward/overview",
+    "type": "Official"
+   },
+   {
+    "label": "McKinsey.org Forward FAQ (deadline, eligibility, country list, no fees)",
+    "url": "https://www.mckinsey.org/our-programs/forward/faq",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "oif-d-clic-digital-training",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "The AI session closed on 23 October 2026; no further D-CLIC call has been announced (OIF youth portal, read 9 November 2026: its opportunities list shows the YouthConnekt Africa Summit, a CEA-OIF translators' fellowship, an economic mission, clean-cooking calls and the Jeux de la Francophonie, but no D-CLIC session).",
+  "sources": [
+   {
+    "label": "OIF: 300 young Congolese to be trained in digital professions (read 2 November 2026, no new call)",
+    "url": "https://www.francophonie.org/rdc-300-jeunes-congolais-vont-etre-formes-aux-metiers-du-numerique-8406",
+    "type": "Official"
+   },
+   {
+    "label": "OIF: Formation en ligne dans le domaine de l'Intelligence artificielle, 22 October 2026, deadline brought forward to 23 October 2026 18:00 Paris time (read 26 October 2026; HTTP 403 on 2 November 2026)",
+    "url": "https://www.francophonie.org/formation-en-ligne-dans-le-domaine-de-lintelligence-artificielle-8737",
+    "type": "Official"
+   },
+   {
+    "label": "OIF youth portal: D-CLIC AI session, 'Date limite pour postuler : le 2 novembre 2026', training 12 to 16 weeks, about 10 hours a week (read 26 October 2026; the page no longer existed on 2 November 2026)",
+    "url": "https://jeunesse.francophonie.org/11-opportunites-jeunesse/4237-d-clic-une-nouvelle-session-de-formation-en-ligne-a-l-intelligence-artificielle",
+    "type": "Official"
+   },
+   {
+    "label": "OIF youth portal: opportunities (read 9 November 2026, no new D-CLIC call)",
+    "url": "https://jeunesse.francophonie.org/component/content/category/11-appels-d-offres-et-concours?Itemid=101",
+    "type": "Official"
+   },
+   {
+    "label": "OIF: 3 formations en ligne aux métiers du numérique, session 2026",
+    "url": "https://www.francophonie.org/3-formations-en-ligne-aux-metiers-du-numerique-session-2026-8561",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "oif-senghor-youth-leadership-certificate",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "The 2026 call closed on 25 July 2026; the next call has not been announced. On 9 November 2026 the Université Senghor application platform listed other campaigns (among them a DU in archaeology and heritage, a certificate on climate-change project design and a certificate on African port issues) but no youth leadership certificate.",
+  "sources": [
+   {
+    "label": "Université Senghor: application page 2026",
+    "url": "https://candidature.usenghor.org/certificat-leadership-des-jeunes-en-environnement-multilateral---2026",
+    "type": "Official"
+   },
+   {
+    "label": "Afri-Carrières",
+    "url": "https://afri-carrieres.com/opportunites/formation-certifiante-leadership-des-jeunes-en-environnement/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Université Senghor application platform: open campaigns, no youth leadership certificate (read 9 November 2026)",
+    "url": "https://candidature.usenghor.org/",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "one-young-world-leading-scholarship-2026",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "No 2027 Leading Scholarship was listed on the official One Young World scholarships page read on 9 November 2026; the latest opportunity listed there was the 'Generation Regen Challenge 2027: presented by BMO' (application deadline 24 February 2027). The 2026 Leading Scholarship opened on 11 June 2026 and closed on 31 October 2026.",
+  "sources": [
+   {
+    "label": "Leading Scholarship 2026 (read 2 November 2026)",
+    "url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
+    "type": "Official"
+   },
+   {
+    "label": "One Young World scholarships (read 9 November 2026)",
+    "url": "https://www.oneyoungworld.com/scholarships",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "orange-corners-rdc",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "Next call expected between December 2026 and January 2027, according to the organiser's FAQ (not yet announced on 9 November 2026)",
+  "sources": [
+   {
+    "label": "Orange Corners: République démocratique du Congo page and FAQ (read 9 November 2026)",
+    "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+    "type": "Official"
+   },
+   {
+    "label": "Orange Corners RDC 2026 application form (Jotform, linked from the official page's 'APPLY NOW!' button through bit.ly/OCRDC2026): closed (read 2 November 2026)",
+    "url": "https://form.jotform.com/260051591187557",
+    "type": "Official"
+   },
+   {
+    "label": "ACP: 8th cohort of Orange Corners RDC announced in Kinshasa (12 February 2026) (read 26 October 2026)",
+    "url": "https://acp.cd/business/la-8eme-cohorte-dun-programme-dencadrement-des-jeunes-entrepreneurs-annoncee-a-kinshasa/",
+    "type": "News"
+   }
+  ]
+ },
+ {
+  "id": "rawbank-rawtalent-jeunes-universitaires",
+  "last_verified": "2026-11-09",
+  "deadline_text": "6th edition: 07 June 2025 at 16:00, Kinshasa time. No 7th edition was found on 9 November 2026: the Rawbank recruitment site lists 11 offers, all with 2022 references (counter staff in eight towns, a communication manager in Kinshasa and a retail banking officer in Lubumbashi), and no RawTalent call.",
+  "expected_next_cycle": "A 7th edition has not been announced (Rawbank recruitment site checked 9 November 2026).",
+  "sources": [
+   {
+    "label": "Rawbank notice published on Radio Okapi (6th edition)",
+    "url": "https://www.radiookapi.net/offre-demploi/rawbank-sa-programme-rawtalent-jeunes-universitaires-6eme-edition",
+    "type": "News"
+   },
+   {
+    "label": "Rawbank recruitment site (11 offers, no RawTalent call; read 9 November 2026)",
+    "url": "https://rawbank-cand.talent-soft.com/",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "unicef-drc-jeunes-champions-unv",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "No call for 2025 or 2026 was found. UNICEF DRC's page (read 9 November 2026) still shows the call that closed on 16 February 2024, and UNICEF's own story says the 2023 edition took 40 young people for three months and the 2024 edition 28 for six months. A 2026 Jeunes Champions posting for the Central African Republic on the UN Volunteers platform closed on 14 July 2026 (reported by unvacancies.org).",
+  "deadline_text": "2024 call: \"l'appel à candidatures se clôture le 16 février 2024\" (the call closes on 16 February 2024), online applications only (UNICEF DRC page, read 9 November 2026). No later call was found.",
+  "sources": [
+   {
+    "label": "UNICEF DRC: L'UNICEF en RDC recrute 28 Jeunes Champions (page in French, read 9 November 2026)",
+    "url": "https://www.unicef.org/drcongo/unicef-rdc-recrute-28-jeunes-champions-2024",
+    "type": "Official"
+   },
+   {
+    "label": "UNICEF DRC: Youth at the forefront of change, 12 August 2024 (read 2 November 2026)",
+    "url": "https://www.unicef.org/drcongo/en/stories/youth-forefront-change",
+    "type": "Official"
+   },
+   {
+    "label": "unvacancies.org: Jeunes Champions de l'Unicef (UNV, Bangui, Central African Republic), closed 14 July 2026 (read 2 November 2026)",
+    "url": "https://unvacancies.org/jobs/jeunes-champions-de-l-unicef-21270345",
+    "type": "Aggregator"
+   }
+  ]
+ },
+ {
+  "id": "vodacom-elite-graduate-officer-programme",
+  "last_verified": "2026-11-09",
+  "deadline_text": "2026 edition: 18 June 2026. On 9 November 2026 the Vodacom RDC careers page (vodacom.cd/fr/carrieres) still listed 'Programme Elite' in its menu under 'Jeunes talents' with no description, call or dates; the Vodafone jobs data answered HTTP 403.",
+  "expected_next_cycle": "The next edition has not been announced (Vodacom RDC careers page checked 9 November 2026).",
+  "sources": [
+   {
+    "label": "Youth portal DRC: Vodacom Elite 2026",
+    "url": "https://www.youth.cd/Opportunites/OffreEmploiEntreprise/programme-vodacom-elite-2026",
+    "type": "Aggregator"
+   },
+   {
+    "label": "Vodafone careers portal (0 DRC jobs on 5 October 2026)",
+    "url": "https://jobs.vodafone.com/careers",
+    "type": "Official"
+   },
+   {
+    "label": "Vodacom RDC careers page (menu lists 'Programme Elite', no open call; read 9 November 2026)",
+    "url": "https://www.vodacom.cd/fr/carrieres",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "world-bank-wbg-pioneers-internships",
+  "last_verified": "2026-11-09",
+  "expected_next_cycle": "Next window expected January to February 2027 (Spring/Summer cycle), by the pattern on the World Bank page (read 9 November 2026: Spring/Summer cycle 'January – February'); exact dates not posted.",
+  "sources": [
+   {
+    "label": "World Bank Group internships: WBG Pioneers (redirects to worldbank.org/ext/en/careers/talent-programs/wbg-pioneers; read 9 November 2026)",
+    "url": "https://www.worldbank.org/en/about/careers/programs-and-internships/internship",
+    "type": "Official"
+   },
+   {
+    "label": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/la-banque-mondiale-ouvre-les-candidatures-de-son-programme-de-stages-2026_59252",
+    "type": "Aggregator"
+   },
+   {
+    "label": "After School Africa (2026 Winter/Fall window, secondary)",
+    "url": "https://www.afterschoolafrica.com/107745/world-bank-group-wbg-pioneers-internship-program/",
+    "type": "Aggregator"
+   }
+  ]
+ },
+ {
+  "id": "who-internship-programme",
+  "notes": "On 9 November 2026 WHO's internship job search listed two internships, both in Geneva (Health Emergency Response Financing; Environment, Climate Change and One Health); none in the DRC.",
+  "sources": [
+   {
+    "label": "WHO internship programme",
+    "url": "https://www.who.int/careers/internship-programme",
+    "type": "Official"
+   },
+   {
+    "label": "Crisp NG",
+    "url": "https://crispng.com/2026-who-internship-programme-global-students/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "WHO Regional Office for Africa: Countries. The Democratic Republic of Congo is listed among the countries of the WHO African Region (read 2 November 2026)",
+    "url": "https://www.afro.who.int/countries",
+    "type": "Official"
+   },
+   {
+    "label": "WHO internship job search: two internships, both in Geneva (read 9 November 2026)",
+    "url": "https://careers.who.int/careersection/intern/jobsearch.ftl?lang=en",
+    "type": "Official"
+   }
+  ]
+ },
+ {
+  "id": "youthconnekt-africa-summit-2026",
+  "last_verified": "2026-11-09",
+  "program_dates": "25 to 27 November 2026, Kigali (eighth edition, theme 'Shape the Generational Mission', in French « Forger la mission de notre génération »): reported by The New Times (11 June 2026) and the OIF youth portal (read 9 November 2026); not stated on the official site",
+  "deadline_text": "No closing date is given. The OIF youth portal (read 9 November 2026) says \"Les inscriptions au YouthConnekt Africa Summit 2026 sont ouvertes\" and links to the same registration page as the official site; the official summit page (re-read 9 November 2026) still shows no 2026 details.",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "Not stated on any page read. An earlier search summary said the organisers do not provide financial assistance for delegates and that delegate applications are coordinated through national YouthConnekt chapters and the ministries in charge of youth affairs; this was not found on the official page or on the OIF youth portal (9 November 2026)."
+  ],
+  "potential_issues": [
+   "The official summit page gives no 2026 dates, fees or eligibility (re-read 9 November 2026 with the fetch tool: it lists only past summits); the dates come from news coverage and the OIF youth portal",
+   "The registration form (linked from the official site, hosted on qtems.qtsoftwareltd.com) loads only with JavaScript and could not be read, so fees and conditions are unknown",
+   "Whether delegates receive any funding is not stated on any page read: an earlier search summary said the organisers do not provide financial assistance, but this was not confirmed on the official page or on the OIF youth portal (9 November 2026)",
+   "The official site's blog lists unrelated online-casino articles (seen 12 October 2026), which suggests the site may be poorly maintained or compromised; use the registration link from the summit page only",
+   "Re-read on 2 November 2026 through the WebFetch tool (curl's connection was reset): the summit page lists only past summits and no 2026 details, its 'Register Now' button pointed to '#', and the registration system page showed only 'Loading form...'"
+  ],
+  "sources": [
+   {
+    "label": "YouthConnekt Africa summit page (re-read 9 November 2026 with the fetch tool: past summits only, no 2026 details)",
+    "url": "https://youthconnektafrica.org/yca-summit/",
+    "type": "Official"
+   },
+   {
+    "label": "The New Times: YouthConnekt Africa Summit returns to Kigali (11 June 2026)",
+    "url": "https://www.newtimes.co.rw/article/36437/news/rwanda/youthconnekt-africa-summit-returns-to-kigali/amp",
+    "type": "News"
+   },
+   {
+    "label": "YouthConnekt Rwanda: the summit returns to Kigali",
+    "url": "https://youthconnekt.rw/youthconnekt-africa-summit-returns-to-kigali/",
+    "type": "Institutional"
+   },
+   {
+    "label": "Afri-Carrières",
+    "url": "https://afri-carrieres.com/opportunites/youthconnekt-africa-summit/",
+    "type": "Aggregator"
+   },
+   {
+    "label": "OIF youth portal: 'YouthConnekt Africa Summit 2026 : les inscriptions sont ouvertes', 25 to 27 November 2026, Kigali (read 9 November 2026)",
+    "url": "https://jeunesse.francophonie.org/component/content/category/11-appels-d-offres-et-concours?Itemid=101",
+    "type": "Institutional"
+   }
+  ]
+ }
+]
