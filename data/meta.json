@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-09T08:07:18Z",
+  "last_refresh": "2026-11-09T14:18:45Z",
   "counts": {
     "total": 87,
     "archived": 15,
@@ -66,8 +66,8 @@
     ]
   },
   "watch": {
-    "checked": 67,
-    "ok": 61,
+    "checked": 75,
+    "ok": 69,
     "blocked_or_unreachable": 5,
     "dead": 1
   },
@@ -79,46 +79,10 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
-      "id": "global-leadership-challenge-2026",
-      "type": "source_changed",
-      "since": "2026-11-06",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "icann-fellowship",
-      "type": "source_changed",
-      "since": "2026-11-06",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "internet-society-fellowship-2027",
-      "type": "source_changed",
-      "since": "2026-11-05",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "african-leadership-academy-class-of-2027",
-      "type": "source_changed",
-      "since": "2026-11-05",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-08",
+      "since": "2026-11-09",
       "detail": "Official page returned HTTP 404 on two runs."
-    },
-    {
-      "id": "wff-young-scientists-group-2027-2029",
-      "type": "source_changed",
-      "since": "2026-11-06",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "wff-youth-policy-board-2027-2028",
-      "type": "source_changed",
-      "since": "2026-11-06",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ]
 }
