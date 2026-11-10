@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-09T14:18:45Z",
+  "last_refresh": "2026-11-10T13:44:40Z",
   "counts": {
     "total": 87,
     "archived": 15,
@@ -57,11 +57,10 @@
       "undp-internship-development-as-defense-home-based-2026",
       "unearthodox-exploration-co-lab-2027"
     ],
-    "3": [
-      "dalai-lama-fellows-2027"
-    ],
+    "3": [],
     "1": [
       "anzisha-fellowship-2027",
+      "dalai-lama-fellows-2027",
       "undp-effective-development-cooperation-intern-2026"
     ]
   },
@@ -79,9 +78,15 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
+      "id": "obama-foundation-leaders",
+      "type": "source_changed",
+      "since": "2026-11-10",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-09",
+      "since": "2026-11-10",
       "detail": "Official page returned HTTP 404 on two runs."
     }
   ]
