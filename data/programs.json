@@ -1076,7 +1076,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "Reported by secondary sources: up to USD 40,000 of total support, with performance-based stipends tied to growth milestones. The Anzisha apply page (read 12 October 2026) does not state a support package or amount."
@@ -7013,7 +7013,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Partially Funded",
       "funding_details": [
         "\"UNDP interns are eligible to receive a monthly stipend, with a rate that varies depending on the duty location\"; where an intern has outside financial support, UNDP pays the difference, if any; amount not stated.",
@@ -9767,5 +9767,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-11-10"
+  "status_computed_on": "2026-11-11"
 }

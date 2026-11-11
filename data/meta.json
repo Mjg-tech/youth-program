@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-10T13:44:40Z",
+  "last_refresh": "2026-11-11T12:56:08Z",
   "counts": {
     "total": 87,
     "archived": 15,
     "by_status": {
       "OPEN": 21,
-      "CLOSING SOON": 15,
+      "CLOSING SOON": 13,
       "UPCOMING": 28,
-      "DEADLINE PASSED": 10,
+      "DEADLINE PASSED": 12,
       "ROLLING": 5,
       "DATE UNKNOWN": 8
     },
@@ -59,15 +59,13 @@
     ],
     "3": [],
     "1": [
-      "anzisha-fellowship-2027",
-      "dalai-lama-fellows-2027",
-      "undp-effective-development-cooperation-intern-2026"
+      "dalai-lama-fellows-2027"
     ]
   },
   "watch": {
     "checked": 75,
-    "ok": 69,
-    "blocked_or_unreachable": 5,
+    "ok": 68,
+    "blocked_or_unreachable": 6,
     "dead": 1
   },
   "flags": [
@@ -75,6 +73,12 @@
       "id": "eu-delegation-drc-subsidised-traineeship",
       "type": "source_changed",
       "since": "2026-11-05",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "icann-fellowship",
+      "type": "source_changed",
+      "since": "2026-11-11",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -86,7 +90,7 @@
     {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-10",
+      "since": "2026-11-11",
       "detail": "Official page returned HTTP 404 on two runs."
     }
   ]
