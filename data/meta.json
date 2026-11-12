@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-11T12:56:08Z",
+  "last_refresh": "2026-11-12T13:58:16Z",
   "counts": {
     "total": 87,
     "archived": 15,
     "by_status": {
       "OPEN": 21,
-      "CLOSING SOON": 13,
+      "CLOSING SOON": 12,
       "UPCOMING": 28,
-      "DEADLINE PASSED": 12,
+      "DEADLINE PASSED": 13,
       "ROLLING": 5,
       "DATE UNKNOWN": 8
     },
@@ -45,22 +45,21 @@
       "global-solvers-accelerator-2027",
       "gtf-telemachus-athena-mentoring-2027",
       "nrc-logistics-intern-goma-2026",
-      "sir-cyril-taylor-young-african-leaders-2027",
-      "undp-rome-centre-climate-energy-intern-2026",
       "youth-global-forum-2027-paris"
     ],
     "7": [
+      "sir-cyril-taylor-young-african-leaders-2027",
+      "undp-rome-centre-climate-energy-intern-2026",
+      "unearthodox-exploration-co-lab-2027"
+    ],
+    "3": [
       "cmu-africa-ai-certificate-2027",
       "d-prize-challenge-2026-2027",
       "itu-gender-champions-programme-2027",
       "novartis-next-generation-scientist-2027",
-      "undp-internship-development-as-defense-home-based-2026",
-      "unearthodox-exploration-co-lab-2027"
+      "undp-internship-development-as-defense-home-based-2026"
     ],
-    "3": [],
-    "1": [
-      "dalai-lama-fellows-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 75,
@@ -90,7 +89,7 @@
     {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-11",
+      "since": "2026-11-12",
       "detail": "Official page returned HTTP 404 on two runs."
     }
   ]
