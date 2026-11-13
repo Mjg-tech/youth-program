@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-12T13:58:16Z",
+  "last_refresh": "2026-11-13T13:24:47Z",
   "counts": {
     "total": 87,
     "archived": 15,
@@ -43,31 +43,37 @@
     ],
     "14": [
       "global-solvers-accelerator-2027",
-      "gtf-telemachus-athena-mentoring-2027",
-      "nrc-logistics-intern-goma-2026",
-      "youth-global-forum-2027-paris"
+      "gtf-telemachus-athena-mentoring-2027"
     ],
     "7": [
+      "nrc-logistics-intern-goma-2026",
       "sir-cyril-taylor-young-african-leaders-2027",
       "undp-rome-centre-climate-energy-intern-2026",
-      "unearthodox-exploration-co-lab-2027"
+      "youth-global-forum-2027-paris"
     ],
     "3": [
       "cmu-africa-ai-certificate-2027",
       "d-prize-challenge-2026-2027",
       "itu-gender-champions-programme-2027",
       "novartis-next-generation-scientist-2027",
-      "undp-internship-development-as-defense-home-based-2026"
+      "undp-internship-development-as-defense-home-based-2026",
+      "unearthodox-exploration-co-lab-2027"
     ],
     "1": []
   },
   "watch": {
     "checked": 75,
-    "ok": 68,
-    "blocked_or_unreachable": 6,
+    "ok": 69,
+    "blocked_or_unreachable": 5,
     "dead": 1
   },
   "flags": [
+    {
+      "id": "dalai-lama-fellows-2027",
+      "type": "source_changed",
+      "since": "2026-11-13",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
     {
       "id": "eu-delegation-drc-subsidised-traineeship",
       "type": "source_changed",
@@ -81,6 +87,12 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
+      "id": "mandela-washington-fellowship-2027",
+      "type": "source_changed",
+      "since": "2026-11-13",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
       "id": "obama-foundation-leaders",
       "type": "source_changed",
       "since": "2026-11-10",
@@ -89,7 +101,7 @@
     {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-12",
+      "since": "2026-11-13",
       "detail": "Official page returned HTTP 404 on two runs."
     }
   ]
