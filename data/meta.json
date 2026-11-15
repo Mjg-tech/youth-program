@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-14T12:29:13Z",
+  "last_refresh": "2026-11-15T12:56:44Z",
   "counts": {
-    "total": 87,
-    "archived": 15,
+    "total": 85,
+    "archived": 18,
     "by_status": {
       "OPEN": 21,
       "CLOSING SOON": 12,
-      "UPCOMING": 28,
-      "DEADLINE PASSED": 13,
+      "UPCOMING": 29,
+      "DEADLINE PASSED": 10,
       "ROLLING": 5,
       "DATE UNKNOWN": 8
     },
@@ -20,17 +20,17 @@
       "Travel Funded": 4,
       "Participation Funded": 4,
       "Free": 8,
-      "Unpaid": 6,
+      "Unpaid": 5,
       "Self Funded": 0,
-      "Funding Unclear": 45
+      "Funding Unclear": 44
     },
     "by_verification": {
-      "VERIFIED": 41,
-      "PARTIALLY VERIFIED": 36,
-      "NEEDS VERIFICATION": 10
+      "VERIFIED": 39,
+      "PARTIALLY VERIFIED": 37,
+      "NEEDS VERIFICATION": 9
     },
     "in_kinshasa": 17,
-    "remote": 23,
+    "remote": 22,
     "fee_required": 5
   },
   "deadline_buckets": {
@@ -42,29 +42,28 @@
       "wff-youth-policy-board-2027-2028"
     ],
     "14": [
-      "global-solvers-accelerator-2027",
       "gtf-telemachus-athena-mentoring-2027"
     ],
     "7": [
+      "global-solvers-accelerator-2027",
       "nrc-logistics-intern-goma-2026",
       "sir-cyril-taylor-young-african-leaders-2027",
       "undp-rome-centre-climate-energy-intern-2026",
       "youth-global-forum-2027-paris"
     ],
-    "3": [
-      "unearthodox-exploration-co-lab-2027"
-    ],
+    "3": [],
     "1": [
       "cmu-africa-ai-certificate-2027",
       "d-prize-challenge-2026-2027",
       "itu-gender-champions-programme-2027",
       "novartis-next-generation-scientist-2027",
-      "undp-internship-development-as-defense-home-based-2026"
+      "undp-internship-development-as-defense-home-based-2026",
+      "unearthodox-exploration-co-lab-2027"
     ]
   },
   "watch": {
-    "checked": 75,
-    "ok": 70,
+    "checked": 73,
+    "ok": 68,
     "blocked_or_unreachable": 4,
     "dead": 1
   },
@@ -102,7 +101,7 @@
     {
       "id": "unu-junior-fellows-internship-spring-2027",
       "type": "dead_link",
-      "since": "2026-11-14",
+      "since": "2026-11-15",
       "detail": "Official page returned HTTP 404 on two runs."
     }
   ]

@@ -2,6 +2,30 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-15",
+      "id": "i-am-nala-fellowship-2027",
+      "title": "I AM NALA Fellowship 2027",
+      "field": "(archived)",
+      "old": "2026-10-31",
+      "new": "archive"
+    },
+    {
+      "date": "2026-11-15",
+      "id": "one-young-world-leading-scholarship-2026",
+      "title": "One Young World Leading Scholarship 2026",
+      "field": "(cycle closed)",
+      "old": "2026-10-31",
+      "new": "rolled to next cycle"
+    },
+    {
+      "date": "2026-11-15",
+      "id": "un-osesg-great-lakes-political-affairs-intern-2026",
+      "title": "UN Office of the Special Envoy for the Great Lakes Region: Political Affairs intern (Nairobi)",
+      "field": "(archived)",
+      "old": "2026-10-31",
+      "new": "archive"
+    },
+    {
       "date": "2026-11-09",
       "id": "global-leadership-challenge-2026",
       "title": "Global Leadership Challenge 2026",
@@ -4552,30 +4576,6 @@
       "date": "2026-10-05",
       "id": "alx-sponsored-programmes",
       "title": "ALX sponsored tech programmes",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "ustc-international-winter-camp-2027",
-      "title": "USTC International Winter Camp 2027",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "african-union-youth-volunteer-corps",
-      "title": "African Union Youth Volunteer Corps (AU-YVC)",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "volontaires-unis-pour-la-francophonie",
-      "title": "Volontaires unis pour la Francophonie (V-Francophonie)",
       "field": "(new record)",
       "old": null,
       "new": "added"

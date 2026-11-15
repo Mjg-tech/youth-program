@@ -3580,115 +3580,6 @@
       "notes": ""
     },
     {
-      "id": "i-am-nala-fellowship-2027",
-      "title": "I AM NALA Fellowship 2027",
-      "organization": "Nalafem Collective",
-      "overview": "A six-month online leadership fellowship for displaced African women (refugees, internally displaced or stateless) active in politics, campaigning, peacebuilding or advocacy.",
-      "category": [
-        "Fellowship",
-        "Leadership"
-      ],
-      "audience": [
-        "young-professional",
-        "any-adult"
-      ],
-      "country": "Online",
-      "city": "Online",
-      "location_type": "Remote",
-      "delivery_mode": "Online",
-      "program_dates": "January to July 2027 (bi-monthly online sessions, possible in-person engagements)",
-      "duration": "About 6 months",
-      "application_deadline": "2026-10-31",
-      "deadline_utc": "",
-      "deadline_text": "\"Deadline: 31 October 2026\", on the organiser's Google Form (re-read 9 November 2026: deadline passed, form still open); \"ONLY shortlisted candidates will be notified by November 6th 2026\". No time or time zone stated. No page about the fellowship was found on nalafem.org (home and Apply pages re-read 9 November 2026; the Apply page lists a staff vacancy).",
-      "deadline_timezone": "Unknown / Not specified",
-      "opens_on": "",
-      "open_now": false,
-      "rolling": false,
-      "recurring": false,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
-      "funding_type": "Funding Unclear",
-      "funding_details": [
-        "No amount on the application form. Reported by secondary sources: \"capacity and technical support, mentorship, solidarity, access and resourcing\"."
-      ],
-      "coverage": {
-        "tuition": "Not specified",
-        "stipend": "Not specified",
-        "flight": "Not specified",
-        "accommodation": "Not specified",
-        "meals": "Not specified",
-        "visa": "Not specified",
-        "insurance": "Not specified",
-        "local_transport": "Not specified"
-      },
-      "travel_funded": false,
-      "flight_funded": false,
-      "accommodation_funded": false,
-      "meals_funded": false,
-      "visa_funded": false,
-      "insurance_funded": false,
-      "local_transport_funded": false,
-      "application_fee": "No fee stated",
-      "participation_fee": "Unknown / Not specified",
-      "stipend": "Unknown / Not specified",
-      "age_min": 18,
-      "age_max": 40,
-      "age_requirement": "Women aged 18 to 40",
-      "experience_level": "Some experience needed",
-      "experience_requirement": "Leadership in politics, campaigns, peacebuilding or advocacy",
-      "education_requirement": "Unknown / Not specified",
-      "nationality_requirements": [
-        "African women who are refugees, internally displaced or stateless, including in the diaspora"
-      ],
-      "drc_eligible": "Yes",
-      "language_requirement": "Unknown / Not specified (the form asks for a preferred language: English, French or Arabic)",
-      "eligibility": [
-        "Woman aged 18 to 40",
-        "Refugee, internally displaced person or stateless (the form says other applications will not be considered)",
-        "African, including displaced Africans in the diaspora",
-        "Leadership in politics, campaigns, peacebuilding or advocacy"
-      ],
-      "other_requirements": [],
-      "documents_required": [],
-      "application_process": [],
-      "official_application_url": "",
-      "official_information_url": "https://nalafem.org/",
-      "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSe7cdN9YiLa9HpHQ5eGkh6HgpVexDvWGELZB59i4PfmaOMwMw/viewform",
-      "source_type": "Official",
-      "source_confidence": "MEDIUM",
-      "verification": "NEEDS VERIFICATION",
-      "sources": [
-        {
-          "label": "I AM NALA Fellowship 2027 application form (Google Form; re-read 9 November 2026, still shows 'Deadline: 31 October 2026')",
-          "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7cdN9YiLa9HpHQ5eGkh6HgpVexDvWGELZB59i4PfmaOMwMw/viewform",
-          "type": "Official"
-        },
-        {
-          "label": "Nalafem Collective (home and Apply pages re-read 9 November 2026; no page about the fellowship)",
-          "url": "https://nalafem.org/",
-          "type": "Official"
-        },
-        {
-          "label": "Opportunity Desk",
-          "url": "https://opportunitydesk.org/2026/09/14/i-am-nala-fellowship-2027/",
-          "type": "Aggregator"
-        }
-      ],
-      "potential_issues": [
-        "Deadline passed on 31 October 2026; on 9 November 2026 the Google Form still showed the 31 October deadline and its buttons to continue, but late applications may not be considered",
-        "The call is only on a Google Form. On 26 October 2026 nalafem.org (home page, Apply page and the site's own search for 'fellowship', 'I AM NALA', '2027' and 'call for applications') had no page about the fellowship; the Apply page only shows a 2023 job vacancy. The form states it was 'created inside of NALA - Feminist Collective' and gives a contact address on the nalafem.org domain, which links it to the organiser but does not replace an official page.",
-        "The support offered is described only in general terms on the form, with no amount",
-        "Only for displaced women"
-      ],
-      "benefits": [],
-      "action": "The deadline (31 October 2026) has passed; watch Nalafem Collective's official channels for the next call.",
-      "last_verified": "2026-11-09",
-      "date_discovered": "2026-10-05",
-      "notes": ""
-    },
-    {
       "id": "icann-fellowship",
       "title": "ICANN Fellowship Program",
       "organization": "ICANN (Internet Corporation for Assigned Names and Numbers)",
@@ -5529,17 +5420,17 @@
       "delivery_mode": "In-person",
       "program_dates": "One Young World Summit, 3-6 November 2026",
       "duration": "Unknown / Not specified",
-      "application_deadline": "2026-10-31",
+      "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Application deadline: 31 October 2026. Opening date: 11 June 2026. Scholars are selected on a rolling basis and notified between June and October 2026. The heading that read \"Application Deadline: Rolling\" on 26 October 2026 now reads \"Application Deadline: Closed\" (oneyoungworld.com, read 2 November 2026). No time or time zone stated.",
+      "deadline_text": "Last cycle closed on 2026-10-31. Next cycle not announced yet.",
       "deadline_timezone": "Unknown / Not specified",
-      "opens_on": "2026-06-11",
+      "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
       "expected_next_cycle": "No 2027 Leading Scholarship was listed on the official One Young World scholarships page read on 9 November 2026; the latest opportunity listed there was the 'Generation Regen Challenge 2027: presented by BMO' (application deadline 24 February 2027). The 2026 Leading Scholarship opened on 11 June 2026 and closed on 31 October 2026.",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "last_cycle_deadline": "2026-10-31",
+      "status": "UPCOMING",
       "funding_type": "Participation Funded",
       "funding_details": [
         "General scholarships page (read 26 October 2026): \"These fully funded leadership scholarships cover travel, accommodation, and meals\"",
@@ -5592,7 +5483,7 @@
       "source_url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "Leading Scholarship 2026 (read 2 November 2026)",
@@ -5616,7 +5507,7 @@
       "action": "The 2026 call is closed; watch the One Young World scholarships page for the next Leading Scholarship and check whether the DRC is on its country list.",
       "last_verified": "2026-11-09",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "[auto 2026-11-15] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "one young world"
       ]
@@ -6783,105 +6674,6 @@
       "action": "Open UN Careers job opening 286269 (the official page) and apply there before 4 November 2026 (New York time) if you meet the degree, field-of-study and French requirements.",
       "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
-      "notes": ""
-    },
-    {
-      "id": "un-osesg-great-lakes-political-affairs-intern-2026",
-      "title": "UN Office of the Special Envoy for the Great Lakes Region: Political Affairs intern (Nairobi)",
-      "organization": "United Nations Secretariat, Office of the Special Envoy of the Secretary-General for the Great Lakes Region (OSESG-GL)",
-      "overview": "A 3 to 6 month unpaid internship in the Political Affairs Unit of the UN Special Envoy's office covering the Great Lakes region (which includes the DRC), based in Nairobi. Open to final-year bachelor's students and to master's students or graduates; English and working French required.",
-      "category": [
-        "Internship"
-      ],
-      "audience": [
-        "university-student",
-        "postgraduate-student",
-        "recent-graduate"
-      ],
-      "country": "Kenya",
-      "city": "Nairobi",
-      "location_type": "Abroad in Africa",
-      "delivery_mode": "In-person",
-      "program_dates": "Unknown / Not specified",
-      "duration": "3 to 6 months",
-      "application_deadline": "2026-10-31",
-      "deadline_utc": "2026-11-01T03:59:59Z",
-      "deadline_text": "Posted 12 October 2026; closes 1 November 2026 at 03:59 UTC, which is 31 October 2026 at 23:59 New York time (UN Careers job opening 286380, read 26 October 2026 through the UN Careers site's public job data).",
-      "deadline_timezone": "America/New_York",
-      "opens_on": "2026-10-12",
-      "open_now": false,
-      "rolling": false,
-      "recurring": false,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
-      "funding_type": "Unpaid",
-      "funding_details": [
-        "UN: \"Interns are not financially remunerated by the United Nations.\"",
-        "UN: \"Costs and arrangements for travel, visas, accommodation and living expenses are the responsibility of interns or their sponsoring institutions.\""
-      ],
-      "coverage": {
-        "tuition": "Not specified",
-        "stipend": "Not covered",
-        "flight": "Not covered",
-        "accommodation": "Not covered",
-        "meals": "Not covered",
-        "visa": "Not covered",
-        "insurance": "Not specified",
-        "local_transport": "Not specified"
-      },
-      "travel_funded": false,
-      "flight_funded": false,
-      "accommodation_funded": false,
-      "meals_funded": false,
-      "visa_funded": false,
-      "insurance_funded": false,
-      "local_transport_funded": false,
-      "application_fee": "No fee stated",
-      "participation_fee": "No fee stated",
-      "stipend": "None",
-      "age_min": null,
-      "age_max": null,
-      "age_requirement": "Unknown / Not specified",
-      "experience_level": "None required",
-      "experience_requirement": "No work experience is listed among the requirements; the posting asks for enrolment in or completion of a degree programme",
-      "education_requirement": "Enrolled in, or completed, a graduate programme (second university degree or higher), or enrolled in or completed the final year of a first university degree (minimum bachelor's); field of study closely related to the Office's work",
-      "nationality_requirements": [],
-      "drc_eligible": "Yes",
-      "language_requirement": "\"Fluency in spoken and written English is required for the internship. Working-level knowledge of French is required.\"",
-      "eligibility": [
-        "Final-year bachelor's student, or master's/doctoral student or graduate",
-        "Field of study closely related to political affairs and the Office's work",
-        "Fluent English and working-level French",
-        "Interns who are not Kenyan citizens or residents may need a visa and work authorisation"
-      ],
-      "other_requirements": [],
-      "documents_required": [],
-      "application_process": [
-        "Apply through the UN Careers / Inspira portal for job opening 286380 before 31 October 2026 (New York time)"
-      ],
-      "official_application_url": "https://inspira.un.org/psp/PUNA1J/EMPLOYEE/HRMS/c/UN_CUSTOMIZATIONS.UN_JOB_DETAIL.GBL?Action=A&UNAction=Apply&JobOpeningId=286380&languageCd=ENG",
-      "official_information_url": "https://careers.un.org/jobSearchDescription/286380?language=en",
-      "source_url": "https://careers.un.org/jobSearchDescription/286380?language=en",
-      "source_type": "Official",
-      "source_confidence": "HIGH",
-      "verification": "VERIFIED",
-      "sources": [
-        {
-          "label": "UN Careers: Intern, Political Affairs, job opening 286380 (read 26 October 2026)",
-          "url": "https://careers.un.org/jobSearchDescription/286380?language=en",
-          "type": "Official"
-        }
-      ],
-      "potential_issues": [
-        "Unpaid: travel, visa, accommodation and living costs are the intern's own",
-        "Based in Nairobi, not in the DRC",
-        "Working-level French and fluent English both required"
-      ],
-      "benefits": [],
-      "action": "Read UN Careers job opening 286380 and apply through Inspira before 31 October 2026 (New York time) if you meet the degree and language rules.",
-      "last_verified": "2026-10-26",
-      "date_discovered": "2026-10-19",
       "notes": ""
     },
     {
@@ -9767,5 +9559,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-11-14"
+  "status_computed_on": "2026-11-15"
 }
