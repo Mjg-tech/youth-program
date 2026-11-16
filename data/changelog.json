@@ -2,6 +2,14 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-16",
+      "id": "unu-junior-fellows-internship-spring-2027",
+      "title": "United Nations University Junior Fellows Internship, Spring 2027 (Tokyo)",
+      "field": "(archived)",
+      "old": "2026-11-01",
+      "new": "archive"
+    },
+    {
       "date": "2026-11-15",
       "id": "i-am-nala-fellowship-2027",
       "title": "I AM NALA Fellowship 2027",
@@ -4568,14 +4576,6 @@
       "date": "2026-10-05",
       "id": "mckinsey-forward-fall-2026",
       "title": "McKinsey.org Forward learning programme (Fall 2026)",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "alx-sponsored-programmes",
-      "title": "ALX sponsored tech programmes",
       "field": "(new record)",
       "old": null,
       "new": "added"
