@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-16T13:58:05Z",
+  "last_refresh": "2026-11-17T14:51:54Z",
   "counts": {
     "total": 84,
     "archived": 19,
     "by_status": {
-      "OPEN": 18,
+      "OPEN": 17,
       "CLOSING SOON": 10,
       "UPCOMING": 29,
-      "DEADLINE PASSED": 14,
+      "DEADLINE PASSED": 15,
       "ROLLING": 5,
       "DATE UNKNOWN": 8
     },
@@ -35,27 +35,25 @@
   },
   "deadline_buckets": {
     "30": [
-      "jim-leech-mastercard-foundation-fellowship-2027",
       "mcw-global-young-leaders-fellowship-2027"
     ],
     "14": [
       "alu-mastercard-foundation-scholars-january-2027",
+      "jim-leech-mastercard-foundation-fellowship-2027",
       "ned-hurford-youth-fellows-2027",
       "wff-youth-policy-board-2027-2028"
     ],
     "7": [
       "global-solvers-accelerator-2027",
-      "gtf-telemachus-athena-mentoring-2027",
-      "nrc-logistics-intern-goma-2026",
-      "youth-global-forum-2027-paris"
+      "gtf-telemachus-athena-mentoring-2027"
     ],
     "3": [
+      "nrc-logistics-intern-goma-2026",
       "sir-cyril-taylor-young-african-leaders-2027",
-      "undp-rome-centre-climate-energy-intern-2026"
+      "undp-rome-centre-climate-energy-intern-2026",
+      "youth-global-forum-2027-paris"
     ],
-    "1": [
-      "unearthodox-exploration-co-lab-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 72,
@@ -64,6 +62,12 @@
     "dead": 0
   },
   "flags": [
+    {
+      "id": "aspire-leaders-program-2026-cohort-4",
+      "type": "source_changed",
+      "since": "2026-11-17",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
     {
       "id": "dalai-lama-fellows-2027",
       "type": "source_changed",

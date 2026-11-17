@@ -3942,7 +3942,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "Queen's page: \"Up to 60 Fellows will be selected in the final phase to receive a stipend of $500 CAD\"; the timeline on the same page says Fellows \"will receive a USD 350 stipend\"",
@@ -7132,7 +7132,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "Unearthodox: \"CHF 10,000 to help move your initiative forward\" plus about \"CHF 60,000 in value of non-financial, tailored support\" for selected initiatives."
@@ -9446,5 +9446,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-11-16"
+  "status_computed_on": "2026-11-17"
 }
