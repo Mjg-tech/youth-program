@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-17T14:51:54Z",
+  "last_refresh": "2026-11-18T14:31:43Z",
   "counts": {
     "total": 84,
     "archived": 19,
@@ -35,6 +35,8 @@
   },
   "deadline_buckets": {
     "30": [
+      "allianz-social-shifters-movenow-challenge-2026",
+      "internet-society-fellowship-2027",
       "mcw-global-young-leaders-fellowship-2027"
     ],
     "14": [
@@ -49,11 +51,12 @@
     ],
     "3": [
       "nrc-logistics-intern-goma-2026",
-      "sir-cyril-taylor-young-african-leaders-2027",
-      "undp-rome-centre-climate-energy-intern-2026",
       "youth-global-forum-2027-paris"
     ],
-    "1": []
+    "1": [
+      "sir-cyril-taylor-young-african-leaders-2027",
+      "undp-rome-centre-climate-energy-intern-2026"
+    ]
   },
   "watch": {
     "checked": 72,
@@ -77,7 +80,7 @@
     {
       "id": "eu-delegation-drc-subsidised-traineeship",
       "type": "source_changed",
-      "since": "2026-11-14",
+      "since": "2026-11-18",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -99,9 +102,15 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
+      "id": "anzisha-fellowship-2027",
+      "type": "source_changed",
+      "since": "2026-11-18",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
       "id": "cmu-africa-ai-certificate-2027",
       "type": "source_changed",
-      "since": "2026-11-16",
+      "since": "2026-11-18",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ]
