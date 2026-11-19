@@ -2,6 +2,22 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-19",
+      "id": "ohchr-yaounde-data-management-admin-intern-2026",
+      "title": "OHCHR Regional Hub for Central and West Africa: Data Management and Administrative Support intern (Yaoundé)",
+      "field": "(archived)",
+      "old": "2026-11-04",
+      "new": "archive"
+    },
+    {
+      "date": "2026-11-19",
+      "id": "un-habitat-abidjan-programme-management-intern-2026",
+      "title": "UN-Habitat Côte d'Ivoire: Programme Management intern (Abidjan)",
+      "field": "(archived)",
+      "old": "2026-11-04",
+      "new": "archive"
+    },
+    {
       "date": "2026-11-16",
       "id": "unu-junior-fellows-internship-spring-2027",
       "title": "United Nations University Junior Fellows Internship, Spring 2027 (Tokyo)",
@@ -4560,22 +4576,6 @@
       "date": "2026-10-05",
       "id": "world-forum-for-democracy-youth-delegation",
       "title": "World Forum for Democracy: Youth Delegation",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "obama-foundation-leaders",
-      "title": "Obama Foundation Leaders programme",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "mckinsey-forward-fall-2026",
-      "title": "McKinsey.org Forward learning programme (Fall 2026)",
       "field": "(new record)",
       "old": null,
       "new": "added"

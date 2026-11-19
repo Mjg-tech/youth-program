@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-18T14:31:43Z",
+  "last_refresh": "2026-11-19T14:40:10Z",
   "counts": {
-    "total": 84,
-    "archived": 19,
+    "total": 82,
+    "archived": 21,
     "by_status": {
-      "OPEN": 17,
-      "CLOSING SOON": 10,
+      "OPEN": 16,
+      "CLOSING SOON": 11,
       "UPCOMING": 29,
-      "DEADLINE PASSED": 15,
+      "DEADLINE PASSED": 13,
       "ROLLING": 5,
       "DATE UNKNOWN": 8
     },
@@ -20,13 +20,13 @@
       "Travel Funded": 4,
       "Participation Funded": 4,
       "Free": 8,
-      "Unpaid": 5,
+      "Unpaid": 3,
       "Self Funded": 0,
       "Funding Unclear": 44
     },
     "by_verification": {
       "VERIFIED": 38,
-      "PARTIALLY VERIFIED": 37,
+      "PARTIALLY VERIFIED": 35,
       "NEEDS VERIFICATION": 9
     },
     "in_kinshasa": 17,
@@ -36,31 +36,31 @@
   "deadline_buckets": {
     "30": [
       "allianz-social-shifters-movenow-challenge-2026",
-      "internet-society-fellowship-2027",
-      "mcw-global-young-leaders-fellowship-2027"
+      "internet-society-fellowship-2027"
     ],
     "14": [
       "alu-mastercard-foundation-scholars-january-2027",
       "jim-leech-mastercard-foundation-fellowship-2027",
+      "mcw-global-young-leaders-fellowship-2027",
       "ned-hurford-youth-fellows-2027",
       "wff-youth-policy-board-2027-2028"
     ],
     "7": [
-      "global-solvers-accelerator-2027",
       "gtf-telemachus-athena-mentoring-2027"
     ],
     "3": [
-      "nrc-logistics-intern-goma-2026",
-      "youth-global-forum-2027-paris"
+      "global-solvers-accelerator-2027"
     ],
     "1": [
+      "nrc-logistics-intern-goma-2026",
       "sir-cyril-taylor-young-african-leaders-2027",
-      "undp-rome-centre-climate-energy-intern-2026"
+      "undp-rome-centre-climate-energy-intern-2026",
+      "youth-global-forum-2027-paris"
     ]
   },
   "watch": {
-    "checked": 72,
-    "ok": 68,
+    "checked": 70,
+    "ok": 66,
     "blocked_or_unreachable": 4,
     "dead": 0
   },
@@ -111,6 +111,12 @@
       "id": "cmu-africa-ai-certificate-2027",
       "type": "source_changed",
       "since": "2026-11-18",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "ned-hurford-youth-fellows-2027",
+      "type": "source_changed",
+      "since": "2026-11-19",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ]

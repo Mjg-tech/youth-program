@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -2121,6 +2121,239 @@
       "notes": "On 9 November 2026 UNU's careers site listed 11 jobs and no internship.",
       "archive_id": "unu-junior-fellows-internship-spring-2027@2026-11-01",
       "archived_on": "2026-11-16"
+    },
+    {
+      "id": "ohchr-yaounde-data-management-admin-intern-2026",
+      "title": "OHCHR Regional Hub for Central and West Africa: Data Management and Administrative Support intern (Yaoundé)",
+      "organization": "Office of the United Nations High Commissioner for Human Rights (OHCHR), Regional Hub for Central and West Africa",
+      "overview": "An unpaid in-person internship from 25 November 2026 to 24 February 2027 in the ERP Section of OHCHR's regional hub in Yaoundé: administrative support, document review, dashboards, reports and basic Microsoft Power Apps / Dataverse work. Open to final-year bachelor's students and to master's students or graduates; fluent English required, French an advantage.",
+      "category": [
+        "Internship"
+      ],
+      "audience": [
+        "university-student",
+        "postgraduate-student",
+        "recent-graduate"
+      ],
+      "country": "Cameroon",
+      "city": "Yaoundé",
+      "location_type": "Abroad in Africa",
+      "delivery_mode": "In-person",
+      "program_dates": "25 November 2026 to 24 February 2027 (expected duration on the posting)",
+      "duration": "3 months",
+      "application_deadline": "2026-11-04",
+      "deadline_utc": "2026-11-05T04:59:59Z",
+      "deadline_text": "Reported by secondary sources that reproduce the UN Careers notice (unvacancies.org and unjobnet.org, read 2 November 2026): posted 20 October 2026, \"Closes 4 Nov 2026\", 23:59 EST (UTC-5), i.e. 5 November 2026 at 04:59 UTC. The official page careers.un.org (job opening 286456) could not be read.",
+      "deadline_timezone": "America/New_York",
+      "opens_on": "2026-10-20",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Unpaid",
+      "funding_details": [
+        "UN: \"Interns are not financially remunerated by the United Nations.\"",
+        "UN: \"Costs and arrangements for travel, visas, accommodation and living expenses are the responsibility of interns or their sponsoring institutions.\"",
+        "UN: \"The United Nations does not charge a fee at any stage of the recruitment process.\""
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not covered",
+        "flight": "Not covered",
+        "accommodation": "Not covered",
+        "meals": "Not covered",
+        "visa": "Not covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "No fee stated",
+      "stipend": "None",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "None required",
+      "experience_requirement": "No work experience is listed as a requirement; familiarity with data management, process analysis, administrative support or information systems is an asset",
+      "education_requirement": "Enrolled in, or completed, a graduate programme (second university degree or higher), or enrolled in or completed the final year of a first university degree (minimum bachelor's)",
+      "nationality_requirements": [],
+      "drc_eligible": "Yes",
+      "language_requirement": "\"For the position advertised, fluency in English is required. Knowledge of French language is an advantage.\"",
+      "eligibility": [
+        "Final-year bachelor's student, or master's/doctoral student or graduate",
+        "Proficiency in Microsoft Excel, Word, Outlook and PowerPoint; exposure to data entry and basic reporting tools",
+        "Fluent English; French an advantage",
+        "Interns who are not citizens or permanent residents of Cameroon may need a visa and work authorisation"
+      ],
+      "other_requirements": [],
+      "documents_required": [
+        "Complete application / personal history profile (incomplete ones are not reviewed)",
+        "Cover letter stating interest in OHCHR, graduation date, IT and data skills, period of availability and earliest start date"
+      ],
+      "application_process": [
+        "Apply through UN Careers / Inspira for job opening 286456 before 4 November 2026 (New York time); only short-listed applicants are contacted"
+      ],
+      "official_application_url": "https://careers.un.org/jobSearchDescription/286456?language=en",
+      "official_information_url": "https://careers.un.org/jobSearchDescription/286456?language=en",
+      "source_url": "https://careers.un.org/jobSearchDescription/286456?language=en",
+      "source_type": "Official",
+      "source_confidence": "MEDIUM",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "UN Careers: the official posting, job opening 286456. It returned HTTP 403 to an automated reader on 2 November 2026 and could not be read",
+          "url": "https://careers.un.org/jobSearchDescription/286456?language=en",
+          "type": "Official"
+        },
+        {
+          "label": "unvacancies.org: mirror of the UN Careers notice for job opening 286456 (full notice text read 2 November 2026; shows \"Closes 4 Nov 2026\" and \"Open to all nationalities\")",
+          "url": "https://unvacancies.org/jobs/intern-data-management-and-administrative-support-R-286456",
+          "type": "Aggregator"
+        },
+        {
+          "label": "unjobnet.org: listing of the same posting, \"Closes 4 Nov 2026, 23:59 EST (UTC-5)\" (read 2 November 2026)",
+          "url": "https://www.unjobnet.org/jobs/detail/ohchr-intern-data-management-and-administrative-support-89888214",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "Reported by secondary sources: the UN Careers page itself could not be read on 2 November 2026 (HTTP 403 to automated readers); the notice text and the closing time come from two sites that reproduce the notice, so confirm them on the official page before applying",
+        "Unpaid: travel, visa, accommodation and living costs are the intern's own",
+        "Based in Yaoundé, not in the DRC",
+        "Short application window and a fixed start date of 25 November 2026"
+      ],
+      "benefits": [],
+      "action": "Open UN Careers job opening 286456 (the official page) and apply there before 4 November 2026 (New York time) if you meet the degree and English requirements and can be in Yaoundé from 25 November 2026.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-10-26",
+      "notes": "",
+      "archive_id": "ohchr-yaounde-data-management-admin-intern-2026@2026-11-04",
+      "archived_on": "2026-11-19"
+    },
+    {
+      "id": "un-habitat-abidjan-programme-management-intern-2026",
+      "title": "UN-Habitat Côte d'Ivoire: Programme Management intern (Abidjan)",
+      "organization": "United Nations Human Settlements Programme (UN-Habitat), Côte d'Ivoire Country Office",
+      "overview": "A 6-month unpaid in-person internship at UN-Habitat's country office in Abidjan, supporting a coastal resilience project in Côte d'Ivoire and Ghana and the office's work on climate adaptation, slum upgrading, housing and urban policy (reports, presentations, maps, events, communication). Open to final-year bachelor's students, master's or PhD students and graduates; fluent French required; no work experience required.",
+      "category": [
+        "Internship"
+      ],
+      "audience": [
+        "university-student",
+        "postgraduate-student",
+        "recent-graduate"
+      ],
+      "country": "Côte d'Ivoire",
+      "city": "Abidjan",
+      "location_type": "Abroad in Africa",
+      "delivery_mode": "In-person",
+      "program_dates": "\"Expected duration 6 Months\" (UN Careers job opening 286269); start date not stated",
+      "duration": "6 months",
+      "application_deadline": "2026-11-04",
+      "deadline_utc": "2026-11-05T04:59:59Z",
+      "deadline_text": "Reported by secondary sources that reproduce the UN Careers notice (unvacancies.org and unjobnet.org, read 2 November 2026): posted 21 October 2026, \"Closes 4 Nov 2026\", 23:59 EST (UTC-5), i.e. 5 November 2026 at 04:59 UTC; work location \"In-Person, Abidjan, Côte d'Ivoire\". The official page careers.un.org (job opening 286269) could not be read.",
+      "deadline_timezone": "America/New_York",
+      "opens_on": "2026-10-21",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Unpaid",
+      "funding_details": [
+        "UN: \"Interns are not financially remunerated by the United Nations.\"",
+        "UN: \"Costs and arrangements for travel, visas, accommodation and living expenses are the responsibility of interns or their sponsoring institutions.\"",
+        "UN: \"The United Nations does not charge a fee at any stage of the recruitment process.\""
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not covered",
+        "flight": "Not covered",
+        "accommodation": "Not covered",
+        "meals": "Not covered",
+        "visa": "Not covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "No fee stated",
+      "stipend": "None",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "None required",
+      "experience_requirement": "\"Applicants to the UN Internship Programme are not required to have professional work experience. However, a field of study that is closely related to the type of internship that you are applying for is required.\"",
+      "education_requirement": "Enrolled in a graduate programme, or in the final year of a first university degree (minimum bachelor's), or graduated with a bachelor's, master's, PhD or equivalent; preferred fields: urban planning, town planning, architecture, geography or related",
+      "nationality_requirements": [],
+      "drc_eligible": "Yes",
+      "language_requirement": "\"For this internship position, fluency in oral and written French is required. Knowledge of another UN language is desirable.\"",
+      "eligibility": [
+        "Final-year bachelor's student, master's or PhD student, or holder of a bachelor's, master's or PhD",
+        "Field of study related to urban development (urban/town planning, architecture, geography or related)",
+        "Knowledge of urban development themes required; GIS (QGIS, ArcGIS) desirable",
+        "Fluent oral and written French",
+        "Computer literate in Microsoft Office",
+        "Interns who are not citizens or permanent residents of Côte d'Ivoire may need a visa and work authorisation"
+      ],
+      "other_requirements": [],
+      "documents_required": [
+        "Proof of the degree or enrolment criterion met (an official certificate is requested at a later stage)"
+      ],
+      "application_process": [
+        "Apply through UN Careers / Inspira for job opening 286269 before 4 November 2026 (New York time), stating which eligibility criterion you meet and attaching proof"
+      ],
+      "official_application_url": "https://careers.un.org/jobSearchDescription/286269?language=en",
+      "official_information_url": "https://careers.un.org/jobSearchDescription/286269?language=en",
+      "source_url": "https://careers.un.org/jobSearchDescription/286269?language=en",
+      "source_type": "Official",
+      "source_confidence": "MEDIUM",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "UN Careers: the official posting, job opening 286269. It returned HTTP 403 to an automated reader on 2 November 2026 and could not be read",
+          "url": "https://careers.un.org/jobSearchDescription/286269?language=en",
+          "type": "Official"
+        },
+        {
+          "label": "unvacancies.org: mirror of the UN Careers notice for job opening 286269 (full notice text read 2 November 2026; shows \"Closes 4 Nov 2026\", \"6 Months\" and \"Open to all nationalities\")",
+          "url": "https://unvacancies.org/jobs/programme-management-intern-t-286269",
+          "type": "Aggregator"
+        },
+        {
+          "label": "unjobnet.org: listing of the same posting, \"Closes 4 Nov 2026, 23:59 EST (UTC-5)\" (read 2 November 2026)",
+          "url": "https://www.unjobnet.org/jobs/detail/unhabitat-programme-management-intern-89917444",
+          "type": "Aggregator"
+        }
+      ],
+      "potential_issues": [
+        "Reported by secondary sources: the UN Careers page itself could not be read on 2 November 2026 (HTTP 403 to automated readers); the notice text and the closing time come from two sites that reproduce the notice, so confirm them on the official page before applying",
+        "Unpaid: travel, visa, accommodation and living costs are the intern's own",
+        "Based in Abidjan, not in the DRC",
+        "Six months expected; start date not stated on the posting"
+      ],
+      "benefits": [],
+      "action": "Open UN Careers job opening 286269 (the official page) and apply there before 4 November 2026 (New York time) if you meet the degree, field-of-study and French requirements.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-10-26",
+      "notes": "",
+      "archive_id": "un-habitat-abidjan-programme-management-intern-2026@2026-11-04",
+      "archived_on": "2026-11-19"
     }
   ]
 }
