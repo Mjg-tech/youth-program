@@ -2,6 +2,22 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-20",
+      "id": "global-leadership-challenge-2026",
+      "title": "Global Leadership Challenge 2026",
+      "field": "(cycle closed)",
+      "old": "2026-11-05",
+      "new": "rolled to next cycle"
+    },
+    {
+      "date": "2026-11-20",
+      "id": "unfpa-equatorial-guinea-secretariat-support-intern-2026",
+      "title": "UNFPA Equatorial Guinea: Secretariat Support Intern (Malabo)",
+      "field": "(archived)",
+      "old": "2026-11-05",
+      "new": "archive"
+    },
+    {
       "date": "2026-11-19",
       "id": "ohchr-yaounde-data-management-admin-intern-2026",
       "title": "OHCHR Regional Hub for Central and West Africa: Data Management and Administrative Support intern (Yaoundé)",
@@ -4560,22 +4576,6 @@
       "date": "2026-10-05",
       "id": "european-forum-alpbach-scholarships",
       "title": "European Forum Alpbach scholarship programme",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "rlc-east-africa",
-      "title": "Regional Leadership Center East Africa (formerly YALI RLC East Africa)",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "world-forum-for-democracy-youth-delegation",
-      "title": "World Forum for Democracy: Youth Delegation",
       "field": "(new record)",
       "old": null,
       "new": "added"

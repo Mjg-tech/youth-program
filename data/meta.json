@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-19T14:40:10Z",
+  "last_refresh": "2026-11-20T14:20:00Z",
   "counts": {
-    "total": 82,
-    "archived": 21,
+    "total": 81,
+    "archived": 23,
     "by_status": {
       "OPEN": 16,
-      "CLOSING SOON": 11,
-      "UPCOMING": 29,
+      "CLOSING SOON": 9,
+      "UPCOMING": 30,
       "DEADLINE PASSED": 13,
       "ROLLING": 5,
       "DATE UNKNOWN": 8
@@ -22,11 +22,11 @@
       "Free": 8,
       "Unpaid": 3,
       "Self Funded": 0,
-      "Funding Unclear": 44
+      "Funding Unclear": 43
     },
     "by_verification": {
-      "VERIFIED": 38,
-      "PARTIALLY VERIFIED": 35,
+      "VERIFIED": 36,
+      "PARTIALLY VERIFIED": 36,
       "NEEDS VERIFICATION": 9
     },
     "in_kinshasa": 17,
@@ -45,22 +45,19 @@
       "ned-hurford-youth-fellows-2027",
       "wff-youth-policy-board-2027-2028"
     ],
-    "7": [
-      "gtf-telemachus-athena-mentoring-2027"
-    ],
+    "7": [],
     "3": [
-      "global-solvers-accelerator-2027"
+      "global-solvers-accelerator-2027",
+      "gtf-telemachus-athena-mentoring-2027"
     ],
     "1": [
       "nrc-logistics-intern-goma-2026",
-      "sir-cyril-taylor-young-african-leaders-2027",
-      "undp-rome-centre-climate-energy-intern-2026",
       "youth-global-forum-2027-paris"
     ]
   },
   "watch": {
-    "checked": 70,
-    "ok": 66,
+    "checked": 69,
+    "ok": 65,
     "blocked_or_unreachable": 4,
     "dead": 0
   },

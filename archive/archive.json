@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -2354,6 +2354,238 @@
       "notes": "",
       "archive_id": "un-habitat-abidjan-programme-management-intern-2026@2026-11-04",
       "archived_on": "2026-11-19"
+    },
+    {
+      "id": "global-leadership-challenge-2026",
+      "title": "Global Leadership Challenge 2026",
+      "organization": "Global Leadership Challenge (with the St. Gallen Symposium)",
+      "overview": "Five half-days in December 2026 in which 100 selected young leaders work in teams on real challenges set by partner organisations. The three best teams are invited to the St. Gallen Symposium in Switzerland in April 2027, all expenses covered.",
+      "category": [
+        "Leadership",
+        "Summit or Event"
+      ],
+      "audience": [
+        "young-professional",
+        "recent-graduate"
+      ],
+      "country": "Switzerland",
+      "city": "St. Gallen (for the winning teams)",
+      "location_type": "Multiple locations",
+      "delivery_mode": "Hybrid",
+      "program_dates": "Challenge: 10-14 December 2026 (around five half-days). Winners: 56th St. Gallen Symposium, April 2027.",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-11-05",
+      "deadline_utc": "",
+      "deadline_text": "Application Opens: 29 September 2026. Application Closes: 5 November 2026. GLC 2026: 10-14 December 2026. On 9 November 2026 the official site showed \"Applications are Closed!\" and \"Results will be communicated via Email by 9 November 2026\" (leadership-challenge.org and /applynow, read 9 November 2026). No time or time zone was stated for the deadline.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "2026-09-29",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Travel Funded",
+      "funding_details": [
+        "The four winning teams attend the 56th St. Gallen Symposium in April 2027 as Leaders of Tomorrow: 'their expenses for travel and accommodation will be fully covered' (the page said three winning teams on 26 October 2026 and says four on 2 November 2026)",
+        "Nothing on the pages read mentions a fee for taking part in the challenge itself"
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Covered",
+        "accommodation": "Covered",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": true,
+      "flight_funded": true,
+      "accommodation_funded": true,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "age_min": 21,
+      "age_max": 30,
+      "age_requirement": "21 to 30 for young professionals",
+      "experience_level": "Not stated",
+      "experience_requirement": "Unknown / Not specified",
+      "education_requirement": "Finished undergraduate studies; students must be enrolled in a Master's or PhD programme",
+      "nationality_requirements": [
+        "No nationality restriction stated; the 2025 edition had participants from more than 80 countries"
+      ],
+      "drc_eligible": "Unclear",
+      "language_requirement": "Unknown / Not specified",
+      "eligibility": [
+        "A student currently enrolled in a Master's or PhD programme, or a young professional aged between 21 and 30",
+        "Has finished undergraduate studies",
+        "Demonstrated commitment to responsible leadership through extra-curricular activities and/or work experience",
+        "Available for around five half-days from 10 to 14 December 2026; GLC Members can participate virtually from around the world"
+      ],
+      "other_requirements": [],
+      "documents_required": [
+        "CV (PDF)",
+        "Recent portrait picture (JPEG or PNG)",
+        "Proof of enrolment (PDF, students only)"
+      ],
+      "application_process": [
+        "Apply on the official site before 5 November 2026 (rolling review)",
+        "Upload the documents requested in the form"
+      ],
+      "official_application_url": "https://www.leadership-challenge.org/applynow",
+      "official_information_url": "https://www.leadership-challenge.org/",
+      "source_url": "https://www.leadership-challenge.org/applynow",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Apply now (\"Applications are Closed\", read 9 November 2026)",
+          "url": "https://www.leadership-challenge.org/applynow",
+          "type": "Official"
+        },
+        {
+          "label": "About GLC",
+          "url": "https://www.leadership-challenge.org/about-glc",
+          "type": "Official"
+        },
+        {
+          "label": "Global Leadership Challenge home page (read 9 November 2026)",
+          "url": "https://www.leadership-challenge.org/",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "Only the four winning teams travel; the other participants take part in the challenge without a funded trip",
+        "The number of winning teams with a funded trip changed on the apply page from three (26 October 2026) to four (2 November 2026)",
+        "Applications are reviewed on a rolling basis before the 5 November deadline",
+        "A Schengen visa would be needed for Switzerland if selected for the Symposium",
+        "The apply page (read 2 November 2026) still shows a leftover line \"Application opens soon\" above a timeline that says applications opened on 29 September 2026"
+      ],
+      "benefits": [
+        "Work on real challenges from partner organisations",
+        "Senior advisers and a 100-person international cohort",
+        "Chance of a funded trip to the St. Gallen Symposium"
+      ],
+      "action": "Applications closed on 5 November 2026 and results are sent by email; watch leadership-challenge.org for the next edition.",
+      "last_verified": "2026-11-09",
+      "date_discovered": "2026-10-02",
+      "notes": "",
+      "match_keywords": [
+        "global leadership challenge"
+      ],
+      "archive_id": "global-leadership-challenge-2026@2026-11-05",
+      "archived_on": "2026-11-20"
+    },
+    {
+      "id": "unfpa-equatorial-guinea-secretariat-support-intern-2026",
+      "title": "UNFPA Equatorial Guinea: Secretariat Support Intern (Malabo)",
+      "organization": "United Nations Population Fund (UNFPA), Equatorial Guinea Country Office",
+      "overview": "A part-time internship in the Representative's Office of UNFPA in Malabo: organising meetings, correspondence and filing, records, calls and visitors, and logistics for events. Open to students, recent graduates and people in second-level vocational training in administration or related fields. Fluent Spanish is required; English or French is an asset.",
+      "category": [
+        "Internship"
+      ],
+      "audience": [
+        "university-student",
+        "postgraduate-student",
+        "recent-graduate"
+      ],
+      "country": "Equatorial Guinea",
+      "city": "Malabo",
+      "location_type": "Abroad in Africa",
+      "delivery_mode": "In-person",
+      "program_dates": "Unknown / Not specified",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-11-05",
+      "deadline_utc": "2026-11-05T14:18:00Z",
+      "deadline_text": "Posted 29 October 2026; the posting ends 5 November 2026 at 14:18 UTC (UNFPA careers data for job 37759, read 2 November 2026).",
+      "deadline_timezone": "UTC",
+      "opens_on": "2026-10-29",
+      "open_now": false,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "UNFPA, under 'Compensation and Benefits': \"This position offers an attractive remuneration package including a competitive net salary plus health insurance and other benefits as applicable.\" No amount is stated and the posting has no paragraph on an intern stipend, so whether this internship is paid is unclear.",
+        "UNFPA: \"UNFPA does not charge any application, processing, training, interviewing, testing or other fee in connection with the application or recruitment process\"."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "No fee stated",
+      "stipend": "Unclear: the posting mentions 'a competitive net salary' but gives no amount",
+      "age_min": null,
+      "age_max": null,
+      "age_requirement": "Unknown / Not specified",
+      "experience_level": "None required",
+      "experience_requirement": "\"Some experience in administrative support, customer service, records management, event organization or volunteering is desirable\"; a good command of Microsoft Word, Excel, PowerPoint and email/calendar tools is required",
+      "education_requirement": "Enrolled in a first university degree (one full academic year completed) or a postgraduate degree, or recently graduated and able to start within one year of graduation, or enrolled in or recently completed a recognised second-level vocational training programme in administration, secretarial studies, executive assistance, office management or a related field",
+      "nationality_requirements": [
+        "No nationality condition stated"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "\"Be fluent in written and spoken Spanish. Working knowledge of English or French is an asset\"",
+      "eligibility": [
+        "University student (first degree with one full academic year completed, or postgraduate), recent graduate, or second-level vocational trainee in a related field",
+        "Fluent written and spoken Spanish; English or French an asset",
+        "Good command of Microsoft Word, Excel, PowerPoint and email/calendar tools",
+        "Interest in international development and in UNFPA's mandate"
+      ],
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Apply to job 37759 on UNFPA's careers site before the posting ends"
+      ],
+      "official_application_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37759",
+      "official_information_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37759",
+      "source_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37759",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "UNFPA careers: Equatorial Guinea-Secretariat Support Intern (posting 37759); text and dates read 2 November 2026 from UNFPA's own careers data for the posting",
+          "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/37759",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "Fluent Spanish is required, and the post is in Malabo, not in the DRC",
+        "Short window: the posting ends on 5 November 2026",
+        "The 'Compensation and Benefits' paragraph mentions a salary, but no amount or stipend rule is given for this internship",
+        "Duration and start date are not stated",
+        "The posting says selection may depend on visa issuance"
+      ],
+      "benefits": [],
+      "action": "Read UNFPA job 37759 and apply on UNFPA's careers site before 5 November 2026 (14:18 UTC) if you are fluent in Spanish and can be in Malabo.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": "",
+      "archive_id": "unfpa-equatorial-guinea-secretariat-support-intern-2026@2026-11-05",
+      "archived_on": "2026-11-20"
     }
   ]
 }
