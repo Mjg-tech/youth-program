@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-20T14:20:00Z",
+  "last_refresh": "2026-11-21T13:41:28Z",
   "counts": {
     "total": 81,
-    "archived": 23,
+    "archived": 24,
     "by_status": {
-      "OPEN": 16,
-      "CLOSING SOON": 9,
+      "OPEN": 17,
+      "CLOSING SOON": 7,
       "UPCOMING": 30,
-      "DEADLINE PASSED": 13,
+      "DEADLINE PASSED": 14,
       "ROLLING": 5,
       "DATE UNKNOWN": 8
     },
@@ -25,8 +25,8 @@
       "Funding Unclear": 43
     },
     "by_verification": {
-      "VERIFIED": 36,
-      "PARTIALLY VERIFIED": 36,
+      "VERIFIED": 35,
+      "PARTIALLY VERIFIED": 37,
       "NEEDS VERIFICATION": 9
     },
     "in_kinshasa": 17,
@@ -47,12 +47,10 @@
     ],
     "7": [],
     "3": [
-      "global-solvers-accelerator-2027",
       "gtf-telemachus-athena-mentoring-2027"
     ],
     "1": [
-      "nrc-logistics-intern-goma-2026",
-      "youth-global-forum-2027-paris"
+      "global-solvers-accelerator-2027"
     ]
   },
   "watch": {
@@ -102,6 +100,12 @@
       "id": "anzisha-fellowship-2027",
       "type": "source_changed",
       "since": "2026-11-18",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "youth-global-forum-2027-paris",
+      "type": "source_changed",
+      "since": "2026-11-21",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {

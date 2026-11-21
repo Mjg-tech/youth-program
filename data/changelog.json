@@ -2,6 +2,14 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-21",
+      "id": "wipo-ip-moot-court-competition-2027",
+      "title": "WIPO IP Moot Court Competition 2027",
+      "field": "(cycle closed)",
+      "old": "2026-11-06",
+      "new": "rolled to next cycle"
+    },
+    {
       "date": "2026-11-20",
       "id": "global-leadership-challenge-2026",
       "title": "Global Leadership Challenge 2026",
@@ -4568,14 +4576,6 @@
       "date": "2026-10-05",
       "id": "icann-fellowship",
       "title": "ICANN Fellowship Program",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "european-forum-alpbach-scholarships",
-      "title": "European Forum Alpbach scholarship programme",
       "field": "(new record)",
       "old": null,
       "new": "added"
