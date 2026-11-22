@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-21T13:41:28Z",
+  "last_refresh": "2026-11-22T13:35:17Z",
   "counts": {
     "total": 81,
     "archived": 24,
@@ -46,11 +46,10 @@
       "wff-youth-policy-board-2027-2028"
     ],
     "7": [],
-    "3": [
-      "gtf-telemachus-athena-mentoring-2027"
-    ],
+    "3": [],
     "1": [
-      "global-solvers-accelerator-2027"
+      "global-solvers-accelerator-2027",
+      "gtf-telemachus-athena-mentoring-2027"
     ]
   },
   "watch": {
