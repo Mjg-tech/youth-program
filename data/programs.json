@@ -3055,7 +3055,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Partially Funded",
       "funding_details": [
         "Melton Foundation page: \"The program fee is 900 USD, which you will need to pay only if selected for the program\"; scholarships cover 20%, 50% or 80% of the fee.",
@@ -7545,17 +7545,17 @@
       "delivery_mode": "In-person",
       "program_dates": "December 19, 2026 - January 1, 2027",
       "duration": "Unknown / Not specified",
-      "application_deadline": "2026-11-08",
+      "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Submit the application online with completed and required materials by November 8, 2026 (UTC/GMT+8) (USTC International College page, read 2 November 2026; no extension mentioned)",
+      "deadline_text": "Last cycle closed on 2026-11-08. Next cycle not announced yet.",
       "deadline_timezone": "UTC+8",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "expected_next_cycle": "Recurring programme; previous cycle closed on 2026-11-08.",
+      "last_cycle_deadline": "2026-11-08",
+      "status": "UPCOMING",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "'Full Program Fee 3000 CNY. Program fee includes tuition, accommodation (twin room) and field trips. Insurance and travel expenses are NOT included.'",
@@ -7611,7 +7611,7 @@
       "source_url": "https://ic.ustc.edu.cn/?abroad=179",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "USTC International Winter Camp 2027 (read 2 November 2026)",
@@ -7636,7 +7636,7 @@
       "action": "Read the official page, then apply before 2026-11-08.",
       "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
-      "notes": "",
+      "notes": "[auto 2026-11-23] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "ustc winter camp",
         "ustc international winter camp"
@@ -9114,5 +9114,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-11-22"
+  "status_computed_on": "2026-11-23"
 }
