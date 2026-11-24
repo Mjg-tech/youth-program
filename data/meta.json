@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-23T16:26:58Z",
+  "last_refresh": "2026-11-24T16:20:59Z",
   "counts": {
     "total": 81,
     "archived": 25,
     "by_status": {
       "OPEN": 17,
-      "CLOSING SOON": 6,
+      "CLOSING SOON": 5,
       "UPCOMING": 31,
-      "DEADLINE PASSED": 14,
+      "DEADLINE PASSED": 15,
       "ROLLING": 5,
       "DATE UNKNOWN": 8
     },
@@ -39,23 +39,21 @@
       "internet-society-fellowship-2027"
     ],
     "14": [
-      "jim-leech-mastercard-foundation-fellowship-2027",
       "mcw-global-young-leaders-fellowship-2027"
     ],
     "7": [
       "alu-mastercard-foundation-scholars-january-2027",
+      "jim-leech-mastercard-foundation-fellowship-2027",
       "ned-hurford-youth-fellows-2027",
       "wff-youth-policy-board-2027-2028"
     ],
     "3": [],
-    "1": [
-      "gtf-telemachus-athena-mentoring-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 69,
-    "ok": 64,
-    "blocked_or_unreachable": 5,
+    "ok": 65,
+    "blocked_or_unreachable": 4,
     "dead": 0
   },
   "flags": [
@@ -99,6 +97,12 @@
       "id": "anzisha-fellowship-2027",
       "type": "source_changed",
       "since": "2026-11-18",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "unearthodox-exploration-co-lab-2027",
+      "type": "source_changed",
+      "since": "2026-11-24",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
