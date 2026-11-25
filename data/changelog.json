@@ -2,6 +2,22 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-25",
+      "id": "anzisha-fellowship-2027",
+      "title": "Anzisha Fellowship 2027",
+      "field": "(archived)",
+      "old": "2026-11-10",
+      "new": "archive"
+    },
+    {
+      "date": "2026-11-25",
+      "id": "undp-effective-development-cooperation-intern-2026",
+      "title": "UNDP: Intern, Effective Development Cooperation (Geneva or home-based), 2 positions",
+      "field": "(archived)",
+      "old": "2026-11-10",
+      "new": "archive"
+    },
+    {
       "date": "2026-11-23",
       "id": "ustc-international-winter-camp-2027",
       "title": "USTC International Winter Camp 2027",
@@ -4560,22 +4576,6 @@
       "date": "2026-10-05",
       "id": "internet-society-fellowship-2027",
       "title": "Internet Society Fellowship Program 2027",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "tony-elumelu-entrepreneurship-programme-2027",
-      "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "jim-leech-mastercard-foundation-fellowship-2027",
-      "title": "Jim Leech Mastercard Foundation Fellowship on Entrepreneurship",
       "field": "(new record)",
       "old": null,
       "new": "added"

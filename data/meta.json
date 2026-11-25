@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-24T16:20:59Z",
+  "last_refresh": "2026-11-25T16:01:14Z",
   "counts": {
-    "total": 81,
-    "archived": 25,
+    "total": 79,
+    "archived": 27,
     "by_status": {
       "OPEN": 17,
       "CLOSING SOON": 5,
       "UPCOMING": 31,
-      "DEADLINE PASSED": 15,
+      "DEADLINE PASSED": 13,
       "ROLLING": 5,
       "DATE UNKNOWN": 8
     },
@@ -16,21 +16,21 @@
       "Paid": 3,
       "Fully Funded": 6,
       "Substantially Funded": 2,
-      "Partially Funded": 8,
+      "Partially Funded": 7,
       "Travel Funded": 4,
       "Participation Funded": 4,
       "Free": 8,
       "Unpaid": 3,
       "Self Funded": 0,
-      "Funding Unclear": 43
+      "Funding Unclear": 42
     },
     "by_verification": {
-      "VERIFIED": 34,
-      "PARTIALLY VERIFIED": 38,
+      "VERIFIED": 33,
+      "PARTIALLY VERIFIED": 37,
       "NEEDS VERIFICATION": 9
     },
     "in_kinshasa": 17,
-    "remote": 22,
+    "remote": 21,
     "fee_required": 5
   },
   "deadline_buckets": {
@@ -51,12 +51,18 @@
     "1": []
   },
   "watch": {
-    "checked": 69,
-    "ok": 65,
-    "blocked_or_unreachable": 4,
+    "checked": 67,
+    "ok": 62,
+    "blocked_or_unreachable": 5,
     "dead": 0
   },
   "flags": [
+    {
+      "id": "african-union-youth-volunteer-corps",
+      "type": "source_changed",
+      "since": "2026-11-25",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
     {
       "id": "aspire-leaders-program-2026-cohort-4",
       "type": "source_changed",
@@ -94,9 +100,9 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
-      "id": "anzisha-fellowship-2027",
+      "id": "african-union-commission-internship-programme-2026",
       "type": "source_changed",
-      "since": "2026-11-18",
+      "since": "2026-11-25",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
