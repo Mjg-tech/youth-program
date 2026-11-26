@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "programs": [
     {
       "id": "koica-youth-leaders-programme-2026-2027",
@@ -3057,6 +3057,131 @@
       "notes": "Office-based in Geneva or home-based.",
       "archive_id": "undp-effective-development-cooperation-intern-2026@2026-11-10",
       "archived_on": "2026-11-25"
+    },
+    {
+      "id": "dalai-lama-fellows-2027",
+      "title": "Dalai Lama Fellows Program (2027-2028)",
+      "organization": "Dalai Lama Fellows (hosted with the University of Virginia)",
+      "overview": "A one-year, largely virtual fellowship for 15-20 changemakers aged 20-36 who lead or plan a social change project in their community, with training in ethical and compassionate leadership.",
+      "category": [
+        "Fellowship",
+        "Leadership"
+      ],
+      "audience": [
+        "young-professional",
+        "graduate",
+        "university-student"
+      ],
+      "country": "Online",
+      "city": "",
+      "location_type": "Remote",
+      "delivery_mode": "Online",
+      "program_dates": "Fellowship year April 2027 to March 2028; Opening Assembly May 2027 via Zoom; Closing Assembly June 2028 (in person only if funding is secured)",
+      "duration": "Unknown / Not specified",
+      "application_deadline": "2026-11-11",
+      "deadline_utc": "2026-11-11T22:00:00Z",
+      "deadline_text": "November 11, 2026: Application deadline (applications and all accompanying materials must be submitted by 22:00 Coordinated Universal Time). Application opened October 1, 2026 (dalailamafellows.com/apply, read 9 November 2026). No extension mentioned.",
+      "deadline_timezone": "UTC",
+      "opens_on": "2026-10-01",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Participation Funded",
+      "funding_details": [
+        "'We do not offer funding for projects.'",
+        "The Fellowship page says they aim to give Fellows an in-person experience and 'cover all costs for attending the Assembly such as visa fees, travel, and lodging', but the 2027 Opening Assembly is on Zoom and the 2028 in-person Assembly depends on funding",
+        "No application fee mentioned"
+      ],
+      "coverage": {
+        "tuition": "Not applicable",
+        "stipend": "Not covered",
+        "flight": "Not applicable",
+        "accommodation": "Not applicable",
+        "meals": "Not applicable",
+        "visa": "Not applicable",
+        "insurance": "Not applicable",
+        "local_transport": "Not applicable"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "application_fee": "No fee stated",
+      "participation_fee": "None mentioned",
+      "stipend": "Unknown / Not specified",
+      "age_min": 20,
+      "age_max": 36,
+      "age_requirement": "20-36 on 1 April 2027",
+      "experience_level": "Some experience needed",
+      "experience_requirement": "At least six months of experience with the community served",
+      "education_requirement": "None",
+      "nationality_requirements": [
+        "No nationality restriction: 'changemakers from around the world'"
+      ],
+      "drc_eligible": "Yes",
+      "language_requirement": "Fluent English (no test named)",
+      "eligibility": [
+        "20 to 36 years old as of 1 April 2027",
+        "Fluency in written and spoken English",
+        "Current engagement with, or well-articulated plans for, a social change project",
+        "In-depth knowledge of the community, preferably at least one year of experience (the FAQ says at least six months)",
+        "About 12 hours per month"
+      ],
+      "other_requirements": [],
+      "documents_required": [
+        "Background and overview",
+        "Short essays",
+        "Video",
+        "CV",
+        "One recommendation letter"
+      ],
+      "application_process": [
+        "Optional information sessions: 6 Oct 14:00 UTC, 16 Oct 13:30 UTC, 28 Oct 16:00 UTC",
+        "Apply on apply.dalailamafellows.com by 11 November 2026, 22:00 UTC",
+        "Interviews January 2027; notification February 2027"
+      ],
+      "official_application_url": "http://apply.dalailamafellows.com/",
+      "official_information_url": "https://dalailamafellows.com/apply/",
+      "source_url": "https://dalailamafellows.com/apply/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Apply (read 9 November 2026)",
+          "url": "https://dalailamafellows.com/apply/",
+          "type": "Official"
+        },
+        {
+          "label": "The Fellowship (read 2 November 2026)",
+          "url": "https://dalailamafellows.com/the-fellowship/",
+          "type": "Official"
+        }
+      ],
+      "potential_issues": [
+        "Not a travel opportunity in 2027: the Opening Assembly is on Zoom",
+        "No project funding",
+        "The old domain dalailamafellows.org redirects to an unrelated site; use dalailamafellows.com only"
+      ],
+      "benefits": [
+        "Year-long leadership and ethics curriculum",
+        "Global cohort and mentoring"
+      ],
+      "action": "Read the official page, then apply before 2026-11-11.",
+      "last_verified": "2026-11-09",
+      "date_discovered": "2026-10-05",
+      "notes": "",
+      "match_keywords": [
+        "dalai lama fellows"
+      ],
+      "archive_id": "dalai-lama-fellows-2027@2026-11-11",
+      "archived_on": "2026-11-26"
     }
   ]
 }

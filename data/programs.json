@@ -1509,17 +1509,17 @@
       "delivery_mode": "Online",
       "program_dates": "Fellowship year April 2027 to March 2028; Opening Assembly May 2027 via Zoom; Closing Assembly June 2028 (in person only if funding is secured)",
       "duration": "Unknown / Not specified",
-      "application_deadline": "2026-11-11",
-      "deadline_utc": "2026-11-11T22:00:00Z",
-      "deadline_text": "November 11, 2026: Application deadline (applications and all accompanying materials must be submitted by 22:00 Coordinated Universal Time). Application opened October 1, 2026 (dalailamafellows.com/apply, read 9 November 2026). No extension mentioned.",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "Last cycle closed on 2026-11-11. Next cycle not announced yet.",
       "deadline_timezone": "UTC",
-      "opens_on": "2026-10-01",
+      "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "expected_next_cycle": "Recurring programme; previous cycle closed on 2026-11-11.",
+      "last_cycle_deadline": "2026-11-11",
+      "status": "UPCOMING",
       "funding_type": "Participation Funded",
       "funding_details": [
         "'We do not offer funding for projects.'",
@@ -1582,7 +1582,7 @@
       "source_url": "https://dalailamafellows.com/apply/",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "Apply (read 9 November 2026)",
@@ -1607,7 +1607,7 @@
       "action": "Read the official page, then apply before 2026-11-11.",
       "last_verified": "2026-11-09",
       "date_discovered": "2026-10-05",
-      "notes": "",
+      "notes": "[auto 2026-11-26] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "dalai lama fellows"
       ]
@@ -8896,5 +8896,5 @@
       "notes": ""
     }
   ],
-  "status_computed_on": "2026-11-25"
+  "status_computed_on": "2026-11-26"
 }

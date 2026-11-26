@@ -2,6 +2,14 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-26",
+      "id": "dalai-lama-fellows-2027",
+      "title": "Dalai Lama Fellows Program (2027-2028)",
+      "field": "(cycle closed)",
+      "old": "2026-11-11",
+      "new": "rolled to next cycle"
+    },
+    {
       "date": "2026-11-25",
       "id": "anzisha-fellowship-2027",
       "title": "Anzisha Fellowship 2027",
@@ -4568,14 +4576,6 @@
       "date": "2026-10-05",
       "id": "one-young-world-leading-scholarship-2026",
       "title": "One Young World Leading Scholarship 2026",
-      "field": "(new record)",
-      "old": null,
-      "new": "added"
-    },
-    {
-      "date": "2026-10-05",
-      "id": "internet-society-fellowship-2027",
-      "title": "Internet Society Fellowship Program 2027",
       "field": "(new record)",
       "old": null,
       "new": "added"
