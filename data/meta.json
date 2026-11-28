@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-27T15:33:30Z",
+  "last_refresh": "2026-11-28T14:29:49Z",
   "counts": {
     "total": 79,
     "archived": 28,
@@ -40,11 +40,11 @@
     ],
     "14": [],
     "7": [
-      "jim-leech-mastercard-foundation-fellowship-2027",
       "mcw-global-young-leaders-fellowship-2027"
     ],
     "3": [
       "alu-mastercard-foundation-scholars-january-2027",
+      "jim-leech-mastercard-foundation-fellowship-2027",
       "ned-hurford-youth-fellows-2027",
       "wff-youth-policy-board-2027-2028"
     ],
@@ -52,8 +52,8 @@
   },
   "watch": {
     "checked": 67,
-    "ok": 62,
-    "blocked_or_unreachable": 5,
+    "ok": 63,
+    "blocked_or_unreachable": 4,
     "dead": 0
   },
   "flags": [
